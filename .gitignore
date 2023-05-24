@@ -1,0 +1,37 @@
+
+.*
+!.gitkeep
+!.gitignore
+!.vscode/
+tags
+
+*~
+*.back
+# patch command backup file
+*.rej
+*.orig
+
+# cash
+*~
+
+# tmporary
+tmp*/
+temp*/
+gabage*/
+work*/
+log*/
+object*/
+
+# doxygen
+doxygen/
+
+*.txt
+
+#
+*.zip
+dist*
+
+#
+node_modules/
+package-lock.json
+
