@@ -17,8 +17,24 @@ Other: Clause-2 BSD License
 - StableDiffusionページの検出・ロード待ち処理の改善
 - StableDiffusion以外のページのprompt(novelai, civitai 等)への対応
 
-# Build
-`npm run release`
+# Develop
+
+## セットアップ手順
+Ubuntu環境で以下のコマンドを実行。
+```
+sudo apt install npm
+npm install
+```
+
+## Build
+以下のコマンドを実行。
+```
+npm run release
+```
+
+## 辞書データの生成
+生成済みの辞書データが予めソースコードに含まれているのでBuildには不要。  
+
 
 # Contact
 mail: [michinari.nukazawa@gmail.com][mailto]  
