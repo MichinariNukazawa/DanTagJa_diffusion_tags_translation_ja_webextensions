@@ -17,6 +17,9 @@ Other: Clause-2 BSD License
 - StableDiffusionページの検出・ロード待ち処理の改善
 - StableDiffusion以外のページのprompt(novelai, civitai 等)への対応
 
+# Build
+`npm run release`
+
 # Contact
 mail: [michinari.nukazawa@gmail.com][mailto]  
 twitter: [@MNukazawa][twitter]  

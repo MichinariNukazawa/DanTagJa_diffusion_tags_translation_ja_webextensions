@@ -3,7 +3,7 @@
   "name": "dantagja",
   "description": "Tags translation to japanese, for on browser.",
   "homepage_url": "https://github.com/MichinariNukazawa/dantagja_webextension/tree/master/",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "icons": {
     "48": "icons/icon128.png"
   },
