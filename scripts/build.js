@@ -10,10 +10,7 @@ const distDirChrome = path.join(__dirname, '..', 'dist.chrome');
 async function copyFiles(srcDir, distDir) {
   try {
     await fs.emptyDir(distDir);
-    await fs.copy(srcDir, distDir);
-    await fs.remove(path.join(distDir, 'icons/icon128.xcf'));
-    await fs.remove(path.join(distDir, 'manifest.chrome.json'));
-    await fs.remove(path.join(distDir, 'manifest.firefox.json'));
+    await fs.copy(path.join(srcDir, 'icons/icon128.png'), path.join(distDir, 'icons/icon128.png'));
     console.log(`Files copied to ${distDir}`);
   } catch (err) {
     console.error('Error copying files:', err);
@@ -47,9 +44,7 @@ function watchFiles() {
 async function buildFirefox() {
   await copyFiles(srcDir, distDirFirefox);
   // Firefox向けの特定の処理を行う場合は、ここに追加の処理を記述する
-  const manifestPath = path.join(srcDir, 'manifest.firefox.json');
-  const manifestDistPath = path.join(distDirFirefox, 'manifest.json');
-  await fs.copy(manifestPath, manifestDistPath);
+  await fs.copy(path.join(srcDir, 'manifest.firefox.json'), path.join(distDirFirefox, 'manifest.json'));
   console.log('Firefox build completed');
 }
 
@@ -57,9 +52,8 @@ async function buildFirefox() {
 async function buildChrome() {
   await copyFiles(srcDir, distDirChrome);
   // Chrome向けの特定の処理を行う場合は、ここに追加の処理を記述する
-  const manifestPath = path.join(srcDir, 'manifest.chrome.json');
-  const manifestDistPath = path.join(distDirChrome, 'manifest.json');
-  await fs.copy(manifestPath, manifestDistPath);
+  await fs.copy(path.join(srcDir, 'manifest.chrome.json'), path.join(distDirChrome, 'manifest.json'));
+  await fs.copy(path.join(srcDir, 'background.js'), path.join(distDirChrome, 'background.js'));
   runBrowserify();
   console.log('Chrome build completed');
 }

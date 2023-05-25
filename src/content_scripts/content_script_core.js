@@ -4,11 +4,13 @@ import { sd_extend_init } from './sd_extend.js';
 
 // node inserting, ja translated text nodes
 const insertJaNodeDanbooruTag = (dictionary, node) => {
-	if('IMG' === node.nodeName) return false;
-	if('SOURCE' === node.nodeName) return false;
-	if('SVG' === node.nodeName) return false;
-	if('PICTURE' === node.nodeName) return false;
-	if('ARTICLE' === node.nodeName) return false;
+	//if('IMG' === node.nodeName) return false;
+	//if('SOURCE' === node.nodeName) return false;
+	//if('SVG' === node.nodeName) return false;
+	//if('PICTURE' === node.nodeName) return false;
+	//if('ARTICLE' === node.nodeName) return false;
+
+	if('A' !== node.nodeName) return false;
 
 	let content = node.textContent;
 

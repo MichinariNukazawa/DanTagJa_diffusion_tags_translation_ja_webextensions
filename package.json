@@ -8,7 +8,7 @@
   },
   "scripts": {
     "watch": "node scripts/build.js --watch",
-    "browserify": "browserify -p esmify ./src/dictionary_loader.js ./src/dictionary.js src/sd_extend.js src/content_script_core.js -o dist.chrome/content_script.js",
+    "browserify": "browserify -p esmify src/content_scripts/*.js -o dist.chrome/content_script.js && cp dist.chrome/content_script.js dist.firefox/",
     "release-chrome": "node scripts/archive.js dist.chrome/ dantagja_webextensions_chrome.zip",
     "release-firefox": "node scripts/archive.js dist.firefox/ dantagja_webextensions_firefox.zip",
     "release": "node scripts/build.js && npm run release-chrome && npm run release-firefox",

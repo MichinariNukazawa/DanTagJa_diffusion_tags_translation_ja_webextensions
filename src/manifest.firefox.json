@@ -11,7 +11,7 @@
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
-      "js": ["./dictionary_loader.js", "./dictionary.js", "./sd_extend.js", "./content_script_core.js"]
+      "js": ["./content_script.js"]
     }
   ]
 }

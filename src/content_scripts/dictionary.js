@@ -7,9 +7,9 @@ function dictionary_normalizing_key(word){
     return word.toLowerCase().replace(/[-_]/, ' ');
 }
 
-export default class dictionary {
+export default class Dictionary {
 
-    constructor(name) {
+    constructor() {
         const array = dictionary_loader();
         this.dictionary_data = array.reduce(
             (a,x) => {
