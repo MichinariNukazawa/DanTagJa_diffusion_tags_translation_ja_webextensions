@@ -16,20 +16,18 @@ chrome.action.onClicked.addListener((tab) => {
 });
 
 chrome.tabs.onActivated.addListener(({ tabId }) => {
-	chrome.tabs.onActivated.addListener(({ tabId }) => {
-		chrome.webNavigation.getFrame({ tabId, frameId: 0 }, (details) => {
-			if (details && details.errorOccurred) {
-				console.log('Error page is displayed');
-				// エラーページの表示が検出された場合の処理をここに追加する
-			} else {
+	chrome.webNavigation.getFrame({ tabId, frameId: 0 }, (details) => {
+		if (details && details.errorOccurred) {
+			console.log('Error page is displayed');
+			// エラーページの表示が検出された場合の処理をここに追加する
+		} else {
 
-				chrome.tabs.get(tabId, (tab) => {
-					if(!tab){console.warn('aa');}
-					insertContentScript(tab);
-				});
-			
-			}
-		});
+			chrome.tabs.get(tabId, (tab) => {
+				if(!tab){console.warn('aa');}
+				insertContentScript(tab);
+			});
+		
+		}
 	});
 });
 

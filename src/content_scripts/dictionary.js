@@ -37,19 +37,20 @@ export default class Dictionary {
     // できるだけ日本語なrelated_tagを返す
     queryTryJaFromRelatedTags(related_tags){
         if(0 === related_tags.length) return undefined;
-
-        const regexEn = /^[A-Za-z0-9]+$/;
-        const rts0 = related_tags.filter( (rt) => (! regexEn.test(rt)) );
-
-        const rts1 = rts0.filter( (rt) => this.isChinese(rt) );
-
-        if(0 !== rts1.length){
-            return rts1[0];
-        }
-        if(0 !== rts0.length){
-            return rts0[0];
-        }
         return related_tags[0];
+
+//        const regexEn = /^[A-Za-z0-9]+$/;
+//        const rts0 = related_tags.filter( (rt) => (! regexEn.test(rt)) );
+//
+//        const rts1 = rts0.filter( (rt) => this.isChinese(rt) );
+//
+//        if(0 !== rts1.length){
+//            return rts1[0];
+//        }
+//        if(0 !== rts0.length){
+//            return rts0[0];
+//        }
+//        return related_tags[0];
     }
 
     querySimpleDanbooruTag(str){
@@ -67,6 +68,37 @@ export default class Dictionary {
         }
 
         // **そうでなかった場合、単語の分割を試す
+        return this.queryComplexSplitDanbooruTags(str);
+    }
+
+    convertKey_(key){
+        let arr = [key];
+        if(3 > key.length){
+            return arr;
+        }
+
+        if(key.endsWith('es'))
+            arr.push(key.slice(0, -2));
+        else
+            arr.push(key + 'es');
+        if(key.endsWith('s'))
+            arr.push(key.slice(0, -1));
+        else
+            arr.push(key + 's');
+        if(key.endsWith('ed')){
+            arr.push(key.slice(0, -2));
+            arr.push(key.slice(0, -1));
+        }else{
+            arr.push(key + 'ed');
+        }
+        if(key.endsWith('ing'))
+            arr.push(key.slice(0, -3));
+
+        return arr;
+    }
+
+    queryComplexSplitDanbooruTags(str){
+        const key = dictionary_normalizing_key(str);
 
         // 半角英数以外の変なものが混じっていたら、ここでチェック
         // (単語まるごとヒットした場合はともかくとする)
@@ -92,8 +124,14 @@ export default class Dictionary {
         //
         // 分割マッチの場合、結果表示にマッチした文字列が必要なので、マッチしなかった文字列は文字列を返す。
         const matches = subKeys.map( (key) => {
-            const res = this.dictionary_data[key];
-            return (res) ? res : key;
+            const keys = this.convertKey_(key);
+            for(let i = 0; i < keys.length; i++){
+                const res = this.dictionary_data[keys[i]];
+                if(res){
+                    return res;
+                }
+            }
+            return key;
         });
         // 分割queryで１つでもヒットすればマッチ・非マッチ混在で返す。
         // 全くヒットしていなければ非ヒットで返す

@@ -3,7 +3,9 @@ export function dictionary_loader(){
 return [
   {
     "tag_name": "kemonomimi mode",
-    "related_tags": []
+    "related_tags": [
+      "kemonomimi+形式"
+    ]
   },
   {
     "tag_name": "Monster girls",
@@ -85,7 +87,9 @@ return [
   },
   {
     "tag_name": "The Baron",
-    "related_tags": []
+    "related_tags": [
+      "the+男"
+    ]
   },
   {
     "tag_name": "Mimi wo Sumaseba",
@@ -185,7 +189,9 @@ return [
   },
   {
     "tag_name": "Sonic the Hedgehog",
-    "related_tags": []
+    "related_tags": [
+      "ソニック+the+ヘッジホッグ"
+    ]
   },
   {
     "tag_name": "Toriel",
@@ -213,7 +219,9 @@ return [
   },
   {
     "tag_name": "fewer digits",
-    "related_tags": []
+    "related_tags": [
+      "fewer+位"
+    ]
   },
   {
     "tag_name": "anthro",
@@ -263,7 +271,9 @@ return [
   },
   {
     "tag_name": "mirage_iii",
-    "related_tags": []
+    "related_tags": [
+      "逃げ水+iii"
+    ]
   },
   {
     "tag_name": "mirage_2000",
@@ -679,7 +689,9 @@ return [
   },
   {
     "tag_name": "katsuodori_ramjet_plane",
-    "related_tags": []
+    "related_tags": [
+      "katsuodori+ラムジェット+削"
+    ]
   },
   {
     "tag_name": "ki-15",
@@ -750,7 +762,7 @@ return [
   {
     "tag_name": "ki-201_karyuu",
     "related_tags": [
-      "Ki-201"
+      "キ201"
     ]
   },
   {
@@ -790,7 +802,7 @@ return [
   {
     "tag_name": "x-2_shinshin",
     "related_tags": [
-      "ATD-X"
+      "心神"
     ]
   },
   {
@@ -854,7 +866,7 @@ return [
   {
     "tag_name": "mig-17",
     "related_tags": [
-      "MiG-17"
+      "ミグ17"
     ]
   },
   {
@@ -864,7 +876,7 @@ return [
   {
     "tag_name": "mig-23",
     "related_tags": [
-      "MiG-23"
+      "MiG-23フロッガー"
     ]
   },
   {
@@ -930,13 +942,13 @@ return [
   {
     "tag_name": "tu-22",
     "related_tags": [
-      "Tu-22"
+      "Ту-22"
     ]
   },
   {
     "tag_name": "tu-22m",
     "related_tags": [
-      "Tu-22M"
+      "Tu-22Mバックファイア"
     ]
   },
   {
@@ -993,15 +1005,21 @@ return [
   },
   {
     "tag_name": "blackburn_buccaneer",
-    "related_tags": []
+    "related_tags": [
+      "blackburn+海賊"
+    ]
   },
   {
     "tag_name": "sopwith_camel",
-    "related_tags": []
+    "related_tags": [
+      "sopwith+駱駝"
+    ]
   },
   {
     "tag_name": "bolton-paul_defiant",
-    "related_tags": []
+    "related_tags": [
+      "bolton+paul+挑戦的"
+    ]
   },
   {
     "tag_name": "dh4",
@@ -1013,7 +1031,9 @@ return [
   },
   {
     "tag_name": "fairey_gannet",
-    "related_tags": []
+    "related_tags": [
+      "fairey+鰹鳥"
+    ]
   },
   {
     "tag_name": "hawker_harrier",
@@ -1023,7 +1043,9 @@ return [
   },
   {
     "tag_name": "hawker_hurricane",
-    "related_tags": []
+    "related_tags": [
+      "呼び込み+台風"
+    ]
   },
   {
     "tag_name": "avro_lancaster",
@@ -1055,27 +1077,39 @@ return [
   },
   {
     "tag_name": "blackburn_roc",
-    "related_tags": []
+    "related_tags": [
+      "blackburn+中華民国"
+    ]
   },
   {
     "tag_name": "hawker_sea_fury",
-    "related_tags": []
+    "related_tags": [
+      "呼び込み+海+狂乱"
+    ]
   },
   {
     "tag_name": "hawker_tempest",
-    "related_tags": []
+    "related_tags": [
+      "呼び込み+荒れ"
+    ]
   },
   {
     "tag_name": "hawker_typhoon",
-    "related_tags": []
+    "related_tags": [
+      "呼び込み+台風"
+    ]
   },
   {
     "tag_name": "scimitar_(airplane)",
-    "related_tags": []
+    "related_tags": [
+      "偃月刀+(airplane)"
+    ]
   },
   {
     "tag_name": "spiteful_(airplane)",
-    "related_tags": []
+    "related_tags": [
+      "陰湿+(airplane)"
+    ]
   },
   {
     "tag_name": "supermarine_spitfire",
@@ -1091,7 +1125,9 @@ return [
   },
   {
     "tag_name": "de_havilland_sea_vixen",
-    "related_tags": []
+    "related_tags": [
+      "de+havilland+海+雌の狐"
+    ]
   },
   {
     "tag_name": "gloster_sparrowhawk",
@@ -1107,11 +1143,15 @@ return [
   },
   {
     "tag_name": "tiger_moth_(airplane)",
-    "related_tags": []
+    "related_tags": [
+      "tiger+蛾+(airplane)"
+    ]
   },
   {
     "tag_name": "hawker_tornado",
-    "related_tags": []
+    "related_tags": [
+      "呼び込み+竜巻"
+    ]
   },
   {
     "tag_name": "tsr-2",
@@ -1196,7 +1236,7 @@ return [
   {
     "tag_name": "b-29_superfortress",
     "related_tags": [
-      "B-29"
+      "B-29スーパーフォートレス"
     ]
   },
   {
@@ -1266,7 +1306,7 @@ return [
   {
     "tag_name": "f-14_tomcat",
     "related_tags": [
-      "F-14"
+      "トムキャット"
     ]
   },
   {
@@ -1298,7 +1338,7 @@ return [
   {
     "tag_name": "f-22_raptor",
     "related_tags": [
-      "F-22"
+      "らぷたん"
     ]
   },
   {
@@ -1328,7 +1368,7 @@ return [
   {
     "tag_name": "f-105_thunderchief",
     "related_tags": [
-      "F-105"
+      "サンダーチーフ"
     ]
   },
   {
@@ -1345,7 +1385,9 @@ return [
   },
   {
     "tag_name": "fh_phantom",
-    "related_tags": []
+    "related_tags": [
+      "fh+化け物"
+    ]
   },
   {
     "tag_name": "f2a_buffalo",
@@ -1354,7 +1396,7 @@ return [
   {
     "tag_name": "f2y_sea_dart",
     "related_tags": [
-      "XF2Y-1"
+      "シーダート"
     ]
   },
   {
@@ -1386,7 +1428,7 @@ return [
   {
     "tag_name": "fm-2_wildcat",
     "related_tags": [
-      "FM-2"
+      "FM2ワイルドキャット"
     ]
   },
   {
@@ -1434,7 +1476,7 @@ return [
   {
     "tag_name": "p-51_mustang",
     "related_tags": [
-      "P-51"
+      "P-51マスタング"
     ]
   },
   {
@@ -1452,7 +1494,7 @@ return [
   {
     "tag_name": "p-82_twin_mustang",
     "related_tags": [
-      "P-82"
+      "P-82ツインマスタング"
     ]
   },
   {
@@ -1584,7 +1626,7 @@ return [
   {
     "tag_name": "antonov_an-225",
     "related_tags": [
-      "An-225"
+      "ムリーヤ"
     ]
   },
   {
@@ -1623,7 +1665,9 @@ return [
   },
   {
     "tag_name": "arsenal_bird",
-    "related_tags": []
+    "related_tags": [
+      "工廠+禽"
+    ]
   },
   {
     "tag_name": "curtiss_r3c-0",
@@ -1685,11 +1729,15 @@ return [
   },
   {
     "tag_name": "cathay_pacific",
-    "related_tags": []
+    "related_tags": [
+      "cathay+パシフィック"
+    ]
   },
   {
     "tag_name": "imperial_german_flying_corps",
-    "related_tags": []
+    "related_tags": [
+      "御+ジャーマン+掲揚+陣"
+    ]
   },
   {
     "tag_name": "japan_airlines",
@@ -1727,7 +1775,9 @@ return [
   },
   {
     "tag_name": "singapore_airlines",
-    "related_tags": []
+    "related_tags": [
+      "新加坡+エアライン"
+    ]
   },
   {
     "tag_name": "thunderbirds_(team)",
@@ -1735,7 +1785,9 @@ return [
   },
   {
     "tag_name": "afterburner",
-    "related_tags": []
+    "related_tags": [
+      "アフターバーナー"
+    ]
   },
   {
     "tag_name": "airbrake",
@@ -1743,27 +1795,39 @@ return [
   },
   {
     "tag_name": "airplane_interior",
-    "related_tags": []
+    "related_tags": [
+      "飛行機+奥"
+    ]
   },
   {
     "tag_name": "canards",
-    "related_tags": []
+    "related_tags": [
+      "虚報"
+    ]
   },
   {
     "tag_name": "canopy_(aircraft)",
-    "related_tags": []
+    "related_tags": [
+      "天蓋+(aircraft)"
+    ]
   },
   {
     "tag_name": "cockpit",
-    "related_tags": []
+    "related_tags": [
+      "操縦室"
+    ]
   },
   {
     "tag_name": "glass_cockpit",
-    "related_tags": []
+    "related_tags": [
+      "水飲み+操縦室"
+    ]
   },
   {
     "tag_name": "open_cockpit",
-    "related_tags": []
+    "related_tags": [
+      "開けっぴろげ+操縦室"
+    ]
   },
   {
     "tag_name": "contra-rotating_propellers",
@@ -1779,15 +1843,21 @@ return [
   },
   {
     "tag_name": "landing_gear",
-    "related_tags": []
+    "related_tags": [
+      "降着装置"
+    ]
   },
   {
     "tag_name": "pontoon",
-    "related_tags": []
+    "related_tags": [
+      "橋脚舟"
+    ]
   },
   {
     "tag_name": "propeller",
-    "related_tags": []
+    "related_tags": [
+      "推進器"
+    ]
   },
   {
     "tag_name": "88_flak",
@@ -1795,11 +1865,15 @@ return [
   },
   {
     "tag_name": "aa_gun",
-    "related_tags": []
+    "related_tags": [
+      "aa+銃"
+    ]
   },
   {
     "tag_name": "flak",
-    "related_tags": []
+    "related_tags": [
+      "対空砲火"
+    ]
   },
   {
     "tag_name": "missile",
@@ -1839,7 +1913,9 @@ return [
   },
   {
     "tag_name": "hangar",
-    "related_tags": []
+    "related_tags": [
+      "格納庫"
+    ]
   },
   {
     "tag_name": "landing",
@@ -1849,7 +1925,9 @@ return [
   },
   {
     "tag_name": "military_base",
-    "related_tags": []
+    "related_tags": [
+      "軍基地"
+    ]
   },
   {
     "tag_name": "runway",
@@ -1859,11 +1937,15 @@ return [
   },
   {
     "tag_name": "aerial_battle",
-    "related_tags": []
+    "related_tags": [
+      "架空+一戦"
+    ]
   },
   {
     "tag_name": "dogfight",
-    "related_tags": []
+    "related_tags": [
+      "空戦"
+    ]
   },
   {
     "tag_name": "gulf_war",
@@ -1955,7 +2037,9 @@ return [
   },
   {
     "tag_name": "pilot",
-    "related_tags": []
+    "related_tags": [
+      "按針"
+    ]
   },
   {
     "tag_name": "travel_attendant",
@@ -1971,11 +2055,15 @@ return [
   },
   {
     "tag_name": "flight_goggles",
-    "related_tags": []
+    "related_tags": [
+      "航続+ゴーグル"
+    ]
   },
   {
     "tag_name": "heads-up_display",
-    "related_tags": []
+    "related_tags": [
+      "髄+up+開示"
+    ]
   },
   {
     "tag_name": "oxygen_mask",
@@ -2009,11 +2097,15 @@ return [
   },
   {
     "tag_name": "gunship",
-    "related_tags": []
+    "related_tags": [
+      "ガンシップ"
+    ]
   },
   {
     "tag_name": "gyrocopter",
-    "related_tags": []
+    "related_tags": [
+      "ジャイロコプター"
+    ]
   },
   {
     "tag_name": "helicopter",
@@ -2051,11 +2143,15 @@ return [
   },
   {
     "tag_name": "tag_group:technology",
-    "related_tags": []
+    "related_tags": [
+      "下げ札+group:technology"
+    ]
   },
   {
     "tag_name": "list_of_helicopters",
-    "related_tags": []
+    "related_tags": [
+      "一覧+of+ヘリ"
+    ]
   },
   {
     "tag_name": "very short hair",
@@ -2089,11 +2185,15 @@ return [
   },
   {
     "tag_name": "absurdly long hair",
-    "related_tags": []
+    "related_tags": [
+      "無暗に+永+一髪"
+    ]
   },
   {
     "tag_name": "big hair",
-    "related_tags": []
+    "related_tags": [
+      "巨いなる+一髪"
+    ]
   },
   {
     "tag_name": "bald",
@@ -2115,11 +2215,15 @@ return [
   },
   {
     "tag_name": "inverted bob",
-    "related_tags": []
+    "related_tags": [
+      "逆さ+断髪"
+    ]
   },
   {
     "tag_name": "bowl cut",
-    "related_tags": []
+    "related_tags": [
+      "坊ちゃん刈"
+    ]
   },
   {
     "tag_name": "buzz cut",
@@ -2135,7 +2239,9 @@ return [
   },
   {
     "tag_name": "crew cut",
-    "related_tags": []
+    "related_tags": [
+      "角刈"
+    ]
   },
   {
     "tag_name": "flattop",
@@ -2189,7 +2295,9 @@ return [
   },
   {
     "tag_name": "bow-shaped hair",
-    "related_tags": []
+    "related_tags": [
+      "敬礼+影+一髪"
+    ]
   },
   {
     "tag_name": "braid",
@@ -2199,15 +2307,21 @@ return [
   },
   {
     "tag_name": "braided bangs",
-    "related_tags": []
+    "related_tags": [
+      "braided+前髪"
+    ]
   },
   {
     "tag_name": "front braid",
-    "related_tags": []
+    "related_tags": [
+      "隠れみの+真田"
+    ]
   },
   {
     "tag_name": "side braid",
-    "related_tags": []
+    "related_tags": [
+      "横っ腹+真田"
+    ]
   },
   {
     "tag_name": "french braid",
@@ -2223,31 +2337,45 @@ return [
   },
   {
     "tag_name": "single braid",
-    "related_tags": []
+    "related_tags": [
+      "(三つ編み１本)"
+    ]
   },
   {
     "tag_name": "multiple braids",
-    "related_tags": []
+    "related_tags": [
+      "多重+真田"
+    ]
   },
   {
     "tag_name": "twin braids",
-    "related_tags": []
+    "related_tags": [
+      "双子+真田"
+    ]
   },
   {
     "tag_name": "low twin braids",
-    "related_tags": []
+    "related_tags": [
+      "下劣+双子+真田"
+    ]
   },
   {
     "tag_name": "tri braids",
-    "related_tags": []
+    "related_tags": [
+      "試験済み+真田"
+    ]
   },
   {
     "tag_name": "quad braids",
-    "related_tags": []
+    "related_tags": [
+      "quad+真田"
+    ]
   },
   {
     "tag_name": "flower-shaped hair",
-    "related_tags": []
+    "related_tags": [
+      "花+影+一髪"
+    ]
   },
   {
     "tag_name": "hair bun",
@@ -2257,7 +2385,9 @@ return [
   },
   {
     "tag_name": "braided bun",
-    "related_tags": []
+    "related_tags": [
+      "braided+バン"
+    ]
   },
   {
     "tag_name": "single hair bun",
@@ -2279,15 +2409,21 @@ return [
   },
   {
     "tag_name": "doughnut hair bun",
-    "related_tags": []
+    "related_tags": [
+      "ドーナッツ+一髪+バン"
+    ]
   },
   {
     "tag_name": "heart hair bun",
-    "related_tags": []
+    "related_tags": [
+      "意気+一髪+バン"
+    ]
   },
   {
     "tag_name": "triple bun",
-    "related_tags": []
+    "related_tags": [
+      "三重+バン"
+    ]
   },
   {
     "tag_name": "hair rings",
@@ -2297,7 +2433,9 @@ return [
   },
   {
     "tag_name": "single hair ring",
-    "related_tags": []
+    "related_tags": [
+      "単+一髪+一味"
+    ]
   },
   {
     "tag_name": "half updo",
@@ -2319,11 +2457,15 @@ return [
   },
   {
     "tag_name": "low-braided long hair",
-    "related_tags": []
+    "related_tags": [
+      "下劣+braided+永+一髪"
+    ]
   },
   {
     "tag_name": "low-tied long hair",
-    "related_tags": []
+    "related_tags": [
+      "下劣+因縁+永+一髪"
+    ]
   },
   {
     "tag_name": "mizura",
@@ -2333,7 +2475,9 @@ return [
   },
   {
     "tag_name": "multi-tied hair",
-    "related_tags": []
+    "related_tags": [
+      "multi+因縁+一髪"
+    ]
   },
   {
     "tag_name": "nihongami",
@@ -2349,11 +2493,15 @@ return [
   },
   {
     "tag_name": "folded ponytail",
-    "related_tags": []
+    "related_tags": [
+      "folded+下げ髪"
+    ]
   },
   {
     "tag_name": "front ponytail",
-    "related_tags": []
+    "related_tags": [
+      "隠れみの+下げ髪"
+    ]
   },
   {
     "tag_name": "high ponytail",
@@ -2363,7 +2511,9 @@ return [
   },
   {
     "tag_name": "short ponytail",
-    "related_tags": []
+    "related_tags": [
+      "幾許もない+下げ髪"
+    ]
   },
   {
     "tag_name": "side ponytail",
@@ -2373,15 +2523,21 @@ return [
   },
   {
     "tag_name": "split ponytail",
-    "related_tags": []
+    "related_tags": [
+      "割り目+下げ髪"
+    ]
   },
   {
     "tag_name": "star-shaped hair",
-    "related_tags": []
+    "related_tags": [
+      "巨擘+影+一髪"
+    ]
   },
   {
     "tag_name": "topknot",
-    "related_tags": []
+    "related_tags": [
+      "髷"
+    ]
   },
   {
     "tag_name": "twintails",
@@ -2397,11 +2553,15 @@ return [
   },
   {
     "tag_name": "short twintails",
-    "related_tags": []
+    "related_tags": [
+      "幾許もない+twintails"
+    ]
   },
   {
     "tag_name": "uneven twintails",
-    "related_tags": []
+    "related_tags": [
+      "揃わない+twintails"
+    ]
   },
   {
     "tag_name": "tri tails",
@@ -2411,11 +2571,15 @@ return [
   },
   {
     "tag_name": "quad tails",
-    "related_tags": []
+    "related_tags": [
+      "quad+テール"
+    ]
   },
   {
     "tag_name": "quin tails",
-    "related_tags": []
+    "related_tags": [
+      "quin+テール"
+    ]
   },
   {
     "tag_name": "afro",
@@ -2425,15 +2589,21 @@ return [
   },
   {
     "tag_name": "huge afro",
-    "related_tags": []
+    "related_tags": [
+      "偉+アフロ"
+    ]
   },
   {
     "tag_name": "beehive hairdo",
-    "related_tags": []
+    "related_tags": [
+      "巣箱+結い髪"
+    ]
   },
   {
     "tag_name": "crested hair",
-    "related_tags": []
+    "related_tags": [
+      "印+一髪"
+    ]
   },
   {
     "tag_name": "pompadour",
@@ -2471,7 +2641,9 @@ return [
   },
   {
     "tag_name": "hair flaps",
-    "related_tags": []
+    "related_tags": [
+      "一髪+折り返し"
+    ]
   },
   {
     "tag_name": "messy hair",
@@ -2481,7 +2653,9 @@ return [
   },
   {
     "tag_name": "pointy hair",
-    "related_tags": []
+    "related_tags": [
+      "尖圭+一髪"
+    ]
   },
   {
     "tag_name": "ringlets",
@@ -2491,7 +2665,9 @@ return [
   },
   {
     "tag_name": "spiked hair",
-    "related_tags": []
+    "related_tags": [
+      "花穂+一髪"
+    ]
   },
   {
     "tag_name": "straight hair",
@@ -2513,11 +2689,15 @@ return [
   },
   {
     "tag_name": "asymmetrical bangs",
-    "related_tags": []
+    "related_tags": [
+      "asymmetrical+前髪"
+    ]
   },
   {
     "tag_name": "bangs pinned back",
-    "related_tags": []
+    "related_tags": [
+      "前髪+pinned+蔭"
+    ]
   },
   {
     "tag_name": "blunt bangs",
@@ -2527,15 +2707,21 @@ return [
   },
   {
     "tag_name": "crossed bangs",
-    "related_tags": []
+    "related_tags": [
+      "十字+前髪"
+    ]
   },
   {
     "tag_name": "diagonal bangs",
-    "related_tags": []
+    "related_tags": [
+      "筋違い+前髪"
+    ]
   },
   {
     "tag_name": "dyed bangs",
-    "related_tags": []
+    "related_tags": [
+      "染め粉+前髪"
+    ]
   },
   {
     "tag_name": "hair over eyes",
@@ -2563,23 +2749,33 @@ return [
   },
   {
     "tag_name": "curtained hair",
-    "related_tags": []
+    "related_tags": [
+      "引き物+一髪"
+    ]
   },
   {
     "tag_name": "ribbon bangs",
-    "related_tags": []
+    "related_tags": [
+      "リボン+前髪"
+    ]
   },
   {
     "tag_name": "short bangs",
-    "related_tags": []
+    "related_tags": [
+      "幾許もない+前髪"
+    ]
   },
   {
     "tag_name": "swept bangs",
-    "related_tags": []
+    "related_tags": [
+      "swept+前髪"
+    ]
   },
   {
     "tag_name": "hair between eyes",
-    "related_tags": []
+    "related_tags": [
+      "一髪+間+眼つき"
+    ]
   },
   {
     "tag_name": "hair intakes",
@@ -2589,7 +2785,9 @@ return [
   },
   {
     "tag_name": "single hair intake",
-    "related_tags": []
+    "related_tags": [
+      "単+一髪+吸い込み"
+    ]
   },
   {
     "tag_name": "sidelocks",
@@ -2599,23 +2797,33 @@ return [
   },
   {
     "tag_name": "asymmetrical sidelocks",
-    "related_tags": []
+    "related_tags": [
+      "asymmetrical+揉み上げ"
+    ]
   },
   {
     "tag_name": "low tied sidelocks",
-    "related_tags": []
+    "related_tags": [
+      "下劣+因縁+揉み上げ"
+    ]
   },
   {
     "tag_name": "sidelocks tied back",
-    "related_tags": []
+    "related_tags": [
+      "揉み上げ+因縁+蔭"
+    ]
   },
   {
     "tag_name": "single sidelock",
-    "related_tags": []
+    "related_tags": [
+      "単+揉み上げ"
+    ]
   },
   {
     "tag_name": "widow's peak",
-    "related_tags": []
+    "related_tags": [
+      "富士額"
+    ]
   },
   {
     "tag_name": "ahoge",
@@ -2631,7 +2839,9 @@ return [
   },
   {
     "tag_name": "huge ahoge",
-    "related_tags": []
+    "related_tags": [
+      "偉+ahoge"
+    ]
   },
   {
     "tag_name": "antenna hair",
@@ -2641,23 +2851,33 @@ return [
   },
   {
     "tag_name": "heart antenna hair",
-    "related_tags": []
+    "related_tags": [
+      "意気+角+一髪"
+    ]
   },
   {
     "tag_name": "comb over",
-    "related_tags": []
+    "related_tags": [
+      "簾頭"
+    ]
   },
   {
     "tag_name": "hair pulled back",
-    "related_tags": []
+    "related_tags": [
+      "一髪+引き+蔭"
+    ]
   },
   {
     "tag_name": "hair slicked back",
-    "related_tags": []
+    "related_tags": [
+      "一髪+艶々+蔭"
+    ]
   },
   {
     "tag_name": "mohawk",
-    "related_tags": []
+    "related_tags": [
+      "モホーク"
+    ]
   },
   {
     "tag_name": "oseledets",
@@ -2667,23 +2887,33 @@ return [
   },
   {
     "tag_name": "lone nape hair",
-    "related_tags": []
+    "related_tags": [
+      "lone+nape+一髪"
+    ]
   },
   {
     "tag_name": "hair bikini",
-    "related_tags": []
+    "related_tags": [
+      "一髪+bikini"
+    ]
   },
   {
     "tag_name": "hair in own mouth",
-    "related_tags": []
+    "related_tags": [
+      "一髪+in+自家+口"
+    ]
   },
   {
     "tag_name": "hair over shoulder",
-    "related_tags": []
+    "related_tags": [
+      "一髪+越し+肩"
+    ]
   },
   {
     "tag_name": "hair scarf",
-    "related_tags": []
+    "related_tags": [
+      "一髪+巻きもの"
+    ]
   },
   {
     "tag_name": "alternate hairstyle",
@@ -2705,7 +2935,9 @@ return [
   },
   {
     "tag_name": "asymmetrical hair",
-    "related_tags": []
+    "related_tags": [
+      "asymmetrical+一髪"
+    ]
   },
   {
     "tag_name": "sidecut",
@@ -2713,11 +2945,15 @@ return [
   },
   {
     "tag_name": "blunt ends",
-    "related_tags": []
+    "related_tags": [
+      "身も蓋もない+宛"
+    ]
   },
   {
     "tag_name": "aiming",
-    "related_tags": []
+    "related_tags": [
+      "エイム"
+    ]
   },
   {
     "tag_name": "aiming at viewer",
@@ -2727,7 +2963,9 @@ return [
   },
   {
     "tag_name": "animal milking",
-    "related_tags": []
+    "related_tags": [
+      "獣+乳しぼり"
+    ]
   },
   {
     "tag_name": "apologizing",
@@ -2735,7 +2973,9 @@ return [
   },
   {
     "tag_name": "applying makeup",
-    "related_tags": []
+    "related_tags": [
+      "成立+化粧"
+    ]
   },
   {
     "tag_name": "bathing",
@@ -2751,7 +2991,9 @@ return [
   },
   {
     "tag_name": "begging",
-    "related_tags": []
+    "related_tags": [
+      "強請"
+    ]
   },
   {
     "tag_name": "biting",
@@ -2761,27 +3003,39 @@ return [
   },
   {
     "tag_name": "ass biting",
-    "related_tags": []
+    "related_tags": [
+      "太もも+辛らつ"
+    ]
   },
   {
     "tag_name": "breast biting",
-    "related_tags": []
+    "related_tags": [
+      "胸+辛らつ"
+    ]
   },
   {
     "tag_name": "cheek biting",
-    "related_tags": []
+    "related_tags": [
+      "心臓+辛らつ"
+    ]
   },
   {
     "tag_name": "ear biting",
-    "related_tags": []
+    "related_tags": [
+      "耳+辛らつ"
+    ]
   },
   {
     "tag_name": "finger biting",
-    "related_tags": []
+    "related_tags": [
+      "一指+辛らつ"
+    ]
   },
   {
     "tag_name": "foreskin biting",
-    "related_tags": []
+    "related_tags": [
+      "陰茎包皮+辛らつ"
+    ]
   },
   {
     "tag_name": "glove biting",
@@ -2791,11 +3045,15 @@ return [
   },
   {
     "tag_name": "hand biting",
-    "related_tags": []
+    "related_tags": [
+      "一臂+辛らつ"
+    ]
   },
   {
     "tag_name": "head biting",
-    "related_tags": []
+    "related_tags": [
+      "髄+辛らつ"
+    ]
   },
   {
     "tag_name": "lip biting",
@@ -2805,31 +3063,45 @@ return [
   },
   {
     "tag_name": "nail biting",
-    "related_tags": []
+    "related_tags": [
+      "釘+辛らつ"
+    ]
   },
   {
     "tag_name": "penis biting",
-    "related_tags": []
+    "related_tags": [
+      "一物+辛らつ"
+    ]
   },
   {
     "tag_name": "tail biting",
-    "related_tags": []
+    "related_tags": [
+      "尻っぽ+辛らつ"
+    ]
   },
   {
     "tag_name": "thumb biting",
-    "related_tags": []
+    "related_tags": [
+      "親指+辛らつ"
+    ]
   },
   {
     "tag_name": "blinking",
-    "related_tags": []
+    "related_tags": [
+      "点滅"
+    ]
   },
   {
     "tag_name": "blocking",
-    "related_tags": []
+    "related_tags": [
+      "阻止"
+    ]
   },
   {
     "tag_name": "bouncing",
-    "related_tags": []
+    "related_tags": [
+      "ぷるぷる"
+    ]
   },
   {
     "tag_name": "bouncing breasts",
@@ -2845,15 +3117,21 @@ return [
   },
   {
     "tag_name": "breaking",
-    "related_tags": []
+    "related_tags": [
+      "音割れ"
+    ]
   },
   {
     "tag_name": "breathing",
-    "related_tags": []
+    "related_tags": [
+      "気息"
+    ]
   },
   {
     "tag_name": "heavy breathing",
-    "related_tags": []
+    "related_tags": [
+      "肩息"
+    ]
   },
   {
     "tag_name": "bubble blowing",
@@ -2863,15 +3141,21 @@ return [
   },
   {
     "tag_name": "bumping",
-    "related_tags": []
+    "related_tags": [
+      "突沸"
+    ]
   },
   {
     "tag_name": "catching",
-    "related_tags": []
+    "related_tags": [
+      "採捕"
+    ]
   },
   {
     "tag_name": "charging",
-    "related_tags": []
+    "related_tags": [
+      "装填"
+    ]
   },
   {
     "tag_name": "chasing",
@@ -2881,23 +3165,33 @@ return [
   },
   {
     "tag_name": "cheering",
-    "related_tags": []
+    "related_tags": [
+      "応援"
+    ]
   },
   {
     "tag_name": "cleaning",
-    "related_tags": []
+    "related_tags": [
+      "除伐"
+    ]
   },
   {
     "tag_name": "dishwashing",
-    "related_tags": []
+    "related_tags": [
+      "食器洗い"
+    ]
   },
   {
     "tag_name": "sweeping",
-    "related_tags": []
+    "related_tags": [
+      "掃引"
+    ]
   },
   {
     "tag_name": "climbing",
-    "related_tags": []
+    "related_tags": [
+      "昇り"
+    ]
   },
   {
     "tag_name": "comforting",
@@ -2917,19 +3211,27 @@ return [
   },
   {
     "tag_name": "baking",
-    "related_tags": []
+    "related_tags": [
+      "焼き付け"
+    ]
   },
   {
     "tag_name": "chocolate making",
-    "related_tags": []
+    "related_tags": [
+      "チョコ+作り"
+    ]
   },
   {
     "tag_name": "roasting",
-    "related_tags": []
+    "related_tags": [
+      "ロースト"
+    ]
   },
   {
     "tag_name": "stirring",
-    "related_tags": []
+    "related_tags": [
+      "撹拌"
+    ]
   },
   {
     "tag_name": "coughing",
@@ -2939,11 +3241,15 @@ return [
   },
   {
     "tag_name": "crushing",
-    "related_tags": []
+    "related_tags": [
+      "握りつぶし"
+    ]
   },
   {
     "tag_name": "crying",
-    "related_tags": []
+    "related_tags": [
+      "雨雫"
+    ]
   },
   {
     "tag_name": "sobbing",
@@ -2959,11 +3265,15 @@ return [
   },
   {
     "tag_name": "cupping",
-    "related_tags": []
+    "related_tags": [
+      "カッピング"
+    ]
   },
   {
     "tag_name": "cutting",
-    "related_tags": []
+    "related_tags": [
+      "開削"
+    ]
   },
   {
     "tag_name": "wrist cutting",
@@ -2985,27 +3295,39 @@ return [
   },
   {
     "tag_name": "diaper changing",
-    "related_tags": []
+    "related_tags": [
+      "御湿+移ろい"
+    ]
   },
   {
     "tag_name": "digging",
-    "related_tags": []
+    "related_tags": [
+      "開削"
+    ]
   },
   {
     "tag_name": "diving",
-    "related_tags": []
+    "related_tags": [
+      "潜り"
+    ]
   },
   {
     "tag_name": "dive",
-    "related_tags": []
+    "related_tags": [
+      "転落"
+    ]
   },
   {
     "tag_name": "dodging",
-    "related_tags": []
+    "related_tags": [
+      "肩すかし"
+    ]
   },
   {
     "tag_name": "dragging",
-    "related_tags": []
+    "related_tags": [
+      "ドラッギング"
+    ]
   },
   {
     "tag_name": "dreaming",
@@ -3021,7 +3343,9 @@ return [
   },
   {
     "tag_name": "forced dressing",
-    "related_tags": []
+    "related_tags": [
+      "強行+掛け汁"
+    ]
   },
   {
     "tag_name": "undressing",
@@ -3037,7 +3361,9 @@ return [
   },
   {
     "tag_name": "dripping",
-    "related_tags": []
+    "related_tags": [
+      "垂らし"
+    ]
   },
   {
     "tag_name": "driving",
@@ -3053,11 +3379,15 @@ return [
   },
   {
     "tag_name": "dropping",
-    "related_tags": []
+    "related_tags": [
+      "卸"
+    ]
   },
   {
     "tag_name": "drying",
-    "related_tags": []
+    "related_tags": [
+      "乾"
+    ]
   },
   {
     "tag_name": "dual wielding",
@@ -3071,7 +3401,9 @@ return [
   },
   {
     "tag_name": "triple wielding",
-    "related_tags": []
+    "related_tags": [
+      "三重+wielding"
+    ]
   },
   {
     "tag_name": "dying",
@@ -3099,23 +3431,33 @@ return [
   },
   {
     "tag_name": "swallowing",
-    "related_tags": []
+    "related_tags": [
+      "咽下"
+    ]
   },
   {
     "tag_name": "tasting",
-    "related_tags": []
+    "related_tags": [
+      "玩味"
+    ]
   },
   {
     "tag_name": "eavesdropping",
-    "related_tags": []
+    "related_tags": [
+      "盗み聞き"
+    ]
   },
   {
     "tag_name": "elbowing",
-    "related_tags": []
+    "related_tags": [
+      "屈曲部"
+    ]
   },
   {
     "tag_name": "drawing on another's face",
-    "related_tags": []
+    "related_tags": [
+      "画+on+another's+逢着"
+    ]
   },
   {
     "tag_name": "facepaint",
@@ -3143,11 +3485,15 @@ return [
   },
   {
     "tag_name": "fanning crotch",
-    "related_tags": []
+    "related_tags": [
+      "異方性度+股"
+    ]
   },
   {
     "tag_name": "fanning face",
-    "related_tags": []
+    "related_tags": [
+      "異方性度+逢着"
+    ]
   },
   {
     "tag_name": "feeding",
@@ -3157,7 +3503,9 @@ return [
   },
   {
     "tag_name": "pov feeding",
-    "related_tags": []
+    "related_tags": [
+      "pov+索餌"
+    ]
   },
   {
     "tag_name": "fidgeting",
@@ -3167,7 +3515,9 @@ return [
   },
   {
     "tag_name": "fighting",
-    "related_tags": []
+    "related_tags": [
+      "干戈"
+    ]
   },
   {
     "tag_name": "firing",
@@ -3177,19 +3527,27 @@ return [
   },
   {
     "tag_name": "flailing",
-    "related_tags": []
+    "related_tags": [
+      "じたばた"
+    ]
   },
   {
     "tag_name": "flapping",
-    "related_tags": []
+    "related_tags": [
+      "飄々"
+    ]
   },
   {
     "tag_name": "flirting",
-    "related_tags": []
+    "related_tags": [
+      "火あそび"
+    ]
   },
   {
     "tag_name": "floating",
-    "related_tags": []
+    "related_tags": [
+      "浮き"
+    ]
   },
   {
     "tag_name": "flying",
@@ -3199,11 +3557,15 @@ return [
   },
   {
     "tag_name": "watering",
-    "related_tags": []
+    "related_tags": [
+      "水まき"
+    ]
   },
   {
     "tag_name": "giving",
-    "related_tags": []
+    "related_tags": [
+      "供与"
+    ]
   },
   {
     "tag_name": "glaring",
@@ -3213,15 +3575,21 @@ return [
   },
   {
     "tag_name": "glowing",
-    "related_tags": []
+    "related_tags": [
+      "赫奕"
+    ]
   },
   {
     "tag_name": "grabbing",
-    "related_tags": []
+    "related_tags": [
+      "手づかみ"
+    ]
   },
   {
     "tag_name": "hanging",
-    "related_tags": []
+    "related_tags": [
+      "懸垂"
+    ]
   },
   {
     "tag_name": "hanged",
@@ -3231,31 +3599,45 @@ return [
   },
   {
     "tag_name": "hatching",
-    "related_tags": []
+    "related_tags": [
+      "毛羽"
+    ]
   },
   {
     "tag_name": "healing",
-    "related_tags": []
+    "related_tags": [
+      "医"
+    ]
   },
   {
     "tag_name": "hiding",
-    "related_tags": []
+    "related_tags": [
+      "陰蔽"
+    ]
   },
   {
     "tag_name": "hitting",
-    "related_tags": []
+    "related_tags": [
+      "打っ込み"
+    ]
   },
   {
     "tag_name": "holding",
-    "related_tags": []
+    "related_tags": [
+      "握把"
+    ]
   },
   {
     "tag_name": "humping",
-    "related_tags": []
+    "related_tags": [
+      "一山"
+    ]
   },
   {
     "tag_name": "dry humping",
-    "related_tags": []
+    "related_tags": [
+      "乾いた+一山"
+    ]
   },
   {
     "tag_name": "imagining",
@@ -3263,7 +3645,9 @@ return [
   },
   {
     "tag_name": "imitating",
-    "related_tags": []
+    "related_tags": [
+      "真似"
+    ]
   },
   {
     "tag_name": "juggling",
@@ -3273,7 +3657,9 @@ return [
   },
   {
     "tag_name": "hopping",
-    "related_tags": []
+    "related_tags": [
+      "ぴょんぴょん"
+    ]
   },
   {
     "tag_name": "pouncing",
@@ -3287,15 +3673,21 @@ return [
   },
   {
     "tag_name": "kneeing",
-    "related_tags": []
+    "related_tags": [
+      "膝げり"
+    ]
   },
   {
     "tag_name": "knocking",
-    "related_tags": []
+    "related_tags": [
+      "かちかち"
+    ]
   },
   {
     "tag_name": "laughing",
-    "related_tags": []
+    "related_tags": [
+      "一笑"
+    ]
   },
   {
     "tag_name": "giggling",
@@ -3303,7 +3695,9 @@ return [
   },
   {
     "tag_name": "launching",
-    "related_tags": []
+    "related_tags": [
+      "進水"
+    ]
   },
   {
     "tag_name": "leaning",
@@ -3329,11 +3723,15 @@ return [
   },
   {
     "tag_name": "licking another's cheek",
-    "related_tags": []
+    "related_tags": [
+      "舐め舐め+another's+心臓"
+    ]
   },
   {
     "tag_name": "licking cum",
-    "related_tags": []
+    "related_tags": [
+      "舐め舐め+愛液"
+    ]
   },
   {
     "tag_name": "licking ear",
@@ -3343,27 +3741,39 @@ return [
   },
   {
     "tag_name": "licking eye",
-    "related_tags": []
+    "related_tags": [
+      "舐め舐め+眼"
+    ]
   },
   {
     "tag_name": "licking another's face",
-    "related_tags": []
+    "related_tags": [
+      "舐め舐め+another's+逢着"
+    ]
   },
   {
     "tag_name": "licking finger",
-    "related_tags": []
+    "related_tags": [
+      "舐め舐め+一指"
+    ]
   },
   {
     "tag_name": "licking floor",
-    "related_tags": []
+    "related_tags": [
+      "舐め舐め+階"
+    ]
   },
   {
     "tag_name": "licking blade",
-    "related_tags": []
+    "related_tags": [
+      "舐め舐め+一刀"
+    ]
   },
   {
     "tag_name": "licking leg",
-    "related_tags": []
+    "related_tags": [
+      "舐め舐め+脚"
+    ]
   },
   {
     "tag_name": "licking navel",
@@ -3379,19 +3789,27 @@ return [
   },
   {
     "tag_name": "licking thigh",
-    "related_tags": []
+    "related_tags": [
+      "舐め舐め+股"
+    ]
   },
   {
     "tag_name": "lifting",
-    "related_tags": []
+    "related_tags": [
+      "ぱくり"
+    ]
   },
   {
     "tag_name": "looking",
-    "related_tags": []
+    "related_tags": [
+      "見"
+    ]
   },
   {
     "tag_name": "looking away",
-    "related_tags": []
+    "related_tags": [
+      "余所見"
+    ]
   },
   {
     "tag_name": "looking back",
@@ -3401,19 +3819,27 @@ return [
   },
   {
     "tag_name": "looking down",
-    "related_tags": []
+    "related_tags": [
+      "俯きがち"
+    ]
   },
   {
     "tag_name": "looking up",
-    "related_tags": []
+    "related_tags": [
+      "空方"
+    ]
   },
   {
     "tag_name": "measuring",
-    "related_tags": []
+    "related_tags": [
+      "計測"
+    ]
   },
   {
     "tag_name": "bust measuring",
-    "related_tags": []
+    "related_tags": [
+      "胸+計測"
+    ]
   },
   {
     "tag_name": "penis measuring",
@@ -3423,19 +3849,27 @@ return [
   },
   {
     "tag_name": "waist measuring",
-    "related_tags": []
+    "related_tags": [
+      "御腰+計測"
+    ]
   },
   {
     "tag_name": "melting",
-    "related_tags": []
+    "related_tags": [
+      "吹き"
+    ]
   },
   {
     "tag_name": "mind reading",
-    "related_tags": []
+    "related_tags": [
+      "読心術"
+    ]
   },
   {
     "tag_name": "moaning",
-    "related_tags": []
+    "related_tags": [
+      "呻き声"
+    ]
   },
   {
     "tag_name": "multitasking",
@@ -3451,15 +3885,21 @@ return [
   },
   {
     "tag_name": "opening",
-    "related_tags": []
+    "related_tags": [
+      "開き"
+    ]
   },
   {
     "tag_name": "pantsing",
-    "related_tags": []
+    "related_tags": [
+      "ズボン"
+    ]
   },
   {
     "tag_name": "patting",
-    "related_tags": []
+    "related_tags": [
+      "撫で撫で"
+    ]
   },
   {
     "tag_name": "bedwetting",
@@ -3469,7 +3909,9 @@ return [
   },
   {
     "tag_name": "peeling",
-    "related_tags": []
+    "related_tags": [
+      "剥がれ"
+    ]
   },
   {
     "tag_name": "headpat",
@@ -3489,23 +3931,33 @@ return [
   },
   {
     "tag_name": "cheek pinching",
-    "related_tags": []
+    "related_tags": [
+      "心臓+失敬"
+    ]
   },
   {
     "tag_name": "pitching",
-    "related_tags": []
+    "related_tags": [
+      "投球"
+    ]
   },
   {
     "tag_name": "playing",
-    "related_tags": []
+    "related_tags": [
+      "遊び"
+    ]
   },
   {
     "tag_name": "playing instrument",
-    "related_tags": []
+    "related_tags": [
+      "遊び+器"
+    ]
   },
   {
     "tag_name": "playing sports",
-    "related_tags": []
+    "related_tags": [
+      "遊び+遊戯"
+    ]
   },
   {
     "tag_name": "pointing",
@@ -3515,51 +3967,75 @@ return [
   },
   {
     "tag_name": "pointing at viewer",
-    "related_tags": []
+    "related_tags": [
+      "ポインティング+at+見物客"
+    ]
   },
   {
     "tag_name": "poking",
-    "related_tags": []
+    "related_tags": [
+      "突き"
+    ]
   },
   {
     "tag_name": "cheek poking",
-    "related_tags": []
+    "related_tags": [
+      "心臓+突き"
+    ]
   },
   {
     "tag_name": "polishing",
-    "related_tags": []
+    "related_tags": [
+      "艶出し"
+    ]
   },
   {
     "tag_name": "pouring",
-    "related_tags": []
+    "related_tags": [
+      "注入"
+    ]
   },
   {
     "tag_name": "decantering",
-    "related_tags": []
+    "related_tags": [
+      "銚子"
+    ]
   },
   {
     "tag_name": "praying",
-    "related_tags": []
+    "related_tags": [
+      "発願"
+    ]
   },
   {
     "tag_name": "programming",
-    "related_tags": []
+    "related_tags": [
+      "番組編成"
+    ]
   },
   {
     "tag_name": "protecting",
-    "related_tags": []
+    "related_tags": [
+      "拒ぎ"
+    ]
   },
   {
     "tag_name": "pulling",
-    "related_tags": []
+    "related_tags": [
+      "引っ張り"
+    ]
   },
   {
     "tag_name": "punching",
-    "related_tags": []
+    "related_tags": [
+      "穿孔"
+    ]
   },
   {
     "tag_name": "pushing",
-    "related_tags": []
+    "related_tags": [
+      "圧し"
+    ]
   },
   {
     "tag_name": "rappelling",
@@ -3575,11 +4051,15 @@ return [
   },
   {
     "tag_name": "reloading",
-    "related_tags": []
+    "related_tags": [
+      "再ロード"
+    ]
   },
   {
     "tag_name": "repairing",
-    "related_tags": []
+    "related_tags": [
+      "修造"
+    ]
   },
   {
     "tag_name": "resisting",
@@ -3587,7 +4067,9 @@ return [
   },
   {
     "tag_name": "resting",
-    "related_tags": []
+    "related_tags": [
+      "安らい"
+    ]
   },
   {
     "tag_name": "riding",
@@ -3603,43 +4085,63 @@ return [
   },
   {
     "tag_name": "umbrella riding",
-    "related_tags": []
+    "related_tags": [
+      "雨がさ+御召"
+    ]
   },
   {
     "tag_name": "ripping",
-    "related_tags": []
+    "related_tags": [
+      "ばりばり"
+    ]
   },
   {
     "tag_name": "roaring",
-    "related_tags": []
+    "related_tags": [
+      "轟"
+    ]
   },
   {
     "tag_name": "rolling",
-    "related_tags": []
+    "related_tags": [
+      "圧延"
+    ]
   },
   {
     "tag_name": "rubbing",
-    "related_tags": []
+    "related_tags": [
+      "錯"
+    ]
   },
   {
     "tag_name": "screaming",
-    "related_tags": []
+    "related_tags": [
+      "ぎゃあぎゃあ"
+    ]
   },
   {
     "tag_name": "searching",
-    "related_tags": []
+    "related_tags": [
+      "漁り"
+    ]
   },
   {
     "tag_name": "shading eyes",
-    "related_tags": []
+    "related_tags": [
+      "阿+眼つき"
+    ]
   },
   {
     "tag_name": "shaking",
-    "related_tags": []
+    "related_tags": [
+      "振とう"
+    ]
   },
   {
     "tag_name": "sharing",
-    "related_tags": []
+    "related_tags": [
+      "共同"
+    ]
   },
   {
     "tag_name": "shaving",
@@ -3655,7 +4157,9 @@ return [
   },
   {
     "tag_name": "shouting",
-    "related_tags": []
+    "related_tags": [
+      "シャウト"
+    ]
   },
   {
     "tag_name": "singing",
@@ -3671,15 +4175,21 @@ return [
   },
   {
     "tag_name": "sketching",
-    "related_tags": []
+    "related_tags": [
+      "御絵書き"
+    ]
   },
   {
     "tag_name": "skipping",
-    "related_tags": []
+    "related_tags": [
+      "縄跳び"
+    ]
   },
   {
     "tag_name": "slashing",
-    "related_tags": []
+    "related_tags": [
+      "斬撃"
+    ]
   },
   {
     "tag_name": "sleeping",
@@ -3689,11 +4199,15 @@ return [
   },
   {
     "tag_name": "sliding",
-    "related_tags": []
+    "related_tags": [
+      "滑り"
+    ]
   },
   {
     "tag_name": "slipping",
-    "related_tags": []
+    "related_tags": [
+      "滑り"
+    ]
   },
   {
     "tag_name": "smoking",
@@ -3727,15 +4241,21 @@ return [
   },
   {
     "tag_name": "spinning",
-    "related_tags": []
+    "related_tags": [
+      "製糸"
+    ]
   },
   {
     "tag_name": "pen spinning",
-    "related_tags": []
+    "related_tags": [
+      "ペン回し"
+    ]
   },
   {
     "tag_name": "spitting",
-    "related_tags": []
+    "related_tags": [
+      "喀出"
+    ]
   },
   {
     "tag_name": "splashing",
@@ -3745,11 +4265,15 @@ return [
   },
   {
     "tag_name": "spraying",
-    "related_tags": []
+    "related_tags": [
+      "撒布"
+    ]
   },
   {
     "tag_name": "squeezing",
-    "related_tags": []
+    "related_tags": [
+      "絞り"
+    ]
   },
   {
     "tag_name": "squinting",
@@ -3759,31 +4283,45 @@ return [
   },
   {
     "tag_name": "squirting liquid",
-    "related_tags": []
+    "related_tags": [
+      "潮吹き+液"
+    ]
   },
   {
     "tag_name": "stacking",
-    "related_tags": []
+    "related_tags": [
+      "重なり"
+    ]
   },
   {
     "tag_name": "staring",
-    "related_tags": []
+    "related_tags": [
+      "視姦"
+    ]
   },
   {
     "tag_name": "stepping",
-    "related_tags": []
+    "related_tags": [
+      "ステッピング"
+    ]
   },
   {
     "tag_name": "stomping",
-    "related_tags": []
+    "related_tags": [
+      "足ぶみ"
+    ]
   },
   {
     "tag_name": "choking on object",
-    "related_tags": []
+    "related_tags": [
+      "咽せっぽい+on+宛"
+    ]
   },
   {
     "tag_name": "struggling",
-    "related_tags": []
+    "related_tags": [
+      "苦しい"
+    ]
   },
   {
     "tag_name": "studying",
@@ -3793,11 +4331,15 @@ return [
   },
   {
     "tag_name": "sucking",
-    "related_tags": []
+    "related_tags": [
+      "吸い上げ"
+    ]
   },
   {
     "tag_name": "blood sucking",
-    "related_tags": []
+    "related_tags": [
+      "血+吸い上げ"
+    ]
   },
   {
     "tag_name": "self breast sucking",
@@ -3807,15 +4349,21 @@ return [
   },
   {
     "tag_name": "finger sucking",
-    "related_tags": []
+    "related_tags": [
+      "一指+吸い上げ"
+    ]
   },
   {
     "tag_name": "thumb sucking",
-    "related_tags": []
+    "related_tags": [
+      "指しゃぶり"
+    ]
   },
   {
     "tag_name": "toe sucking",
-    "related_tags": []
+    "related_tags": [
+      "指+吸い上げ"
+    ]
   },
   {
     "tag_name": "sulking",
@@ -3825,11 +4373,15 @@ return [
   },
   {
     "tag_name": "summoning",
-    "related_tags": []
+    "related_tags": [
+      "御召"
+    ]
   },
   {
     "tag_name": "sunbathing",
-    "related_tags": []
+    "related_tags": [
+      "日光浴"
+    ]
   },
   {
     "tag_name": "surfing",
@@ -3845,15 +4397,21 @@ return [
   },
   {
     "tag_name": "sky surfing",
-    "related_tags": []
+    "related_tags": [
+      "雲井+波乗り"
+    ]
   },
   {
     "tag_name": "swaying",
-    "related_tags": []
+    "related_tags": [
+      "横揺れ"
+    ]
   },
   {
     "tag_name": "swinging",
-    "related_tags": []
+    "related_tags": [
+      "振り"
+    ]
   },
   {
     "tag_name": "swing",
@@ -3875,23 +4433,33 @@ return [
   },
   {
     "tag_name": "sleep talking",
-    "related_tags": []
+    "related_tags": [
+      "寝言"
+    ]
   },
   {
     "tag_name": "tapping",
-    "related_tags": []
+    "related_tags": [
+      "打診"
+    ]
   },
   {
     "tag_name": "teaching",
-    "related_tags": []
+    "related_tags": [
+      "教え"
+    ]
   },
   {
     "tag_name": "text messaging",
-    "related_tags": []
+    "related_tags": [
+      "条文+メッセージング"
+    ]
   },
   {
     "tag_name": "thinking",
-    "related_tags": []
+    "related_tags": [
+      "考え"
+    ]
   },
   {
     "tag_name": "throwing",
@@ -3913,11 +4481,15 @@ return [
   },
   {
     "tag_name": "touching",
-    "related_tags": []
+    "related_tags": [
+      "感動的"
+    ]
   },
   {
     "tag_name": "training",
-    "related_tags": []
+    "related_tags": [
+      "育成"
+    ]
   },
   {
     "tag_name": "trembling",
@@ -3927,7 +4499,9 @@ return [
   },
   {
     "tag_name": "trolling",
-    "related_tags": []
+    "related_tags": [
+      "荒らし"
+    ]
   },
   {
     "tag_name": "twitching",
@@ -3937,15 +4511,21 @@ return [
   },
   {
     "tag_name": "tying",
-    "related_tags": []
+    "related_tags": [
+      "括り"
+    ]
   },
   {
     "tag_name": "scarf tying",
-    "related_tags": []
+    "related_tags": [
+      "巻きもの+括り"
+    ]
   },
   {
     "tag_name": "tying footwear",
-    "related_tags": []
+    "related_tags": [
+      "括り+沓"
+    ]
   },
   {
     "tag_name": "untying",
@@ -3953,7 +4533,9 @@ return [
   },
   {
     "tag_name": "typing",
-    "related_tags": []
+    "related_tags": [
+      "印字"
+    ]
   },
   {
     "tag_name": "unsheathing",
@@ -3961,15 +4543,21 @@ return [
   },
   {
     "tag_name": "unzipping with mouth",
-    "related_tags": []
+    "related_tags": [
+      "解凍+以ちまして+口"
+    ]
   },
   {
     "tag_name": "unzipping",
-    "related_tags": []
+    "related_tags": [
+      "解凍"
+    ]
   },
   {
     "tag_name": "vomiting",
-    "related_tags": []
+    "related_tags": [
+      "反吐"
+    ]
   },
   {
     "tag_name": "wading",
@@ -3979,31 +4567,45 @@ return [
   },
   {
     "tag_name": "skinny dipping",
-    "related_tags": []
+    "related_tags": [
+      "痩せぎす+液浸"
+    ]
   },
   {
     "tag_name": "waiting",
-    "related_tags": []
+    "related_tags": [
+      "待ち"
+    ]
   },
   {
     "tag_name": "warming",
-    "related_tags": []
+    "related_tags": [
+      "温暖化"
+    ]
   },
   {
     "tag_name": "washing",
-    "related_tags": []
+    "related_tags": [
+      "斎戒もく浴"
+    ]
   },
   {
     "tag_name": "body soaping",
-    "related_tags": []
+    "related_tags": [
+      "ボディ・ソープ"
+    ]
   },
   {
     "tag_name": "watching",
-    "related_tags": []
+    "related_tags": [
+      "監視"
+    ]
   },
   {
     "tag_name": "watching television",
-    "related_tags": []
+    "related_tags": [
+      "監視+電視"
+    ]
   },
   {
     "tag_name": "whipping",
@@ -4013,11 +4615,15 @@ return [
   },
   {
     "tag_name": "whisking",
-    "related_tags": []
+    "related_tags": [
+      "刷毛"
+    ]
   },
   {
     "tag_name": "whispering",
-    "related_tags": []
+    "related_tags": [
+      "私語"
+    ]
   },
   {
     "tag_name": "whistling",
@@ -4027,11 +4633,15 @@ return [
   },
   {
     "tag_name": "working",
-    "related_tags": []
+    "related_tags": [
+      "稼働"
+    ]
   },
   {
     "tag_name": "wringing",
-    "related_tags": []
+    "related_tags": [
+      "ぐっしょり"
+    ]
   },
   {
     "tag_name": "zipping",
@@ -4039,15 +4649,21 @@ return [
   },
   {
     "tag_name": "blowing",
-    "related_tags": []
+    "related_tags": [
+      "吹き出し"
+    ]
   },
   {
     "tag_name": "bowling",
-    "related_tags": []
+    "related_tags": [
+      "器"
+    ]
   },
   {
     "tag_name": "boxing",
-    "related_tags": []
+    "related_tags": [
+      "拳闘"
+    ]
   },
   {
     "tag_name": "mind control",
@@ -4069,7 +4685,9 @@ return [
   },
   {
     "tag_name": "model building",
-    "related_tags": []
+    "related_tags": [
+      "下敷+営造"
+    ]
   },
   {
     "tag_name": "bullfighting",
@@ -4085,19 +4703,27 @@ return [
   },
   {
     "tag_name": "carving",
-    "related_tags": []
+    "related_tags": [
+      "刻"
+    ]
   },
   {
     "tag_name": "clapping",
-    "related_tags": []
+    "related_tags": [
+      "ぱちぱち"
+    ]
   },
   {
     "tag_name": "cling",
-    "related_tags": []
+    "related_tags": [
+      "セ"
+    ]
   },
   {
     "tag_name": "breast clinging",
-    "related_tags": []
+    "related_tags": [
+      "胸+固守"
+    ]
   },
   {
     "tag_name": "dating",
@@ -4111,15 +4737,21 @@ return [
   },
   {
     "tag_name": "dissolving",
-    "related_tags": []
+    "related_tags": [
+      "溶解"
+    ]
   },
   {
     "tag_name": "drawing",
-    "related_tags": []
+    "related_tags": [
+      "画"
+    ]
   },
   {
     "tag_name": "child's drawing",
-    "related_tags": []
+    "related_tags": [
+      "child's+画"
+    ]
   },
   {
     "tag_name": "drowning",
@@ -4129,11 +4761,15 @@ return [
   },
   {
     "tag_name": "face stretching",
-    "related_tags": []
+    "related_tags": [
+      "逢着+引っ張り"
+    ]
   },
   {
     "tag_name": "fading",
-    "related_tags": []
+    "related_tags": [
+      "移ろい"
+    ]
   },
   {
     "tag_name": "fencing",
@@ -4143,19 +4779,27 @@ return [
   },
   {
     "tag_name": "fishing",
-    "related_tags": []
+    "related_tags": [
+      "漁"
+    ]
   },
   {
     "tag_name": "flashing",
-    "related_tags": []
+    "related_tags": [
+      "雨じまい"
+    ]
   },
   {
     "tag_name": "mooning",
-    "related_tags": []
+    "related_tags": [
+      "でれでれ"
+    ]
   },
   {
     "tag_name": "streaking",
-    "related_tags": []
+    "related_tags": [
+      "筋"
+    ]
   },
   {
     "tag_name": "goldfish scooping",
@@ -4165,7 +4809,9 @@ return [
   },
   {
     "tag_name": "grilling",
-    "related_tags": []
+    "related_tags": [
+      "肉薄"
+    ]
   },
   {
     "tag_name": "hiking",
@@ -4199,15 +4845,21 @@ return [
   },
   {
     "tag_name": "necking",
-    "related_tags": []
+    "related_tags": [
+      "ネッキング"
+    ]
   },
   {
     "tag_name": "knitting",
-    "related_tags": []
+    "related_tags": [
+      "手あみ"
+    ]
   },
   {
     "tag_name": "marching",
-    "related_tags": []
+    "related_tags": [
+      "行軍"
+    ]
   },
   {
     "tag_name": "misunderstanding",
@@ -4223,11 +4875,15 @@ return [
   },
   {
     "tag_name": "painting",
-    "related_tags": []
+    "related_tags": [
+      "画"
+    ]
   },
   {
     "tag_name": "panicking",
-    "related_tags": []
+    "related_tags": [
+      "きりきり舞い"
+    ]
   },
   {
     "tag_name": "pose",
@@ -4237,7 +4893,9 @@ return [
   },
   {
     "tag_name": "pout",
-    "related_tags": []
+    "related_tags": [
+      "不機嫌"
+    ]
   },
   {
     "tag_name": "racing",
@@ -4257,7 +4915,9 @@ return [
   },
   {
     "tag_name": "rotting",
-    "related_tags": []
+    "related_tags": [
+      "腐れ"
+    ]
   },
   {
     "tag_name": "rowing",
@@ -4273,19 +4933,27 @@ return [
   },
   {
     "tag_name": "lecturing",
-    "related_tags": []
+    "related_tags": [
+      "説教"
+    ]
   },
   {
     "tag_name": "sewing",
-    "related_tags": []
+    "related_tags": [
+      "鈎"
+    ]
   },
   {
     "tag_name": "shoplifting",
-    "related_tags": []
+    "related_tags": [
+      "万引"
+    ]
   },
   {
     "tag_name": "skating",
-    "related_tags": []
+    "related_tags": [
+      "スケーティング"
+    ]
   },
   {
     "tag_name": "figure skating",
@@ -4313,11 +4981,15 @@ return [
   },
   {
     "tag_name": "stalking",
-    "related_tags": []
+    "related_tags": [
+      "追跡"
+    ]
   },
   {
     "tag_name": "pillow straddling",
-    "related_tags": []
+    "related_tags": [
+      "枕+日和見"
+    ]
   },
   {
     "tag_name": "swimming",
@@ -4333,7 +5005,9 @@ return [
   },
   {
     "tag_name": "tail wagging",
-    "related_tags": []
+    "related_tags": [
+      "尻っぽ+wagging"
+    ]
   },
   {
     "tag_name": "theft",
@@ -4343,7 +5017,9 @@ return [
   },
   {
     "tag_name": "tucking",
-    "related_tags": []
+    "related_tags": [
+      "縫い込み"
+    ]
   },
   {
     "tag_name": "wedding",
@@ -4365,7 +5041,9 @@ return [
   },
   {
     "tag_name": "writing",
-    "related_tags": []
+    "related_tags": [
+      "翰墨"
+    ]
   },
   {
     "tag_name": "yawning",
@@ -4387,7 +5065,9 @@ return [
   },
   {
     "tag_name": "pipelining",
-    "related_tags": []
+    "related_tags": [
+      "パイプライン処理機構"
+    ]
   },
   {
     "tag_name": "symmetrical docking",
@@ -4403,15 +5083,21 @@ return [
   },
   {
     "tag_name": "taunting",
-    "related_tags": []
+    "related_tags": [
+      "嘲罵"
+    ]
   },
   {
     "tag_name": "teasing",
-    "related_tags": []
+    "related_tags": [
+      "苛め"
+    ]
   },
   {
     "tag_name": "dutch angle",
-    "related_tags": []
+    "related_tags": [
+      "ダッチ・アングル"
+    ]
   },
   {
     "tag_name": "from above",
@@ -4439,11 +5125,15 @@ return [
   },
   {
     "tag_name": "sideways",
-    "related_tags": []
+    "related_tags": [
+      "横ちょ"
+    ]
   },
   {
     "tag_name": "straight-on",
-    "related_tags": []
+    "related_tags": [
+      "一路+on"
+    ]
   },
   {
     "tag_name": "atmospheric perspective",
@@ -4459,7 +5149,9 @@ return [
   },
   {
     "tag_name": "panorama",
-    "related_tags": []
+    "related_tags": [
+      "全体像"
+    ]
   },
   {
     "tag_name": "perspective",
@@ -4481,27 +5173,39 @@ return [
   },
   {
     "tag_name": "border",
-    "related_tags": []
+    "related_tags": [
+      "縁辺"
+    ]
   },
   {
     "tag_name": "framed",
-    "related_tags": []
+    "related_tags": [
+      "架構"
+    ]
   },
   {
     "tag_name": "outside border",
-    "related_tags": []
+    "related_tags": [
+      "屋外+縁辺"
+    ]
   },
   {
     "tag_name": "fading border",
-    "related_tags": []
+    "related_tags": [
+      "移ろい+縁辺"
+    ]
   },
   {
     "tag_name": "rounded corners",
-    "related_tags": []
+    "related_tags": [
+      "鈍頭+阿"
+    ]
   },
   {
     "tag_name": "viewfinder",
-    "related_tags": []
+    "related_tags": [
+      "ファインダ"
+    ]
   },
   {
     "tag_name": "chart",
@@ -4517,7 +5221,9 @@ return [
   },
   {
     "tag_name": "character chart",
-    "related_tags": []
+    "related_tags": [
+      "一字+罫線"
+    ]
   },
   {
     "tag_name": "reference sheet",
@@ -4533,7 +5239,9 @@ return [
   },
   {
     "tag_name": "move chart",
-    "related_tags": []
+    "related_tags": [
+      "伎+罫線"
+    ]
   },
   {
     "tag_name": "relationship graph",
@@ -4559,19 +5267,27 @@ return [
   },
   {
     "tag_name": "column lineup",
-    "related_tags": []
+    "related_tags": [
+      "囲み記事+揃い踏み"
+    ]
   },
   {
     "tag_name": "head out of frame",
-    "related_tags": []
+    "related_tags": [
+      "髄+死+of+架構"
+    ]
   },
   {
     "tag_name": "from outside",
-    "related_tags": []
+    "related_tags": [
+      "端から"
+    ]
   },
   {
     "tag_name": "glitch",
-    "related_tags": []
+    "related_tags": [
+      "けち"
+    ]
   },
   {
     "tag_name": "isometric",
@@ -4581,7 +5297,9 @@ return [
   },
   {
     "tag_name": "letterboxed",
-    "related_tags": []
+    "related_tags": [
+      "書函"
+    ]
   },
   {
     "tag_name": "pillarboxed",
@@ -4589,11 +5307,15 @@ return [
   },
   {
     "tag_name": "lineup",
-    "related_tags": []
+    "related_tags": [
+      "揃い踏み"
+    ]
   },
   {
     "tag_name": "mosaic art",
-    "related_tags": []
+    "related_tags": [
+      "モザイク画+美術"
+    ]
   },
   {
     "tag_name": "photomosaic",
@@ -4613,7 +5335,9 @@ return [
   },
   {
     "tag_name": "partially underwater shot",
-    "related_tags": []
+    "related_tags": [
+      "生+水中+一発"
+    ]
   },
   {
     "tag_name": "pov",
@@ -4623,7 +5347,9 @@ return [
   },
   {
     "tag_name": "social media composition",
-    "related_tags": []
+    "related_tags": [
+      "交流会+媒体+曲"
+    ]
   },
   {
     "tag_name": "symmetry",
@@ -4651,7 +5377,9 @@ return [
   },
   {
     "tag_name": "trim marks",
-    "related_tags": []
+    "related_tags": [
+      "トンボ"
+    ]
   },
   {
     "tag_name": "3d",
@@ -4661,7 +5389,9 @@ return [
   },
   {
     "tag_name": "animated",
-    "related_tags": []
+    "related_tags": [
+      "活溌"
+    ]
   },
   {
     "tag_name": "animated png",
@@ -4671,11 +5401,15 @@ return [
   },
   {
     "tag_name": "video",
-    "related_tags": []
+    "related_tags": [
+      "映像"
+    ]
   },
   {
     "tag_name": "music video",
-    "related_tags": []
+    "related_tags": [
+      "プロモーション・ビデオ"
+    ]
   },
   {
     "tag_name": "animated gif",
@@ -4689,7 +5423,9 @@ return [
   },
   {
     "tag_name": "non-repeating animation",
-    "related_tags": []
+    "related_tags": [
+      "non+リピート+生気"
+    ]
   },
   {
     "tag_name": "looping animation",
@@ -4709,11 +5445,15 @@ return [
   },
   {
     "tag_name": "archived file",
-    "related_tags": []
+    "related_tags": [
+      "所定期間保存対象ファイル"
+    ]
   },
   {
     "tag_name": "calendar (medium)",
-    "related_tags": []
+    "related_tags": [
+      "七曜表+(medium)"
+    ]
   },
   {
     "tag_name": "comic",
@@ -4755,15 +5495,21 @@ return [
   },
   {
     "tag_name": "borderless panels",
-    "related_tags": []
+    "related_tags": [
+      "無国境+委員会"
+    ]
   },
   {
     "tag_name": "left-to-right manga",
-    "related_tags": []
+    "related_tags": [
+      "後+to+右+漫画"
+    ]
   },
   {
     "tag_name": "right-to-left comic",
-    "related_tags": []
+    "related_tags": [
+      "右+to+後+御笑い"
+    ]
   },
   {
     "tag_name": "silent comic",
@@ -4773,7 +5519,9 @@ return [
   },
   {
     "tag_name": "corrupted file",
-    "related_tags": []
+    "related_tags": [
+      "生臭い+伍"
+    ]
   },
   {
     "tag_name": "cover",
@@ -4789,7 +5537,9 @@ return [
   },
   {
     "tag_name": "character single",
-    "related_tags": []
+    "related_tags": [
+      "一字+単"
+    ]
   },
   {
     "tag_name": "cover page",
@@ -4799,31 +5549,45 @@ return [
   },
   {
     "tag_name": "doujin cover",
-    "related_tags": []
+    "related_tags": [
+      "同人+堰板"
+    ]
   },
   {
     "tag_name": "dvd cover",
-    "related_tags": []
+    "related_tags": [
+      "ディジタル・ビデオディスク+堰板"
+    ]
   },
   {
     "tag_name": "fake cover",
-    "related_tags": []
+    "related_tags": [
+      "贋+堰板"
+    ]
   },
   {
     "tag_name": "video game cover",
-    "related_tags": []
+    "related_tags": [
+      "映像+一戦+堰板"
+    ]
   },
   {
     "tag_name": "manga cover",
-    "related_tags": []
+    "related_tags": [
+      "漫画+堰板"
+    ]
   },
   {
     "tag_name": "fake screenshot",
-    "related_tags": []
+    "related_tags": [
+      "贋+スクショ"
+    ]
   },
   {
     "tag_name": "game cg",
-    "related_tags": []
+    "related_tags": [
+      "一戦+cg"
+    ]
   },
   {
     "tag_name": "gyotaku (medium)",
@@ -4841,7 +5605,9 @@ return [
   },
   {
     "tag_name": "incredibly absurdres",
-    "related_tags": []
+    "related_tags": [
+      "滅茶苦茶+absurdres"
+    ]
   },
   {
     "tag_name": "lowres",
@@ -4849,7 +5615,9 @@ return [
   },
   {
     "tag_name": "icon",
-    "related_tags": []
+    "related_tags": [
+      "図像"
+    ]
   },
   {
     "tag_name": "logo",
@@ -4875,15 +5643,21 @@ return [
   },
   {
     "tag_name": "outline",
-    "related_tags": []
+    "related_tags": [
+      "外廓"
+    ]
   },
   {
     "tag_name": "tall image",
-    "related_tags": []
+    "related_tags": [
+      "高い+影"
+    ]
   },
   {
     "tag_name": "wide image",
-    "related_tags": []
+    "related_tags": [
+      "宏い+影"
+    ]
   },
   {
     "tag_name": "oekaki",
@@ -4893,11 +5667,15 @@ return [
   },
   {
     "tag_name": "photo",
-    "related_tags": []
+    "related_tags": [
+      "写真"
+    ]
   },
   {
     "tag_name": "papercraft",
-    "related_tags": []
+    "related_tags": [
+      "ペーパークラフト"
+    ]
   },
   {
     "tag_name": "paper child",
@@ -4907,7 +5685,9 @@ return [
   },
   {
     "tag_name": "paper cutout",
-    "related_tags": []
+    "related_tags": [
+      "切り絵細工"
+    ]
   },
   {
     "tag_name": "pixel art",
@@ -4935,35 +5715,51 @@ return [
   },
   {
     "tag_name": "has bad revision",
-    "related_tags": []
+    "related_tags": [
+      "だ+悪い+加筆"
+    ]
   },
   {
     "tag_name": "has artifacted revision",
-    "related_tags": []
+    "related_tags": [
+      "だ+出土品+加筆"
+    ]
   },
   {
     "tag_name": "has censored revision",
-    "related_tags": []
+    "related_tags": [
+      "だ+検閲官+加筆"
+    ]
   },
   {
     "tag_name": "has cropped revision",
-    "related_tags": []
+    "related_tags": [
+      "だ+cropped+加筆"
+    ]
   },
   {
     "tag_name": "has downscaled revision",
-    "related_tags": []
+    "related_tags": [
+      "だ+downscaled+加筆"
+    ]
   },
   {
     "tag_name": "has lossy revision",
-    "related_tags": []
+    "related_tags": [
+      "だ+lossy+加筆"
+    ]
   },
   {
     "tag_name": "has watermarked revision",
-    "related_tags": []
+    "related_tags": [
+      "だ+水位標+加筆"
+    ]
   },
   {
     "tag_name": "anime screencap",
-    "related_tags": []
+    "related_tags": [
+      "アニメ+screencap"
+    ]
   },
   {
     "tag_name": "shitajiki",
@@ -4977,11 +5773,15 @@ return [
   },
   {
     "tag_name": "triptych (art)",
-    "related_tags": []
+    "related_tags": [
+      "三枚つづき+(art)"
+    ]
   },
   {
     "tag_name": "vector trace",
-    "related_tags": []
+    "related_tags": [
+      "担体+一片"
+    ]
   },
   {
     "tag_name": "tileable",
@@ -4989,15 +5789,21 @@ return [
   },
   {
     "tag_name": "wallpaper forced",
-    "related_tags": []
+    "related_tags": [
+      "壁紙+強行"
+    ]
   },
   {
     "tag_name": "widescreen",
-    "related_tags": []
+    "related_tags": [
+      "ワイド・スクリーン"
+    ]
   },
   {
     "tag_name": "official wallpaper",
-    "related_tags": []
+    "related_tags": [
+      "掛+壁紙"
+    ]
   },
   {
     "tag_name": "cityscape",
@@ -5019,7 +5825,9 @@ return [
   },
   {
     "tag_name": "off-topic",
-    "related_tags": []
+    "related_tags": [
+      "脇"
+    ]
   },
   {
     "tag_name": "scenery",
@@ -5047,7 +5855,9 @@ return [
   },
   {
     "tag_name": "lower body",
-    "related_tags": []
+    "related_tags": [
+      "従+遺骸"
+    ]
   },
   {
     "tag_name": "cowboy shot",
@@ -5087,23 +5897,33 @@ return [
   },
   {
     "tag_name": "cut-in",
-    "related_tags": []
+    "related_tags": [
+      "カットイン"
+    ]
   },
   {
     "tag_name": "cropped legs",
-    "related_tags": []
+    "related_tags": [
+      "cropped+下脚"
+    ]
   },
   {
     "tag_name": "cropped torso",
-    "related_tags": []
+    "related_tags": [
+      "cropped+躯"
+    ]
   },
   {
     "tag_name": "cropped arms",
-    "related_tags": []
+    "related_tags": [
+      "cropped+干戈"
+    ]
   },
   {
     "tag_name": "cropped shoulders",
-    "related_tags": []
+    "related_tags": [
+      "cropped+肩身"
+    ]
   },
   {
     "tag_name": "multiple views",
@@ -5119,7 +5939,9 @@ return [
   },
   {
     "tag_name": "group profile",
-    "related_tags": []
+    "related_tags": [
+      "一つ穴+横顔"
+    ]
   },
   {
     "tag_name": "abstract",
@@ -5129,7 +5951,9 @@ return [
   },
   {
     "tag_name": "art deco",
-    "related_tags": []
+    "related_tags": [
+      "美術+deco"
+    ]
   },
   {
     "tag_name": "art nouveau",
@@ -5145,7 +5969,9 @@ return [
   },
   {
     "tag_name": "flame painter",
-    "related_tags": []
+    "related_tags": [
+      "炎+画家"
+    ]
   },
   {
     "tag_name": "impressionism",
@@ -5177,7 +6003,9 @@ return [
   },
   {
     "tag_name": "minimalism",
-    "related_tags": []
+    "related_tags": [
+      "断捨利"
+    ]
   },
   {
     "tag_name": "realistic",
@@ -5211,7 +6039,9 @@ return [
   },
   {
     "tag_name": "faux traditional media",
-    "related_tags": []
+    "related_tags": [
+      "なんちゃって+慣習的+媒体"
+    ]
   },
   {
     "tag_name": "unfinished",
@@ -5221,7 +6051,9 @@ return [
   },
   {
     "tag_name": "bloom",
-    "related_tags": []
+    "related_tags": [
+      "花"
+    ]
   },
   {
     "tag_name": "bokeh",
@@ -5249,7 +6081,9 @@ return [
   },
   {
     "tag_name": "chromatic aberration abuse",
-    "related_tags": []
+    "related_tags": [
+      "クロマチック+異状+悪たれ口"
+    ]
   },
   {
     "tag_name": "diffraction spikes",
@@ -5271,7 +6105,9 @@ return [
   },
   {
     "tag_name": "drop shadow",
-    "related_tags": []
+    "related_tags": [
+      "一水+阿"
+    ]
   },
   {
     "tag_name": "emphasis lines",
@@ -5303,11 +6139,15 @@ return [
   },
   {
     "tag_name": "lens flare",
-    "related_tags": []
+    "related_tags": [
+      "lens+フレア"
+    ]
   },
   {
     "tag_name": "lens flare abuse",
-    "related_tags": []
+    "related_tags": [
+      "lens+フレア+悪たれ口"
+    ]
   },
   {
     "tag_name": "motion blur",
@@ -5317,7 +6157,9 @@ return [
   },
   {
     "tag_name": "motion lines",
-    "related_tags": []
+    "related_tags": [
+      "運行+一行"
+    ]
   },
   {
     "tag_name": "optical illusion",
@@ -5333,15 +6175,21 @@ return [
   },
   {
     "tag_name": "exif thumbnail surprise",
-    "related_tags": []
+    "related_tags": [
+      "exif+親指の爪+意表"
+    ]
   },
   {
     "tag_name": "open in internet explorer",
-    "related_tags": []
+    "related_tags": [
+      "開けっぴろげ+in+電網+探検家"
+    ]
   },
   {
     "tag_name": "open in winamp",
-    "related_tags": []
+    "related_tags": [
+      "開けっぴろげ+in+winamp"
+    ]
   },
   {
     "tag_name": "stereogram",
@@ -5363,11 +6211,15 @@ return [
   },
   {
     "tag_name": "speed lines",
-    "related_tags": []
+    "related_tags": [
+      "スピード線"
+    ]
   },
   {
     "tag_name": "vignetting",
-    "related_tags": []
+    "related_tags": [
+      "口径食"
+    ]
   },
   {
     "tag_name": "asa no ha (pattern)",
@@ -5459,7 +6311,9 @@ return [
   },
   {
     "tag_name": "uchiwa design",
-    "related_tags": []
+    "related_tags": [
+      "団扇+綾"
+    ]
   },
   {
     "tag_name": "uroko (pattern)",
@@ -5481,7 +6335,9 @@ return [
   },
   {
     "tag_name": "shark print",
-    "related_tags": []
+    "related_tags": [
+      "鮫+印"
+    ]
   },
   {
     "tag_name": "fleur-de-lis",
@@ -5521,23 +6377,33 @@ return [
   },
   {
     "tag_name": "gif artifacts",
-    "related_tags": []
+    "related_tags": [
+      "GIF+出土品"
+    ]
   },
   {
     "tag_name": "jpeg artifacts",
-    "related_tags": []
+    "related_tags": [
+      "jpeg+出土品"
+    ]
   },
   {
     "tag_name": "aliasing",
-    "related_tags": []
+    "related_tags": [
+      "エイリアシング"
+    ]
   },
   {
     "tag_name": "vhs artifacts",
-    "related_tags": []
+    "related_tags": [
+      "vhs+出土品"
+    ]
   },
   {
     "tag_name": "bad aspect ratio",
-    "related_tags": []
+    "related_tags": [
+      "悪い+概+割"
+    ]
   },
   {
     "tag_name": "blurry",
@@ -5563,39 +6429,57 @@ return [
   },
   {
     "tag_name": "reference photo",
-    "related_tags": []
+    "related_tags": [
+      "引き合い+写真"
+    ]
   },
   {
     "tag_name": "reference work",
-    "related_tags": []
+    "related_tags": [
+      "引き合い+営み"
+    ]
   },
   {
     "tag_name": "screencap redraw",
-    "related_tags": []
+    "related_tags": [
+      "screencap+再描画"
+    ]
   },
   {
     "tag_name": "duplicate",
-    "related_tags": []
+    "related_tags": [
+      "控え"
+    ]
   },
   {
     "tag_name": "pixel-perfect duplicate",
-    "related_tags": []
+    "related_tags": [
+      "ドット+完ぺき+控え"
+    ]
   },
   {
     "tag_name": "error",
-    "related_tags": []
+    "related_tags": [
+      "違い"
+    ]
   },
   {
     "tag_name": "bad reflection",
-    "related_tags": []
+    "related_tags": [
+      "悪い+影"
+    ]
   },
   {
     "tag_name": "extra digits",
-    "related_tags": []
+    "related_tags": [
+      "限外+位"
+    ]
   },
   {
     "tag_name": "typo",
-    "related_tags": []
+    "related_tags": [
+      "誤字"
+    ]
   },
   {
     "tag_name": "lossless-lossy",
@@ -5607,7 +6491,9 @@ return [
   },
   {
     "tag_name": "image macro",
-    "related_tags": []
+    "related_tags": [
+      "影+マクロ"
+    ]
   },
   {
     "tag_name": "md5 mismatch",
@@ -5621,11 +6507,15 @@ return [
   },
   {
     "tag_name": "hard-translated",
-    "related_tags": []
+    "related_tags": [
+      "営々+トランスレート"
+    ]
   },
   {
     "tag_name": "nude filter",
-    "related_tags": []
+    "related_tags": [
+      "赤裸+漉し器"
+    ]
   },
   {
     "tag_name": "poorly drawn",
@@ -5633,19 +6523,27 @@ return [
   },
   {
     "tag_name": "anatomical nonsense",
-    "related_tags": []
+    "related_tags": [
+      "anatomical+滅茶"
+    ]
   },
   {
     "tag_name": "bad anatomy",
-    "related_tags": []
+    "related_tags": [
+      "悪い+解剖学"
+    ]
   },
   {
     "tag_name": "bad hands",
-    "related_tags": []
+    "related_tags": [
+      "悪い+御手手"
+    ]
   },
   {
     "tag_name": "bad proportions",
-    "related_tags": []
+    "related_tags": [
+      "悪い+割"
+    ]
   },
   {
     "tag_name": "quality",
@@ -5669,7 +6567,9 @@ return [
   },
   {
     "tag_name": "image sample",
-    "related_tags": []
+    "related_tags": [
+      "影+検体"
+    ]
   },
   {
     "tag_name": "upscaled",
@@ -5681,7 +6581,9 @@ return [
   },
   {
     "tag_name": "reversed",
-    "related_tags": []
+    "related_tags": [
+      "逆さ"
+    ]
   },
   {
     "tag_name": "rotated",
@@ -5689,35 +6591,51 @@ return [
   },
   {
     "tag_name": "solid color thumbnail",
-    "related_tags": []
+    "related_tags": [
+      "安固+艶+親指の爪"
+    ]
   },
   {
     "tag_name": "unmoving pattern",
-    "related_tags": []
+    "related_tags": [
+      "unmoving+下敷"
+    ]
   },
   {
     "tag_name": "watermark",
-    "related_tags": []
+    "related_tags": [
+      "水位標"
+    ]
   },
   {
     "tag_name": "third-party watermark",
-    "related_tags": []
+    "related_tags": [
+      "三番+一行+水位標"
+    ]
   },
   {
     "tag_name": "web address",
-    "related_tags": []
+    "related_tags": [
+      "ウェブ・アドレス"
+    ]
   },
   {
     "tag_name": "extraction",
-    "related_tags": []
+    "related_tags": [
+      "出射"
+    ]
   },
   {
     "tag_name": "bromide",
-    "related_tags": []
+    "related_tags": [
+      "臭化物"
+    ]
   },
   {
     "tag_name": "aqua eyes",
-    "related_tags": []
+    "related_tags": [
+      "水色+眼つき"
+    ]
   },
   {
     "tag_name": "black eyes",
@@ -5745,11 +6663,15 @@ return [
   },
   {
     "tag_name": "grey eyes",
-    "related_tags": []
+    "related_tags": [
+      "灰色+眼つき"
+    ]
   },
   {
     "tag_name": "orange eyes",
-    "related_tags": []
+    "related_tags": [
+      "炎色+眼つき"
+    ]
   },
   {
     "tag_name": "purple eyes",
@@ -5759,7 +6681,9 @@ return [
   },
   {
     "tag_name": "pink eyes",
-    "related_tags": []
+    "related_tags": [
+      "流行り目"
+    ]
   },
   {
     "tag_name": "red eyes",
@@ -5781,7 +6705,9 @@ return [
   },
   {
     "tag_name": "amber eyes",
-    "related_tags": []
+    "related_tags": [
+      "飴+眼つき"
+    ]
   },
   {
     "tag_name": "heterochromia",
@@ -5791,7 +6717,9 @@ return [
   },
   {
     "tag_name": "multicolored eyes",
-    "related_tags": []
+    "related_tags": [
+      "色とりどり+眼つき"
+    ]
   },
   {
     "tag_name": "@ @",
@@ -5805,11 +6733,15 @@ return [
   },
   {
     "tag_name": "dashed eyes",
-    "related_tags": []
+    "related_tags": [
+      "疾走+眼つき"
+    ]
   },
   {
     "tag_name": "Pac-man eyes",
-    "related_tags": []
+    "related_tags": [
+      "政治行動委員会+牡+眼つき"
+    ]
   },
   {
     "tag_name": "ringed eyes",
@@ -5819,47 +6751,69 @@ return [
   },
   {
     "tag_name": "aqua pupils",
-    "related_tags": []
+    "related_tags": [
+      "水色+学童"
+    ]
   },
   {
     "tag_name": "blue pupils",
-    "related_tags": []
+    "related_tags": [
+      "重い+学童"
+    ]
   },
   {
     "tag_name": "brown pupils",
-    "related_tags": []
+    "related_tags": [
+      "赤銅色+学童"
+    ]
   },
   {
     "tag_name": "green pupils",
-    "related_tags": []
+    "related_tags": [
+      "産+学童"
+    ]
   },
   {
     "tag_name": "grey pupils",
-    "related_tags": []
+    "related_tags": [
+      "灰色+学童"
+    ]
   },
   {
     "tag_name": "orange pupils",
-    "related_tags": []
+    "related_tags": [
+      "炎色+学童"
+    ]
   },
   {
     "tag_name": "pink pupils",
-    "related_tags": []
+    "related_tags": [
+      "退紅+学童"
+    ]
   },
   {
     "tag_name": "purple pupils",
-    "related_tags": []
+    "related_tags": [
+      "此の糸+学童"
+    ]
   },
   {
     "tag_name": "red pupils",
-    "related_tags": []
+    "related_tags": [
+      "赭い+学童"
+    ]
   },
   {
     "tag_name": "white pupils",
-    "related_tags": []
+    "related_tags": [
+      "白+学童"
+    ]
   },
   {
     "tag_name": "yellow pupils",
-    "related_tags": []
+    "related_tags": [
+      "黄+学童"
+    ]
   },
   {
     "tag_name": "dilated pupils",
@@ -5869,19 +6823,27 @@ return [
   },
   {
     "tag_name": "extra pupils",
-    "related_tags": []
+    "related_tags": [
+      "限外+学童"
+    ]
   },
   {
     "tag_name": "horizontal pupils",
-    "related_tags": []
+    "related_tags": [
+      "水平+学童"
+    ]
   },
   {
     "tag_name": "no pupils",
-    "related_tags": []
+    "related_tags": [
+      "no+学童"
+    ]
   },
   {
     "tag_name": "symbol-shaped pupils",
-    "related_tags": []
+    "related_tags": [
+      "印+影+学童"
+    ]
   },
   {
     "tag_name": "+ +",
@@ -5891,11 +6853,15 @@ return [
   },
   {
     "tag_name": "diamond-shaped pupils",
-    "related_tags": []
+    "related_tags": [
+      "金剛+影+学童"
+    ]
   },
   {
     "tag_name": "flower-shaped pupils",
-    "related_tags": []
+    "related_tags": [
+      "花+影+学童"
+    ]
   },
   {
     "tag_name": "heart-shaped pupils",
@@ -5911,11 +6877,15 @@ return [
   },
   {
     "tag_name": "mismatched pupils",
-    "related_tags": []
+    "related_tags": [
+      "ちぐはぐ+学童"
+    ]
   },
   {
     "tag_name": "blue sclera",
-    "related_tags": []
+    "related_tags": [
+      "重い+強膜"
+    ]
   },
   {
     "tag_name": "black sclera",
@@ -5931,31 +6901,45 @@ return [
   },
   {
     "tag_name": "bloodshot eyes",
-    "related_tags": []
+    "related_tags": [
+      "血まなこ"
+    ]
   },
   {
     "tag_name": "green sclera",
-    "related_tags": []
+    "related_tags": [
+      "産+強膜"
+    ]
   },
   {
     "tag_name": "mismatched sclera",
-    "related_tags": []
+    "related_tags": [
+      "ちぐはぐ+強膜"
+    ]
   },
   {
     "tag_name": "no sclera",
-    "related_tags": []
+    "related_tags": [
+      "no+強膜"
+    ]
   },
   {
     "tag_name": "orange sclera",
-    "related_tags": []
+    "related_tags": [
+      "炎色+強膜"
+    ]
   },
   {
     "tag_name": "red sclera",
-    "related_tags": []
+    "related_tags": [
+      "赭い+強膜"
+    ]
   },
   {
     "tag_name": "yellow sclera",
-    "related_tags": []
+    "related_tags": [
+      "黄+強膜"
+    ]
   },
   {
     "tag_name": "bags under eyes",
@@ -5965,23 +6949,33 @@ return [
   },
   {
     "tag_name": "aegyo sal",
-    "related_tags": []
+    "related_tags": [
+      "aegyo+SAL便"
+    ]
   },
   {
     "tag_name": "flaming eyes",
-    "related_tags": []
+    "related_tags": [
+      "祭+眼つき"
+    ]
   },
   {
     "tag_name": "glowing eyes",
-    "related_tags": []
+    "related_tags": [
+      "赫奕+眼つき"
+    ]
   },
   {
     "tag_name": "glowing eye",
-    "related_tags": []
+    "related_tags": [
+      "赫奕+眼"
+    ]
   },
   {
     "tag_name": "mako eyes",
-    "related_tags": []
+    "related_tags": [
+      "mako+眼つき"
+    ]
   },
   {
     "tag_name": "Final Fantasy VII",
@@ -5991,15 +6985,21 @@ return [
   },
   {
     "tag_name": "amphibian eyes",
-    "related_tags": []
+    "related_tags": [
+      "両棲+眼つき"
+    ]
   },
   {
     "tag_name": "button eyes",
-    "related_tags": []
+    "related_tags": [
+      "撮み+眼つき"
+    ]
   },
   {
     "tag_name": "cephalopod eyes",
-    "related_tags": []
+    "related_tags": [
+      "頭足類+眼つき"
+    ]
   },
   {
     "tag_name": "compound eyes",
@@ -6009,7 +7009,9 @@ return [
   },
   {
     "tag_name": "crazy eyes",
-    "related_tags": []
+    "related_tags": [
+      "気が変+眼つき"
+    ]
   },
   {
     "tag_name": "empty eyes",
@@ -6087,11 +7089,15 @@ return [
   },
   {
     "tag_name": "eye reflection",
-    "related_tags": []
+    "related_tags": [
+      "眼+影"
+    ]
   },
   {
     "tag_name": "text in eyes",
-    "related_tags": []
+    "related_tags": [
+      "条文+in+眼つき"
+    ]
   },
   {
     "tag_name": "one-eyed",
@@ -6113,7 +7119,9 @@ return [
   },
   {
     "tag_name": "no eyes",
-    "related_tags": []
+    "related_tags": [
+      "no+眼つき"
+    ]
   },
   {
     "tag_name": "> <",
@@ -6169,7 +7177,9 @@ return [
   },
   {
     "tag_name": "hat over eyes",
-    "related_tags": []
+    "related_tags": [
+      "帽+越し+眼つき"
+    ]
   },
   {
     "tag_name": "eyelashes",
@@ -6179,15 +7189,21 @@ return [
   },
   {
     "tag_name": "colored eyelashes",
-    "related_tags": []
+    "related_tags": [
+      "色つき+睫"
+    ]
   },
   {
     "tag_name": "fake eyelashes",
-    "related_tags": []
+    "related_tags": [
+      "贋+睫"
+    ]
   },
   {
     "tag_name": "eyes visible through hair",
-    "related_tags": []
+    "related_tags": [
+      "眼つき+visible+越し+一髪"
+    ]
   },
   {
     "tag_name": "makeup",
@@ -6215,51 +7231,75 @@ return [
   },
   {
     "tag_name": "looking at another",
-    "related_tags": []
+    "related_tags": [
+      "見+at+何か別"
+    ]
   },
   {
     "tag_name": "looking at breasts",
-    "related_tags": []
+    "related_tags": [
+      "見+at+胸"
+    ]
   },
   {
     "tag_name": "looking at hand",
-    "related_tags": []
+    "related_tags": [
+      "見+at+一臂"
+    ]
   },
   {
     "tag_name": "looking at hands",
-    "related_tags": []
+    "related_tags": [
+      "見+at+御手手"
+    ]
   },
   {
     "tag_name": "looking at mirror",
-    "related_tags": []
+    "related_tags": [
+      "見+at+亀鑑"
+    ]
   },
   {
     "tag_name": "looking at phone",
-    "related_tags": []
+    "related_tags": [
+      "見+at+単音"
+    ]
   },
   {
     "tag_name": "looking at self",
-    "related_tags": []
+    "related_tags": [
+      "見+at+自我"
+    ]
   },
   {
     "tag_name": "looking at penis",
-    "related_tags": []
+    "related_tags": [
+      "見+at+一物"
+    ]
   },
   {
     "tag_name": "looking at pussy",
-    "related_tags": []
+    "related_tags": [
+      "見+at+おまんこ"
+    ]
   },
   {
     "tag_name": "looking at crotch",
-    "related_tags": []
+    "related_tags": [
+      "見+at+股"
+    ]
   },
   {
     "tag_name": "looking outside",
-    "related_tags": []
+    "related_tags": [
+      "見+屋外"
+    ]
   },
   {
     "tag_name": "looking over eyewear",
-    "related_tags": []
+    "related_tags": [
+      "見+越し+アイウェア"
+    ]
   },
   {
     "tag_name": "looking through legs",
@@ -6269,23 +7309,33 @@ return [
   },
   {
     "tag_name": "artificial eye",
-    "related_tags": []
+    "related_tags": [
+      "義眼"
+    ]
   },
   {
     "tag_name": "glass eye",
-    "related_tags": []
+    "related_tags": [
+      "水飲み+眼"
+    ]
   },
   {
     "tag_name": "mechanical eye",
-    "related_tags": []
+    "related_tags": [
+      "機械的+眼"
+    ]
   },
   {
     "tag_name": "asymmetrical eyes",
-    "related_tags": []
+    "related_tags": [
+      "asymmetrical+眼つき"
+    ]
   },
   {
     "tag_name": "big eyes",
-    "related_tags": []
+    "related_tags": [
+      "巨いなる+眼つき"
+    ]
   },
   {
     "tag_name": "blind",
@@ -6295,15 +7345,21 @@ return [
   },
   {
     "tag_name": "partially blind",
-    "related_tags": []
+    "related_tags": [
+      "生+闇雲"
+    ]
   },
   {
     "tag_name": "drawn on eyes",
-    "related_tags": []
+    "related_tags": [
+      "drawn+on+眼つき"
+    ]
   },
   {
     "tag_name": "eyeball",
-    "related_tags": []
+    "related_tags": [
+      "眼"
+    ]
   },
   {
     "tag_name": "eye beam",
@@ -6319,11 +7375,15 @@ return [
   },
   {
     "tag_name": "eye pop",
-    "related_tags": []
+    "related_tags": [
+      "眼+父さん"
+    ]
   },
   {
     "tag_name": "eye trail",
-    "related_tags": []
+    "related_tags": [
+      "眼+散歩道"
+    ]
   },
   {
     "tag_name": "half-closed eyes",
@@ -6345,7 +7405,9 @@ return [
   },
   {
     "tag_name": "uneven eyes",
-    "related_tags": []
+    "related_tags": [
+      "揃わない+眼つき"
+    ]
   },
   {
     "tag_name": "upturned eyes",
@@ -6355,7 +7417,9 @@ return [
   },
   {
     "tag_name": "wall-eyed",
-    "related_tags": []
+    "related_tags": [
+      "囲い+眼"
+    ]
   },
   {
     "tag_name": "Wings",
@@ -6365,15 +7429,21 @@ return [
   },
   {
     "tag_name": "Alternate wings",
-    "related_tags": []
+    "related_tags": [
+      "一つ置き+羽交い"
+    ]
   },
   {
     "tag_name": "Multiple wings",
-    "related_tags": []
+    "related_tags": [
+      "多重+羽交い"
+    ]
   },
   {
     "tag_name": "No wings",
-    "related_tags": []
+    "related_tags": [
+      "no+羽交い"
+    ]
   },
   {
     "tag_name": "Single wing",
@@ -6383,11 +7453,15 @@ return [
   },
   {
     "tag_name": "Large wings",
-    "related_tags": []
+    "related_tags": [
+      "巨いなる+羽交い"
+    ]
   },
   {
     "tag_name": "Mini wings",
-    "related_tags": []
+    "related_tags": [
+      "mini+羽交い"
+    ]
   },
   {
     "tag_name": "Angel wings",
@@ -6403,143 +7477,213 @@ return [
   },
   {
     "tag_name": "Dragon wings",
-    "related_tags": []
+    "related_tags": [
+      "dragon+羽交い"
+    ]
   },
   {
     "tag_name": "Fairy wings",
-    "related_tags": []
+    "related_tags": [
+      "淫羊かく"
+    ]
   },
   {
     "tag_name": "Insect wings",
-    "related_tags": []
+    "related_tags": [
+      "昆虫+羽交い"
+    ]
   },
   {
     "tag_name": "Butterfly wings",
-    "related_tags": []
+    "related_tags": [
+      "胡蝶+羽交い"
+    ]
   },
   {
     "tag_name": "Dragonfly wings",
-    "related_tags": []
+    "related_tags": [
+      "秋津+羽交い"
+    ]
   },
   {
     "tag_name": "Ladybug wings",
-    "related_tags": []
+    "related_tags": [
+      "ladybug+羽交い"
+    ]
   },
   {
     "tag_name": "Moth wings",
-    "related_tags": []
+    "related_tags": [
+      "蛾+羽交い"
+    ]
   },
   {
     "tag_name": "Bat wings",
-    "related_tags": []
+    "related_tags": [
+      "蚊食い鳥+羽交い"
+    ]
   },
   {
     "tag_name": "Crystal wings",
-    "related_tags": []
+    "related_tags": [
+      "玉瑛+羽交い"
+    ]
   },
   {
     "tag_name": "Energy wings",
-    "related_tags": []
+    "related_tags": [
+      "威勢+羽交い"
+    ]
   },
   {
     "tag_name": "Fiery wings",
-    "related_tags": []
+    "related_tags": [
+      "炎々+羽交い"
+    ]
   },
   {
     "tag_name": "Ice wings",
-    "related_tags": []
+    "related_tags": [
+      "結氷+羽交い"
+    ]
   },
   {
     "tag_name": "Light hawk wings",
-    "related_tags": []
+    "related_tags": [
+      "簡単+鷹+羽交い"
+    ]
   },
   {
     "tag_name": "Liquid wings",
-    "related_tags": []
+    "related_tags": [
+      "液+羽交い"
+    ]
   },
   {
     "tag_name": "Artificial wings",
-    "related_tags": []
+    "related_tags": [
+      "作為的+羽交い"
+    ]
   },
   {
     "tag_name": "Fake wings",
-    "related_tags": []
+    "related_tags": [
+      "贋+羽交い"
+    ]
   },
   {
     "tag_name": "Hair wings",
-    "related_tags": []
+    "related_tags": [
+      "一髪+羽交い"
+    ]
   },
   {
     "tag_name": "Metal wings",
-    "related_tags": []
+    "related_tags": [
+      "金+羽交い"
+    ]
   },
   {
     "tag_name": "Plant wings",
-    "related_tags": []
+    "related_tags": [
+      "株+羽交い"
+    ]
   },
   {
     "tag_name": "Feathered wings",
-    "related_tags": []
+    "related_tags": [
+      "羽+羽交い"
+    ]
   },
   {
     "tag_name": "Black wings",
-    "related_tags": []
+    "related_tags": [
+      "暗然+羽交い"
+    ]
   },
   {
     "tag_name": "Gradient wings",
-    "related_tags": []
+    "related_tags": [
+      "階調+羽交い"
+    ]
   },
   {
     "tag_name": "Red wings",
-    "related_tags": []
+    "related_tags": [
+      "赭い+羽交い"
+    ]
   },
   {
     "tag_name": "White wings",
-    "related_tags": []
+    "related_tags": [
+      "白+羽交い"
+    ]
   },
   {
     "tag_name": "Blue wings",
-    "related_tags": []
+    "related_tags": [
+      "重い+羽交い"
+    ]
   },
   {
     "tag_name": "Green wings",
-    "related_tags": []
+    "related_tags": [
+      "産+羽交い"
+    ]
   },
   {
     "tag_name": "Brown wings",
-    "related_tags": []
+    "related_tags": [
+      "赤銅色+羽交い"
+    ]
   },
   {
     "tag_name": "Transparent wings",
-    "related_tags": []
+    "related_tags": [
+      "見え見え+羽交い"
+    ]
   },
   {
     "tag_name": "Yellow wings",
-    "related_tags": []
+    "related_tags": [
+      "黄+羽交い"
+    ]
   },
   {
     "tag_name": "Pink wings",
-    "related_tags": []
+    "related_tags": [
+      "退紅+羽交い"
+    ]
   },
   {
     "tag_name": "Rainbow wings",
-    "related_tags": []
+    "related_tags": [
+      "虹+羽交い"
+    ]
   },
   {
     "tag_name": "Grey wings",
-    "related_tags": []
+    "related_tags": [
+      "灰色+羽交い"
+    ]
   },
   {
     "tag_name": "Ankle wings",
-    "related_tags": []
+    "related_tags": [
+      "足関節+羽交い"
+    ]
   },
   {
     "tag_name": "Detached wings",
-    "related_tags": []
+    "related_tags": [
+      "淡々+羽交い"
+    ]
   },
   {
     "tag_name": "Head wings",
-    "related_tags": []
+    "related_tags": [
+      "髄+羽交い"
+    ]
   },
   {
     "tag_name": "Low wings",
@@ -6549,11 +7693,15 @@ return [
   },
   {
     "tag_name": "Leg wings",
-    "related_tags": []
+    "related_tags": [
+      "脚+羽交い"
+    ]
   },
   {
     "tag_name": "Wrist wings",
-    "related_tags": []
+    "related_tags": [
+      "手頚+羽交い"
+    ]
   },
   {
     "tag_name": "Wing ears",
@@ -6563,7 +7711,9 @@ return [
   },
   {
     "tag_name": "Winged arms",
-    "related_tags": []
+    "related_tags": [
+      "有翼+干戈"
+    ]
   },
   {
     "tag_name": "Winged bag",
@@ -6573,47 +7723,69 @@ return [
   },
   {
     "tag_name": "Winged hat",
-    "related_tags": []
+    "related_tags": [
+      "有翼+帽"
+    ]
   },
   {
     "tag_name": "Winged helmet",
-    "related_tags": []
+    "related_tags": [
+      "有翼+鉄帽"
+    ]
   },
   {
     "tag_name": "Winged footwear",
-    "related_tags": []
+    "related_tags": [
+      "有翼+沓"
+    ]
   },
   {
     "tag_name": "Asymmetrical wings",
-    "related_tags": []
+    "related_tags": [
+      "asymmetrical+羽交い"
+    ]
   },
   {
     "tag_name": "Bloody wings",
-    "related_tags": []
+    "related_tags": [
+      "血だらけ+羽交い"
+    ]
   },
   {
     "tag_name": "Bowed wings",
-    "related_tags": []
+    "related_tags": [
+      "腰折+羽交い"
+    ]
   },
   {
     "tag_name": "Glowing wings",
-    "related_tags": []
+    "related_tags": [
+      "赫奕+羽交い"
+    ]
   },
   {
     "tag_name": "Heart wings",
-    "related_tags": []
+    "related_tags": [
+      "意気+羽交い"
+    ]
   },
   {
     "tag_name": "Torn wings",
-    "related_tags": []
+    "related_tags": [
+      "torn+羽交い"
+    ]
   },
   {
     "tag_name": "Wing censor",
-    "related_tags": []
+    "related_tags": [
+      "羽+検閲官"
+    ]
   },
   {
     "tag_name": "Grabbing another's wing",
-    "related_tags": []
+    "related_tags": [
+      "手づかみ+another's+羽"
+    ]
   },
   {
     "tag_name": "Wing hug",
@@ -6623,7 +7795,9 @@ return [
   },
   {
     "tag_name": "Wing umbrella",
-    "related_tags": []
+    "related_tags": [
+      "羽+雨がさ"
+    ]
   },
   {
     "tag_name": "Wingjob",
@@ -6631,15 +7805,21 @@ return [
   },
   {
     "tag_name": "Wing ribbon",
-    "related_tags": []
+    "related_tags": [
+      "羽+リボン"
+    ]
   },
   {
     "tag_name": "Wing collar",
-    "related_tags": []
+    "related_tags": [
+      "ウイング・カラー"
+    ]
   },
   {
     "tag_name": "pokemon (game)",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+(game)"
+    ]
   },
   {
     "tag_name": "pokemon rgby",
@@ -6649,7 +7829,9 @@ return [
   },
   {
     "tag_name": "pokemon rgby (prototype)",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+rgby+(prototype)"
+    ]
   },
   {
     "tag_name": "pokemon gsc",
@@ -6659,7 +7841,9 @@ return [
   },
   {
     "tag_name": "pokemon gsc (prototype)",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+gsc+(prototype)"
+    ]
   },
   {
     "tag_name": "pokemon rse",
@@ -6669,7 +7853,9 @@ return [
   },
   {
     "tag_name": "pokemon rse (prototype)",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+rse+(prototype)"
+    ]
   },
   {
     "tag_name": "pokemon emerald",
@@ -6679,7 +7865,9 @@ return [
   },
   {
     "tag_name": "pokemon frlg",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+frlg"
+    ]
   },
   {
     "tag_name": "pokemon dppt",
@@ -6689,11 +7877,15 @@ return [
   },
   {
     "tag_name": "pokemon dppt (prototype)",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+dppt+(prototype)"
+    ]
   },
   {
     "tag_name": "pokemon platinum",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+platinum"
+    ]
   },
   {
     "tag_name": "pokemon hgss",
@@ -6775,7 +7967,9 @@ return [
   },
   {
     "tag_name": "Learn with Pokemon: Typing Adventure",
-    "related_tags": []
+    "related_tags": [
+      "学のある+以ちまして+pokemon:+印字+冒険"
+    ]
   },
   {
     "tag_name": "My Pokemon Ranch",
@@ -6791,7 +7985,9 @@ return [
   },
   {
     "tag_name": "Pocket Pikachu",
-    "related_tags": []
+    "related_tags": [
+      "衣嚢+pikachu"
+    ]
   },
   {
     "tag_name": "Pokemon Art Academy",
@@ -6813,7 +8009,9 @@ return [
   },
   {
     "tag_name": "Pokemon Battrio",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+battrio"
+    ]
   },
   {
     "tag_name": "Pokemon Box Ruby & Sapphire",
@@ -6859,7 +8057,9 @@ return [
   },
   {
     "tag_name": "Pokemon Home",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+家庭"
+    ]
   },
   {
     "tag_name": "Pokemon Magikarp Jump",
@@ -6921,7 +8121,9 @@ return [
   },
   {
     "tag_name": "Pokemon Shuffle",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+shuffle"
+    ]
   },
   {
     "tag_name": "Pokemon Sleep",
@@ -6931,7 +8133,9 @@ return [
   },
   {
     "tag_name": "Pokemon Smile",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+一笑"
+    ]
   },
   {
     "tag_name": "Pokemon Snap",
@@ -6953,7 +8157,9 @@ return [
   },
   {
     "tag_name": "Pokemon TCG GB",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+tcg+gb"
+    ]
   },
   {
     "tag_name": "Pokemon Trozei",
@@ -6981,15 +8187,21 @@ return [
   },
   {
     "tag_name": "Pokemon Black & Blue",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+暗然+&+重い"
+    ]
   },
   {
     "tag_name": "Pokemon Infinite Fusion",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+広大無辺+合同"
+    ]
   },
   {
     "tag_name": "Pokemon Insurgence",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+insurgence"
+    ]
   },
   {
     "tag_name": "Pokemon Vega",
@@ -6999,7 +8211,9 @@ return [
   },
   {
     "tag_name": "Pokemon Showdown!",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+showdown!"
+    ]
   },
   {
     "tag_name": "pokemon (anime)",
@@ -7009,7 +8223,9 @@ return [
   },
   {
     "tag_name": "pokemon (classic anime)",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+(classic+anime)"
+    ]
   },
   {
     "tag_name": "pokemon rse (anime)",
@@ -7025,7 +8241,9 @@ return [
   },
   {
     "tag_name": "pokemon bw (anime)",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+bw+(anime)"
+    ]
   },
   {
     "tag_name": "pokemon xy (anime)",
@@ -7243,11 +8461,15 @@ return [
   },
   {
     "tag_name": "how i became a pokemon card",
-    "related_tags": []
+    "related_tags": [
+      "安んぞ+i+became+a+ポケモン+簡"
+    ]
   },
   {
     "tag_name": "lets play! pokemon card game xy",
-    "related_tags": []
+    "related_tags": [
+      "レット+play!+ポケモン+簡+一戦+xy"
+    ]
   },
   {
     "tag_name": "magical pokemon journey",
@@ -7275,7 +8497,9 @@ return [
   },
   {
     "tag_name": "pokemon golden boys",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+黄金+一男"
+    ]
   },
   {
     "tag_name": "pokemon gotta catch 'em all",
@@ -7291,7 +8515,9 @@ return [
   },
   {
     "tag_name": "pokemon newspaper strip",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+紙+細片"
+    ]
   },
   {
     "tag_name": "pokemon reburst",
@@ -7307,7 +8533,9 @@ return [
   },
   {
     "tag_name": "pokemon zensho",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+zensho"
+    ]
   },
   {
     "tag_name": "Pokémon Apokelypse",
@@ -7315,15 +8543,21 @@ return [
   },
   {
     "tag_name": "Pokémon Expo Gym",
-    "related_tags": []
+    "related_tags": [
+      "pokémon+エキスポ+アスレチック・クラブ"
+    ]
   },
   {
     "tag_name": "Pokémon Lost Silver",
-    "related_tags": []
+    "related_tags": [
+      "pokémon+行方不明+白銀"
+    ]
   },
   {
     "tag_name": "Pokémon Wonder",
-    "related_tags": []
+    "related_tags": [
+      "pokémon+怪"
+    ]
   },
   {
     "tag_name": "adjusting eyewear",
@@ -7333,39 +8567,57 @@ return [
   },
   {
     "tag_name": "hand on another's head",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+another's+髄"
+    ]
   },
   {
     "tag_name": "hand on own head",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+自家+髄"
+    ]
   },
   {
     "tag_name": "hand on own forehead",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+自家+額"
+    ]
   },
   {
     "tag_name": "hand on another's face",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+another's+逢着"
+    ]
   },
   {
     "tag_name": "hand on own face",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+自家+逢着"
+    ]
   },
   {
     "tag_name": "hands on another's face",
-    "related_tags": []
+    "related_tags": [
+      "御手手+on+another's+逢着"
+    ]
   },
   {
     "tag_name": "hands on own face",
-    "related_tags": []
+    "related_tags": [
+      "御手手+on+自家+逢着"
+    ]
   },
   {
     "tag_name": "hand on another's cheek",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+another's+心臓"
+    ]
   },
   {
     "tag_name": "hand on own cheek",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+自家+心臓"
+    ]
   },
   {
     "tag_name": "hand on headwear",
@@ -7375,7 +8627,9 @@ return [
   },
   {
     "tag_name": "hand on another's chest",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+another's+胸"
+    ]
   },
   {
     "tag_name": "hand on own chest",
@@ -7391,23 +8645,33 @@ return [
   },
   {
     "tag_name": "hand on another's shoulder",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+another's+肩"
+    ]
   },
   {
     "tag_name": "hand on own shoulder",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+自家+肩"
+    ]
   },
   {
     "tag_name": "hands on ass",
-    "related_tags": []
+    "related_tags": [
+      "御手手+on+太もも"
+    ]
   },
   {
     "tag_name": "hand on own knee",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+自家+小膝"
+    ]
   },
   {
     "tag_name": "hands on own knees",
-    "related_tags": []
+    "related_tags": [
+      "御手手+on+自家+小膝"
+    ]
   },
   {
     "tag_name": "hand between legs",
@@ -7417,19 +8681,27 @@ return [
   },
   {
     "tag_name": "hands on feet",
-    "related_tags": []
+    "related_tags": [
+      "御手手+on+フィート"
+    ]
   },
   {
     "tag_name": "hand on another's hand",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+another's+一臂"
+    ]
   },
   {
     "tag_name": "hands in pockets",
-    "related_tags": []
+    "related_tags": [
+      "御手手+in+衣嚢"
+    ]
   },
   {
     "tag_name": "hand mouth",
-    "related_tags": []
+    "related_tags": [
+      "一臂+口"
+    ]
   },
   {
     "tag_name": "Science fiction",
@@ -7481,7 +8753,9 @@ return [
   },
   {
     "tag_name": "Robot joints",
-    "related_tags": []
+    "related_tags": [
+      "人造人間+節々"
+    ]
   },
   {
     "tag_name": "Mechanical parts",
@@ -7509,7 +8783,9 @@ return [
   },
   {
     "tag_name": "Robot dragon",
-    "related_tags": []
+    "related_tags": [
+      "人造人間+dragon"
+    ]
   },
   {
     "tag_name": "Replicant",
@@ -7553,11 +8829,15 @@ return [
   },
   {
     "tag_name": "Sand mecha",
-    "related_tags": []
+    "related_tags": [
+      "沙+mecha"
+    ]
   },
   {
     "tag_name": "Mechanical broom",
-    "related_tags": []
+    "related_tags": [
+      "機械的+草箒"
+    ]
   },
   {
     "tag_name": "Power glove",
@@ -7579,15 +8859,21 @@ return [
   },
   {
     "tag_name": "Helicopter ears",
-    "related_tags": []
+    "related_tags": [
+      "ヘリ+耳底"
+    ]
   },
   {
     "tag_name": "Helicopter hair",
-    "related_tags": []
+    "related_tags": [
+      "ヘリ+一髪"
+    ]
   },
   {
     "tag_name": "Utility belt",
-    "related_tags": []
+    "related_tags": [
+      "功利+一帯"
+    ]
   },
   {
     "tag_name": "Automail",
@@ -7597,7 +8883,9 @@ return [
   },
   {
     "tag_name": "Cybernetic",
-    "related_tags": []
+    "related_tags": [
+      "人工頭脳学"
+    ]
   },
   {
     "tag_name": "Doll joints",
@@ -7607,15 +8895,21 @@ return [
   },
   {
     "tag_name": "Mechanical foot",
-    "related_tags": []
+    "related_tags": [
+      "機械的+下手"
+    ]
   },
   {
     "tag_name": "Mechanical wings",
-    "related_tags": []
+    "related_tags": [
+      "機械的+羽交い"
+    ]
   },
   {
     "tag_name": "Single mechanical arm",
-    "related_tags": []
+    "related_tags": [
+      "単+機械的+腕"
+    ]
   },
   {
     "tag_name": "Nobiiru arm",
@@ -7625,7 +8919,9 @@ return [
   },
   {
     "tag_name": "Severed limb",
-    "related_tags": []
+    "related_tags": [
+      "苛酷+枝"
+    ]
   },
   {
     "tag_name": "Computer",
@@ -7641,7 +8937,9 @@ return [
   },
   {
     "tag_name": "Computer chip",
-    "related_tags": []
+    "related_tags": [
+      "計算器+欠けら"
+    ]
   },
   {
     "tag_name": "Keyboard",
@@ -7675,27 +8973,39 @@ return [
   },
   {
     "tag_name": "Monitor",
-    "related_tags": []
+    "related_tags": [
+      "監視局"
+    ]
   },
   {
     "tag_name": "Curved monitor",
-    "related_tags": []
+    "related_tags": [
+      "円い+監視局"
+    ]
   },
   {
     "tag_name": "Multiple monitors",
-    "related_tags": []
+    "related_tags": [
+      "多重+監視局"
+    ]
   },
   {
     "tag_name": "RAM",
-    "related_tags": []
+    "related_tags": [
+      "突き棒"
+    ]
   },
   {
     "tag_name": "Tablet",
-    "related_tags": []
+    "related_tags": [
+      "鎖"
+    ]
   },
   {
     "tag_name": "Trackball",
-    "related_tags": []
+    "related_tags": [
+      "トラックボール"
+    ]
   },
   {
     "tag_name": "Screen",
@@ -7705,11 +9015,15 @@ return [
   },
   {
     "tag_name": "Floating screen",
-    "related_tags": []
+    "related_tags": [
+      "浮き+映写幕"
+    ]
   },
   {
     "tag_name": "Touchscreen",
-    "related_tags": []
+    "related_tags": [
+      "タッチスクリーン"
+    ]
   },
   {
     "tag_name": "USB",
@@ -7725,19 +9039,27 @@ return [
   },
   {
     "tag_name": "Holographic interface",
-    "related_tags": []
+    "related_tags": [
+      "ホログラフィック+引用仕様"
+    ]
   },
   {
     "tag_name": "Holographic keyboard",
-    "related_tags": []
+    "related_tags": [
+      "ホログラフィック+キーボード"
+    ]
   },
   {
     "tag_name": "Holographic touchscreen",
-    "related_tags": []
+    "related_tags": [
+      "ホログラフィック+タッチスクリーン"
+    ]
   },
   {
     "tag_name": "Holographic monitor",
-    "related_tags": []
+    "related_tags": [
+      "ホログラフィック+監視局"
+    ]
   },
   {
     "tag_name": "Microphone",
@@ -7753,11 +9075,15 @@ return [
   },
   {
     "tag_name": "Studio microphone",
-    "related_tags": []
+    "related_tags": [
+      "画房+マイク"
+    ]
   },
   {
     "tag_name": "Vintage microphone",
-    "related_tags": []
+    "related_tags": [
+      "ビンテージ+マイク"
+    ]
   },
   {
     "tag_name": "Phone",
@@ -7773,19 +9099,27 @@ return [
   },
   {
     "tag_name": "Cordless phone",
-    "related_tags": []
+    "related_tags": [
+      "コードレス電話"
+    ]
   },
   {
     "tag_name": "Cellphone radio bar",
-    "related_tags": []
+    "related_tags": [
+      "cellphone+無線機+飲み屋"
+    ]
   },
   {
     "tag_name": "Cellphone strap",
-    "related_tags": []
+    "related_tags": [
+      "cellphone+緒"
+    ]
   },
   {
     "tag_name": "Corded phone",
-    "related_tags": []
+    "related_tags": [
+      "corded+単音"
+    ]
   },
   {
     "tag_name": "Payphone",
@@ -7823,7 +9157,9 @@ return [
   },
   {
     "tag_name": "Earpiece",
-    "related_tags": []
+    "related_tags": [
+      "蔓"
+    ]
   },
   {
     "tag_name": "Earphones",
@@ -7863,15 +9199,21 @@ return [
   },
   {
     "tag_name": "Radio tower",
-    "related_tags": []
+    "related_tags": [
+      "電波塔"
+    ]
   },
   {
     "tag_name": "Satellite dish",
-    "related_tags": []
+    "related_tags": [
+      "衛星+一品"
+    ]
   },
   {
     "tag_name": "Radio booth",
-    "related_tags": []
+    "related_tags": [
+      "無線機+仮小屋"
+    ]
   },
   {
     "tag_name": "Radio telescope",
@@ -7881,7 +9223,9 @@ return [
   },
   {
     "tag_name": "Field radio",
-    "related_tags": []
+    "related_tags": [
+      "競技場+無線機"
+    ]
   },
   {
     "tag_name": "Radio antenna",
@@ -7897,7 +9241,9 @@ return [
   },
   {
     "tag_name": "Jet engine",
-    "related_tags": []
+    "related_tags": [
+      "ジェット・エンジン"
+    ]
   },
   {
     "tag_name": "Ambulance",
@@ -7931,7 +9277,9 @@ return [
   },
   {
     "tag_name": "Jeep",
-    "related_tags": []
+    "related_tags": [
+      "ジープ"
+    ]
   },
   {
     "tag_name": "Tank",
@@ -7959,7 +9307,9 @@ return [
   },
   {
     "tag_name": "Aerial tram",
-    "related_tags": []
+    "related_tags": [
+      "ロープウェー"
+    ]
   },
   {
     "tag_name": "Truck",
@@ -7987,7 +9337,9 @@ return [
   },
   {
     "tag_name": "Flatbed truck",
-    "related_tags": []
+    "related_tags": [
+      "flatbed+貨物自動車"
+    ]
   },
   {
     "tag_name": "Fire truck",
@@ -8003,7 +9355,9 @@ return [
   },
   {
     "tag_name": "Monster truck",
-    "related_tags": []
+    "related_tags": [
+      "化け物+貨物自動車"
+    ]
   },
   {
     "tag_name": "Pickup truck",
@@ -8013,7 +9367,9 @@ return [
   },
   {
     "tag_name": "Semi truck",
-    "related_tags": []
+    "related_tags": [
+      "トラック・トレーラー"
+    ]
   },
   {
     "tag_name": "Tank truck",
@@ -8023,7 +9379,9 @@ return [
   },
   {
     "tag_name": "Van",
-    "related_tags": []
+    "related_tags": [
+      "付加価値ネットワーク"
+    ]
   },
   {
     "tag_name": "Ship",
@@ -8045,11 +9403,15 @@ return [
   },
   {
     "tag_name": "Bomber",
-    "related_tags": []
+    "related_tags": [
+      "ボマー"
+    ]
   },
   {
     "tag_name": "Jet",
-    "related_tags": []
+    "related_tags": [
+      "吹き出し口"
+    ]
   },
   {
     "tag_name": "Fighter jet",
@@ -8065,23 +9427,33 @@ return [
   },
   {
     "tag_name": "Rocket ship",
-    "related_tags": []
+    "related_tags": [
+      "火箭+舟"
+    ]
   },
   {
     "tag_name": "Space Shuttle",
-    "related_tags": []
+    "related_tags": [
+      "シャットル"
+    ]
   },
   {
     "tag_name": "Tie Fighter",
-    "related_tags": []
+    "related_tags": [
+      "因縁+格闘家"
+    ]
   },
   {
     "tag_name": "Tie Interceptor",
-    "related_tags": []
+    "related_tags": [
+      "因縁+迎撃機"
+    ]
   },
   {
     "tag_name": "UFO",
-    "related_tags": []
+    "related_tags": [
+      "未確認飛行物体"
+    ]
   },
   {
     "tag_name": "Flying saucer",
@@ -8103,11 +9475,15 @@ return [
   },
   {
     "tag_name": "Shin guards",
-    "related_tags": []
+    "related_tags": [
+      "脛当て"
+    ]
   },
   {
     "tag_name": "Beam shield",
-    "related_tags": []
+    "related_tags": [
+      "桁+遮蔽物"
+    ]
   },
   {
     "tag_name": "Power armor",
@@ -8123,11 +9499,15 @@ return [
   },
   {
     "tag_name": "Bolt",
-    "related_tags": []
+    "related_tags": [
+      "心張り棒"
+    ]
   },
   {
     "tag_name": "Crank",
-    "related_tags": []
+    "related_tags": [
+      "奇人"
+    ]
   },
   {
     "tag_name": "Gears",
@@ -8137,19 +9517,27 @@ return [
   },
   {
     "tag_name": "Nut",
-    "related_tags": []
+    "related_tags": [
+      "果実"
+    ]
   },
   {
     "tag_name": "Piston",
-    "related_tags": []
+    "related_tags": [
+      "ピストン"
+    ]
   },
   {
     "tag_name": "Rotary switch",
-    "related_tags": []
+    "related_tags": [
+      "ロータリー・スイッチ"
+    ]
   },
   {
     "tag_name": "Screw",
-    "related_tags": []
+    "related_tags": [
+      "捻子"
+    ]
   },
   {
     "tag_name": "Tube",
@@ -8177,11 +9565,15 @@ return [
   },
   {
     "tag_name": "Capacitor",
-    "related_tags": []
+    "related_tags": [
+      "キャパシタ"
+    ]
   },
   {
     "tag_name": "Circuit board",
-    "related_tags": []
+    "related_tags": [
+      "基板"
+    ]
   },
   {
     "tag_name": "Light bulb",
@@ -8191,15 +9583,21 @@ return [
   },
   {
     "tag_name": "Nixie tube",
-    "related_tags": []
+    "related_tags": [
+      "nixie+管"
+    ]
   },
   {
     "tag_name": "Resistor",
-    "related_tags": []
+    "related_tags": [
+      "抵抗"
+    ]
   },
   {
     "tag_name": "Satellite",
-    "related_tags": []
+    "related_tags": [
+      "衛星"
+    ]
   },
   {
     "tag_name": "Satellite cannon",
@@ -8227,19 +9625,27 @@ return [
   },
   {
     "tag_name": "Space fountain",
-    "related_tags": []
+    "related_tags": [
+      "宇宙+吹き上げ"
+    ]
   },
   {
     "tag_name": "Black Hole",
-    "related_tags": []
+    "related_tags": [
+      "ブラック・ホール"
+    ]
   },
   {
     "tag_name": "Space helmet",
-    "related_tags": []
+    "related_tags": [
+      "宇宙帽"
+    ]
   },
   {
     "tag_name": "Space sword",
-    "related_tags": []
+    "related_tags": [
+      "宇宙+一刀"
+    ]
   },
   {
     "tag_name": "Space colony",
@@ -8249,15 +9655,21 @@ return [
   },
   {
     "tag_name": "Spacecraft interior",
-    "related_tags": []
+    "related_tags": [
+      "宇宙機+奥"
+    ]
   },
   {
     "tag_name": "Space capsule",
-    "related_tags": []
+    "related_tags": [
+      "宇宙+被膜"
+    ]
   },
   {
     "tag_name": "Space train",
-    "related_tags": []
+    "related_tags": [
+      "宇宙+鉄輪"
+    ]
   },
   {
     "tag_name": "Spacesuit",
@@ -8267,7 +9679,9 @@ return [
   },
   {
     "tag_name": "Space uniform",
-    "related_tags": []
+    "related_tags": [
+      "宇宙+一定"
+    ]
   },
   {
     "tag_name": "Space",
@@ -8295,15 +9709,21 @@ return [
   },
   {
     "tag_name": "Pliers",
-    "related_tags": []
+    "related_tags": [
+      "矢床"
+    ]
   },
   {
     "tag_name": "Screwdriver",
-    "related_tags": []
+    "related_tags": [
+      "螺子回し"
+    ]
   },
   {
     "tag_name": "Electric screwdriver",
-    "related_tags": []
+    "related_tags": [
+      "電気式+螺子回し"
+    ]
   },
   {
     "tag_name": "Wrench",
@@ -8319,27 +9739,39 @@ return [
   },
   {
     "tag_name": "Combination wrench",
-    "related_tags": []
+    "related_tags": [
+      "詰め合せ+挫傷"
+    ]
   },
   {
     "tag_name": "Double sided wrench",
-    "related_tags": []
+    "related_tags": [
+      "陰武者+国際単位系+挫傷"
+    ]
   },
   {
     "tag_name": "Clockwork",
-    "related_tags": []
+    "related_tags": [
+      "時計仕掛け"
+    ]
   },
   {
     "tag_name": "Mechanical",
-    "related_tags": []
+    "related_tags": [
+      "機械的"
+    ]
   },
   {
     "tag_name": "Neon trim",
-    "related_tags": []
+    "related_tags": [
+      "neon+刈"
+    ]
   },
   {
     "tag_name": "Radioactive",
-    "related_tags": []
+    "related_tags": [
+      "放射性"
+    ]
   },
   {
     "tag_name": "Transformation",
@@ -8349,7 +9781,9 @@ return [
   },
   {
     "tag_name": "Engineer",
-    "related_tags": []
+    "related_tags": [
+      "技師"
+    ]
   },
   {
     "tag_name": "Mechanic",
@@ -8421,7 +9855,9 @@ return [
   },
   {
     "tag_name": "Transforming clothes",
-    "related_tags": []
+    "related_tags": [
+      "transforming+衣服"
+    ]
   },
   {
     "tag_name": "City",
@@ -8447,7 +9883,9 @@ return [
   },
   {
     "tag_name": "Plasma",
-    "related_tags": []
+    "related_tags": [
+      "血しょう"
+    ]
   },
   {
     "tag_name": "Bandages",
@@ -8457,7 +9895,9 @@ return [
   },
   {
     "tag_name": "Electrodes",
-    "related_tags": []
+    "related_tags": [
+      "関電"
+    ]
   },
   {
     "tag_name": "Gauze",
@@ -8473,7 +9913,9 @@ return [
   },
   {
     "tag_name": "Stretcher",
-    "related_tags": []
+    "related_tags": [
+      "担架"
+    ]
   },
   {
     "tag_name": "Syringe",
@@ -8483,23 +9925,33 @@ return [
   },
   {
     "tag_name": "X-ray film",
-    "related_tags": []
+    "related_tags": [
+      "x+光+映画"
+    ]
   },
   {
     "tag_name": "Mecha on girl",
-    "related_tags": []
+    "related_tags": [
+      "mecha+on+姉ちゃん"
+    ]
   },
   {
     "tag_name": "Mecha request",
-    "related_tags": []
+    "related_tags": [
+      "mecha+依嘱"
+    ]
   },
   {
     "tag_name": "Family",
-    "related_tags": []
+    "related_tags": [
+      "一家"
+    ]
   },
   {
     "tag_name": "father and son",
-    "related_tags": []
+    "related_tags": [
+      "父子"
+    ]
   },
   {
     "tag_name": "father and daughter",
@@ -8521,7 +9973,9 @@ return [
   },
   {
     "tag_name": "siblings",
-    "related_tags": []
+    "related_tags": [
+      "兄弟"
+    ]
   },
   {
     "tag_name": "brothers",
@@ -8543,7 +9997,9 @@ return [
   },
   {
     "tag_name": "half-siblings",
-    "related_tags": []
+    "related_tags": [
+      "種変わり"
+    ]
   },
   {
     "tag_name": "twins",
@@ -8575,43 +10031,63 @@ return [
   },
   {
     "tag_name": "grandmother and granddaughter",
-    "related_tags": []
+    "related_tags": [
+      "御祖母さま+以って+孫娘"
+    ]
   },
   {
     "tag_name": "grandmother and grandson",
-    "related_tags": []
+    "related_tags": [
+      "御祖母さま+以って+孫息子"
+    ]
   },
   {
     "tag_name": "grandfather and granddaughter",
-    "related_tags": []
+    "related_tags": [
+      "阿翁+以って+孫娘"
+    ]
   },
   {
     "tag_name": "grandfather and grandson",
-    "related_tags": []
+    "related_tags": [
+      "阿翁+以って+孫息子"
+    ]
   },
   {
     "tag_name": "aunt and niece",
-    "related_tags": []
+    "related_tags": [
+      "叔母+以って+姪"
+    ]
   },
   {
     "tag_name": "aunt and nephew",
-    "related_tags": []
+    "related_tags": [
+      "叔母+以って+甥"
+    ]
   },
   {
     "tag_name": "uncle and niece",
-    "related_tags": []
+    "related_tags": [
+      "叔父+以って+姪"
+    ]
   },
   {
     "tag_name": "uncle and nephew",
-    "related_tags": []
+    "related_tags": [
+      "叔父+以って+甥"
+    ]
   },
   {
     "tag_name": "cousins",
-    "related_tags": []
+    "related_tags": [
+      "カズン"
+    ]
   },
   {
     "tag_name": "step-siblings",
-    "related_tags": []
+    "related_tags": [
+      "一切り+兄弟"
+    ]
   },
   {
     "tag_name": "cinema 4d (medium)",
@@ -8620,7 +10096,7 @@ return [
   {
     "tag_name": "clip studio paint (medium)",
     "related_tags": [
-      "CLIP_STUDIO_PAINT"
+      "csp"
     ]
   },
   {
@@ -8631,7 +10107,9 @@ return [
   },
   {
     "tag_name": "kid pix (medium)",
-    "related_tags": []
+    "related_tags": [
+      "餓鬼+pix+(medium)"
+    ]
   },
   {
     "tag_name": "krita (medium)",
@@ -8648,7 +10126,7 @@ return [
   {
     "tag_name": "microsoft paint",
     "related_tags": [
-      "MS_Paint"
+      "MSペイント"
     ]
   },
   {
@@ -8689,11 +10167,15 @@ return [
   },
   {
     "tag_name": "Clip Studio Paint",
-    "related_tags": []
+    "related_tags": [
+      "刈+画房+絵の具"
+    ]
   },
   {
     "tag_name": "MediBang Paint",
-    "related_tags": []
+    "related_tags": [
+      "medibang+絵の具"
+    ]
   },
   {
     "tag_name": "MSPaint (software)",
@@ -8705,7 +10187,9 @@ return [
   },
   {
     "tag_name": "PaintTool SAI",
-    "related_tags": []
+    "related_tags": [
+      "painttool+才"
+    ]
   },
   {
     "tag_name": "Procreate (software)",
@@ -8757,7 +10241,9 @@ return [
   },
   {
     "tag_name": "Magical Mirai Meiko",
-    "related_tags": []
+    "related_tags": [
+      "幻想的+mirai+meiko"
+    ]
   },
   {
     "tag_name": "Sakine Meiko",
@@ -8809,7 +10295,9 @@ return [
   },
   {
     "tag_name": "Magical Mirai Kaito",
-    "related_tags": []
+    "related_tags": [
+      "幻想的+mirai+kaito"
+    ]
   },
   {
     "tag_name": "Yuki Kaito",
@@ -8861,7 +10349,9 @@ return [
   },
   {
     "tag_name": "Sweet ANN (E-Capsule)",
-    "related_tags": []
+    "related_tags": [
+      "愛くるしい+ann+(e+capsule)"
+    ]
   },
   {
     "tag_name": "Hatsune Miku",
@@ -8937,7 +10427,9 @@ return [
   },
   {
     "tag_name": "Magical Mirai Miku",
-    "related_tags": []
+    "related_tags": [
+      "幻想的+mirai+miku"
+    ]
   },
   {
     "tag_name": "Mikudayoo",
@@ -9065,7 +10557,9 @@ return [
   },
   {
     "tag_name": "Petite Miku",
-    "related_tags": []
+    "related_tags": [
+      "小がら+miku"
+    ]
   },
   {
     "tag_name": "Sakura Mikuo",
@@ -9121,7 +10615,9 @@ return [
   },
   {
     "tag_name": "Magical Mirai Rin",
-    "related_tags": []
+    "related_tags": [
+      "幻想的+mirai+rin"
+    ]
   },
   {
     "tag_name": "Rin no Youchuu",
@@ -9199,7 +10695,9 @@ return [
   },
   {
     "tag_name": "Magical Mirai Len",
-    "related_tags": []
+    "related_tags": [
+      "幻想的+mirai+len"
+    ]
   },
   {
     "tag_name": "Yuki Len",
@@ -9291,11 +10789,15 @@ return [
   },
   {
     "tag_name": "Magical Mirai Luka",
-    "related_tags": []
+    "related_tags": [
+      "幻想的+mirai+luka"
+    ]
   },
   {
     "tag_name": "Racing Luka",
-    "related_tags": []
+    "related_tags": [
+      "ばくばく+luka"
+    ]
   },
   {
     "tag_name": "Takoluka",
@@ -9407,11 +10909,15 @@ return [
   },
   {
     "tag_name": "Big Al",
-    "related_tags": []
+    "related_tags": [
+      "巨いなる+al"
+    ]
   },
   {
     "tag_name": "Big Al (E-Capsule)",
-    "related_tags": []
+    "related_tags": [
+      "巨いなる+al+(e+capsule)"
+    ]
   },
   {
     "tag_name": "Ryuuto",
@@ -9602,12 +11108,14 @@ return [
   {
     "tag_name": "flower (Vocaloid4)",
     "related_tags": [
-      "v4_flower"
+      "ブイフラワ"
     ]
   },
   {
     "tag_name": "flower (Gynoid Talk)",
-    "related_tags": []
+    "related_tags": [
+      "花+(gynoid+talk)"
+    ]
   },
   {
     "tag_name": "Ci flower",
@@ -9721,7 +11229,9 @@ return [
   },
   {
     "tag_name": "Hagane Vocaloid",
-    "related_tags": []
+    "related_tags": [
+      "hagane+ボーカロイド"
+    ]
   },
   {
     "tag_name": "Voyakiloid",
@@ -9731,7 +11241,9 @@ return [
   },
   {
     "tag_name": "Tonarine Sai",
-    "related_tags": []
+    "related_tags": [
+      "tonarine+才"
+    ]
   },
   {
     "tag_name": "Vocaloid (Lat-type ver)",
@@ -9759,35 +11271,51 @@ return [
   },
   {
     "tag_name": "Attractive",
-    "related_tags": []
+    "related_tags": [
+      "愛敬のある"
+    ]
   },
   {
     "tag_name": "Awesome",
-    "related_tags": []
+    "related_tags": [
+      "畏るべき"
+    ]
   },
   {
     "tag_name": "Beautiful",
-    "related_tags": []
+    "related_tags": [
+      "愛しい"
+    ]
   },
   {
     "tag_name": "Childish",
-    "related_tags": []
+    "related_tags": [
+      "可愛い"
+    ]
   },
   {
     "tag_name": "Color",
-    "related_tags": []
+    "related_tags": [
+      "艶"
+    ]
   },
   {
     "tag_name": "Cool",
-    "related_tags": []
+    "related_tags": [
+      "清涼"
+    ]
   },
   {
     "tag_name": "Cute",
-    "related_tags": []
+    "related_tags": [
+      "愛くるしい"
+    ]
   },
   {
     "tag_name": "Adorable",
-    "related_tags": []
+    "related_tags": [
+      "愛し"
+    ]
   },
   {
     "tag_name": "Kawaii",
@@ -9795,35 +11323,51 @@ return [
   },
   {
     "tag_name": "Epic",
-    "related_tags": []
+    "related_tags": [
+      "明示的並列命令コンピューティング技術"
+    ]
   },
   {
     "tag_name": "Erotic",
-    "related_tags": []
+    "related_tags": [
+      "工口"
+    ]
   },
   {
     "tag_name": "Good",
-    "related_tags": []
+    "related_tags": [
+      "愛い"
+    ]
   },
   {
     "tag_name": "Great",
-    "related_tags": []
+    "related_tags": [
+      "偉い"
+    ]
   },
   {
     "tag_name": "Gorgeous",
-    "related_tags": []
+    "related_tags": [
+      "絢爛"
+    ]
   },
   {
     "tag_name": "Handsome",
-    "related_tags": []
+    "related_tags": [
+      "御立派"
+    ]
   },
   {
     "tag_name": "Helpless",
-    "related_tags": []
+    "related_tags": [
+      "頑是ない"
+    ]
   },
   {
     "tag_name": "Hentai",
-    "related_tags": []
+    "related_tags": [
+      "エロ・アニメ"
+    ]
   },
   {
     "tag_name": "Ecchi",
@@ -9831,23 +11375,33 @@ return [
   },
   {
     "tag_name": "Lewd",
-    "related_tags": []
+    "related_tags": [
+      "淫ら"
+    ]
   },
   {
     "tag_name": "Love",
-    "related_tags": []
+    "related_tags": [
+      "愛"
+    ]
   },
   {
     "tag_name": "Perfect",
-    "related_tags": []
+    "related_tags": [
+      "完ぺき"
+    ]
   },
   {
     "tag_name": "Pretty",
-    "related_tags": []
+    "related_tags": [
+      "愛しい"
+    ]
   },
   {
     "tag_name": "Sexy",
-    "related_tags": []
+    "related_tags": [
+      "官能的"
+    ]
   },
   {
     "tag_name": "Squeezable",
@@ -9855,7 +11409,9 @@ return [
   },
   {
     "tag_name": "Thick",
-    "related_tags": []
+    "related_tags": [
+      "欝蒼"
+    ]
   },
   {
     "tag_name": "Thicc",
@@ -9863,19 +11419,27 @@ return [
   },
   {
     "tag_name": "Violent",
-    "related_tags": []
+    "related_tags": [
+      "劇しい"
+    ]
   },
   {
     "tag_name": "VIP quality",
-    "related_tags": []
+    "related_tags": [
+      "VIP+位取り"
+    ]
   },
   {
     "tag_name": "Wholesome",
-    "related_tags": []
+    "related_tags": [
+      "健康"
+    ]
   },
   {
     "tag_name": "Fabulous",
-    "related_tags": []
+    "related_tags": [
+      "嘘のよう"
+    ]
   },
   {
     "tag_name": "Fluffy",
@@ -9897,19 +11461,27 @@ return [
   },
   {
     "tag_name": "Obvious statement",
-    "related_tags": []
+    "related_tags": [
+      "一目瞭然+記載"
+    ]
   },
   {
     "tag_name": "Too many",
-    "related_tags": []
+    "related_tags": [
+      "沢山"
+    ]
   },
   {
     "tag_name": "Too literal",
-    "related_tags": []
+    "related_tags": [
+      "復+直定数"
+    ]
   },
   {
     "tag_name": "Truth",
-    "related_tags": []
+    "related_tags": [
+      "事実"
+    ]
   },
   {
     "tag_name": "What",
@@ -9943,15 +11515,21 @@ return [
   },
   {
     "tag_name": "shower",
-    "related_tags": []
+    "related_tags": [
+      "一雨"
+    ]
   },
   {
     "tag_name": "bedroom",
-    "related_tags": []
+    "related_tags": [
+      "臥し所"
+    ]
   },
   {
     "tag_name": "hotel room",
-    "related_tags": []
+    "related_tags": [
+      "客舎+間"
+    ]
   },
   {
     "tag_name": "messy room",
@@ -9961,7 +11539,9 @@ return [
   },
   {
     "tag_name": "otaku room",
-    "related_tags": []
+    "related_tags": [
+      "おたく+間"
+    ]
   },
   {
     "tag_name": "changing room",
@@ -9983,7 +11563,9 @@ return [
   },
   {
     "tag_name": "conservatory",
-    "related_tags": []
+    "related_tags": [
+      "温室"
+    ]
   },
   {
     "tag_name": "courtroom",
@@ -9993,7 +11575,9 @@ return [
   },
   {
     "tag_name": "dining room",
-    "related_tags": []
+    "related_tags": [
+      "食事処"
+    ]
   },
   {
     "tag_name": "dressing room",
@@ -10003,11 +11587,15 @@ return [
   },
   {
     "tag_name": "dungeon",
-    "related_tags": []
+    "related_tags": [
+      "地下牢"
+    ]
   },
   {
     "tag_name": "prison cell",
-    "related_tags": []
+    "related_tags": [
+      "監獄+監房"
+    ]
   },
   {
     "tag_name": "fitting room",
@@ -10023,7 +11611,9 @@ return [
   },
   {
     "tag_name": "locker room",
-    "related_tags": []
+    "related_tags": [
+      "更衣室"
+    ]
   },
   {
     "tag_name": "gym storeroom",
@@ -10039,7 +11629,9 @@ return [
   },
   {
     "tag_name": "laboratory",
-    "related_tags": []
+    "related_tags": [
+      "教室"
+    ]
   },
   {
     "tag_name": "library",
@@ -10049,7 +11641,9 @@ return [
   },
   {
     "tag_name": "living room",
-    "related_tags": []
+    "related_tags": [
+      "奥座敷"
+    ]
   },
   {
     "tag_name": "office",
@@ -10059,7 +11653,9 @@ return [
   },
   {
     "tag_name": "cubicle",
-    "related_tags": []
+    "related_tags": [
+      "小部屋"
+    ]
   },
   {
     "tag_name": "pool",
@@ -10081,19 +11677,27 @@ return [
   },
   {
     "tag_name": "storage room",
-    "related_tags": []
+    "related_tags": [
+      "収蔵庫"
+    ]
   },
   {
     "tag_name": "armory",
-    "related_tags": []
+    "related_tags": [
+      "造兵廠"
+    ]
   },
   {
     "tag_name": "closet",
-    "related_tags": []
+    "related_tags": [
+      "押し込み"
+    ]
   },
   {
     "tag_name": "workshop",
-    "related_tags": []
+    "related_tags": [
+      "画房"
+    ]
   },
   {
     "tag_name": "Outdoors",
@@ -10115,11 +11719,15 @@ return [
   },
   {
     "tag_name": "canyon",
-    "related_tags": []
+    "related_tags": [
+      "峡谷"
+    ]
   },
   {
     "tag_name": "cave",
-    "related_tags": []
+    "related_tags": [
+      "横穴"
+    ]
   },
   {
     "tag_name": "cliff",
@@ -10153,7 +11761,9 @@ return [
   },
   {
     "tag_name": "glacier",
-    "related_tags": []
+    "related_tags": [
+      "氷河"
+    ]
   },
   {
     "tag_name": "hill",
@@ -10211,11 +11821,15 @@ return [
   },
   {
     "tag_name": "plain",
-    "related_tags": []
+    "related_tags": [
+      "易々"
+    ]
   },
   {
     "tag_name": "savannah",
-    "related_tags": []
+    "related_tags": [
+      "草原"
+    ]
   },
   {
     "tag_name": "wetland",
@@ -10225,7 +11839,9 @@ return [
   },
   {
     "tag_name": "geyser",
-    "related_tags": []
+    "related_tags": [
+      "間けつ泉"
+    ]
   },
   {
     "tag_name": "lake",
@@ -10259,7 +11875,9 @@ return [
   },
   {
     "tag_name": "stream",
-    "related_tags": []
+    "related_tags": [
+      "河"
+    ]
   },
   {
     "tag_name": "waterfall",
@@ -10269,7 +11887,9 @@ return [
   },
   {
     "tag_name": "wasteland",
-    "related_tags": []
+    "related_tags": [
+      "荒れ地"
+    ]
   },
   {
     "tag_name": "airfield",
@@ -10315,11 +11935,15 @@ return [
   },
   {
     "tag_name": "rope bridge",
-    "related_tags": []
+    "related_tags": [
+      "吊り橋"
+    ]
   },
   {
     "tag_name": "wooden bridge",
-    "related_tags": []
+    "related_tags": [
+      "木橋"
+    ]
   },
   {
     "tag_name": "canal",
@@ -10329,7 +11953,9 @@ return [
   },
   {
     "tag_name": "floating city",
-    "related_tags": []
+    "related_tags": [
+      "海上都市"
+    ]
   },
   {
     "tag_name": "rural",
@@ -10357,7 +11983,9 @@ return [
   },
   {
     "tag_name": "dock",
-    "related_tags": []
+    "related_tags": [
+      "舟場"
+    ]
   },
   {
     "tag_name": "drydock",
@@ -10365,7 +11993,9 @@ return [
   },
   {
     "tag_name": "shipyard",
-    "related_tags": []
+    "related_tags": [
+      "造船所"
+    ]
   },
   {
     "tag_name": "graveyard",
@@ -10375,11 +12005,15 @@ return [
   },
   {
     "tag_name": "jetty",
-    "related_tags": []
+    "related_tags": [
+      "岸壁"
+    ]
   },
   {
     "tag_name": "wheat field",
-    "related_tags": []
+    "related_tags": [
+      "小麦畑"
+    ]
   },
   {
     "tag_name": "fountain",
@@ -10395,11 +12029,15 @@ return [
   },
   {
     "tag_name": "market stall",
-    "related_tags": []
+    "related_tags": [
+      "市+屋体"
+    ]
   },
   {
     "tag_name": "pier",
-    "related_tags": []
+    "related_tags": [
+      "桟橋"
+    ]
   },
   {
     "tag_name": "poolside",
@@ -10425,11 +12063,15 @@ return [
   },
   {
     "tag_name": "road",
-    "related_tags": []
+    "related_tags": [
+      "往来"
+    ]
   },
   {
     "tag_name": "alley",
-    "related_tags": []
+    "related_tags": [
+      "横丁"
+    ]
   },
   {
     "tag_name": "crosswalk",
@@ -10439,7 +12081,9 @@ return [
   },
   {
     "tag_name": "dirt road",
-    "related_tags": []
+    "related_tags": [
+      "汚れ+往来"
+    ]
   },
   {
     "tag_name": "highway",
@@ -10449,15 +12093,21 @@ return [
   },
   {
     "tag_name": "path",
-    "related_tags": []
+    "related_tags": [
+      "径"
+    ]
   },
   {
     "tag_name": "sidewalk",
-    "related_tags": []
+    "related_tags": [
+      "人道"
+    ]
   },
   {
     "tag_name": "stone walkway",
-    "related_tags": []
+    "related_tags": [
+      "核+歩道"
+    ]
   },
   {
     "tag_name": "street",
@@ -10467,11 +12117,15 @@ return [
   },
   {
     "tag_name": "soccer field",
-    "related_tags": []
+    "related_tags": [
+      "サッカー場"
+    ]
   },
   {
     "tag_name": "running track",
-    "related_tags": []
+    "related_tags": [
+      "運転+軌道"
+    ]
   },
   {
     "tag_name": "trench",
@@ -10481,11 +12135,15 @@ return [
   },
   {
     "tag_name": "tunnel",
-    "related_tags": []
+    "related_tags": [
+      "横穴"
+    ]
   },
   {
     "tag_name": "well",
-    "related_tags": []
+    "related_tags": [
+      "井"
+    ]
   },
   {
     "tag_name": "zoo",
@@ -10501,7 +12159,9 @@ return [
   },
   {
     "tag_name": "apartment",
-    "related_tags": []
+    "related_tags": [
+      "御部屋"
+    ]
   },
   {
     "tag_name": "aquarium",
@@ -10511,11 +12171,15 @@ return [
   },
   {
     "tag_name": "barn",
-    "related_tags": []
+    "related_tags": [
+      "厩"
+    ]
   },
   {
     "tag_name": "bunker",
-    "related_tags": []
+    "related_tags": [
+      "貯蔵庫"
+    ]
   },
   {
     "tag_name": "bus stop",
@@ -10525,7 +12189,9 @@ return [
   },
   {
     "tag_name": "bowling alley",
-    "related_tags": []
+    "related_tags": [
+      "ボーリング場"
+    ]
   },
   {
     "tag_name": "castle",
@@ -10535,7 +12201,9 @@ return [
   },
   {
     "tag_name": "floating castle",
-    "related_tags": []
+    "related_tags": [
+      "浮き+囲い"
+    ]
   },
   {
     "tag_name": "church",
@@ -10551,11 +12219,15 @@ return [
   },
   {
     "tag_name": "convention",
-    "related_tags": []
+    "related_tags": [
+      "為来たり"
+    ]
   },
   {
     "tag_name": "garage",
-    "related_tags": []
+    "related_tags": [
+      "車庫"
+    ]
   },
   {
     "tag_name": "gas station",
@@ -10577,7 +12249,9 @@ return [
   },
   {
     "tag_name": "house",
-    "related_tags": []
+    "related_tags": [
+      "屋"
+    ]
   },
   {
     "tag_name": "hotel",
@@ -10587,11 +12261,15 @@ return [
   },
   {
     "tag_name": "hut",
-    "related_tags": []
+    "related_tags": [
+      "仮小屋"
+    ]
   },
   {
     "tag_name": "industrial",
-    "related_tags": []
+    "related_tags": [
+      "産業用"
+    ]
   },
   {
     "tag_name": "refinery",
@@ -10607,7 +12285,9 @@ return [
   },
   {
     "tag_name": "nuclear powerplant",
-    "related_tags": []
+    "related_tags": [
+      "核保有+powerplant"
+    ]
   },
   {
     "tag_name": "cooling tower",
@@ -10629,11 +12309,15 @@ return [
   },
   {
     "tag_name": "mall",
-    "related_tags": []
+    "related_tags": [
+      "散歩道"
+    ]
   },
   {
     "tag_name": "megastructure",
-    "related_tags": []
+    "related_tags": [
+      "メガストラクチャー"
+    ]
   },
   {
     "tag_name": "mosque",
@@ -10643,19 +12327,27 @@ return [
   },
   {
     "tag_name": "museum",
-    "related_tags": []
+    "related_tags": [
+      "史料館"
+    ]
   },
   {
     "tag_name": "art gallery",
-    "related_tags": []
+    "related_tags": [
+      "美術館"
+    ]
   },
   {
     "tag_name": "nightclub",
-    "related_tags": []
+    "related_tags": [
+      "クラブ"
+    ]
   },
   {
     "tag_name": "observatory",
-    "related_tags": []
+    "related_tags": [
+      "観測所"
+    ]
   },
   {
     "tag_name": "onsen",
@@ -10665,11 +12357,15 @@ return [
   },
   {
     "tag_name": "pagoda",
-    "related_tags": []
+    "related_tags": [
+      "多重塔"
+    ]
   },
   {
     "tag_name": "planetarium",
-    "related_tags": []
+    "related_tags": [
+      "天象儀"
+    ]
   },
   {
     "tag_name": "prison",
@@ -10697,11 +12393,15 @@ return [
   },
   {
     "tag_name": "skating rink",
-    "related_tags": []
+    "related_tags": [
+      "銀盤"
+    ]
   },
   {
     "tag_name": "shack",
-    "related_tags": []
+    "related_tags": [
+      "仮小屋"
+    ]
   },
   {
     "tag_name": "shrine",
@@ -10723,23 +12423,33 @@ return [
   },
   {
     "tag_name": "flower shop",
-    "related_tags": []
+    "related_tags": [
+      "花屋"
+    ]
   },
   {
     "tag_name": "pharmacy",
-    "related_tags": []
+    "related_tags": [
+      "薬屋"
+    ]
   },
   {
     "tag_name": "salon",
-    "related_tags": []
+    "related_tags": [
+      "奥座敷"
+    ]
   },
   {
     "tag_name": "sex shop",
-    "related_tags": []
+    "related_tags": [
+      "アダルト・ショップ"
+    ]
   },
   {
     "tag_name": "weapon shop",
-    "related_tags": []
+    "related_tags": [
+      "干戈+店屋"
+    ]
   },
   {
     "tag_name": "skyscraper",
@@ -10755,23 +12465,33 @@ return [
   },
   {
     "tag_name": "arena",
-    "related_tags": []
+    "related_tags": [
+      "競技場"
+    ]
   },
   {
     "tag_name": "stilt house",
-    "related_tags": []
+    "related_tags": [
+      "ピロティ+屋"
+    ]
   },
   {
     "tag_name": "temple",
-    "related_tags": []
+    "related_tags": [
+      "院"
+    ]
   },
   {
     "tag_name": "theater",
-    "related_tags": []
+    "related_tags": [
+      "演劇"
+    ]
   },
   {
     "tag_name": "amphitheater",
-    "related_tags": []
+    "related_tags": [
+      "円形劇場"
+    ]
   },
   {
     "tag_name": "movie theater",
@@ -10787,7 +12507,9 @@ return [
   },
   {
     "tag_name": "bell tower",
-    "related_tags": []
+    "related_tags": [
+      "鐘塔"
+    ]
   },
   {
     "tag_name": "clock tower",
@@ -10797,11 +12519,15 @@ return [
   },
   {
     "tag_name": "guard tower",
-    "related_tags": []
+    "related_tags": [
+      "宛+台"
+    ]
   },
   {
     "tag_name": "minaret",
-    "related_tags": []
+    "related_tags": [
+      "光塔"
+    ]
   },
   {
     "tag_name": "train station",
@@ -10845,7 +12571,9 @@ return [
   },
   {
     "tag_name": "forest of magic",
-    "related_tags": []
+    "related_tags": [
+      "樹林+of+奇術"
+    ]
   },
   {
     "tag_name": "former capital",
@@ -10913,7 +12641,9 @@ return [
   },
   {
     "tag_name": "palanquin ship",
-    "related_tags": []
+    "related_tags": [
+      "駕篭+舟"
+    ]
   },
   {
     "tag_name": "scarlet devil mansion",
@@ -10933,7 +12663,9 @@ return [
   },
   {
     "tag_name": "youkai mountain",
-    "related_tags": []
+    "related_tags": [
+      "youkai+岳"
+    ]
   },
   {
     "tag_name": "divine spirit mausoleum",
@@ -10949,7 +12681,9 @@ return [
   },
   {
     "tag_name": "asteroid",
-    "related_tags": []
+    "related_tags": [
+      "海星"
+    ]
   },
   {
     "tag_name": "moon",
@@ -10965,19 +12699,27 @@ return [
   },
   {
     "tag_name": "vehicle interior",
-    "related_tags": []
+    "related_tags": [
+      "駕+奥"
+    ]
   },
   {
     "tag_name": "bus interior",
-    "related_tags": []
+    "related_tags": [
+      "乗合自動車+奥"
+    ]
   },
   {
     "tag_name": "car interior",
-    "related_tags": []
+    "related_tags": [
+      "四輪車+奥"
+    ]
   },
   {
     "tag_name": "tank interior",
-    "related_tags": []
+    "related_tags": [
+      "舟+奥"
+    ]
   },
   {
     "tag_name": "train interior",
@@ -10987,15 +12729,21 @@ return [
   },
   {
     "tag_name": "Convention greeting",
-    "related_tags": []
+    "related_tags": [
+      "為来たり+挨拶"
+    ]
   },
   {
     "tag_name": "Happy Easter",
-    "related_tags": []
+    "related_tags": [
+      "愛でたい+過ぎ越し"
+    ]
   },
   {
     "tag_name": "Happy Holidays",
-    "related_tags": []
+    "related_tags": [
+      "愛でたい+暇"
+    ]
   },
   {
     "tag_name": "Shochuumimai",
@@ -11005,11 +12753,15 @@ return [
   },
   {
     "tag_name": "Sorry",
-    "related_tags": []
+    "related_tags": [
+      "悪い"
+    ]
   },
   {
     "tag_name": "Thank you",
-    "related_tags": []
+    "related_tags": [
+      "御疲れ様"
+    ]
   },
   {
     "tag_name": "Tewoarao-!",
@@ -11165,7 +12917,9 @@ return [
   },
   {
     "tag_name": "Make a Contract",
-    "related_tags": []
+    "related_tags": [
+      "号+a+契約"
+    ]
   },
   {
     "tag_name": "Masa ni",
@@ -11315,7 +13069,9 @@ return [
   },
   {
     "tag_name": "catchphrase",
-    "related_tags": []
+    "related_tags": [
+      "売り文句"
+    ]
   },
   {
     "tag_name": "Millipede",
@@ -11361,23 +13117,33 @@ return [
   },
   {
     "tag_name": "flame",
-    "related_tags": []
+    "related_tags": [
+      "炎"
+    ]
   },
   {
     "tag_name": "fire body",
-    "related_tags": []
+    "related_tags": [
+      "火+遺骸"
+    ]
   },
   {
     "tag_name": "fiery hair",
-    "related_tags": []
+    "related_tags": [
+      "炎々+一髪"
+    ]
   },
   {
     "tag_name": "fiery tail",
-    "related_tags": []
+    "related_tags": [
+      "炎々+尻っぽ"
+    ]
   },
   {
     "tag_name": "flame-tipped tail",
-    "related_tags": []
+    "related_tags": [
+      "炎+tipped+尻っぽ"
+    ]
   },
   {
     "tag_name": "aqua fire",
@@ -11387,7 +13153,9 @@ return [
   },
   {
     "tag_name": "black fire",
-    "related_tags": []
+    "related_tags": [
+      "暗然+火"
+    ]
   },
   {
     "tag_name": "blue fire",
@@ -11397,27 +13165,39 @@ return [
   },
   {
     "tag_name": "green fire",
-    "related_tags": []
+    "related_tags": [
+      "産+火"
+    ]
   },
   {
     "tag_name": "pink fire",
-    "related_tags": []
+    "related_tags": [
+      "退紅+火"
+    ]
   },
   {
     "tag_name": "purple fire",
-    "related_tags": []
+    "related_tags": [
+      "此の糸+火"
+    ]
   },
   {
     "tag_name": "white fire",
-    "related_tags": []
+    "related_tags": [
+      "白+火"
+    ]
   },
   {
     "tag_name": "breathing fire",
-    "related_tags": []
+    "related_tags": [
+      "気息+火"
+    ]
   },
   {
     "tag_name": "burning",
-    "related_tags": []
+    "related_tags": [
+      "燃焼"
+    ]
   },
   {
     "tag_name": "cremation",
@@ -11433,7 +13213,9 @@ return [
   },
   {
     "tag_name": "pyrokinesis",
-    "related_tags": []
+    "related_tags": [
+      "念発火能力"
+    ]
   },
   {
     "tag_name": "fire extinguisher",
@@ -11449,7 +13231,9 @@ return [
   },
   {
     "tag_name": "fireplace",
-    "related_tags": []
+    "related_tags": [
+      "暖炉"
+    ]
   },
   {
     "tag_name": "flamethrower",
@@ -11471,15 +13255,21 @@ return [
   },
   {
     "tag_name": "stove lighter",
-    "related_tags": []
+    "related_tags": [
+      "竃+荷船"
+    ]
   },
   {
     "tag_name": "zippo lighter",
-    "related_tags": []
+    "related_tags": [
+      "zippo+荷船"
+    ]
   },
   {
     "tag_name": "matches",
-    "related_tags": []
+    "related_tags": [
+      "一致"
+    ]
   },
   {
     "tag_name": "matchbox",
@@ -11489,11 +13279,15 @@ return [
   },
   {
     "tag_name": "oven",
-    "related_tags": []
+    "related_tags": [
+      "焼き窯"
+    ]
   },
   {
     "tag_name": "brick oven",
-    "related_tags": []
+    "related_tags": [
+      "石釜"
+    ]
   },
   {
     "tag_name": "stove",
@@ -11503,11 +13297,15 @@ return [
   },
   {
     "tag_name": "fire flower",
-    "related_tags": []
+    "related_tags": [
+      "火+花"
+    ]
   },
   {
     "tag_name": "no fire",
-    "related_tags": []
+    "related_tags": [
+      "no+火"
+    ]
   },
   {
     "tag_name": "sparks",
@@ -11535,7 +13333,9 @@ return [
   },
   {
     "tag_name": "Checkered",
-    "related_tags": []
+    "related_tags": [
+      "チェック"
+    ]
   },
   {
     "tag_name": "Honeycomb",
@@ -11545,7 +13345,9 @@ return [
   },
   {
     "tag_name": "Pinstripe pattern",
-    "related_tags": []
+    "related_tags": [
+      "pinstripe+下敷"
+    ]
   },
   {
     "tag_name": "Plaid",
@@ -11567,7 +13369,9 @@ return [
   },
   {
     "tag_name": "Diagonal stripes",
-    "related_tags": []
+    "related_tags": [
+      "筋違い+縞々"
+    ]
   },
   {
     "tag_name": "Horizontal Stripes",
@@ -11583,11 +13387,15 @@ return [
   },
   {
     "tag_name": "Colored stripes",
-    "related_tags": []
+    "related_tags": [
+      "色つき+縞々"
+    ]
   },
   {
     "tag_name": "Multicolored stripes",
-    "related_tags": []
+    "related_tags": [
+      "色とりどり+縞々"
+    ]
   },
   {
     "tag_name": "Tiger stripes",
@@ -11597,7 +13405,9 @@ return [
   },
   {
     "tag_name": "Double vertical stripe",
-    "related_tags": []
+    "related_tags": [
+      "陰武者+鉛直+筋"
+    ]
   },
   {
     "tag_name": "Invasion stripes",
@@ -11607,19 +13417,27 @@ return [
   },
   {
     "tag_name": "Animal print",
-    "related_tags": []
+    "related_tags": [
+      "アニマル・プリント"
+    ]
   },
   {
     "tag_name": "Bat print",
-    "related_tags": []
+    "related_tags": [
+      "蚊食い鳥+印"
+    ]
   },
   {
     "tag_name": "Bear print",
-    "related_tags": []
+    "related_tags": [
+      "熊羆+印"
+    ]
   },
   {
     "tag_name": "Bird print",
-    "related_tags": []
+    "related_tags": [
+      "禽+印"
+    ]
   },
   {
     "tag_name": "Cow print",
@@ -11641,99 +13459,147 @@ return [
   },
   {
     "tag_name": "Snake print",
-    "related_tags": []
+    "related_tags": [
+      "蛇+印"
+    ]
   },
   {
     "tag_name": "Flag print",
-    "related_tags": []
+    "related_tags": [
+      "一旗+印"
+    ]
   },
   {
     "tag_name": "Floral print",
-    "related_tags": []
+    "related_tags": [
+      "フローラル+印"
+    ]
   },
   {
     "tag_name": "Cherry blossom print",
-    "related_tags": []
+    "related_tags": [
+      "チェリー+花+印"
+    ]
   },
   {
     "tag_name": "Game controller print",
-    "related_tags": []
+    "related_tags": [
+      "一戦+監事+印"
+    ]
   },
   {
     "tag_name": "Moon print",
-    "related_tags": []
+    "related_tags": [
+      "衛星+印"
+    ]
   },
   {
     "tag_name": "Crescent print",
-    "related_tags": []
+    "related_tags": [
+      "彎月+印"
+    ]
   },
   {
     "tag_name": "Handprint",
-    "related_tags": []
+    "related_tags": [
+      "手形"
+    ]
   },
   {
     "tag_name": "Leaf print",
-    "related_tags": []
+    "related_tags": [
+      "一片+印"
+    ]
   },
   {
     "tag_name": "Musical note print",
-    "related_tags": []
+    "related_tags": [
+      "音楽的+一節+印"
+    ]
   },
   {
     "tag_name": "Piano print",
-    "related_tags": []
+    "related_tags": [
+      "洋琴+印"
+    ]
   },
   {
     "tag_name": "Watermelon print",
-    "related_tags": []
+    "related_tags": [
+      "watermelon+印"
+    ]
   },
   {
     "tag_name": "patterned hair",
-    "related_tags": []
+    "related_tags": [
+      "絵羽+一髪"
+    ]
   },
   {
     "tag_name": "patterned clothing",
-    "related_tags": []
+    "related_tags": [
+      "柄物"
+    ]
   },
   {
     "tag_name": "patterned",
-    "related_tags": []
+    "related_tags": [
+      "絵羽"
+    ]
   },
   {
     "tag_name": "patterned background",
-    "related_tags": []
+    "related_tags": [
+      "絵羽+背景"
+    ]
   },
   {
     "tag_name": "Print eyepatch",
-    "related_tags": []
+    "related_tags": [
+      "印+眼帯"
+    ]
   },
   {
     "tag_name": "Print footwear",
-    "related_tags": []
+    "related_tags": [
+      "印+沓"
+    ]
   },
   {
     "tag_name": "Print gloves",
-    "related_tags": []
+    "related_tags": [
+      "印+手ぶくろ"
+    ]
   },
   {
     "tag_name": "Print hakama",
-    "related_tags": []
+    "related_tags": [
+      "印+窮屈袋"
+    ]
   },
   {
     "tag_name": "Print headwear",
-    "related_tags": []
+    "related_tags": [
+      "印+headwear"
+    ]
   },
   {
     "tag_name": "Print kimono",
-    "related_tags": []
+    "related_tags": [
+      "印+着物"
+    ]
   },
   {
     "tag_name": "Print legwear",
-    "related_tags": []
+    "related_tags": [
+      "印+legwear"
+    ]
   },
   {
     "tag_name": "Print neckwear",
-    "related_tags": []
+    "related_tags": [
+      "印+頚巻"
+    ]
   },
   {
     "tag_name": "Print panties",
@@ -11743,23 +13609,33 @@ return [
   },
   {
     "tag_name": "Print shirt",
-    "related_tags": []
+    "related_tags": [
+      "印+shirt"
+    ]
   },
   {
     "tag_name": "Print shorts",
-    "related_tags": []
+    "related_tags": [
+      "印+短パン"
+    ]
   },
   {
     "tag_name": "Print swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "印+水泳着"
+    ]
   },
   {
     "tag_name": "Print bikini",
-    "related_tags": []
+    "related_tags": [
+      "印+bikini"
+    ]
   },
   {
     "tag_name": "Print umbrella",
-    "related_tags": []
+    "related_tags": [
+      "印+雨がさ"
+    ]
   },
   {
     "tag_name": "Tail",
@@ -11769,39 +13645,57 @@ return [
   },
   {
     "tag_name": "Multiple tails",
-    "related_tags": []
+    "related_tags": [
+      "多重+テール"
+    ]
   },
   {
     "tag_name": "No tail",
-    "related_tags": []
+    "related_tags": [
+      "no+尻っぽ"
+    ]
   },
   {
     "tag_name": "Demon tail",
-    "related_tags": []
+    "related_tags": [
+      "悪鬼+尻っぽ"
+    ]
   },
   {
     "tag_name": "Dragon tail",
-    "related_tags": []
+    "related_tags": [
+      "dragon+尻っぽ"
+    ]
   },
   {
     "tag_name": "Ghost tail",
-    "related_tags": []
+    "related_tags": [
+      "化け物+尻っぽ"
+    ]
   },
   {
     "tag_name": "Pikachu tail",
-    "related_tags": []
+    "related_tags": [
+      "pikachu+尻っぽ"
+    ]
   },
   {
     "tag_name": "Snake head tail",
-    "related_tags": []
+    "related_tags": [
+      "蛇+髄+尻っぽ"
+    ]
   },
   {
     "tag_name": "Bear tail",
-    "related_tags": []
+    "related_tags": [
+      "熊羆+尻っぽ"
+    ]
   },
   {
     "tag_name": "Rabbit tail",
-    "related_tags": []
+    "related_tags": [
+      "占め子+尻っぽ"
+    ]
   },
   {
     "tag_name": "Cat tail",
@@ -11811,59 +13705,87 @@ return [
   },
   {
     "tag_name": "Cow tail",
-    "related_tags": []
+    "related_tags": [
+      "牛+尻っぽ"
+    ]
   },
   {
     "tag_name": "Deer tail",
-    "related_tags": []
+    "related_tags": [
+      "紅葉鳥+尻っぽ"
+    ]
   },
   {
     "tag_name": "Dog tail",
-    "related_tags": []
+    "related_tags": [
+      "わん公+尻っぽ"
+    ]
   },
   {
     "tag_name": "Ermine tail",
-    "related_tags": []
+    "related_tags": [
+      "山いたち+尻っぽ"
+    ]
   },
   {
     "tag_name": "Fox tail",
-    "related_tags": []
+    "related_tags": [
+      "こんこん+尻っぽ"
+    ]
   },
   {
     "tag_name": "Horse tail",
-    "related_tags": []
+    "related_tags": [
+      "駒+尻っぽ"
+    ]
   },
   {
     "tag_name": "Leopard tail",
-    "related_tags": []
+    "related_tags": [
+      "leopard+尻っぽ"
+    ]
   },
   {
     "tag_name": "Lion tail",
-    "related_tags": []
+    "related_tags": [
+      "師子+尻っぽ"
+    ]
   },
   {
     "tag_name": "Monkey tail",
-    "related_tags": []
+    "related_tags": [
+      "猿公+尻っぽ"
+    ]
   },
   {
     "tag_name": "Mouse tail",
-    "related_tags": []
+    "related_tags": [
+      "悪戯者+尻っぽ"
+    ]
   },
   {
     "tag_name": "Pig tail",
-    "related_tags": []
+    "related_tags": [
+      "鋳塊+尻っぽ"
+    ]
   },
   {
     "tag_name": "Sheep tail",
-    "related_tags": []
+    "related_tags": [
+      "綿羊+尻っぽ"
+    ]
   },
   {
     "tag_name": "Squirrel tail",
-    "related_tags": []
+    "related_tags": [
+      "木鼠+尻っぽ"
+    ]
   },
   {
     "tag_name": "Tiger tail",
-    "related_tags": []
+    "related_tags": [
+      "tiger+尻っぽ"
+    ]
   },
   {
     "tag_name": "Wolf tail",
@@ -11873,35 +13795,51 @@ return [
   },
   {
     "tag_name": "Fish tail",
-    "related_tags": []
+    "related_tags": [
+      "魚+尻っぽ"
+    ]
   },
   {
     "tag_name": "Scorpion tail",
-    "related_tags": []
+    "related_tags": [
+      "スコーピオン+尻っぽ"
+    ]
   },
   {
     "tag_name": "Snake tail",
-    "related_tags": []
+    "related_tags": [
+      "蛇+尻っぽ"
+    ]
   },
   {
     "tag_name": "Tadpole tail",
-    "related_tags": []
+    "related_tags": [
+      "科斗+尻っぽ"
+    ]
   },
   {
     "tag_name": "Tail bell",
-    "related_tags": []
+    "related_tags": [
+      "尻っぽ+ベル"
+    ]
   },
   {
     "tag_name": "Tail bow",
-    "related_tags": []
+    "related_tags": [
+      "尻っぽ+敬礼"
+    ]
   },
   {
     "tag_name": "Tail ornament",
-    "related_tags": []
+    "related_tags": [
+      "尻っぽ+栄"
+    ]
   },
   {
     "tag_name": "Tail piercing",
-    "related_tags": []
+    "related_tags": [
+      "尻っぽ+貫通"
+    ]
   },
   {
     "tag_name": "Tail ribbon",
@@ -11911,7 +13849,9 @@ return [
   },
   {
     "tag_name": "Tail ring",
-    "related_tags": []
+    "related_tags": [
+      "尻っぽ+一味"
+    ]
   },
   {
     "tag_name": "Anal tail",
@@ -11921,11 +13861,15 @@ return [
   },
   {
     "tag_name": "Butt plug tail",
-    "related_tags": []
+    "related_tags": [
+      "太もも+差し込み+尻っぽ"
+    ]
   },
   {
     "tag_name": "Penis tail",
-    "related_tags": []
+    "related_tags": [
+      "一物+尻っぽ"
+    ]
   },
   {
     "tag_name": "Tailjob",
@@ -11933,15 +13877,21 @@ return [
   },
   {
     "tag_name": "Tail masturbation",
-    "related_tags": []
+    "related_tags": [
+      "尻っぽ+一人エッチ"
+    ]
   },
   {
     "tag_name": "Tail rape",
-    "related_tags": []
+    "related_tags": [
+      "尻っぽ+悪戯"
+    ]
   },
   {
     "tag_name": "Fake tail",
-    "related_tags": []
+    "related_tags": [
+      "贋+尻っぽ"
+    ]
   },
   {
     "tag_name": "Heart tail",
@@ -11951,19 +13901,27 @@ return [
   },
   {
     "tag_name": "Heart tail duo",
-    "related_tags": []
+    "related_tags": [
+      "意気+尻っぽ+二人組"
+    ]
   },
   {
     "tag_name": "Holding another's tail",
-    "related_tags": []
+    "related_tags": [
+      "握把+another's+尻っぽ"
+    ]
   },
   {
     "tag_name": "Holding own tail",
-    "related_tags": []
+    "related_tags": [
+      "握把+自家+尻っぽ"
+    ]
   },
   {
     "tag_name": "Holding with tail",
-    "related_tags": []
+    "related_tags": [
+      "握把+以ちまして+尻っぽ"
+    ]
   },
   {
     "tag_name": "Intertwined tails",
@@ -11973,23 +13931,33 @@ return [
   },
   {
     "tag_name": "Panties around tail",
-    "related_tags": []
+    "related_tags": [
+      "ショーツ+見当+尻っぽ"
+    ]
   },
   {
     "tag_name": "Prehensile tail",
-    "related_tags": []
+    "related_tags": [
+      "prehensile+尻っぽ"
+    ]
   },
   {
     "tag_name": "Spiked tail",
-    "related_tags": []
+    "related_tags": [
+      "花穂+尻っぽ"
+    ]
   },
   {
     "tag_name": "Stiff tail",
-    "related_tags": []
+    "related_tags": [
+      "急度+尻っぽ"
+    ]
   },
   {
     "tag_name": "Tail between legs",
-    "related_tags": []
+    "related_tags": [
+      "尻っぽ+間+下脚"
+    ]
   },
   {
     "tag_name": "Tail censor",
@@ -11999,27 +13967,39 @@ return [
   },
   {
     "tag_name": "Tail grab",
-    "related_tags": []
+    "related_tags": [
+      "尻っぽ+グラブ"
+    ]
   },
   {
     "tag_name": "Tail pull",
-    "related_tags": []
+    "related_tags": [
+      "尻っぽ+引き"
+    ]
   },
   {
     "tag_name": "Tail raised",
-    "related_tags": []
+    "related_tags": [
+      "尻っぽ+増俸"
+    ]
   },
   {
     "tag_name": "Tail stand",
-    "related_tags": []
+    "related_tags": [
+      "尻っぽ+案"
+    ]
   },
   {
     "tag_name": "Tail wrap",
-    "related_tags": []
+    "related_tags": [
+      "尻っぽ+外とう"
+    ]
   },
   {
     "tag_name": "Cat o' nine tails",
-    "related_tags": []
+    "related_tags": [
+      "猫+o'+九+テール"
+    ]
   },
   {
     "tag_name": "Tailcoat",
@@ -12035,7 +14015,9 @@ return [
   },
   {
     "tag_name": "censored",
-    "related_tags": []
+    "related_tags": [
+      "検閲官"
+    ]
   },
   {
     "tag_name": "uncensored",
@@ -12045,7 +14027,9 @@ return [
   },
   {
     "tag_name": "bar censor",
-    "related_tags": []
+    "related_tags": [
+      "飲み屋+検閲官"
+    ]
   },
   {
     "tag_name": "convenient censoring",
@@ -12067,11 +14051,15 @@ return [
   },
   {
     "tag_name": "convenient arm",
-    "related_tags": []
+    "related_tags": [
+      "好都合+腕"
+    ]
   },
   {
     "tag_name": "convenient head",
-    "related_tags": []
+    "related_tags": [
+      "好都合+髄"
+    ]
   },
   {
     "tag_name": "convenient leg",
@@ -12087,11 +14075,15 @@ return [
   },
   {
     "tag_name": "hair over crotch",
-    "related_tags": []
+    "related_tags": [
+      "一髪+越し+股"
+    ]
   },
   {
     "tag_name": "hair over one breast",
-    "related_tags": []
+    "related_tags": [
+      "一髪+越し+一+胸"
+    ]
   },
   {
     "tag_name": "steam censor",
@@ -12107,15 +14099,21 @@ return [
   },
   {
     "tag_name": "covering",
-    "related_tags": []
+    "related_tags": [
+      "掩護"
+    ]
   },
   {
     "tag_name": "nude cover",
-    "related_tags": []
+    "related_tags": [
+      "赤裸+堰板"
+    ]
   },
   {
     "tag_name": "clothes in front",
-    "related_tags": []
+    "related_tags": [
+      "衣服+in+隠れみの"
+    ]
   },
   {
     "tag_name": "covering breasts",
@@ -12131,7 +14129,9 @@ return [
   },
   {
     "tag_name": "mosaic censoring",
-    "related_tags": []
+    "related_tags": [
+      "モザイク画+検閲官"
+    ]
   },
   {
     "tag_name": "covering face",
@@ -12141,11 +14141,15 @@ return [
   },
   {
     "tag_name": "covering own eyes",
-    "related_tags": []
+    "related_tags": [
+      "掩護+自家+眼つき"
+    ]
   },
   {
     "tag_name": "covering own ears",
-    "related_tags": []
+    "related_tags": [
+      "掩護+自家+耳底"
+    ]
   },
   {
     "tag_name": "covering mouth",
@@ -12155,7 +14159,9 @@ return [
   },
   {
     "tag_name": "novelty censor",
-    "related_tags": []
+    "related_tags": [
+      "新+検閲官"
+    ]
   },
   {
     "tag_name": "can't show this",
@@ -12165,15 +14171,21 @@ return [
   },
   {
     "tag_name": "character censor",
-    "related_tags": []
+    "related_tags": [
+      "一字+検閲官"
+    ]
   },
   {
     "tag_name": "heart censor",
-    "related_tags": []
+    "related_tags": [
+      "意気+検閲官"
+    ]
   },
   {
     "tag_name": "laughing man",
-    "related_tags": []
+    "related_tags": [
+      "一笑+牡"
+    ]
   },
   {
     "tag_name": "outside of play area",
@@ -12201,15 +14213,21 @@ return [
   },
   {
     "tag_name": "fake censor",
-    "related_tags": []
+    "related_tags": [
+      "贋+検閲官"
+    ]
   },
   {
     "tag_name": "censored food",
-    "related_tags": []
+    "related_tags": [
+      "検閲官+喰いもの"
+    ]
   },
   {
     "tag_name": "censored violence",
-    "related_tags": []
+    "related_tags": [
+      "検閲官+横暴"
+    ]
   },
   {
     "tag_name": "identity censor",
@@ -12219,7 +14237,9 @@ return [
   },
   {
     "tag_name": "pointless censoring",
-    "related_tags": []
+    "related_tags": [
+      "意味ない+検閲官"
+    ]
   },
   {
     "tag_name": "Voice Actors",
@@ -12299,7 +14319,9 @@ return [
   },
   {
     "tag_name": "Cassandra Lee Morris",
-    "related_tags": []
+    "related_tags": [
+      "cassandra+風下+morris"
+    ]
   },
   {
     "tag_name": "Charles Martinet",
@@ -12431,7 +14453,9 @@ return [
   },
   {
     "tag_name": "Ge Ping",
-    "related_tags": []
+    "related_tags": [
+      "ge+びゅっ"
+    ]
   },
   {
     "tag_name": "Genda Tesshou",
@@ -12457,7 +14481,9 @@ return [
   },
   {
     "tag_name": "Grant George",
-    "related_tags": []
+    "related_tags": [
+      "下賜+george"
+    ]
   },
   {
     "tag_name": "Hamada Kenji",
@@ -12471,7 +14497,9 @@ return [
   },
   {
     "tag_name": "Han Keiko",
-    "related_tags": []
+    "related_tags": [
+      "翻+keiko"
+    ]
   },
   {
     "tag_name": "Han Megumi",
@@ -12659,7 +14687,9 @@ return [
   },
   {
     "tag_name": "Inoue You",
-    "related_tags": []
+    "related_tags": [
+      "inoue+我"
+    ]
   },
   {
     "tag_name": "Ise Mariya",
@@ -12719,7 +14749,9 @@ return [
   },
   {
     "tag_name": "Joe Zieja",
-    "related_tags": []
+    "related_tags": [
+      "ジョー+zieja"
+    ]
   },
   {
     "tag_name": "Johnny Yong Bosch",
@@ -12989,11 +15021,15 @@ return [
   },
   {
     "tag_name": "Mark Meer",
-    "related_tags": []
+    "related_tags": [
+      "印+meer"
+    ]
   },
   {
     "tag_name": "Mark Whitten",
-    "related_tags": []
+    "related_tags": [
+      "印+whitten"
+    ]
   },
   {
     "tag_name": "Matsui Naoko",
@@ -13107,7 +15143,9 @@ return [
   },
   {
     "tag_name": "Mizusawa Fumie",
-    "related_tags": []
+    "related_tags": [
+      "mizusawa+踏み絵"
+    ]
   },
   {
     "tag_name": "Mizutani Yuuko",
@@ -13447,7 +15485,9 @@ return [
   },
   {
     "tag_name": "Sarah Miller-Crews",
-    "related_tags": []
+    "related_tags": [
+      "sarah+粉屋+一味"
+    ]
   },
   {
     "tag_name": "Satou Amina",
@@ -13497,7 +15537,9 @@ return [
   },
   {
     "tag_name": "Shimamoto Sumi",
-    "related_tags": []
+    "related_tags": [
+      "shimamoto+墨"
+    ]
   },
   {
     "tag_name": "Shimazaki Nobunaga",
@@ -13525,7 +15567,9 @@ return [
   },
   {
     "tag_name": "Shimura Yumi",
-    "related_tags": []
+    "related_tags": [
+      "shimura+和弓"
+    ]
   },
   {
     "tag_name": "Shindou Kei",
@@ -13541,7 +15585,9 @@ return [
   },
   {
     "tag_name": "Shinohara Emi",
-    "related_tags": []
+    "related_tags": [
+      "shinohara+電磁妨害"
+    ]
   },
   {
     "tag_name": "Shintani Mayumi",
@@ -13567,7 +15613,9 @@ return [
   },
   {
     "tag_name": "Shiratori Yuri",
-    "related_tags": []
+    "related_tags": [
+      "shiratori+百合"
+    ]
   },
   {
     "tag_name": "Shitaya Noriko",
@@ -13741,7 +15789,9 @@ return [
   },
   {
     "tag_name": "Tara Strong",
-    "related_tags": []
+    "related_tags": [
+      "tara+鋭し"
+    ]
   },
   {
     "tag_name": "Terashima Takuma",
@@ -13787,7 +15837,9 @@ return [
   },
   {
     "tag_name": "Troy Baker",
-    "related_tags": []
+    "related_tags": [
+      "トロイ+パン屋"
+    ]
   },
   {
     "tag_name": "Tsuda Kenjirou",
@@ -13941,7 +15993,9 @@ return [
   },
   {
     "tag_name": "Yuri Lowenthal",
-    "related_tags": []
+    "related_tags": [
+      "百合+lowenthal"
+    ]
   },
   {
     "tag_name": "Yusa Kouji",
@@ -14019,7 +16073,9 @@ return [
   },
   {
     "tag_name": "Derrick J. Wyatt",
-    "related_tags": []
+    "related_tags": [
+      "起重機+j.+wyatt"
+    ]
   },
   {
     "tag_name": "Du Fu",
@@ -14035,7 +16091,9 @@ return [
   },
   {
     "tag_name": "George R.R. Martin",
-    "related_tags": []
+    "related_tags": [
+      "george+r.r.+燕"
+    ]
   },
   {
     "tag_name": "Ikumi Mia",
@@ -14091,7 +16149,9 @@ return [
   },
   {
     "tag_name": "Ray Bradbury",
-    "related_tags": []
+    "related_tags": [
+      "光+bradbury"
+    ]
   },
   {
     "tag_name": "Sei Shounagon",
@@ -14171,7 +16231,9 @@ return [
   },
   {
     "tag_name": "Adam Savage",
-    "related_tags": []
+    "related_tags": [
+      "adam+夷人"
+    ]
   },
   {
     "tag_name": "Aki Takejou",
@@ -14189,7 +16251,9 @@ return [
   },
   {
     "tag_name": "Anya Taylor-Joy",
-    "related_tags": []
+    "related_tags": [
+      "anya+taylor+悦び"
+    ]
   },
   {
     "tag_name": "Arnold Schwarzenegger",
@@ -14203,7 +16267,9 @@ return [
   },
   {
     "tag_name": "Bill Murray",
-    "related_tags": []
+    "related_tags": [
+      "案+murray"
+    ]
   },
   {
     "tag_name": "Billy Herrington",
@@ -14225,7 +16291,9 @@ return [
   },
   {
     "tag_name": "Carrie Fisher",
-    "related_tags": []
+    "related_tags": [
+      "carrie+フィッシャー"
+    ]
   },
   {
     "tag_name": "Chadwick Boseman",
@@ -14255,7 +16323,9 @@ return [
   },
   {
     "tag_name": "Chris Rock",
-    "related_tags": []
+    "related_tags": [
+      "chris+巌"
+    ]
   },
   {
     "tag_name": "Christian Bale",
@@ -14265,7 +16335,9 @@ return [
   },
   {
     "tag_name": "Christopher Lee",
-    "related_tags": []
+    "related_tags": [
+      "christopher+風下"
+    ]
   },
   {
     "tag_name": "Chuck Norris",
@@ -14303,23 +16375,33 @@ return [
   },
   {
     "tag_name": "Danny Wells",
-    "related_tags": []
+    "related_tags": [
+      "danny+井"
+    ]
   },
   {
     "tag_name": "Edward Furlong",
-    "related_tags": []
+    "related_tags": [
+      "edward+ハロン"
+    ]
   },
   {
     "tag_name": "Elijah Wood",
-    "related_tags": []
+    "related_tags": [
+      "elijah+材"
+    ]
   },
   {
     "tag_name": "Emma Stone",
-    "related_tags": []
+    "related_tags": [
+      "閻魔+核"
+    ]
   },
   {
     "tag_name": "Emma Watson",
-    "related_tags": []
+    "related_tags": [
+      "閻魔+watson"
+    ]
   },
   {
     "tag_name": "Ewan McGregor",
@@ -14327,11 +16409,15 @@ return [
   },
   {
     "tag_name": "Harrison Ford",
-    "related_tags": []
+    "related_tags": [
+      "harrison+浅瀬"
+    ]
   },
   {
     "tag_name": "Heath Ledger",
-    "related_tags": []
+    "related_tags": [
+      "エリカ+元帳"
+    ]
   },
   {
     "tag_name": "Henry Cavill",
@@ -14371,7 +16457,9 @@ return [
   },
   {
     "tag_name": "Jack Nicholson",
-    "related_tags": []
+    "related_tags": [
+      "万力+nicholson"
+    ]
   },
   {
     "tag_name": "Jackie Chan",
@@ -14381,7 +16469,9 @@ return [
   },
   {
     "tag_name": "Jada Pinkett Smith",
-    "related_tags": []
+    "related_tags": [
+      "jada+pinkett+鍛冶屋"
+    ]
   },
   {
     "tag_name": "Jamie Hyneman",
@@ -14389,11 +16479,15 @@ return [
   },
   {
     "tag_name": "Jared Leto",
-    "related_tags": []
+    "related_tags": [
+      "広口瓶+leto"
+    ]
   },
   {
     "tag_name": "Jason David Frank",
-    "related_tags": []
+    "related_tags": [
+      "jason+david+開けっぱなし"
+    ]
   },
   {
     "tag_name": "Jason Momoa",
@@ -14427,19 +16521,27 @@ return [
   },
   {
     "tag_name": "Joaquin Phoenix",
-    "related_tags": []
+    "related_tags": [
+      "joaquin+不死鳥"
+    ]
   },
   {
     "tag_name": "John David Washington",
-    "related_tags": []
+    "related_tags": [
+      "亡八+david+washington"
+    ]
   },
   {
     "tag_name": "John Travolta",
-    "related_tags": []
+    "related_tags": [
+      "亡八+travolta"
+    ]
   },
   {
     "tag_name": "Jude Law",
-    "related_tags": []
+    "related_tags": [
+      "jude+格"
+    ]
   },
   {
     "tag_name": "Kate Winslet",
@@ -14505,7 +16607,9 @@ return [
   },
   {
     "tag_name": "Martin Freeman",
-    "related_tags": []
+    "related_tags": [
+      "燕+freeman"
+    ]
   },
   {
     "tag_name": "Matsudaira Ken",
@@ -14515,11 +16619,15 @@ return [
   },
   {
     "tag_name": "Matt Damon",
-    "related_tags": []
+    "related_tags": [
+      "マット+damon"
+    ]
   },
   {
     "tag_name": "Megan Fox",
-    "related_tags": []
+    "related_tags": [
+      "megan+こんこん"
+    ]
   },
   {
     "tag_name": "Mel Gibson",
@@ -14531,7 +16639,9 @@ return [
   },
   {
     "tag_name": "Mr. T",
-    "related_tags": []
+    "related_tags": [
+      "丈+t"
+    ]
   },
   {
     "tag_name": "Natalie Portman",
@@ -14539,7 +16649,9 @@ return [
   },
   {
     "tag_name": "Nicolas Cage",
-    "related_tags": []
+    "related_tags": [
+      "ニコラ+篭"
+    ]
   },
   {
     "tag_name": "Oomura Kon",
@@ -14609,7 +16721,9 @@ return [
   },
   {
     "tag_name": "Sean Young",
-    "related_tags": []
+    "related_tags": [
+      "sean+乙"
+    ]
   },
   {
     "tag_name": "Seth Rogen",
@@ -14649,7 +16763,9 @@ return [
   },
   {
     "tag_name": "Terry Crews",
-    "related_tags": []
+    "related_tags": [
+      "terry+一味"
+    ]
   },
   {
     "tag_name": "Tobey Maguire",
@@ -14669,7 +16785,9 @@ return [
   },
   {
     "tag_name": "Tom Holland",
-    "related_tags": []
+    "related_tags": [
+      "tom+阿蘭陀"
+    ]
   },
   {
     "tag_name": "Tommy Lee Jones",
@@ -14685,11 +16803,15 @@ return [
   },
   {
     "tag_name": "Vin Diesel",
-    "related_tags": []
+    "related_tags": [
+      "vin+ジーゼル"
+    ]
   },
   {
     "tag_name": "Vincent Price",
-    "related_tags": []
+    "related_tags": [
+      "vincent+価"
+    ]
   },
   {
     "tag_name": "Will Smith",
@@ -14729,7 +16851,9 @@ return [
   },
   {
     "tag_name": "Axl Rose",
-    "related_tags": []
+    "related_tags": [
+      "axl+薔薇"
+    ]
   },
   {
     "tag_name": "Bad Bunny",
@@ -14747,7 +16871,9 @@ return [
   },
   {
     "tag_name": "Boy George",
-    "related_tags": []
+    "related_tags": [
+      "一男+george"
+    ]
   },
   {
     "tag_name": "Bradford Phillip Delson",
@@ -14787,7 +16913,9 @@ return [
   },
   {
     "tag_name": "Cliff Burton",
-    "related_tags": []
+    "related_tags": [
+      "崖+burton"
+    ]
   },
   {
     "tag_name": "Daesung (bigbang)",
@@ -14811,19 +16939,27 @@ return [
   },
   {
     "tag_name": "Doja Cat",
-    "related_tags": []
+    "related_tags": [
+      "doja+猫"
+    ]
   },
   {
     "tag_name": "Dolly Parton",
-    "related_tags": []
+    "related_tags": [
+      "台車+parton"
+    ]
   },
   {
     "tag_name": "Dua Lipa",
-    "related_tags": []
+    "related_tags": [
+      "ディレクトリ利用者エージェント+lipa"
+    ]
   },
   {
     "tag_name": "Eddie Van Halen",
-    "related_tags": []
+    "related_tags": [
+      "eddie+付加価値ネットワーク+halen"
+    ]
   },
   {
     "tag_name": "Elena Sergeevna Katina",
@@ -14855,7 +16991,9 @@ return [
   },
   {
     "tag_name": "Franz Schubert",
-    "related_tags": []
+    "related_tags": [
+      "franz+シューベルト"
+    ]
   },
   {
     "tag_name": "Freddie Mercury",
@@ -14865,7 +17003,9 @@ return [
   },
   {
     "tag_name": "Frederic Chopin",
-    "related_tags": []
+    "related_tags": [
+      "frederic+ショパン"
+    ]
   },
   {
     "tag_name": "Fukumen",
@@ -14881,11 +17021,15 @@ return [
   },
   {
     "tag_name": "Guy-Manuel de Homem-christo",
-    "related_tags": []
+    "related_tags": [
+      "男+manuel+de+homem+christo"
+    ]
   },
   {
     "tag_name": "Hannes van Dahl",
-    "related_tags": []
+    "related_tags": [
+      "hannes+付加価値ネットワーク+dahl"
+    ]
   },
   {
     "tag_name": "Hector Berlioz",
@@ -14923,7 +17067,9 @@ return [
   },
   {
     "tag_name": "James Hetfield",
-    "related_tags": []
+    "related_tags": [
+      "混雑+hetfield"
+    ]
   },
   {
     "tag_name": "Jennie",
@@ -14931,7 +17077,9 @@ return [
   },
   {
     "tag_name": "Jean Sibelius",
-    "related_tags": []
+    "related_tags": [
+      "ジーンズ+sibelius"
+    ]
   },
   {
     "tag_name": "Jeff Hanneman",
@@ -14949,7 +17097,9 @@ return [
   },
   {
     "tag_name": "Jimmy Page",
-    "related_tags": []
+    "related_tags": [
+      "jimmy+給仕"
+    ]
   },
   {
     "tag_name": "Jisoo",
@@ -14961,23 +17111,33 @@ return [
   },
   {
     "tag_name": "Johann Sebastian Bach",
-    "related_tags": []
+    "related_tags": [
+      "johann+sebastian+バッハ"
+    ]
   },
   {
     "tag_name": "John Bonham",
-    "related_tags": []
+    "related_tags": [
+      "亡八+bonham"
+    ]
   },
   {
     "tag_name": "John Densmore",
-    "related_tags": []
+    "related_tags": [
+      "亡八+densmore"
+    ]
   },
   {
     "tag_name": "John Lennon",
-    "related_tags": []
+    "related_tags": [
+      "亡八+lennon"
+    ]
   },
   {
     "tag_name": "John Paul Jones",
-    "related_tags": []
+    "related_tags": [
+      "亡八+paul+jones"
+    ]
   },
   {
     "tag_name": "Jonne Jarvela",
@@ -14999,7 +17159,9 @@ return [
   },
   {
     "tag_name": "Ice Cube",
-    "related_tags": []
+    "related_tags": [
+      "角氷"
+    ]
   },
   {
     "tag_name": "Kageyama Hironobu",
@@ -15019,7 +17181,9 @@ return [
   },
   {
     "tag_name": "Kerry King",
-    "related_tags": []
+    "related_tags": [
+      "kerry+王"
+    ]
   },
   {
     "tag_name": "Kiki Xu",
@@ -15065,7 +17229,9 @@ return [
   },
   {
     "tag_name": "Lil Nas X",
-    "related_tags": []
+    "related_tags": [
+      "lil+非適用+x"
+    ]
   },
   {
     "tag_name": "LiSA",
@@ -15075,11 +17241,15 @@ return [
   },
   {
     "tag_name": "Logic",
-    "related_tags": []
+    "related_tags": [
+      "筋"
+    ]
   },
   {
     "tag_name": "Ludwig van Beethoven",
-    "related_tags": []
+    "related_tags": [
+      "ludwig+付加価値ネットワーク+ベートーベン"
+    ]
   },
   {
     "tag_name": "Majiko",
@@ -15119,11 +17289,15 @@ return [
   },
   {
     "tag_name": "MC Hammer",
-    "related_tags": []
+    "related_tags": [
+      "mc+金づち"
+    ]
   },
   {
     "tag_name": "Megan Thee Stallion",
-    "related_tags": []
+    "related_tags": [
+      "megan+thee+種馬"
+    ]
   },
   {
     "tag_name": "Michael Jackson",
@@ -15133,11 +17307,15 @@ return [
   },
   {
     "tag_name": "Mike Mangini",
-    "related_tags": []
+    "related_tags": [
+      "マイク+mangini"
+    ]
   },
   {
     "tag_name": "Mike Shinoda",
-    "related_tags": []
+    "related_tags": [
+      "マイク+shinoda"
+    ]
   },
   {
     "tag_name": "Mizuki Ichirou",
@@ -15167,7 +17345,9 @@ return [
   },
   {
     "tag_name": "Par Sundstrom",
-    "related_tags": []
+    "related_tags": [
+      "額面+sundstrom"
+    ]
   },
   {
     "tag_name": "Paul McCartney",
@@ -15183,11 +17363,15 @@ return [
   },
   {
     "tag_name": "Pyotr Illyich Tchaikovsky",
-    "related_tags": []
+    "related_tags": [
+      "pyotr+illyich+チャイコフスキー"
+    ]
   },
   {
     "tag_name": "Ray Manzarek",
-    "related_tags": []
+    "related_tags": [
+      "光+manzarek"
+    ]
   },
   {
     "tag_name": "Reol",
@@ -15219,7 +17403,9 @@ return [
   },
   {
     "tag_name": "Robert Plant",
-    "related_tags": []
+    "related_tags": [
+      "robert+株"
+    ]
   },
   {
     "tag_name": "Robby Krieger",
@@ -15251,15 +17437,21 @@ return [
   },
   {
     "tag_name": "Slash",
-    "related_tags": []
+    "related_tags": [
+      "斬撃"
+    ]
   },
   {
     "tag_name": "Snoop Dogg",
-    "related_tags": []
+    "related_tags": [
+      "御節介屋+頑強"
+    ]
   },
   {
     "tag_name": "Solar",
-    "related_tags": []
+    "related_tags": [
+      "ソーラー"
+    ]
   },
   {
     "tag_name": "Sunmi",
@@ -15323,7 +17515,9 @@ return [
   },
   {
     "tag_name": "Yagami Kumi",
-    "related_tags": []
+    "related_tags": [
+      "yagami+馬乳酒"
+    ]
   },
   {
     "tag_name": "Yamagata Yukio",
@@ -15373,7 +17567,9 @@ return [
   },
   {
     "tag_name": "Guy Fieri",
-    "related_tags": []
+    "related_tags": [
+      "男+fieri"
+    ]
   },
   {
     "tag_name": "Jon Stewart",
@@ -15429,7 +17625,9 @@ return [
   },
   {
     "tag_name": "Condoleezza Rice",
-    "related_tags": []
+    "related_tags": [
+      "condoleezza+御米"
+    ]
   },
   {
     "tag_name": "Donald Rumsfeld",
@@ -15493,7 +17691,9 @@ return [
   },
   {
     "tag_name": "John McCain",
-    "related_tags": []
+    "related_tags": [
+      "亡八+mccain"
+    ]
   },
   {
     "tag_name": "John F. Kennedy",
@@ -15529,7 +17729,9 @@ return [
   },
   {
     "tag_name": "Tim Kaine",
-    "related_tags": []
+    "related_tags": [
+      "次+kaine"
+    ]
   },
   {
     "tag_name": "Jair Bolsonaro",
@@ -15539,7 +17741,9 @@ return [
   },
   {
     "tag_name": "Sergio Moro",
-    "related_tags": []
+    "related_tags": [
+      "sergio+モロ"
+    ]
   },
   {
     "tag_name": "Boris Johnson",
@@ -15597,7 +17801,9 @@ return [
   },
   {
     "tag_name": "Huang Xing",
-    "related_tags": []
+    "related_tags": [
+      "huang+x"
+    ]
   },
   {
     "tag_name": "Jiang Zemin",
@@ -15665,7 +17871,9 @@ return [
   },
   {
     "tag_name": "Cardinal Richelieu",
-    "related_tags": []
+    "related_tags": [
+      "枢要+richelieu"
+    ]
   },
   {
     "tag_name": "Charles de Gaulle",
@@ -15753,7 +17961,9 @@ return [
   },
   {
     "tag_name": "Giuseppe Conte",
-    "related_tags": []
+    "related_tags": [
+      "giuseppe+小篇"
+    ]
   },
   {
     "tag_name": "Gailus Julius Caesar",
@@ -15763,7 +17973,9 @@ return [
   },
   {
     "tag_name": "Nero Claudius Caesar Augustus Germanicus",
-    "related_tags": []
+    "related_tags": [
+      "nero+claudius+カエサル+augustus+germanicus"
+    ]
   },
   {
     "tag_name": "Poppaea Sabina",
@@ -15873,7 +18085,9 @@ return [
   },
   {
     "tag_name": "Sejong The Great",
-    "related_tags": []
+    "related_tags": [
+      "sejong+the+偉い"
+    ]
   },
   {
     "tag_name": "Anastas Mikoyan",
@@ -15903,7 +18117,9 @@ return [
   },
   {
     "tag_name": "Ivan the Terrible",
-    "related_tags": []
+    "related_tags": [
+      "ivan+the+偉い"
+    ]
   },
   {
     "tag_name": "Joseph Stalin",
@@ -15981,11 +18197,15 @@ return [
   },
   {
     "tag_name": "Pol Pot",
-    "related_tags": []
+    "related_tags": [
+      "pol+御釜"
+    ]
   },
   {
     "tag_name": "Jean-Bedel Bokassa",
-    "related_tags": []
+    "related_tags": [
+      "ジーンズ+bedel+bokassa"
+    ]
   },
   {
     "tag_name": "Augusto Pinochet",
@@ -16055,7 +18275,9 @@ return [
   },
   {
     "tag_name": "Alexander the Great",
-    "related_tags": []
+    "related_tags": [
+      "alexander+the+偉い"
+    ]
   },
   {
     "tag_name": "Hastings Kamuzu Banda",
@@ -16063,7 +18285,9 @@ return [
   },
   {
     "tag_name": "Genghis Khan",
-    "related_tags": []
+    "related_tags": [
+      "genghis+可汗"
+    ]
   },
   {
     "tag_name": "Khorloogiin Choibalsan",
@@ -16071,7 +18295,9 @@ return [
   },
   {
     "tag_name": "Kublai Khan",
-    "related_tags": []
+    "related_tags": [
+      "kublai+可汗"
+    ]
   },
   {
     "tag_name": "Manuel Noriega",
@@ -16140,7 +18366,7 @@ return [
   {
     "tag_name": "Bhumibol Adulyadej",
     "related_tags": [
-      "rama_ix"
+      "ラーマ9世"
     ]
   },
   {
@@ -16191,7 +18417,9 @@ return [
   },
   {
     "tag_name": "Ho Chi Minh",
-    "related_tags": []
+    "related_tags": [
+      "ho+Χ+minh"
+    ]
   },
   {
     "tag_name": "Josip Broz Tito",
@@ -16213,7 +18441,9 @@ return [
   },
   {
     "tag_name": "Bill Gates",
-    "related_tags": []
+    "related_tags": [
+      "案+関"
+    ]
   },
   {
     "tag_name": "\"Colonel\" Harland Sanders",
@@ -16317,7 +18547,9 @@ return [
   },
   {
     "tag_name": "Jordan Peterson",
-    "related_tags": []
+    "related_tags": [
+      "ヨルダン+peterson"
+    ]
   },
   {
     "tag_name": "Nikola Tesla",
@@ -16341,7 +18573,9 @@ return [
   },
   {
     "tag_name": "Buzz Aldrin",
-    "related_tags": []
+    "related_tags": [
+      "羽音+アルドリン"
+    ]
   },
   {
     "tag_name": "Neil Armstrong",
@@ -16377,19 +18611,27 @@ return [
   },
   {
     "tag_name": "Drew Brees",
-    "related_tags": []
+    "related_tags": [
+      "drew+ブート・レコード"
+    ]
   },
   {
     "tag_name": "Eli Manning",
-    "related_tags": []
+    "related_tags": [
+      "eli+単位料金区域"
+    ]
   },
   {
     "tag_name": "JJ Watt",
-    "related_tags": []
+    "related_tags": [
+      "jj+ワット"
+    ]
   },
   {
     "tag_name": "Joe Montana",
-    "related_tags": []
+    "related_tags": [
+      "ジョー+モンタナ"
+    ]
   },
   {
     "tag_name": "Julian Edelman",
@@ -16417,7 +18659,9 @@ return [
   },
   {
     "tag_name": "Troy Polamalu",
-    "related_tags": []
+    "related_tags": [
+      "トロイ+polamalu"
+    ]
   },
   {
     "tag_name": "soccer",
@@ -16467,7 +18711,9 @@ return [
   },
   {
     "tag_name": "Christian Pulisic",
-    "related_tags": []
+    "related_tags": [
+      "神の子+pulisic"
+    ]
   },
   {
     "tag_name": "Cristiano Ronaldo",
@@ -16515,11 +18761,15 @@ return [
   },
   {
     "tag_name": "Hans-Dieter Flick",
-    "related_tags": []
+    "related_tags": [
+      "翻+dieter+flick"
+    ]
   },
   {
     "tag_name": "Hans-Jorg Butt",
-    "related_tags": []
+    "related_tags": [
+      "翻+jorg+太もも"
+    ]
   },
   {
     "tag_name": "Holger Badstuber",
@@ -16527,7 +18777,9 @@ return [
   },
   {
     "tag_name": "James Rodriguez",
-    "related_tags": []
+    "related_tags": [
+      "混雑+rodriguez"
+    ]
   },
   {
     "tag_name": "Jerome Boateng",
@@ -16535,11 +18787,15 @@ return [
   },
   {
     "tag_name": "Joachim Low",
-    "related_tags": []
+    "related_tags": [
+      "joachim+下劣"
+    ]
   },
   {
     "tag_name": "John Terry",
-    "related_tags": []
+    "related_tags": [
+      "亡八+terry"
+    ]
   },
   {
     "tag_name": "Jonas Gutierrez",
@@ -16599,7 +18855,9 @@ return [
   },
   {
     "tag_name": "Mats Hummels",
-    "related_tags": []
+    "related_tags": [
+      "呉蓙+hummels"
+    ]
   },
   {
     "tag_name": "Matthias Ginter",
@@ -16647,7 +18905,9 @@ return [
   },
   {
     "tag_name": "Per Mertesacker",
-    "related_tags": []
+    "related_tags": [
+      "就き+mertesacker"
+    ]
   },
   {
     "tag_name": "Philipp Lahm",
@@ -16663,7 +18923,9 @@ return [
   },
   {
     "tag_name": "Roman Weidenfeller",
-    "related_tags": []
+    "related_tags": [
+      "羅典+weidenfeller"
+    ]
   },
   {
     "tag_name": "Ron-Robert Zieler",
@@ -16703,7 +18965,9 @@ return [
   },
   {
     "tag_name": "Tim Wiese",
-    "related_tags": []
+    "related_tags": [
+      "次+wiese"
+    ]
   },
   {
     "tag_name": "Toni Kroos",
@@ -16711,7 +18975,9 @@ return [
   },
   {
     "tag_name": "Murofushi Alexander Koji",
-    "related_tags": []
+    "related_tags": [
+      "murofushi+alexander+麹"
+    ]
   },
   {
     "tag_name": "Usain Bolt",
@@ -16729,7 +18995,9 @@ return [
   },
   {
     "tag_name": "Jenson Button",
-    "related_tags": []
+    "related_tags": [
+      "jenson+撮み"
+    ]
   },
   {
     "tag_name": "Kamioka Masao",
@@ -16737,7 +19005,9 @@ return [
   },
   {
     "tag_name": "Ken Block",
-    "related_tags": []
+    "related_tags": [
+      "視界+街"
+    ]
   },
   {
     "tag_name": "Kimi Raikkonen",
@@ -16765,7 +19035,9 @@ return [
   },
   {
     "tag_name": "Pastor Maldonado",
-    "related_tags": []
+    "related_tags": [
+      "司祭+maldonado"
+    ]
   },
   {
     "tag_name": "Pedro de la Rosa",
@@ -16795,7 +19067,9 @@ return [
   },
   {
     "tag_name": "Aubrey Huff",
-    "related_tags": []
+    "related_tags": [
+      "aubrey+ふう"
+    ]
   },
   {
     "tag_name": "Brian Wilson",
@@ -16819,7 +19093,9 @@ return [
   },
   {
     "tag_name": "Matt Cain",
-    "related_tags": []
+    "related_tags": [
+      "マット+cain"
+    ]
   },
   {
     "tag_name": "Ootani Shouhei",
@@ -16835,7 +19111,9 @@ return [
   },
   {
     "tag_name": "Tim Lincecum",
-    "related_tags": []
+    "related_tags": [
+      "次+lincecum"
+    ]
   },
   {
     "tag_name": "Basketball",
@@ -16849,11 +19127,15 @@ return [
   },
   {
     "tag_name": "Blake Griffin",
-    "related_tags": []
+    "related_tags": [
+      "blake+グリッフィン"
+    ]
   },
   {
     "tag_name": "Brook Lopez",
-    "related_tags": []
+    "related_tags": [
+      "小川+lopez"
+    ]
   },
   {
     "tag_name": "Carmelo Anthony",
@@ -16869,11 +19151,15 @@ return [
   },
   {
     "tag_name": "DeAndre Jordan",
-    "related_tags": []
+    "related_tags": [
+      "deandre+ヨルダン"
+    ]
   },
   {
     "tag_name": "Dirk Nowitzki",
-    "related_tags": []
+    "related_tags": [
+      "短刀+nowitzki"
+    ]
   },
   {
     "tag_name": "Dwyane Wade",
@@ -16909,7 +19195,9 @@ return [
   },
   {
     "tag_name": "Joe Johnson",
-    "related_tags": []
+    "related_tags": [
+      "ジョー+johnson"
+    ]
   },
   {
     "tag_name": "Kawhi Leonard",
@@ -16917,7 +19205,9 @@ return [
   },
   {
     "tag_name": "Kenny Smith",
-    "related_tags": []
+    "related_tags": [
+      "kenny+鍛冶屋"
+    ]
   },
   {
     "tag_name": "Kevin Garnett",
@@ -16961,7 +19251,9 @@ return [
   },
   {
     "tag_name": "Paul Pierce",
-    "related_tags": []
+    "related_tags": [
+      "paul+劈"
+    ]
   },
   {
     "tag_name": "Shaquille O'Neal",
@@ -16975,7 +19267,9 @@ return [
   },
   {
     "tag_name": "Tim Duncan",
-    "related_tags": []
+    "related_tags": [
+      "次+duncan"
+    ]
   },
   {
     "tag_name": "Yao Ming",
@@ -16985,7 +19279,9 @@ return [
   },
   {
     "tag_name": "Mike Tyson",
-    "related_tags": []
+    "related_tags": [
+      "マイク+tyson"
+    ]
   },
   {
     "tag_name": "Andou Miki",
@@ -16993,7 +19289,9 @@ return [
   },
   {
     "tag_name": "Asada Mao",
-    "related_tags": []
+    "related_tags": [
+      "asada+モノアミン酸化酵素"
+    ]
   },
   {
     "tag_name": "Elena Radionova",
@@ -17199,7 +19497,9 @@ return [
   },
   {
     "tag_name": "Bad Luck Fale",
-    "related_tags": []
+    "related_tags": [
+      "悪い+運+fale"
+    ]
   },
   {
     "tag_name": "Baron Corbin",
@@ -17221,19 +19521,27 @@ return [
   },
   {
     "tag_name": "Big Cass",
-    "related_tags": []
+    "related_tags": [
+      "巨いなる+制御領域"
+    ]
   },
   {
     "tag_name": "Big E",
-    "related_tags": []
+    "related_tags": [
+      "巨いなる+e"
+    ]
   },
   {
     "tag_name": "Big Show",
-    "related_tags": []
+    "related_tags": [
+      "巨いなる+開示"
+    ]
   },
   {
     "tag_name": "Bone Soldier",
-    "related_tags": []
+    "related_tags": [
+      "硬骨+強者"
+    ]
   },
   {
     "tag_name": "Braun Strowman",
@@ -17273,7 +19581,9 @@ return [
   },
   {
     "tag_name": "Chad Gable",
-    "related_tags": []
+    "related_tags": [
+      "チャド+妻"
+    ]
   },
   {
     "tag_name": "Charlotte Flair",
@@ -17283,7 +19593,9 @@ return [
   },
   {
     "tag_name": "Chase Owens",
-    "related_tags": []
+    "related_tags": [
+      "追求+owens"
+    ]
   },
   {
     "tag_name": "Chouno Masahiro",
@@ -17303,7 +19615,9 @@ return [
   },
   {
     "tag_name": "Christian",
-    "related_tags": []
+    "related_tags": [
+      "神の子"
+    ]
   },
   {
     "tag_name": "CM Punk",
@@ -17365,7 +19679,9 @@ return [
   },
   {
     "tag_name": "Evil",
-    "related_tags": []
+    "related_tags": [
+      "悪"
+    ]
   },
   {
     "tag_name": "Finn Balor",
@@ -17391,11 +19707,15 @@ return [
   },
   {
     "tag_name": "Great-o-Khan",
-    "related_tags": []
+    "related_tags": [
+      "偉い+o+可汗"
+    ]
   },
   {
     "tag_name": "Hangman Page",
-    "related_tags": []
+    "related_tags": [
+      "絞刑吏+給仕"
+    ]
   },
   {
     "tag_name": "Hashimoto Shin'ya",
@@ -17403,7 +19723,9 @@ return [
   },
   {
     "tag_name": "Heath Slater",
-    "related_tags": []
+    "related_tags": [
+      "エリカ+草鞋虫"
+    ]
   },
   {
     "tag_name": "Hulk Hogan",
@@ -17413,7 +19735,9 @@ return [
   },
   {
     "tag_name": "Hyper Misao",
-    "related_tags": []
+    "related_tags": [
+      "度を越した+misao"
+    ]
   },
   {
     "tag_name": "Ishii Tomohiro",
@@ -17431,15 +19755,21 @@ return [
   },
   {
     "tag_name": "James Ellsworth",
-    "related_tags": []
+    "related_tags": [
+      "混雑+ellsworth"
+    ]
   },
   {
     "tag_name": "Jason Jordan",
-    "related_tags": []
+    "related_tags": [
+      "jason+ヨルダン"
+    ]
   },
   {
     "tag_name": "Jeff Hardy",
-    "related_tags": []
+    "related_tags": [
+      "jeff+頑強"
+    ]
   },
   {
     "tag_name": "John Cena",
@@ -17505,15 +19835,21 @@ return [
   },
   {
     "tag_name": "Mark Henry",
-    "related_tags": []
+    "related_tags": [
+      "印+ヘンリー"
+    ]
   },
   {
     "tag_name": "Matt Jackson",
-    "related_tags": []
+    "related_tags": [
+      "マット+jackson"
+    ]
   },
   {
     "tag_name": "Michael Cole",
-    "related_tags": []
+    "related_tags": [
+      "michael+野沢菜"
+    ]
   },
   {
     "tag_name": "Mick Foley",
@@ -17530,7 +19866,7 @@ return [
   {
     "tag_name": "Montel Vontavious Porter",
     "related_tags": [
-      "MVP(WWE)"
+      "モンテル・ボンタビアス・ポーター"
     ]
   },
   {
@@ -17553,7 +19889,9 @@ return [
   },
   {
     "tag_name": "Nick Jackson",
-    "related_tags": []
+    "related_tags": [
+      "刻み+jackson"
+    ]
   },
   {
     "tag_name": "Nikki Bella",
@@ -17583,7 +19921,9 @@ return [
   },
   {
     "tag_name": "Randy Savage",
-    "related_tags": []
+    "related_tags": [
+      "randy+夷人"
+    ]
   },
   {
     "tag_name": "Rey Mysterio, Jr.",
@@ -17599,7 +19939,9 @@ return [
   },
   {
     "tag_name": "Roddy Piper",
-    "related_tags": []
+    "related_tags": [
+      "roddy+笛吹"
+    ]
   },
   {
     "tag_name": "Rhyno",
@@ -17651,7 +19993,9 @@ return [
   },
   {
     "tag_name": "Shotzi Blackheart",
-    "related_tags": []
+    "related_tags": [
+      "shotzi+腹がくろい"
+    ]
   },
   {
     "tag_name": "Sheamus",
@@ -17663,7 +20007,9 @@ return [
   },
   {
     "tag_name": "Sin Cara",
-    "related_tags": []
+    "related_tags": [
+      "科+cara"
+    ]
   },
   {
     "tag_name": "Sting",
@@ -17687,7 +20033,9 @@ return [
   },
   {
     "tag_name": "Tama Tonga",
-    "related_tags": []
+    "related_tags": [
+      "tama+トンガ"
+    ]
   },
   {
     "tag_name": "Tanga Loa",
@@ -17707,7 +20055,9 @@ return [
   },
   {
     "tag_name": "Terry Funk",
-    "related_tags": []
+    "related_tags": [
+      "terry+ファンク"
+    ]
   },
   {
     "tag_name": "Tiger Mask",
@@ -17723,7 +20073,9 @@ return [
   },
   {
     "tag_name": "The Ultimate Warrior",
-    "related_tags": []
+    "related_tags": [
+      "the+究極+益荒男"
+    ]
   },
   {
     "tag_name": "The Undertaker",
@@ -17751,7 +20103,9 @@ return [
   },
   {
     "tag_name": "Xavier Woods",
-    "related_tags": []
+    "related_tags": [
+      "xavier+森林"
+    ]
   },
   {
     "tag_name": "Yano Tooru",
@@ -17889,7 +20243,9 @@ return [
   },
   {
     "tag_name": "Hans-ulrich Rudel",
-    "related_tags": []
+    "related_tags": [
+      "翻+ulrich+rudel"
+    ]
   },
   {
     "tag_name": "Hijikata Toshizou",
@@ -17921,7 +20277,9 @@ return [
   },
   {
     "tag_name": "Lin Biao",
-    "related_tags": []
+    "related_tags": [
+      "裏付き+biao"
+    ]
   },
   {
     "tag_name": "Lu Bu",
@@ -17971,7 +20329,9 @@ return [
   },
   {
     "tag_name": "Pancho Villa",
-    "related_tags": []
+    "related_tags": [
+      "pancho+下屋敷"
+    ]
   },
   {
     "tag_name": "Porfirio Diaz",
@@ -17979,11 +20339,15 @@ return [
   },
   {
     "tag_name": "Prince Eugene of Savoy",
-    "related_tags": []
+    "related_tags": [
+      "王+eugene+of+savoy"
+    ]
   },
   {
     "tag_name": "Robert E. Lee",
-    "related_tags": []
+    "related_tags": [
+      "robert+e.+風下"
+    ]
   },
   {
     "tag_name": "Sakai Saburou",
@@ -18129,7 +20493,9 @@ return [
   },
   {
     "tag_name": "Kutaragi Ken",
-    "related_tags": []
+    "related_tags": [
+      "kutaragi+視界"
+    ]
   },
   {
     "tag_name": "Reggie Fils-Aime",
@@ -18159,11 +20525,15 @@ return [
   },
   {
     "tag_name": "Game Grumps",
-    "related_tags": []
+    "related_tags": [
+      "一戦+零し屋"
+    ]
   },
   {
     "tag_name": "Armada",
-    "related_tags": []
+    "related_tags": [
+      "艦隊"
+    ]
   },
   {
     "tag_name": "Arteezy",
@@ -18171,7 +20541,9 @@ return [
   },
   {
     "tag_name": "Balls",
-    "related_tags": []
+    "related_tags": [
+      "睾丸"
+    ]
   },
   {
     "tag_name": "Bebe",
@@ -18193,15 +20565,21 @@ return [
   },
   {
     "tag_name": "Dan Avidan",
-    "related_tags": []
+    "related_tags": [
+      "段+avidan"
+    ]
   },
   {
     "tag_name": "Dream",
-    "related_tags": []
+    "related_tags": [
+      "一夢"
+    ]
   },
   {
     "tag_name": "Faker",
-    "related_tags": []
+    "related_tags": [
+      "贋作者"
+    ]
   },
   {
     "tag_name": "Fuudo",
@@ -18229,11 +20607,15 @@ return [
   },
   {
     "tag_name": "Impact",
-    "related_tags": []
+    "related_tags": [
+      "衝撃"
+    ]
   },
   {
     "tag_name": "Infiltration",
-    "related_tags": []
+    "related_tags": [
+      "浸出"
+    ]
   },
   {
     "tag_name": "James Rolfe",
@@ -18301,7 +20683,9 @@ return [
   },
   {
     "tag_name": "Maple",
-    "related_tags": []
+    "related_tags": [
+      "松楓"
+    ]
   },
   {
     "tag_name": "Meteos",
@@ -18317,7 +20701,9 @@ return [
   },
   {
     "tag_name": "Mistake",
-    "related_tags": []
+    "related_tags": [
+      "違い"
+    ]
   },
   {
     "tag_name": "MMD",
@@ -18334,7 +20720,7 @@ return [
   {
     "tag_name": "Nicolaj Jensen",
     "related_tags": [
-      "Incarnati0n_(gamer)"
+      "Incarnati0n"
     ]
   },
   {
@@ -18361,11 +20747,15 @@ return [
   },
   {
     "tag_name": "Snake Eyez",
-    "related_tags": []
+    "related_tags": [
+      "蛇+eyez"
+    ]
   },
   {
     "tag_name": "Sneaky",
-    "related_tags": []
+    "related_tags": [
+      "油断ならない"
+    ]
   },
   {
     "tag_name": "Stanley",
@@ -18407,7 +20797,9 @@ return [
   },
   {
     "tag_name": "Void",
-    "related_tags": []
+    "related_tags": [
+      "虚しい"
+    ]
   },
   {
     "tag_name": "Xian",
@@ -18427,7 +20819,9 @@ return [
   },
   {
     "tag_name": "Jimmy Wales",
-    "related_tags": []
+    "related_tags": [
+      "jimmy+ウェールズ"
+    ]
   },
   {
     "tag_name": "Katya Lischina",
@@ -18457,7 +20851,9 @@ return [
   },
   {
     "tag_name": "Yulia Nova",
-    "related_tags": []
+    "related_tags": [
+      "yulia+新星"
+    ]
   },
   {
     "tag_name": "Akishino Kako",
@@ -18493,7 +20889,9 @@ return [
   },
   {
     "tag_name": "Big Man Tyrone",
-    "related_tags": []
+    "related_tags": [
+      "巨いなる+牡+tyrone"
+    ]
   },
   {
     "tag_name": "Choi Seol-Hwa",
@@ -18523,7 +20921,9 @@ return [
   },
   {
     "tag_name": "Justinius Builds",
-    "related_tags": []
+    "related_tags": [
+      "justinius+躯"
+    ]
   },
   {
     "tag_name": "Kobashiri.",
@@ -18595,11 +20995,15 @@ return [
   },
   {
     "tag_name": "fur",
-    "related_tags": []
+    "related_tags": [
+      "毛革"
+    ]
   },
   {
     "tag_name": "Body fur",
-    "related_tags": []
+    "related_tags": [
+      "遺骸+毛革"
+    ]
   },
   {
     "tag_name": "griddle",
@@ -18615,11 +21019,15 @@ return [
   },
   {
     "tag_name": "barbecue_(object)",
-    "related_tags": []
+    "related_tags": [
+      "バーベキュー+(object)"
+    ]
   },
   {
     "tag_name": "bbq_(object)",
-    "related_tags": []
+    "related_tags": [
+      "バーベキュー+(object)"
+    ]
   },
   {
     "tag_name": "Arane",
@@ -18631,7 +21039,9 @@ return [
   },
   {
     "tag_name": "Monster Girl Island",
-    "related_tags": []
+    "related_tags": [
+      "化け物+姉ちゃん+嶋"
+    ]
   },
   {
     "tag_name": "Arahnia Taranterra Arachnida",
@@ -18731,7 +21141,9 @@ return [
   },
   {
     "tag_name": "tag_groups",
-    "related_tags": []
+    "related_tags": [
+      "下げ札+一つ穴"
+    ]
   },
   {
     "tag_name": "dog",
@@ -18747,7 +21159,9 @@ return [
   },
   {
     "tag_name": "pet",
-    "related_tags": []
+    "related_tags": [
+      "陽電子放射断層撮影"
+    ]
   },
   {
     "tag_name": "animalization",
@@ -18757,15 +21171,21 @@ return [
   },
   {
     "tag_name": "dog_on_head",
-    "related_tags": []
+    "related_tags": [
+      "わん公+on+髄"
+    ]
   },
   {
     "tag_name": "dog_walking",
-    "related_tags": []
+    "related_tags": [
+      "わん公+御拾い"
+    ]
   },
   {
     "tag_name": "guide_dog",
-    "related_tags": []
+    "related_tags": [
+      "アイメート"
+    ]
   },
   {
     "tag_name": "no_humans",
@@ -18775,15 +21195,21 @@ return [
   },
   {
     "tag_name": "pack_of_dogs",
-    "related_tags": []
+    "related_tags": [
+      "一まとめ+of+わん公"
+    ]
   },
   {
     "tag_name": "puppy",
-    "related_tags": []
+    "related_tags": [
+      "狗"
+    ]
   },
   {
     "tag_name": "dog_costume",
-    "related_tags": []
+    "related_tags": [
+      "わん公+衣裳"
+    ]
   },
   {
     "tag_name": "dog_ears",
@@ -18793,19 +21219,27 @@ return [
   },
   {
     "tag_name": "dog_hat",
-    "related_tags": []
+    "related_tags": [
+      "わん公+帽"
+    ]
   },
   {
     "tag_name": "dog_paws",
-    "related_tags": []
+    "related_tags": [
+      "わん公+脚"
+    ]
   },
   {
     "tag_name": "dog_biscuit",
-    "related_tags": []
+    "related_tags": [
+      "わん公+クッキー"
+    ]
   },
   {
     "tag_name": "dog_paddle",
-    "related_tags": []
+    "related_tags": [
+      "わん公+水かき"
+    ]
   },
   {
     "tag_name": "doggystyle",
@@ -18815,7 +21249,9 @@ return [
   },
   {
     "tag_name": "afghan_hound",
-    "related_tags": []
+    "related_tags": [
+      "アフガン・ハウンド"
+    ]
   },
   {
     "tag_name": "akita_inu",
@@ -18825,19 +21261,27 @@ return [
   },
   {
     "tag_name": "australian_kelpie",
-    "related_tags": []
+    "related_tags": [
+      "オージー+水魔"
+    ]
   },
   {
     "tag_name": "beagle",
-    "related_tags": []
+    "related_tags": [
+      "ビーグル"
+    ]
   },
   {
     "tag_name": "bernese_mountain_dog",
-    "related_tags": []
+    "related_tags": [
+      "バーニーズ・マウンテン・ドッグ"
+    ]
   },
   {
     "tag_name": "border_collie",
-    "related_tags": []
+    "related_tags": [
+      "ボーダー・コリー"
+    ]
   },
   {
     "tag_name": "borzoi",
@@ -18875,7 +21319,9 @@ return [
   },
   {
     "tag_name": "chinese_crested_dog",
-    "related_tags": []
+    "related_tags": [
+      "韓語+印+わん公"
+    ]
   },
   {
     "tag_name": "chow_chow",
@@ -18885,7 +21331,9 @@ return [
   },
   {
     "tag_name": "dachshund",
-    "related_tags": []
+    "related_tags": [
+      "ダックス"
+    ]
   },
   {
     "tag_name": "dalmatian",
@@ -18899,39 +21347,57 @@ return [
   },
   {
     "tag_name": "doberman",
-    "related_tags": []
+    "related_tags": [
+      "ドーベルマン"
+    ]
   },
   {
     "tag_name": "english_springer_spaniel",
-    "related_tags": []
+    "related_tags": [
+      "英国人+springer+スパニエル"
+    ]
   },
   {
     "tag_name": "german_shepherd",
-    "related_tags": []
+    "related_tags": [
+      "シェパード"
+    ]
   },
   {
     "tag_name": "golden_retriever",
-    "related_tags": []
+    "related_tags": [
+      "ゴールデン・レトリーバー"
+    ]
   },
   {
     "tag_name": "great_dane",
-    "related_tags": []
+    "related_tags": [
+      "偉い+デーン人"
+    ]
   },
   {
     "tag_name": "greyhound",
-    "related_tags": []
+    "related_tags": [
+      "グレーハウンド"
+    ]
   },
   {
     "tag_name": "husky",
-    "related_tags": []
+    "related_tags": [
+      "がらがら"
+    ]
   },
   {
     "tag_name": "irish_setter",
-    "related_tags": []
+    "related_tags": [
+      "アイリッシュ・セッター"
+    ]
   },
   {
     "tag_name": "japanese_spitz",
-    "related_tags": []
+    "related_tags": [
+      "日本的+spitz"
+    ]
   },
   {
     "tag_name": "maltese",
@@ -18943,7 +21409,9 @@ return [
   },
   {
     "tag_name": "old_english_sheepdog",
-    "related_tags": []
+    "related_tags": [
+      "オールド・イングリッシュ・シープドッグ"
+    ]
   },
   {
     "tag_name": "papillon_(dog)",
@@ -18967,7 +21435,9 @@ return [
   },
   {
     "tag_name": "shar_pei",
-    "related_tags": []
+    "related_tags": [
+      "共聴+pei"
+    ]
   },
   {
     "tag_name": "shiba_inu",
@@ -19049,7 +21519,9 @@ return [
   },
   {
     "tag_name": "bolt_(character)",
-    "related_tags": []
+    "related_tags": [
+      "心張り棒+(character)"
+    ]
   },
   {
     "tag_name": "boney",
@@ -19058,20 +21530,26 @@ return [
   {
     "tag_name": "mother_3",
     "related_tags": [
-      "MOTHER3_15th"
+      "MOTHER3_15周年"
     ]
   },
   {
     "tag_name": "brown_(rule_of_rose)",
-    "related_tags": []
+    "related_tags": [
+      "赤銅色+(rule+of+rose)"
+    ]
   },
   {
     "tag_name": "rule_of_rose",
-    "related_tags": []
+    "related_tags": [
+      "格+of+薔薇"
+    ]
   },
   {
     "tag_name": "cherry_(lucky_star)",
-    "related_tags": []
+    "related_tags": [
+      "チェリー+(lucky+star)"
+    ]
   },
   {
     "tag_name": "lucky_star",
@@ -19197,7 +21675,9 @@ return [
   },
   {
     "tag_name": "leader",
-    "related_tags": []
+    "related_tags": [
+      "引率者"
+    ]
   },
   {
     "tag_name": "honey_and_clover",
@@ -19237,7 +21717,9 @@ return [
   },
   {
     "tag_name": "potato_(air)",
-    "related_tags": []
+    "related_tags": [
+      "芋+(air)"
+    ]
   },
   {
     "tag_name": "air_(visual_novel)",
@@ -19305,7 +21787,9 @@ return [
   },
   {
     "tag_name": "stranger_mukou_hadan",
-    "related_tags": []
+    "related_tags": [
+      "異国人+mukou+hadan"
+    ]
   },
   {
     "tag_name": "toto_(twooz)",
@@ -19487,7 +21971,9 @@ return [
   },
   {
     "tag_name": "naga_(avatar)",
-    "related_tags": []
+    "related_tags": [
+      "竜+(avatar)"
+    ]
   },
   {
     "tag_name": "the_legend_of_korra",
@@ -19507,7 +21993,9 @@ return [
   },
   {
     "tag_name": "primate_murder",
-    "related_tags": []
+    "related_tags": [
+      "猿目+兇害"
+    ]
   },
   {
     "tag_name": "tsukihime",
@@ -19535,7 +22023,9 @@ return [
   },
   {
     "tag_name": "mega_man_(classic)",
-    "related_tags": []
+    "related_tags": [
+      "超ど級+牡+(classic)"
+    ]
   },
   {
     "tag_name": "sadaharu",
@@ -19745,7 +22235,9 @@ return [
   },
   {
     "tag_name": "stuffed_animal",
-    "related_tags": []
+    "related_tags": [
+      "剥製"
+    ]
   },
   {
     "tag_name": "toy",
@@ -19755,7 +22247,9 @@ return [
   },
   {
     "tag_name": "bike-chan",
-    "related_tags": []
+    "related_tags": [
+      "自転車+chan"
+    ]
   },
   {
     "tag_name": "serial_experiments_lain",
@@ -19809,7 +22303,9 @@ return [
   },
   {
     "tag_name": "lesser_dog",
-    "related_tags": []
+    "related_tags": [
+      "lesser+わん公"
+    ]
   },
   {
     "tag_name": "forehead flick",
@@ -19825,7 +22321,9 @@ return [
   },
   {
     "tag_name": "crossword puzzle",
-    "related_tags": []
+    "related_tags": [
+      "クロス・ワード・パズル"
+    ]
   },
   {
     "tag_name": "jenga",
@@ -19835,11 +22333,15 @@ return [
   },
   {
     "tag_name": "metal puzzle",
-    "related_tags": []
+    "related_tags": [
+      "金+考えもの"
+    ]
   },
   {
     "tag_name": "puzzle",
-    "related_tags": []
+    "related_tags": [
+      "考えもの"
+    ]
   },
   {
     "tag_name": "jigsaw puzzle",
@@ -19849,7 +22351,9 @@ return [
   },
   {
     "tag_name": "sliding puzzle",
-    "related_tags": []
+    "related_tags": [
+      "滑り+考えもの"
+    ]
   },
   {
     "tag_name": "rubik's cube",
@@ -19967,7 +22471,9 @@ return [
   },
   {
     "tag_name": "hopscotch",
-    "related_tags": []
+    "related_tags": [
+      "けんけんぱ"
+    ]
   },
   {
     "tag_name": "jump rope",
@@ -19977,7 +22483,9 @@ return [
   },
   {
     "tag_name": "double dutch",
-    "related_tags": []
+    "related_tags": [
+      "珍糞漢糞"
+    ]
   },
   {
     "tag_name": "kendama",
@@ -19999,7 +22507,9 @@ return [
   },
   {
     "tag_name": "leap frog",
-    "related_tags": []
+    "related_tags": [
+      "跳び+蝦"
+    ]
   },
   {
     "tag_name": "obi spin",
@@ -20009,7 +22519,9 @@ return [
   },
   {
     "tag_name": "paintball",
-    "related_tags": []
+    "related_tags": [
+      "カラー・ボール"
+    ]
   },
   {
     "tag_name": "olympics",
@@ -20049,7 +22561,9 @@ return [
   },
   {
     "tag_name": "casino token",
-    "related_tags": []
+    "related_tags": [
+      "casino+簡"
+    ]
   },
   {
     "tag_name": "dice",
@@ -20547,15 +23061,21 @@ return [
   },
   {
     "tag_name": "daisy",
-    "related_tags": []
+    "related_tags": [
+      "デージー"
+    ]
   },
   {
     "tag_name": "lily",
-    "related_tags": []
+    "related_tags": [
+      "小百合"
+    ]
   },
   {
     "tag_name": "violet",
-    "related_tags": []
+    "related_tags": [
+      "縁の色"
+    ]
   },
   {
     "tag_name": "magical_girl",
@@ -20571,31 +23091,45 @@ return [
   },
   {
     "tag_name": "magic_girl",
-    "related_tags": []
+    "related_tags": [
+      "奇術+姉ちゃん"
+    ]
   },
   {
     "tag_name": "scan",
-    "related_tags": []
+    "related_tags": [
+      "スキャン"
+    ]
   },
   {
     "tag_name": "binding discoloration",
-    "related_tags": []
+    "related_tags": [
+      "結合+色変り"
+    ]
   },
   {
     "tag_name": "bleed through",
-    "related_tags": []
+    "related_tags": [
+      "船荷証券+越し"
+    ]
   },
   {
     "tag_name": "color halftone",
-    "related_tags": []
+    "related_tags": [
+      "艶+halftone"
+    ]
   },
   {
     "tag_name": "color issue",
-    "related_tags": []
+    "related_tags": [
+      "艶+案件"
+    ]
   },
   {
     "tag_name": "crease",
-    "related_tags": []
+    "related_tags": [
+      "筋目"
+    ]
   },
   {
     "tag_name": "cropped",
@@ -20605,11 +23139,15 @@ return [
   },
   {
     "tag_name": "scan artifacts",
-    "related_tags": []
+    "related_tags": [
+      "スキャン+出土品"
+    ]
   },
   {
     "tag_name": "scan dust",
-    "related_tags": []
+    "related_tags": [
+      "スキャン+煙塵"
+    ]
   },
   {
     "tag_name": "artbook",
@@ -20623,7 +23161,9 @@ return [
   },
   {
     "tag_name": "magazine scan",
-    "related_tags": []
+    "related_tags": [
+      "火薬庫+スキャン"
+    ]
   },
   {
     "tag_name": "novel illustration",
@@ -20649,7 +23189,9 @@ return [
   },
   {
     "tag_name": "self scan",
-    "related_tags": []
+    "related_tags": [
+      "自我+スキャン"
+    ]
   },
   {
     "tag_name": "poster (medium)",
@@ -20659,7 +23201,9 @@ return [
   },
   {
     "tag_name": "textless version",
-    "related_tags": []
+    "related_tags": [
+      "textless+稿"
+    ]
   },
   {
     "tag_name": "detexted",
@@ -20667,15 +23211,21 @@ return [
   },
   {
     "tag_name": "fixed",
-    "related_tags": []
+    "related_tags": [
+      "一定"
+    ]
   },
   {
     "tag_name": "self edit",
-    "related_tags": []
+    "related_tags": [
+      "自我+エディット"
+    ]
   },
   {
     "tag_name": "stitched",
-    "related_tags": []
+    "related_tags": [
+      "眼"
+    ]
   },
   {
     "tag_name": "third-party edit",
@@ -20685,131 +23235,195 @@ return [
   },
   {
     "tag_name": "magazine request",
-    "related_tags": []
+    "related_tags": [
+      "火薬庫+依嘱"
+    ]
   },
   {
     "tag_name": "fake scan",
-    "related_tags": []
+    "related_tags": [
+      "贋+スキャン"
+    ]
   },
   {
     "tag_name": "detached leggings",
-    "related_tags": []
+    "related_tags": [
+      "淡々+脚半"
+    ]
   },
   {
     "tag_name": "aqua legwear",
-    "related_tags": []
+    "related_tags": [
+      "水色+legwear"
+    ]
   },
   {
     "tag_name": "beige legwear",
-    "related_tags": []
+    "related_tags": [
+      "亜麻色+legwear"
+    ]
   },
   {
     "tag_name": "black legwear",
-    "related_tags": []
+    "related_tags": [
+      "暗然+legwear"
+    ]
   },
   {
     "tag_name": "blue legwear",
-    "related_tags": []
+    "related_tags": [
+      "重い+legwear"
+    ]
   },
   {
     "tag_name": "brown legwear",
-    "related_tags": []
+    "related_tags": [
+      "赤銅色+legwear"
+    ]
   },
   {
     "tag_name": "green legwear",
-    "related_tags": []
+    "related_tags": [
+      "産+legwear"
+    ]
   },
   {
     "tag_name": "grey legwear",
-    "related_tags": []
+    "related_tags": [
+      "灰色+legwear"
+    ]
   },
   {
     "tag_name": "lavender legwear",
-    "related_tags": []
+    "related_tags": [
+      "ラベンダー色+legwear"
+    ]
   },
   {
     "tag_name": "orange legwear",
-    "related_tags": []
+    "related_tags": [
+      "炎色+legwear"
+    ]
   },
   {
     "tag_name": "pink legwear",
-    "related_tags": []
+    "related_tags": [
+      "退紅+legwear"
+    ]
   },
   {
     "tag_name": "purple legwear",
-    "related_tags": []
+    "related_tags": [
+      "此の糸+legwear"
+    ]
   },
   {
     "tag_name": "red legwear",
-    "related_tags": []
+    "related_tags": [
+      "赭い+legwear"
+    ]
   },
   {
     "tag_name": "tan legwear",
-    "related_tags": []
+    "related_tags": [
+      "小麦色+legwear"
+    ]
   },
   {
     "tag_name": "white legwear",
-    "related_tags": []
+    "related_tags": [
+      "白+legwear"
+    ]
   },
   {
     "tag_name": "yellow legwear",
-    "related_tags": []
+    "related_tags": [
+      "黄+legwear"
+    ]
   },
   {
     "tag_name": "gradient legwear",
-    "related_tags": []
+    "related_tags": [
+      "階調+legwear"
+    ]
   },
   {
     "tag_name": "multicolored legwear",
-    "related_tags": []
+    "related_tags": [
+      "色とりどり+legwear"
+    ]
   },
   {
     "tag_name": "two-tone legwear",
-    "related_tags": []
+    "related_tags": [
+      "二+音調+legwear"
+    ]
   },
   {
     "tag_name": "american flag legwear",
-    "related_tags": []
+    "related_tags": [
+      "米利堅+一旗+legwear"
+    ]
   },
   {
     "tag_name": "argyle legwear",
-    "related_tags": []
+    "related_tags": [
+      "アーガイル+legwear"
+    ]
   },
   {
     "tag_name": "camouflage legwear",
-    "related_tags": []
+    "related_tags": [
+      "隠蔽色+legwear"
+    ]
   },
   {
     "tag_name": "checkered legwear",
-    "related_tags": []
+    "related_tags": [
+      "チェック+legwear"
+    ]
   },
   {
     "tag_name": "gingham legwear",
-    "related_tags": []
+    "related_tags": [
+      "ギンガム+legwear"
+    ]
   },
   {
     "tag_name": "plaid legwear",
-    "related_tags": []
+    "related_tags": [
+      "格子じま+legwear"
+    ]
   },
   {
     "tag_name": "polka dot legwear",
-    "related_tags": []
+    "related_tags": [
+      "ポルカ+点+legwear"
+    ]
   },
   {
     "tag_name": "rainbow legwear",
-    "related_tags": []
+    "related_tags": [
+      "虹+legwear"
+    ]
   },
   {
     "tag_name": "striped legwear",
-    "related_tags": []
+    "related_tags": [
+      "縞々+legwear"
+    ]
   },
   {
     "tag_name": "diagonal-striped legwear",
-    "related_tags": []
+    "related_tags": [
+      "筋違い+縞々+legwear"
+    ]
   },
   {
     "tag_name": "vertical-striped legwear",
-    "related_tags": []
+    "related_tags": [
+      "鉛直+縞々+legwear"
+    ]
   },
   {
     "tag_name": "pinstripe legwear",
@@ -20817,27 +23431,39 @@ return [
   },
   {
     "tag_name": "animal ear legwear",
-    "related_tags": []
+    "related_tags": [
+      "獣+耳+legwear"
+    ]
   },
   {
     "tag_name": "bat legwear",
-    "related_tags": []
+    "related_tags": [
+      "蚊食い鳥+legwear"
+    ]
   },
   {
     "tag_name": "bear band legwear",
-    "related_tags": []
+    "related_tags": [
+      "熊羆+音楽隊+legwear"
+    ]
   },
   {
     "tag_name": "rabbit ear legwear",
-    "related_tags": []
+    "related_tags": [
+      "占め子+耳+legwear"
+    ]
   },
   {
     "tag_name": "cat ear legwear",
-    "related_tags": []
+    "related_tags": [
+      "猫+耳+legwear"
+    ]
   },
   {
     "tag_name": "horn band legwear",
-    "related_tags": []
+    "related_tags": [
+      "角+音楽隊+legwear"
+    ]
   },
   {
     "tag_name": "aran legwear",
@@ -20845,15 +23471,21 @@ return [
   },
   {
     "tag_name": "armored legwear",
-    "related_tags": []
+    "related_tags": [
+      "鎧+legwear"
+    ]
   },
   {
     "tag_name": "bow legwear",
-    "related_tags": []
+    "related_tags": [
+      "敬礼+legwear"
+    ]
   },
   {
     "tag_name": "cross-laced legwear",
-    "related_tags": []
+    "related_tags": [
+      "交雑種+ラック+legwear"
+    ]
   },
   {
     "tag_name": "fishnet legwear",
@@ -20861,39 +23493,57 @@ return [
   },
   {
     "tag_name": "fluffy legwear",
-    "related_tags": []
+    "related_tags": [
+      "ふっくら+legwear"
+    ]
   },
   {
     "tag_name": "frilled legwear",
-    "related_tags": []
+    "related_tags": [
+      "縁飾り+legwear"
+    ]
   },
   {
     "tag_name": "knit legwear",
-    "related_tags": []
+    "related_tags": [
+      "ニット+legwear"
+    ]
   },
   {
     "tag_name": "lace legwear",
-    "related_tags": []
+    "related_tags": [
+      "レース+legwear"
+    ]
   },
   {
     "tag_name": "lace-up legwear",
-    "related_tags": []
+    "related_tags": [
+      "レース+up+legwear"
+    ]
   },
   {
     "tag_name": "latex legwear",
-    "related_tags": []
+    "related_tags": [
+      "乳状液+legwear"
+    ]
   },
   {
     "tag_name": "legwear bell",
-    "related_tags": []
+    "related_tags": [
+      "legwear+ベル"
+    ]
   },
   {
     "tag_name": "o-ring legwear",
-    "related_tags": []
+    "related_tags": [
+      "o+一味+legwear"
+    ]
   },
   {
     "tag_name": "pleated legwear",
-    "related_tags": []
+    "related_tags": [
+      "折+legwear"
+    ]
   },
   {
     "tag_name": "ribbed legwear",
@@ -20901,11 +23551,15 @@ return [
   },
   {
     "tag_name": "ribbon legwear",
-    "related_tags": []
+    "related_tags": [
+      "リボン+legwear"
+    ]
   },
   {
     "tag_name": "seamed legwear",
-    "related_tags": []
+    "related_tags": [
+      "継ぎ目+legwear"
+    ]
   },
   {
     "tag_name": "back-seamed legwear",
@@ -20915,27 +23569,39 @@ return [
   },
   {
     "tag_name": "front-seamed legwear",
-    "related_tags": []
+    "related_tags": [
+      "隠れみの+継ぎ目+legwear"
+    ]
   },
   {
     "tag_name": "side-seamed legwear",
-    "related_tags": []
+    "related_tags": [
+      "横っ腹+継ぎ目+legwear"
+    ]
   },
   {
     "tag_name": "see-through legwear",
-    "related_tags": []
+    "related_tags": [
+      "御覧なさい+越し+legwear"
+    ]
   },
   {
     "tag_name": "shiny legwear",
-    "related_tags": []
+    "related_tags": [
+      "艶やか+legwear"
+    ]
   },
   {
     "tag_name": "side-tie legwear",
-    "related_tags": []
+    "related_tags": [
+      "横っ腹+因縁+legwear"
+    ]
   },
   {
     "tag_name": "spiked legwear",
-    "related_tags": []
+    "related_tags": [
+      "花穂+legwear"
+    ]
   },
   {
     "tag_name": "studded legwear",
@@ -20947,7 +23613,9 @@ return [
   },
   {
     "tag_name": "bridal legwear",
-    "related_tags": []
+    "related_tags": [
+      "ブライダル+legwear"
+    ]
   },
   {
     "tag_name": "stirrup legwear",
@@ -20957,19 +23625,27 @@ return [
   },
   {
     "tag_name": "fur-trimmed legwear",
-    "related_tags": []
+    "related_tags": [
+      "毛革+trimmed+legwear"
+    ]
   },
   {
     "tag_name": "lace-trimmed legwear",
-    "related_tags": []
+    "related_tags": [
+      "レース+trimmed+legwear"
+    ]
   },
   {
     "tag_name": "ribbon-trimmed legwear",
-    "related_tags": []
+    "related_tags": [
+      "リボン+trimmed+legwear"
+    ]
   },
   {
     "tag_name": "zipper legwear",
-    "related_tags": []
+    "related_tags": [
+      "線ファスナー+legwear"
+    ]
   },
   {
     "tag_name": "adjusting legwear",
@@ -20977,27 +23653,39 @@ return [
   },
   {
     "tag_name": "holding legwear",
-    "related_tags": []
+    "related_tags": [
+      "握把+legwear"
+    ]
   },
   {
     "tag_name": "pulling off legwear",
-    "related_tags": []
+    "related_tags": [
+      "引っ張り+off+legwear"
+    ]
   },
   {
     "tag_name": "putting on legwear",
-    "related_tags": []
+    "related_tags": [
+      "パッティング+on+legwear"
+    ]
   },
   {
     "tag_name": "removing legwear",
-    "related_tags": []
+    "related_tags": [
+      "卸+legwear"
+    ]
   },
   {
     "tag_name": "alternate legwear",
-    "related_tags": []
+    "related_tags": [
+      "一つ置き+legwear"
+    ]
   },
   {
     "tag_name": "uneven legwear",
-    "related_tags": []
+    "related_tags": [
+      "揃わない+legwear"
+    ]
   },
   {
     "tag_name": "dirty legwear",
@@ -21011,11 +23699,15 @@ return [
   },
   {
     "tag_name": "layered legwear",
-    "related_tags": []
+    "related_tags": [
+      "レイヤード+legwear"
+    ]
   },
   {
     "tag_name": "legwear past ankles",
-    "related_tags": []
+    "related_tags": [
+      "legwear+往者+足関節"
+    ]
   },
   {
     "tag_name": "legwear removed",
@@ -21023,11 +23715,15 @@ return [
   },
   {
     "tag_name": "pantyhose under shorts",
-    "related_tags": []
+    "related_tags": [
+      "pantyhose+下+短パン"
+    ]
   },
   {
     "tag_name": "mismatched legwear",
-    "related_tags": []
+    "related_tags": [
+      "ちぐはぐ+legwear"
+    ]
   },
   {
     "tag_name": "no legwear",
@@ -21035,7 +23731,9 @@ return [
   },
   {
     "tag_name": "taut legwear",
-    "related_tags": []
+    "related_tags": [
+      "がっちり+legwear"
+    ]
   },
   {
     "tag_name": "torn legwear",
@@ -21045,63 +23743,93 @@ return [
   },
   {
     "tag_name": "wet legwear",
-    "related_tags": []
+    "related_tags": [
+      "雨ふり+legwear"
+    ]
   },
   {
     "tag_name": "tag_group:dogs#dtext-main",
-    "related_tags": []
+    "related_tags": [
+      "下げ札+group:dogs#dtext+肝心"
+    ]
   },
   {
     "tag_name": "tag_group:dogs#dtext-misc",
-    "related_tags": []
+    "related_tags": [
+      "下げ札+group:dogs#dtext+ミスク"
+    ]
   },
   {
     "tag_name": "tag_group:dogs#dtext-dog",
-    "related_tags": []
+    "related_tags": [
+      "下げ札+group:dogs#dtext+わん公"
+    ]
   },
   {
     "tag_name": "tag_group:dogs#dtext-etym",
-    "related_tags": []
+    "related_tags": [
+      "下げ札+group:dogs#dtext+etym"
+    ]
   },
   {
     "tag_name": "tag_group:dogs#dtext-breeds",
-    "related_tags": []
+    "related_tags": [
+      "下げ札+group:dogs#dtext+品種"
+    ]
   },
   {
     "tag_name": "tag_group:dogs#dtext-similar",
-    "related_tags": []
+    "related_tags": [
+      "下げ札+group:dogs#dtext+近い"
+    ]
   },
   {
     "tag_name": "tag_group:dogs#dtext-chars",
-    "related_tags": []
+    "related_tags": [
+      "下げ札+group:dogs#dtext+嘉魚"
+    ]
   },
   {
     "tag_name": "tag_group:dogs#dtext-real",
-    "related_tags": []
+    "related_tags": [
+      "下げ札+group:dogs#dtext+実の"
+    ]
   },
   {
     "tag_name": "tag_group:dogs#dtext-fantastical",
-    "related_tags": []
+    "related_tags": [
+      "下げ札+group:dogs#dtext+空想的"
+    ]
   },
   {
     "tag_name": "tag_group:dogs#dtext-pokemon",
-    "related_tags": []
+    "related_tags": [
+      "下げ札+group:dogs#dtext+ポケモン"
+    ]
   },
   {
     "tag_name": "tag_group:dogs#dtext-toys",
-    "related_tags": []
+    "related_tags": [
+      "下げ札+group:dogs#dtext+玩具"
+    ]
   },
   {
     "tag_name": "tag_group:dogs#dtext-anth",
-    "related_tags": []
+    "related_tags": [
+      "下げ札+group:dogs#dtext+anth"
+    ]
   },
   {
     "tag_name": "pet_walking",
-    "related_tags": []
+    "related_tags": [
+      "陽電子放射断層撮影+御拾い"
+    ]
   },
   {
     "tag_name": "bolt_(movie)",
-    "related_tags": []
+    "related_tags": [
+      "心張り棒+(movie)"
+    ]
   },
   {
     "tag_name": "missile_(ace_attorney)",
@@ -21135,7 +23863,9 @@ return [
   },
   {
     "tag_name": "Labia",
-    "related_tags": []
+    "related_tags": [
+      "陰唇"
+    ]
   },
   {
     "tag_name": "Fat mons",
@@ -21145,11 +23875,15 @@ return [
   },
   {
     "tag_name": "Dark labia",
-    "related_tags": []
+    "related_tags": [
+      "暗々+陰唇"
+    ]
   },
   {
     "tag_name": "Long labia",
-    "related_tags": []
+    "related_tags": [
+      "永+陰唇"
+    ]
   },
   {
     "tag_name": "Pubic hair",
@@ -21165,7 +23899,9 @@ return [
   },
   {
     "tag_name": "No pussy",
-    "related_tags": []
+    "related_tags": [
+      "no+おまんこ"
+    ]
   },
   {
     "tag_name": "Cameltoe",
@@ -21181,7 +23917,9 @@ return [
   },
   {
     "tag_name": "Clitoris tweak",
-    "related_tags": []
+    "related_tags": [
+      "陰核+tweak"
+    ]
   },
   {
     "tag_name": "Spread pussy",
@@ -21203,7 +23941,9 @@ return [
   },
   {
     "tag_name": "Clitoris slip",
-    "related_tags": []
+    "related_tags": [
+      "陰核+越度"
+    ]
   },
   {
     "tag_name": "Pussy peek",
@@ -21219,7 +23959,9 @@ return [
   },
   {
     "tag_name": "Cum on pussy",
-    "related_tags": []
+    "related_tags": [
+      "愛液+on+おまんこ"
+    ]
   },
   {
     "tag_name": "Pussy juice",
@@ -21229,19 +23971,27 @@ return [
   },
   {
     "tag_name": "Pussy juice puddle",
-    "related_tags": []
+    "related_tags": [
+      "おまんこ+液+水たまり"
+    ]
   },
   {
     "tag_name": "Pussy juice trail",
-    "related_tags": []
+    "related_tags": [
+      "おまんこ+液+散歩道"
+    ]
   },
   {
     "tag_name": "Clitoris pull",
-    "related_tags": []
+    "related_tags": [
+      "陰核+引き"
+    ]
   },
   {
     "tag_name": "Clitoris torture",
-    "related_tags": []
+    "related_tags": [
+      "陰核+拷訊"
+    ]
   },
   {
     "tag_name": "Sex",
@@ -21263,7 +24013,9 @@ return [
   },
   {
     "tag_name": "Clitoris leash",
-    "related_tags": []
+    "related_tags": [
+      "陰核+革ひも"
+    ]
   },
   {
     "tag_name": "Vaginal",
@@ -21273,11 +24025,15 @@ return [
   },
   {
     "tag_name": "Gun in pussy",
-    "related_tags": []
+    "related_tags": [
+      "銃+in+おまんこ"
+    ]
   },
   {
     "tag_name": "Phone in pussy",
-    "related_tags": []
+    "related_tags": [
+      "単音+in+おまんこ"
+    ]
   },
   {
     "tag_name": "Clitoris piercing",
@@ -21287,7 +24043,9 @@ return [
   },
   {
     "tag_name": "Clitoris ring",
-    "related_tags": []
+    "related_tags": [
+      "陰核+一味"
+    ]
   },
   {
     "tag_name": "Bandaid on pussy",
@@ -21309,7 +24067,9 @@ return [
   },
   {
     "tag_name": "humanization",
-    "related_tags": []
+    "related_tags": [
+      "ヒューマニゼーション"
+    ]
   },
   {
     "tag_name": "monsterification",
@@ -21369,15 +24129,21 @@ return [
   },
   {
     "tag_name": "costume combination",
-    "related_tags": []
+    "related_tags": [
+      "衣裳+詰め合せ"
+    ]
   },
   {
     "tag_name": "alternate headwear",
-    "related_tags": []
+    "related_tags": [
+      "一つ置き+headwear"
+    ]
   },
   {
     "tag_name": "alternate weapon",
-    "related_tags": []
+    "related_tags": [
+      "一つ置き+干戈"
+    ]
   },
   {
     "tag_name": "bespectacled",
@@ -21387,11 +24153,15 @@ return [
   },
   {
     "tag_name": "headwear switch",
-    "related_tags": []
+    "related_tags": [
+      "headwear+開閉器"
+    ]
   },
   {
     "tag_name": "no eyewear",
-    "related_tags": []
+    "related_tags": [
+      "no+アイウェア"
+    ]
   },
   {
     "tag_name": "no headwear",
@@ -21401,7 +24171,9 @@ return [
   },
   {
     "tag_name": "no mask",
-    "related_tags": []
+    "related_tags": [
+      "no+仮面"
+    ]
   },
   {
     "tag_name": "alternate breast size",
@@ -21411,15 +24183,21 @@ return [
   },
   {
     "tag_name": "alternate skin color",
-    "related_tags": []
+    "related_tags": [
+      "一つ置き+外皮+艶"
+    ]
   },
   {
     "tag_name": "no horn",
-    "related_tags": []
+    "related_tags": [
+      "no+角"
+    ]
   },
   {
     "tag_name": "no animal ears",
-    "related_tags": []
+    "related_tags": [
+      "no+獣+耳底"
+    ]
   },
   {
     "tag_name": "alternate hair length",
@@ -21429,15 +24207,21 @@ return [
   },
   {
     "tag_name": "alternate eye color",
-    "related_tags": []
+    "related_tags": [
+      "一つ置き+眼+艶"
+    ]
   },
   {
     "tag_name": "unusually open eyes",
-    "related_tags": []
+    "related_tags": [
+      "異に+開けっぴろげ+眼つき"
+    ]
   },
   {
     "tag_name": "out of character",
-    "related_tags": []
+    "related_tags": [
+      "柄にもない"
+    ]
   },
   {
     "tag_name": "personality switch",
@@ -21459,7 +24243,9 @@ return [
   },
   {
     "tag_name": "light persona",
-    "related_tags": []
+    "related_tags": [
+      "簡単+キャラ"
+    ]
   },
   {
     "tag_name": "alternate color",
@@ -21469,15 +24255,21 @@ return [
   },
   {
     "tag_name": "alternate element",
-    "related_tags": []
+    "related_tags": [
+      "一つ置き+元素"
+    ]
   },
   {
     "tag_name": "palette swap",
-    "related_tags": []
+    "related_tags": [
+      "絵皿+取り替え"
+    ]
   },
   {
     "tag_name": "age comparison",
-    "related_tags": []
+    "related_tags": [
+      "一代+較べ"
+    ]
   },
   {
     "tag_name": "age progression",
@@ -21499,7 +24291,9 @@ return [
   },
   {
     "tag_name": "character doll",
-    "related_tags": []
+    "related_tags": [
+      "一字+偶人"
+    ]
   },
   {
     "tag_name": "fusion",
@@ -21527,11 +24321,15 @@ return [
   },
   {
     "tag_name": "if they mated",
-    "related_tags": []
+    "related_tags": [
+      "if+奴ばら+呉蓙"
+    ]
   },
   {
     "tag_name": "alternate universe",
-    "related_tags": []
+    "related_tags": [
+      "一つ置き+宇宙"
+    ]
   },
   {
     "tag_name": "bird",
@@ -21547,7 +24345,9 @@ return [
   },
   {
     "tag_name": "Southern Royal Albatross",
-    "related_tags": []
+    "related_tags": [
+      "サザン+王立+馬鹿鳥"
+    ]
   },
   {
     "tag_name": "Barred Buttonquail",
@@ -21617,7 +24417,9 @@ return [
   },
   {
     "tag_name": "Blue-eyed Cockatoo",
-    "related_tags": []
+    "related_tags": [
+      "重い+眼+巴丹"
+    ]
   },
   {
     "tag_name": "Major Mitchell's Cockatoo",
@@ -21627,15 +24429,21 @@ return [
   },
   {
     "tag_name": "Palm Cockatoo",
-    "related_tags": []
+    "related_tags": [
+      "手掌+巴丹"
+    ]
   },
   {
     "tag_name": "Sulphur-crested Cockatoo",
-    "related_tags": []
+    "related_tags": [
+      "硫黄+印+巴丹"
+    ]
   },
   {
     "tag_name": "Yellowtip Cockatoo",
-    "related_tags": []
+    "related_tags": [
+      "yellowtip+巴丹"
+    ]
   },
   {
     "tag_name": "Condor",
@@ -21663,7 +24471,9 @@ return [
   },
   {
     "tag_name": "Black Crowned Crane",
-    "related_tags": []
+    "related_tags": [
+      "暗然+位+葦田鶴"
+    ]
   },
   {
     "tag_name": "Grey Crowned Crane",
@@ -21715,7 +24525,9 @@ return [
   },
   {
     "tag_name": "Duckling",
-    "related_tags": []
+    "related_tags": [
+      "子ガモ"
+    ]
   },
   {
     "tag_name": "Mallard",
@@ -21731,7 +24543,9 @@ return [
   },
   {
     "tag_name": "Dusky Warbler",
-    "related_tags": []
+    "related_tags": [
+      "小暗い+warbler"
+    ]
   },
   {
     "tag_name": "Eagle",
@@ -21775,7 +24589,9 @@ return [
   },
   {
     "tag_name": "Finch",
-    "related_tags": []
+    "related_tags": [
+      "フィンチ"
+    ]
   },
   {
     "tag_name": "Eurasian Bullfinch",
@@ -21833,7 +24649,9 @@ return [
   },
   {
     "tag_name": "Hill Blue Flycatcher",
-    "related_tags": []
+    "related_tags": [
+      "岡+重い+flycatcher"
+    ]
   },
   {
     "tag_name": "Narcissus Flycatcher",
@@ -21981,11 +24799,15 @@ return [
   },
   {
     "tag_name": "Lilac-breasted Roller",
-    "related_tags": []
+    "related_tags": [
+      "lilac+胸+畝ねり"
+    ]
   },
   {
     "tag_name": "Long-tailed Widowbird",
-    "related_tags": []
+    "related_tags": [
+      "永+尻っぽ+widowbird"
+    ]
   },
   {
     "tag_name": "Magpie",
@@ -22059,7 +24881,9 @@ return [
   },
   {
     "tag_name": "Black-headed Oriole",
-    "related_tags": []
+    "related_tags": [
+      "暗然+headed+oriole"
+    ]
   },
   {
     "tag_name": "Black-naped Oriole",
@@ -22093,7 +24917,9 @@ return [
   },
   {
     "tag_name": "Southern Boobook",
-    "related_tags": []
+    "related_tags": [
+      "サザン+boobook"
+    ]
   },
   {
     "tag_name": "Parakeet",
@@ -22230,7 +25056,7 @@ return [
   {
     "tag_name": "African Penguin",
     "related_tags": [
-      "Cape_penguin"
+      "ケープペンギン"
     ]
   },
   {
@@ -22285,11 +25111,15 @@ return [
   },
   {
     "tag_name": "Copper Pheasant",
-    "related_tags": []
+    "related_tags": [
+      "赤+pheasant"
+    ]
   },
   {
     "tag_name": "Ijima Copper Pheasant",
-    "related_tags": []
+    "related_tags": [
+      "ijima+赤+pheasant"
+    ]
   },
   {
     "tag_name": "Golden Pheasant",
@@ -22311,7 +25141,9 @@ return [
   },
   {
     "tag_name": "Pheasant-tailed Jacana",
-    "related_tags": []
+    "related_tags": [
+      "pheasant+尻っぽ+jacana"
+    ]
   },
   {
     "tag_name": "Pigeon",
@@ -22327,7 +25159,9 @@ return [
   },
   {
     "tag_name": "Fantail Pigeon",
-    "related_tags": []
+    "related_tags": [
+      "孔雀鳩"
+    ]
   },
   {
     "tag_name": "Passenger Pigeon",
@@ -22337,15 +25171,21 @@ return [
   },
   {
     "tag_name": "White-bellied Green Pigeon",
-    "related_tags": []
+    "related_tags": [
+      "白+bellied+産+鳩"
+    ]
   },
   {
     "tag_name": "Plover (animal)",
-    "related_tags": []
+    "related_tags": [
+      "千鳥+(animal)"
+    ]
   },
   {
     "tag_name": "Little Ringed Plover",
-    "related_tags": []
+    "related_tags": [
+      "何だか+一味+千鳥"
+    ]
   },
   {
     "tag_name": "Puffin",
@@ -22353,19 +25193,27 @@ return [
   },
   {
     "tag_name": "Quail",
-    "related_tags": []
+    "related_tags": [
+      "鶉"
+    ]
   },
   {
     "tag_name": "Japanese Quail",
-    "related_tags": []
+    "related_tags": [
+      "日本的+鶉"
+    ]
   },
   {
     "tag_name": "Raggiana Bird-of-paradise",
-    "related_tags": []
+    "related_tags": [
+      "raggiana+禽+of+楽園"
+    ]
   },
   {
     "tag_name": "Red-flanked Bluetail",
-    "related_tags": []
+    "related_tags": [
+      "赭い+横っ腹+bluetail"
+    ]
   },
   {
     "tag_name": "Blue-fronted Redstart",
@@ -22391,7 +25239,9 @@ return [
   },
   {
     "tag_name": "Ryukyu Minivet",
-    "related_tags": []
+    "related_tags": [
+      "琉球+minivet"
+    ]
   },
   {
     "tag_name": "Seagull",
@@ -22427,7 +25277,9 @@ return [
   },
   {
     "tag_name": "House Sparrow",
-    "related_tags": []
+    "related_tags": [
+      "屋+sparrow"
+    ]
   },
   {
     "tag_name": "Stork",
@@ -22443,7 +25295,9 @@ return [
   },
   {
     "tag_name": "Swallow",
-    "related_tags": []
+    "related_tags": [
+      "燕子"
+    ]
   },
   {
     "tag_name": "Tree Swallow",
@@ -22477,7 +25331,9 @@ return [
   },
   {
     "tag_name": "Japanese Tit",
-    "related_tags": []
+    "related_tags": [
+      "日本的+おっぱい"
+    ]
   },
   {
     "tag_name": "Long-tailed Tit",
@@ -22497,31 +25353,45 @@ return [
   },
   {
     "tag_name": "Vulture",
-    "related_tags": []
+    "related_tags": [
+      "禿鷹"
+    ]
   },
   {
     "tag_name": "Black-backed Wagtail",
-    "related_tags": []
+    "related_tags": [
+      "暗然+蔭+鶺鴒"
+    ]
   },
   {
     "tag_name": "Grey Wagtail",
-    "related_tags": []
+    "related_tags": [
+      "灰色+鶺鴒"
+    ]
   },
   {
     "tag_name": "White Wagtail",
-    "related_tags": []
+    "related_tags": [
+      "白+鶺鴒"
+    ]
   },
   {
     "tag_name": "Japanese Wagtail",
-    "related_tags": []
+    "related_tags": [
+      "日本的+鶺鴒"
+    ]
   },
   {
     "tag_name": "White-bellied Go-away-bird",
-    "related_tags": []
+    "related_tags": [
+      "白+bellied+go+先に+禽"
+    ]
   },
   {
     "tag_name": "White-cheeked Starling",
-    "related_tags": []
+    "related_tags": [
+      "椋鳥"
+    ]
   },
   {
     "tag_name": "Woodpecker",
@@ -22531,7 +25401,9 @@ return [
   },
   {
     "tag_name": "Great Spotted Woodpecker",
-    "related_tags": []
+    "related_tags": [
+      "偉い+斑+啄木"
+    ]
   },
   {
     "tag_name": "Yellow Bittern",
@@ -22557,7 +25429,9 @@ return [
   },
   {
     "tag_name": "internet",
-    "related_tags": []
+    "related_tags": [
+      "電網"
+    ]
   },
   {
     "tag_name": "GNU/Linux",
@@ -22573,11 +25447,15 @@ return [
   },
   {
     "tag_name": "Debian",
-    "related_tags": []
+    "related_tags": [
+      "デビアン"
+    ]
   },
   {
     "tag_name": "Fedora",
-    "related_tags": []
+    "related_tags": [
+      "中折れ"
+    ]
   },
   {
     "tag_name": "Gentoo",
@@ -22589,7 +25467,9 @@ return [
   },
   {
     "tag_name": "Mandrake",
-    "related_tags": []
+    "related_tags": [
+      "マンドラゴラ"
+    ]
   },
   {
     "tag_name": "Mandriva",
@@ -22609,7 +25489,9 @@ return [
   },
   {
     "tag_name": "BSD",
-    "related_tags": []
+    "related_tags": [
+      "ビーエスディー"
+    ]
   },
   {
     "tag_name": "OpenBSD",
@@ -22617,7 +25499,9 @@ return [
   },
   {
     "tag_name": "Macintosh",
-    "related_tags": []
+    "related_tags": [
+      "雨外套"
+    ]
   },
   {
     "tag_name": "Microsoft Windows",
@@ -22627,7 +25511,9 @@ return [
   },
   {
     "tag_name": "Longhorn",
-    "related_tags": []
+    "related_tags": [
+      "長角"
+    ]
   },
   {
     "tag_name": "Firefox",
@@ -22657,19 +25543,27 @@ return [
   },
   {
     "tag_name": "Internet Explorer",
-    "related_tags": []
+    "related_tags": [
+      "インターネット・エクスプローラ"
+    ]
   },
   {
     "tag_name": "Microsoft Edge",
-    "related_tags": []
+    "related_tags": [
+      "マイクロソフト+縁"
+    ]
   },
   {
     "tag_name": "Opera",
-    "related_tags": []
+    "related_tags": [
+      "歌劇"
+    ]
   },
   {
     "tag_name": "CPU",
-    "related_tags": []
+    "related_tags": [
+      "中央演算処理装置"
+    ]
   },
   {
     "tag_name": "mousepad",
@@ -22697,15 +25591,21 @@ return [
   },
   {
     "tag_name": "DVD",
-    "related_tags": []
+    "related_tags": [
+      "ディジタル・ビデオディスク"
+    ]
   },
   {
     "tag_name": "external hard drive",
-    "related_tags": []
+    "related_tags": [
+      "外づら+営々+意気地"
+    ]
   },
   {
     "tag_name": "floppy disk",
-    "related_tags": []
+    "related_tags": [
+      "フッロピーディスク"
+    ]
   },
   {
     "tag_name": "MiniDisc",
@@ -22715,11 +25615,15 @@ return [
   },
   {
     "tag_name": "SD card",
-    "related_tags": []
+    "related_tags": [
+      "sd+簡"
+    ]
   },
   {
     "tag_name": "DELL",
-    "related_tags": []
+    "related_tags": [
+      "谷あい"
+    ]
   },
   {
     "tag_name": "Intel",
@@ -22803,55 +25707,81 @@ return [
   },
   {
     "tag_name": "playing games",
-    "related_tags": []
+    "related_tags": [
+      "遊び+遊技"
+    ]
   },
   {
     "tag_name": "card background",
-    "related_tags": []
+    "related_tags": [
+      "簡+背景"
+    ]
   },
   {
     "tag_name": "card (medium)",
-    "related_tags": []
+    "related_tags": [
+      "簡+(medium)"
+    ]
   },
   {
     "tag_name": "playing card theme",
-    "related_tags": []
+    "related_tags": [
+      "遊び+簡+課題"
+    ]
   },
   {
     "tag_name": "falling card",
-    "related_tags": []
+    "related_tags": [
+      "立ち下がり+簡"
+    ]
   },
   {
     "tag_name": "floating card",
-    "related_tags": []
+    "related_tags": [
+      "浮き+簡"
+    ]
   },
   {
     "tag_name": "lying card",
-    "related_tags": []
+    "related_tags": [
+      "lying+簡"
+    ]
   },
   {
     "tag_name": "house of cards",
-    "related_tags": []
+    "related_tags": [
+      "砂上の楼閣"
+    ]
   },
   {
     "tag_name": "card in mouth",
-    "related_tags": []
+    "related_tags": [
+      "簡+in+口"
+    ]
   },
   {
     "tag_name": "card pendant",
-    "related_tags": []
+    "related_tags": [
+      "簡+垂れ飾り"
+    ]
   },
   {
     "tag_name": "card between breasts",
-    "related_tags": []
+    "related_tags": [
+      "簡+間+胸"
+    ]
   },
   {
     "tag_name": "holding card",
-    "related_tags": []
+    "related_tags": [
+      "握把+簡"
+    ]
   },
   {
     "tag_name": "shuffling cards",
-    "related_tags": []
+    "related_tags": [
+      "わらわら+簡"
+    ]
   },
   {
     "tag_name": "flash cards",
@@ -22861,11 +25791,15 @@ return [
   },
   {
     "tag_name": "greeting card",
-    "related_tags": []
+    "related_tags": [
+      "挨拶状"
+    ]
   },
   {
     "tag_name": "birthday card",
-    "related_tags": []
+    "related_tags": [
+      "バースデー・カード"
+    ]
   },
   {
     "tag_name": "id_card",
@@ -22875,11 +25809,15 @@ return [
   },
   {
     "tag_name": "credit card",
-    "related_tags": []
+    "related_tags": [
+      "クレカ"
+    ]
   },
   {
     "tag_name": "gift card",
-    "related_tags": []
+    "related_tags": [
+      "ギフト・カード"
+    ]
   },
   {
     "tag_name": "pasmo",
@@ -22905,23 +25843,33 @@ return [
   },
   {
     "tag_name": "black card",
-    "related_tags": []
+    "related_tags": [
+      "暗然+簡"
+    ]
   },
   {
     "tag_name": "blue card",
-    "related_tags": []
+    "related_tags": [
+      "重い+簡"
+    ]
   },
   {
     "tag_name": "brown card",
-    "related_tags": []
+    "related_tags": [
+      "赤銅色+簡"
+    ]
   },
   {
     "tag_name": "grey card",
-    "related_tags": []
+    "related_tags": [
+      "灰色+簡"
+    ]
   },
   {
     "tag_name": "purple card",
-    "related_tags": []
+    "related_tags": [
+      "此の糸+簡"
+    ]
   },
   {
     "tag_name": "red card",
@@ -22931,7 +25879,9 @@ return [
   },
   {
     "tag_name": "white blank card",
-    "related_tags": []
+    "related_tags": [
+      "白+空+簡"
+    ]
   },
   {
     "tag_name": "yellow card",
@@ -22941,7 +25891,9 @@ return [
   },
   {
     "tag_name": "bingo card",
-    "related_tags": []
+    "related_tags": [
+      "ビンゴ+簡"
+    ]
   },
   {
     "tag_name": "hanafuda",
@@ -22981,19 +25933,27 @@ return [
   },
   {
     "tag_name": "ace",
-    "related_tags": []
+    "related_tags": [
+      "最優秀"
+    ]
   },
   {
     "tag_name": "blackjack",
-    "related_tags": []
+    "related_tags": [
+      "ブラックジャック"
+    ]
   },
   {
     "tag_name": "joker",
-    "related_tags": []
+    "related_tags": [
+      "滑稽者"
+    ]
   },
   {
     "tag_name": "poker",
-    "related_tags": []
+    "related_tags": [
+      "火かき棒"
+    ]
   },
   {
     "tag_name": "solitaire",
@@ -23003,7 +25963,9 @@ return [
   },
   {
     "tag_name": "themed playing card",
-    "related_tags": []
+    "related_tags": [
+      "彼ら+遊び+簡"
+    ]
   },
   {
     "tag_name": "tarot",
@@ -23013,43 +25975,63 @@ return [
   },
   {
     "tag_name": "death",
-    "related_tags": []
+    "related_tags": [
+      "死生"
+    ]
   },
   {
     "tag_name": "justice",
-    "related_tags": []
+    "related_tags": [
+      "義"
+    ]
   },
   {
     "tag_name": "strength",
-    "related_tags": []
+    "related_tags": [
+      "強さ"
+    ]
   },
   {
     "tag_name": "temperance",
-    "related_tags": []
+    "related_tags": [
+      "禁酒"
+    ]
   },
   {
     "tag_name": "the chariot",
-    "related_tags": []
+    "related_tags": [
+      "the+戦車"
+    ]
   },
   {
     "tag_name": "the devil",
-    "related_tags": []
+    "related_tags": [
+      "悪魔"
+    ]
   },
   {
     "tag_name": "the emperor",
-    "related_tags": []
+    "related_tags": [
+      "聖上"
+    ]
   },
   {
     "tag_name": "the empress",
-    "related_tags": []
+    "related_tags": [
+      "the+御所"
+    ]
   },
   {
     "tag_name": "the hanged man",
-    "related_tags": []
+    "related_tags": [
+      "the+骨+牡"
+    ]
   },
   {
     "tag_name": "the hermit",
-    "related_tags": []
+    "related_tags": [
+      "the+隠士"
+    ]
   },
   {
     "tag_name": "the hierophant",
@@ -23057,39 +26039,57 @@ return [
   },
   {
     "tag_name": "the high priestess",
-    "related_tags": []
+    "related_tags": [
+      "the+強い+女祭司"
+    ]
   },
   {
     "tag_name": "the lovers",
-    "related_tags": []
+    "related_tags": [
+      "the+愛好家"
+    ]
   },
   {
     "tag_name": "the magician",
-    "related_tags": []
+    "related_tags": [
+      "the+奇術師"
+    ]
   },
   {
     "tag_name": "the moon",
-    "related_tags": []
+    "related_tags": [
+      "氷輪"
+    ]
   },
   {
     "tag_name": "the star",
-    "related_tags": []
+    "related_tags": [
+      "the+巨擘"
+    ]
   },
   {
     "tag_name": "the sun",
-    "related_tags": []
+    "related_tags": [
+      "天道"
+    ]
   },
   {
     "tag_name": "the tower",
-    "related_tags": []
+    "related_tags": [
+      "the+台"
+    ]
   },
   {
     "tag_name": "the world",
-    "related_tags": []
+    "related_tags": [
+      "一天四海"
+    ]
   },
   {
     "tag_name": "wheel of fortune",
-    "related_tags": []
+    "related_tags": [
+      "回し車+of+運"
+    ]
   },
   {
     "tag_name": "uno",
@@ -23199,7 +26199,9 @@ return [
   },
   {
     "tag_name": "Pokémon card",
-    "related_tags": []
+    "related_tags": [
+      "pokémon+簡"
+    ]
   },
   {
     "tag_name": "Shadowverse",
@@ -23239,11 +26241,15 @@ return [
   },
   {
     "tag_name": "card creature",
-    "related_tags": []
+    "related_tags": [
+      "簡+生物"
+    ]
   },
   {
     "tag_name": "card with aura",
-    "related_tags": []
+    "related_tags": [
+      "簡+以ちまして+臭い"
+    ]
   },
   {
     "tag_name": "cat",
@@ -23257,15 +26263,21 @@ return [
   },
   {
     "tag_name": "giant cat",
-    "related_tags": []
+    "related_tags": [
+      "巨漢+猫"
+    ]
   },
   {
     "tag_name": "kitten",
-    "related_tags": []
+    "related_tags": [
+      "仔ネコ"
+    ]
   },
   {
     "tag_name": "norwegian forest cat",
-    "related_tags": []
+    "related_tags": [
+      "norwegian+樹林+猫"
+    ]
   },
   {
     "tag_name": "persian cat",
@@ -23293,7 +26305,9 @@ return [
   },
   {
     "tag_name": "brown_cat",
-    "related_tags": []
+    "related_tags": [
+      "赤銅色+猫"
+    ]
   },
   {
     "tag_name": "calico",
@@ -23303,19 +26317,27 @@ return [
   },
   {
     "tag_name": "grey cat",
-    "related_tags": []
+    "related_tags": [
+      "灰猫"
+    ]
   },
   {
     "tag_name": "orange cat",
-    "related_tags": []
+    "related_tags": [
+      "炎色+猫"
+    ]
   },
   {
     "tag_name": "pink cat",
-    "related_tags": []
+    "related_tags": [
+      "退紅+猫"
+    ]
   },
   {
     "tag_name": "purple cat",
-    "related_tags": []
+    "related_tags": [
+      "此の糸+猫"
+    ]
   },
   {
     "tag_name": "tortoiseshell cat",
@@ -23343,27 +26365,39 @@ return [
   },
   {
     "tag_name": "nuzzling",
-    "related_tags": []
+    "related_tags": [
+      "すりすり"
+    ]
   },
   {
     "tag_name": "scratching",
-    "related_tags": []
+    "related_tags": [
+      "かりかり"
+    ]
   },
   {
     "tag_name": "black panther",
-    "related_tags": []
+    "related_tags": [
+      "黒豹"
+    ]
   },
   {
     "tag_name": "cheetah",
-    "related_tags": []
+    "related_tags": [
+      "狩猟豹"
+    ]
   },
   {
     "tag_name": "cougar",
-    "related_tags": []
+    "related_tags": [
+      "クーガー"
+    ]
   },
   {
     "tag_name": "jaguar",
-    "related_tags": []
+    "related_tags": [
+      "アメリカ豹"
+    ]
   },
   {
     "tag_name": "leopard",
@@ -23374,7 +26408,7 @@ return [
   {
     "tag_name": "leopard cat",
     "related_tags": [
-      "Prionailurus_bengalensis"
+      "ベンガルヤマネコ"
     ]
   },
   {
@@ -23403,47 +26437,69 @@ return [
   },
   {
     "tag_name": "cat between legs",
-    "related_tags": []
+    "related_tags": [
+      "猫+間+下脚"
+    ]
   },
   {
     "tag_name": "cat in mouth",
-    "related_tags": []
+    "related_tags": [
+      "猫+in+口"
+    ]
   },
   {
     "tag_name": "cat on ass",
-    "related_tags": []
+    "related_tags": [
+      "猫+on+太もも"
+    ]
   },
   {
     "tag_name": "cat on head",
-    "related_tags": []
+    "related_tags": [
+      "猫+on+髄"
+    ]
   },
   {
     "tag_name": "cat on lap",
-    "related_tags": []
+    "related_tags": [
+      "猫+on+膝"
+    ]
   },
   {
     "tag_name": "cat on person",
-    "related_tags": []
+    "related_tags": [
+      "猫+on+一員"
+    ]
   },
   {
     "tag_name": "cat on shoulder",
-    "related_tags": []
+    "related_tags": [
+      "猫+on+肩"
+    ]
   },
   {
     "tag_name": "cat bag",
-    "related_tags": []
+    "related_tags": [
+      "猫+鞄"
+    ]
   },
   {
     "tag_name": "cat band",
-    "related_tags": []
+    "related_tags": [
+      "猫+音楽隊"
+    ]
   },
   {
     "tag_name": "cat band footwear",
-    "related_tags": []
+    "related_tags": [
+      "猫+音楽隊+沓"
+    ]
   },
   {
     "tag_name": "cat band gloves",
-    "related_tags": []
+    "related_tags": [
+      "猫+音楽隊+手ぶくろ"
+    ]
   },
   {
     "tag_name": "cat boy",
@@ -23453,27 +26509,39 @@ return [
   },
   {
     "tag_name": "cat bra",
-    "related_tags": []
+    "related_tags": [
+      "猫+ブラ"
+    ]
   },
   {
     "tag_name": "cat button",
-    "related_tags": []
+    "related_tags": [
+      "猫+撮み"
+    ]
   },
   {
     "tag_name": "cat choker",
-    "related_tags": []
+    "related_tags": [
+      "猫+頚飾り"
+    ]
   },
   {
     "tag_name": "cat cutout",
-    "related_tags": []
+    "related_tags": [
+      "猫+切り絵"
+    ]
   },
   {
     "tag_name": "cat cutout panties",
-    "related_tags": []
+    "related_tags": [
+      "猫+切り絵+ショーツ"
+    ]
   },
   {
     "tag_name": "cat ear bikini",
-    "related_tags": []
+    "related_tags": [
+      "猫+耳+bikini"
+    ]
   },
   {
     "tag_name": "cat ear headphones",
@@ -23483,11 +26551,15 @@ return [
   },
   {
     "tag_name": "cat ear panties",
-    "related_tags": []
+    "related_tags": [
+      "猫+耳+ショーツ"
+    ]
   },
   {
     "tag_name": "cat earrings",
-    "related_tags": []
+    "related_tags": [
+      "猫+耳ピ"
+    ]
   },
   {
     "tag_name": "cat ears",
@@ -23503,7 +26575,9 @@ return [
   },
   {
     "tag_name": "cat feet",
-    "related_tags": []
+    "related_tags": [
+      "猫+フィート"
+    ]
   },
   {
     "tag_name": "cat girl",
@@ -23513,15 +26587,21 @@ return [
   },
   {
     "tag_name": "cat gloves",
-    "related_tags": []
+    "related_tags": [
+      "猫+手ぶくろ"
+    ]
   },
   {
     "tag_name": "animal hair",
-    "related_tags": []
+    "related_tags": [
+      "獣毛"
+    ]
   },
   {
     "tag_name": "cat hair ornament",
-    "related_tags": []
+    "related_tags": [
+      "猫+一髪+栄"
+    ]
   },
   {
     "tag_name": "cat hat",
@@ -23531,7 +26611,9 @@ return [
   },
   {
     "tag_name": "cat helmet",
-    "related_tags": []
+    "related_tags": [
+      "猫+鉄帽"
+    ]
   },
   {
     "tag_name": "cat hood",
@@ -23547,75 +26629,111 @@ return [
   },
   {
     "tag_name": "cat mask",
-    "related_tags": []
+    "related_tags": [
+      "猫+仮面"
+    ]
   },
   {
     "tag_name": "cat nose",
-    "related_tags": []
+    "related_tags": [
+      "猫+鼻"
+    ]
   },
   {
     "tag_name": "cat ornament",
-    "related_tags": []
+    "related_tags": [
+      "猫+栄"
+    ]
   },
   {
     "tag_name": "cat pajamas",
-    "related_tags": []
+    "related_tags": [
+      "猫+寝衣"
+    ]
   },
   {
     "tag_name": "cat panties",
-    "related_tags": []
+    "related_tags": [
+      "猫+ショーツ"
+    ]
   },
   {
     "tag_name": "cat pasties",
-    "related_tags": []
+    "related_tags": [
+      "猫+pasties"
+    ]
   },
   {
     "tag_name": "cat paw",
-    "related_tags": []
+    "related_tags": [
+      "猫+脚"
+    ]
   },
   {
     "tag_name": "cat paws",
-    "related_tags": []
+    "related_tags": [
+      "猫+脚"
+    ]
   },
   {
     "tag_name": "cat pendant",
-    "related_tags": []
+    "related_tags": [
+      "猫+垂れ飾り"
+    ]
   },
   {
     "tag_name": "cat print",
-    "related_tags": []
+    "related_tags": [
+      "猫+印"
+    ]
   },
   {
     "tag_name": "cat skull",
-    "related_tags": []
+    "related_tags": [
+      "猫+人頭"
+    ]
   },
   {
     "tag_name": "cat slippers",
-    "related_tags": []
+    "related_tags": [
+      "猫+室内履き"
+    ]
   },
   {
     "tag_name": "cat symbol",
-    "related_tags": []
+    "related_tags": [
+      "猫+印"
+    ]
   },
   {
     "tag_name": "cat thigh strap",
-    "related_tags": []
+    "related_tags": [
+      "猫+股+緒"
+    ]
   },
   {
     "tag_name": "barbed tongue",
-    "related_tags": []
+    "related_tags": [
+      "掛かり+舌"
+    ]
   },
   {
     "tag_name": "cat zipper",
-    "related_tags": []
+    "related_tags": [
+      "猫+線ファスナー"
+    ]
   },
   {
     "tag_name": "whiskers",
-    "related_tags": []
+    "related_tags": [
+      "洞毛"
+    ]
   },
   {
     "tag_name": "a cat is fine too",
-    "related_tags": []
+    "related_tags": [
+      "a+猫+is+延滞料金+復"
+    ]
   },
   {
     "tag_name": "Bongo Cat",
@@ -23637,39 +26755,57 @@ return [
   },
   {
     "tag_name": "date pun",
-    "related_tags": []
+    "related_tags": [
+      "逢い引き+掛け言葉"
+    ]
   },
   {
     "tag_name": "cat detector",
-    "related_tags": []
+    "related_tags": [
+      "猫+検出器"
+    ]
   },
   {
     "tag_name": "cat furniture",
-    "related_tags": []
+    "related_tags": [
+      "猫+家具"
+    ]
   },
   {
     "tag_name": "cat burger",
-    "related_tags": []
+    "related_tags": [
+      "猫+バーガー"
+    ]
   },
   {
     "tag_name": "cat litter",
-    "related_tags": []
+    "related_tags": [
+      "猫砂"
+    ]
   },
   {
     "tag_name": "cat pillow",
-    "related_tags": []
+    "related_tags": [
+      "猫+枕"
+    ]
   },
   {
     "tag_name": "cat shooting lightning",
-    "related_tags": []
+    "related_tags": [
+      "猫+撮影+稲光"
+    ]
   },
   {
     "tag_name": "cat stretch",
-    "related_tags": []
+    "related_tags": [
+      "猫+間"
+    ]
   },
   {
     "tag_name": "cat teaser",
-    "related_tags": []
+    "related_tags": [
+      "猫+teaser"
+    ]
   },
   {
     "tag_name": "cat tower",
@@ -23679,7 +26815,9 @@ return [
   },
   {
     "tag_name": "cat transcendence",
-    "related_tags": []
+    "related_tags": [
+      "猫+卓越"
+    ]
   },
   {
     "tag_name": "catfight",
@@ -23699,7 +26837,9 @@ return [
   },
   {
     "tag_name": "cats ringing bell",
-    "related_tags": []
+    "related_tags": [
+      "猫+高らか+ベル"
+    ]
   },
   {
     "tag_name": "helicopter cat",
@@ -23721,15 +26861,21 @@ return [
   },
   {
     "tag_name": "pet bowl",
-    "related_tags": []
+    "related_tags": [
+      "陽電子放射断層撮影+器"
+    ]
   },
   {
     "tag_name": "snow cat",
-    "related_tags": []
+    "related_tags": [
+      "降雪+猫"
+    ]
   },
   {
     "tag_name": "woman yelling at cat",
-    "related_tags": []
+    "related_tags": [
+      "幻妻+喚き声+at+猫"
+    ]
   },
   {
     "tag_name": "Amy",
@@ -23797,7 +26943,9 @@ return [
   },
   {
     "tag_name": "Garnet",
-    "related_tags": []
+    "related_tags": [
+      "石榴石"
+    ]
   },
   {
     "tag_name": "Grumpy Cat",
@@ -23867,7 +27015,9 @@ return [
   },
   {
     "tag_name": "Nyan cat",
-    "related_tags": []
+    "related_tags": [
+      "nyan+猫"
+    ]
   },
   {
     "tag_name": "Nyaos",
@@ -23875,7 +27025,9 @@ return [
   },
   {
     "tag_name": "President Maa",
-    "related_tags": []
+    "related_tags": [
+      "主宰者+maa"
+    ]
   },
   {
     "tag_name": "Puar",
@@ -23911,7 +27063,9 @@ return [
   },
   {
     "tag_name": "Sphinx",
-    "related_tags": []
+    "related_tags": [
+      "獅子女"
+    ]
   },
   {
     "tag_name": "Sylvester",
@@ -24041,7 +27195,9 @@ return [
   },
   {
     "tag_name": "multiple panties",
-    "related_tags": []
+    "related_tags": [
+      "多重+ショーツ"
+    ]
   },
   {
     "tag_name": "no panties",
@@ -24051,7 +27207,9 @@ return [
   },
   {
     "tag_name": "aqua panties",
-    "related_tags": []
+    "related_tags": [
+      "水色+ショーツ"
+    ]
   },
   {
     "tag_name": "black panties",
@@ -24067,19 +27225,27 @@ return [
   },
   {
     "tag_name": "brown panties",
-    "related_tags": []
+    "related_tags": [
+      "赤銅色+ショーツ"
+    ]
   },
   {
     "tag_name": "green panties",
-    "related_tags": []
+    "related_tags": [
+      "産+ショーツ"
+    ]
   },
   {
     "tag_name": "grey panties",
-    "related_tags": []
+    "related_tags": [
+      "灰色+ショーツ"
+    ]
   },
   {
     "tag_name": "orange panties",
-    "related_tags": []
+    "related_tags": [
+      "炎色+ショーツ"
+    ]
   },
   {
     "tag_name": "pink panties",
@@ -24089,11 +27255,15 @@ return [
   },
   {
     "tag_name": "purple panties",
-    "related_tags": []
+    "related_tags": [
+      "此の糸+ショーツ"
+    ]
   },
   {
     "tag_name": "red panties",
-    "related_tags": []
+    "related_tags": [
+      "赭い+ショーツ"
+    ]
   },
   {
     "tag_name": "white panties",
@@ -24103,11 +27273,15 @@ return [
   },
   {
     "tag_name": "yellow panties",
-    "related_tags": []
+    "related_tags": [
+      "黄+ショーツ"
+    ]
   },
   {
     "tag_name": "multicolored panties",
-    "related_tags": []
+    "related_tags": [
+      "色とりどり+ショーツ"
+    ]
   },
   {
     "tag_name": "bear panties",
@@ -24117,23 +27291,33 @@ return [
   },
   {
     "tag_name": "rabbit panties",
-    "related_tags": []
+    "related_tags": [
+      "占め子+ショーツ"
+    ]
   },
   {
     "tag_name": "checkered panties",
-    "related_tags": []
+    "related_tags": [
+      "チェック+ショーツ"
+    ]
   },
   {
     "tag_name": "lace panties",
-    "related_tags": []
+    "related_tags": [
+      "レース+ショーツ"
+    ]
   },
   {
     "tag_name": "lace-trimmed panties",
-    "related_tags": []
+    "related_tags": [
+      "レース+trimmed+ショーツ"
+    ]
   },
   {
     "tag_name": "plaid panties",
-    "related_tags": []
+    "related_tags": [
+      "格子じま+ショーツ"
+    ]
   },
   {
     "tag_name": "polka dot panties",
@@ -24155,15 +27339,21 @@ return [
   },
   {
     "tag_name": "vertical-striped panties",
-    "related_tags": []
+    "related_tags": [
+      "鉛直+縞々+ショーツ"
+    ]
   },
   {
     "tag_name": "latex panties",
-    "related_tags": []
+    "related_tags": [
+      "乳状液+ショーツ"
+    ]
   },
   {
     "tag_name": "leaf panties",
-    "related_tags": []
+    "related_tags": [
+      "一片+ショーツ"
+    ]
   },
   {
     "tag_name": "c-string",
@@ -24173,27 +27363,39 @@ return [
   },
   {
     "tag_name": "strapless bottom",
-    "related_tags": []
+    "related_tags": [
+      "ストラップレス+下"
+    ]
   },
   {
     "tag_name": "loose panties",
-    "related_tags": []
+    "related_tags": [
+      "淫ら+ショーツ"
+    ]
   },
   {
     "tag_name": "micro panties",
-    "related_tags": []
+    "related_tags": [
+      "狭域+ショーツ"
+    ]
   },
   {
     "tag_name": "lowleg panties",
-    "related_tags": []
+    "related_tags": [
+      "lowleg+ショーツ"
+    ]
   },
   {
     "tag_name": "highleg panties",
-    "related_tags": []
+    "related_tags": [
+      "highleg+ショーツ"
+    ]
   },
   {
     "tag_name": "bow panties",
-    "related_tags": []
+    "related_tags": [
+      "敬礼+ショーツ"
+    ]
   },
   {
     "tag_name": "crotch seam",
@@ -24203,7 +27405,9 @@ return [
   },
   {
     "tag_name": "frilled panties",
-    "related_tags": []
+    "related_tags": [
+      "縁飾り+ショーツ"
+    ]
   },
   {
     "tag_name": "side-tie panties",
@@ -24213,11 +27417,15 @@ return [
   },
   {
     "tag_name": "string panties",
-    "related_tags": []
+    "related_tags": [
+      "一糸+ショーツ"
+    ]
   },
   {
     "tag_name": "panties over bike shorts",
-    "related_tags": []
+    "related_tags": [
+      "ショーツ+越し+自転車+短パン"
+    ]
   },
   {
     "tag_name": "panties under bike shorts",
@@ -24257,7 +27465,9 @@ return [
   },
   {
     "tag_name": "implied pantyshot",
-    "related_tags": []
+    "related_tags": [
+      "言外+pantyshot"
+    ]
   },
   {
     "tag_name": "upskirt",
@@ -24267,7 +27477,9 @@ return [
   },
   {
     "tag_name": "adjusting panties",
-    "related_tags": []
+    "related_tags": [
+      "adjusting+ショーツ"
+    ]
   },
   {
     "tag_name": "hand in panties",
@@ -24283,7 +27495,9 @@ return [
   },
   {
     "tag_name": "panties around ankles",
-    "related_tags": []
+    "related_tags": [
+      "ショーツ+見当+足関節"
+    ]
   },
   {
     "tag_name": "panties around one leg",
@@ -24311,11 +27525,15 @@ return [
   },
   {
     "tag_name": "penis in panties",
-    "related_tags": []
+    "related_tags": [
+      "一物+in+ショーツ"
+    ]
   },
   {
     "tag_name": "panties in mouth",
-    "related_tags": []
+    "related_tags": [
+      "ショーツ+in+口"
+    ]
   },
   {
     "tag_name": "panties on head",
@@ -24325,7 +27543,9 @@ return [
   },
   {
     "tag_name": "licking panties",
-    "related_tags": []
+    "related_tags": [
+      "舐め舐め+ショーツ"
+    ]
   },
   {
     "tag_name": "panties aside",
@@ -24335,23 +27555,33 @@ return [
   },
   {
     "tag_name": "panties removed",
-    "related_tags": []
+    "related_tags": [
+      "ショーツ+removed"
+    ]
   },
   {
     "tag_name": "panty lift",
-    "related_tags": []
+    "related_tags": [
+      "パンティ+エレベータ"
+    ]
   },
   {
     "tag_name": "trefoil",
-    "related_tags": []
+    "related_tags": [
+      "三つ葉"
+    ]
   },
   {
     "tag_name": "blood on panties",
-    "related_tags": []
+    "related_tags": [
+      "血+on+ショーツ"
+    ]
   },
   {
     "tag_name": "cumdrip onto panties",
-    "related_tags": []
+    "related_tags": [
+      "cumdrip+onto+ショーツ"
+    ]
   },
   {
     "tag_name": "cum in panties",
@@ -24367,11 +27597,15 @@ return [
   },
   {
     "tag_name": "wet panties",
-    "related_tags": []
+    "related_tags": [
+      "雨ふり+ショーツ"
+    ]
   },
   {
     "tag_name": "aqua bra",
-    "related_tags": []
+    "related_tags": [
+      "水色+ブラ"
+    ]
   },
   {
     "tag_name": "black bra",
@@ -24387,7 +27621,9 @@ return [
   },
   {
     "tag_name": "brown bra",
-    "related_tags": []
+    "related_tags": [
+      "赤銅色+ブラ"
+    ]
   },
   {
     "tag_name": "green bra",
@@ -24397,11 +27633,15 @@ return [
   },
   {
     "tag_name": "grey bra",
-    "related_tags": []
+    "related_tags": [
+      "灰色+ブラ"
+    ]
   },
   {
     "tag_name": "orange bra",
-    "related_tags": []
+    "related_tags": [
+      "炎色+ブラ"
+    ]
   },
   {
     "tag_name": "pink bra",
@@ -24417,7 +27657,9 @@ return [
   },
   {
     "tag_name": "red bra",
-    "related_tags": []
+    "related_tags": [
+      "赭い+ブラ"
+    ]
   },
   {
     "tag_name": "white bra",
@@ -24427,39 +27669,57 @@ return [
   },
   {
     "tag_name": "yellow bra",
-    "related_tags": []
+    "related_tags": [
+      "黄+ブラ"
+    ]
   },
   {
     "tag_name": "multicolored bra",
-    "related_tags": []
+    "related_tags": [
+      "色とりどり+ブラ"
+    ]
   },
   {
     "tag_name": "checkered bra",
-    "related_tags": []
+    "related_tags": [
+      "チェック+ブラ"
+    ]
   },
   {
     "tag_name": "lace bra",
-    "related_tags": []
+    "related_tags": [
+      "レース+ブラ"
+    ]
   },
   {
     "tag_name": "lace-trimmed bra",
-    "related_tags": []
+    "related_tags": [
+      "レース+trimmed+ブラ"
+    ]
   },
   {
     "tag_name": "plaid bra",
-    "related_tags": []
+    "related_tags": [
+      "格子じま+ブラ"
+    ]
   },
   {
     "tag_name": "polka dot bra",
-    "related_tags": []
+    "related_tags": [
+      "ポルカ+点+ブラ"
+    ]
   },
   {
     "tag_name": "print bra",
-    "related_tags": []
+    "related_tags": [
+      "印+ブラ"
+    ]
   },
   {
     "tag_name": "strawberry bra",
-    "related_tags": []
+    "related_tags": [
+      "ストロベリー+ブラ"
+    ]
   },
   {
     "tag_name": "striped bra",
@@ -24469,7 +27729,9 @@ return [
   },
   {
     "tag_name": "vertical-striped bra",
-    "related_tags": []
+    "related_tags": [
+      "鉛直+縞々+ブラ"
+    ]
   },
   {
     "tag_name": "adhesive bra",
@@ -24485,15 +27747,21 @@ return [
   },
   {
     "tag_name": "bow bra",
-    "related_tags": []
+    "related_tags": [
+      "敬礼+ブラ"
+    ]
   },
   {
     "tag_name": "bridgeless bra",
-    "related_tags": []
+    "related_tags": [
+      "bridgeless+ブラ"
+    ]
   },
   {
     "tag_name": "frilled bra",
-    "related_tags": []
+    "related_tags": [
+      "縁飾り+ブラ"
+    ]
   },
   {
     "tag_name": "sports bra",
@@ -24515,23 +27783,33 @@ return [
   },
   {
     "tag_name": "front-tie bra",
-    "related_tags": []
+    "related_tags": [
+      "隠れみの+因縁+ブラ"
+    ]
   },
   {
     "tag_name": "front-hook bra",
-    "related_tags": []
+    "related_tags": [
+      "隠れみの+引っかけ+ブラ"
+    ]
   },
   {
     "tag_name": "adjusting bra",
-    "related_tags": []
+    "related_tags": [
+      "adjusting+ブラ"
+    ]
   },
   {
     "tag_name": "bra lift",
-    "related_tags": []
+    "related_tags": [
+      "ブラ+エレベータ"
+    ]
   },
   {
     "tag_name": "bra on ass",
-    "related_tags": []
+    "related_tags": [
+      "ブラ+on+太もも"
+    ]
   },
   {
     "tag_name": "bra on head",
@@ -24541,11 +27819,15 @@ return [
   },
   {
     "tag_name": "bra pull",
-    "related_tags": []
+    "related_tags": [
+      "ブラ+引き"
+    ]
   },
   {
     "tag_name": "bra removed",
-    "related_tags": []
+    "related_tags": [
+      "ブラ+removed"
+    ]
   },
   {
     "tag_name": "bra strap",
@@ -24555,7 +27837,9 @@ return [
   },
   {
     "tag_name": "holding bra",
-    "related_tags": []
+    "related_tags": [
+      "握把+ブラ"
+    ]
   },
   {
     "tag_name": "open bra",
@@ -24565,7 +27849,9 @@ return [
   },
   {
     "tag_name": "torn bra",
-    "related_tags": []
+    "related_tags": [
+      "torn+ブラ"
+    ]
   },
   {
     "tag_name": "meme",
@@ -24621,7 +27907,9 @@ return [
   },
   {
     "tag_name": "clothes down",
-    "related_tags": []
+    "related_tags": [
+      "衣服+羽"
+    ]
   },
   {
     "tag_name": "open clothes",
@@ -24639,7 +27927,9 @@ return [
   },
   {
     "tag_name": "untied",
-    "related_tags": []
+    "related_tags": [
+      "渙然"
+    ]
   },
   {
     "tag_name": "unzipped",
@@ -24649,23 +27939,33 @@ return [
   },
   {
     "tag_name": "bikini bottom aside",
-    "related_tags": []
+    "related_tags": [
+      "bikini+下+横"
+    ]
   },
   {
     "tag_name": "bikini pull",
-    "related_tags": []
+    "related_tags": [
+      "bikini+引き"
+    ]
   },
   {
     "tag_name": "cape lift",
-    "related_tags": []
+    "related_tags": [
+      "回し+エレベータ"
+    ]
   },
   {
     "tag_name": "lifting covers",
-    "related_tags": []
+    "related_tags": [
+      "ぱくり+堰板"
+    ]
   },
   {
     "tag_name": "bikini, open",
-    "related_tags": []
+    "related_tags": [
+      "bikini,+開けっぴろげ"
+    ]
   },
   {
     "tag_name": "bra, open",
@@ -24675,23 +27975,33 @@ return [
   },
   {
     "tag_name": "kimono, open",
-    "related_tags": []
+    "related_tags": [
+      "kimono,+開けっぴろげ"
+    ]
   },
   {
     "tag_name": "robe slip",
-    "related_tags": []
+    "related_tags": [
+      "衣+越度"
+    ]
   },
   {
     "tag_name": "strap lift",
-    "related_tags": []
+    "related_tags": [
+      "緒+エレベータ"
+    ]
   },
   {
     "tag_name": "strap pull",
-    "related_tags": []
+    "related_tags": [
+      "緒+引き"
+    ]
   },
   {
     "tag_name": "strap slip",
-    "related_tags": []
+    "related_tags": [
+      "緒+越度"
+    ]
   },
   {
     "tag_name": "swimsuit aside",
@@ -24701,31 +28011,45 @@ return [
   },
   {
     "tag_name": "one-piece swimsuit pull",
-    "related_tags": []
+    "related_tags": [
+      "一+一かけら+水泳着+引き"
+    ]
   },
   {
     "tag_name": "towel, open",
-    "related_tags": []
+    "related_tags": [
+      "towel,+開けっぴろげ"
+    ]
   },
   {
     "tag_name": "towel slip",
-    "related_tags": []
+    "related_tags": [
+      "手ぬぐい+越度"
+    ]
   },
   {
     "tag_name": "male underwear pull",
-    "related_tags": []
+    "related_tags": [
+      "牡+下衣+引き"
+    ]
   },
   {
     "tag_name": "armpit cutout",
-    "related_tags": []
+    "related_tags": [
+      "脇+切り絵"
+    ]
   },
   {
     "tag_name": "bare arms",
-    "related_tags": []
+    "related_tags": [
+      "顕+干戈"
+    ]
   },
   {
     "tag_name": "arm cutout",
-    "related_tags": []
+    "related_tags": [
+      "腕+切り絵"
+    ]
   },
   {
     "tag_name": "bare shoulders",
@@ -24747,51 +28071,75 @@ return [
   },
   {
     "tag_name": "low-cut armhole",
-    "related_tags": []
+    "related_tags": [
+      "下劣+引き下げ+袖ぐり"
+    ]
   },
   {
     "tag_name": "hood down",
-    "related_tags": []
+    "related_tags": [
+      "掩い+羽"
+    ]
   },
   {
     "tag_name": "coat, open",
-    "related_tags": []
+    "related_tags": [
+      "coat,+開けっぴろげ"
+    ]
   },
   {
     "tag_name": "open collar",
-    "related_tags": []
+    "related_tags": [
+      "オープン・カラー"
+    ]
   },
   {
     "tag_name": "hoodie, open",
-    "related_tags": []
+    "related_tags": [
+      "hoodie,+開けっぴろげ"
+    ]
   },
   {
     "tag_name": "jacket, open",
-    "related_tags": []
+    "related_tags": [
+      "jacket,+開けっぴろげ"
+    ]
   },
   {
     "tag_name": "leotard pull",
-    "related_tags": []
+    "related_tags": [
+      "レオタード+引き"
+    ]
   },
   {
     "tag_name": "kimono down",
-    "related_tags": []
+    "related_tags": [
+      "着物+羽"
+    ]
   },
   {
     "tag_name": "kimono pull",
-    "related_tags": []
+    "related_tags": [
+      "着物+引き"
+    ]
   },
   {
     "tag_name": "pajamas pull",
-    "related_tags": []
+    "related_tags": [
+      "寝衣+引き"
+    ]
   },
   {
     "tag_name": "shirt aside",
-    "related_tags": []
+    "related_tags": [
+      "shirt+横"
+    ]
   },
   {
     "tag_name": "topless male",
-    "related_tags": []
+    "related_tags": [
+      "トップレス+牡"
+    ]
   },
   {
     "tag_name": "shirt, no",
@@ -24799,7 +28147,9 @@ return [
   },
   {
     "tag_name": "shirt, open",
-    "related_tags": []
+    "related_tags": [
+      "shirt,+開けっぴろげ"
+    ]
   },
   {
     "tag_name": "shirt lift",
@@ -24809,23 +28159,33 @@ return [
   },
   {
     "tag_name": "shirt pull",
-    "related_tags": []
+    "related_tags": [
+      "shirt+引き"
+    ]
   },
   {
     "tag_name": "shirt slip",
-    "related_tags": []
+    "related_tags": [
+      "shirt+越度"
+    ]
   },
   {
     "tag_name": "sweater lift",
-    "related_tags": []
+    "related_tags": [
+      "スエーター+エレベータ"
+    ]
   },
   {
     "tag_name": "top pull",
-    "related_tags": []
+    "related_tags": [
+      "曲独楽+引き"
+    ]
   },
   {
     "tag_name": "open vest",
-    "related_tags": []
+    "related_tags": [
+      "開けっぴろげ+胴衣"
+    ]
   },
   {
     "tag_name": "breast out, one",
@@ -24847,11 +28207,15 @@ return [
   },
   {
     "tag_name": "underboob cutout",
-    "related_tags": []
+    "related_tags": [
+      "下パイ+切り絵"
+    ]
   },
   {
     "tag_name": "back cutout",
-    "related_tags": []
+    "related_tags": [
+      "蔭+切り絵"
+    ]
   },
   {
     "tag_name": "backless outfit",
@@ -24867,7 +28231,9 @@ return [
   },
   {
     "tag_name": "frontless outfit",
-    "related_tags": []
+    "related_tags": [
+      "frontless+衣裳"
+    ]
   },
   {
     "tag_name": "midriff",
@@ -24877,11 +28243,15 @@ return [
   },
   {
     "tag_name": "navel cutout",
-    "related_tags": []
+    "related_tags": [
+      "臍+切り絵"
+    ]
   },
   {
     "tag_name": "side cutout",
-    "related_tags": []
+    "related_tags": [
+      "横っ腹+切り絵"
+    ]
   },
   {
     "tag_name": "sideless outfit",
@@ -24891,11 +28261,15 @@ return [
   },
   {
     "tag_name": "stomach cutout",
-    "related_tags": []
+    "related_tags": [
+      "胃+切り絵"
+    ]
   },
   {
     "tag_name": "waist cutout",
-    "related_tags": []
+    "related_tags": [
+      "御腰+切り絵"
+    ]
   },
   {
     "tag_name": "bare legs",
@@ -24905,15 +28279,21 @@ return [
   },
   {
     "tag_name": "hip vent",
-    "related_tags": []
+    "related_tags": [
+      "今い+換気口"
+    ]
   },
   {
     "tag_name": "leg cutout",
-    "related_tags": []
+    "related_tags": [
+      "脚+切り絵"
+    ]
   },
   {
     "tag_name": "thigh cutout",
-    "related_tags": []
+    "related_tags": [
+      "股+切り絵"
+    ]
   },
   {
     "tag_name": "pants, no",
@@ -24923,11 +28303,15 @@ return [
   },
   {
     "tag_name": "shoe pull",
-    "related_tags": []
+    "related_tags": [
+      "沓+引き"
+    ]
   },
   {
     "tag_name": "sock pull",
-    "related_tags": []
+    "related_tags": [
+      "沓下+引き"
+    ]
   },
   {
     "tag_name": "zettai ryouiki",
@@ -24943,7 +28327,9 @@ return [
   },
   {
     "tag_name": "buruma pull",
-    "related_tags": []
+    "related_tags": [
+      "buruma+引き"
+    ]
   },
   {
     "tag_name": "buruma aside",
@@ -24959,7 +28345,9 @@ return [
   },
   {
     "tag_name": "dress aside",
-    "related_tags": []
+    "related_tags": [
+      "衣+横"
+    ]
   },
   {
     "tag_name": "leotard aside",
@@ -24969,15 +28357,21 @@ return [
   },
   {
     "tag_name": "hakama pull",
-    "related_tags": []
+    "related_tags": [
+      "窮屈袋+引き"
+    ]
   },
   {
     "tag_name": "kimono lift",
-    "related_tags": []
+    "related_tags": [
+      "着物+エレベータ"
+    ]
   },
   {
     "tag_name": "yukata lift",
-    "related_tags": []
+    "related_tags": [
+      "湯取+エレベータ"
+    ]
   },
   {
     "tag_name": "panties, no",
@@ -24987,11 +28381,15 @@ return [
   },
   {
     "tag_name": "pants pull",
-    "related_tags": []
+    "related_tags": [
+      "ズボン+引き"
+    ]
   },
   {
     "tag_name": "open pants",
-    "related_tags": []
+    "related_tags": [
+      "開けっぴろげ+ズボン"
+    ]
   },
   {
     "tag_name": "pantyhose pull",
@@ -25001,27 +28399,39 @@ return [
   },
   {
     "tag_name": "shorts aside",
-    "related_tags": []
+    "related_tags": [
+      "短パン+横"
+    ]
   },
   {
     "tag_name": "shorts, open",
-    "related_tags": []
+    "related_tags": [
+      "shorts,+開けっぴろげ"
+    ]
   },
   {
     "tag_name": "shorts pull",
-    "related_tags": []
+    "related_tags": [
+      "短パン+引き"
+    ]
   },
   {
     "tag_name": "skirt around one leg",
-    "related_tags": []
+    "related_tags": [
+      "スカート+見当+一+脚"
+    ]
   },
   {
     "tag_name": "skirt around ankles",
-    "related_tags": []
+    "related_tags": [
+      "スカート+見当+足関節"
+    ]
   },
   {
     "tag_name": "open skirt",
-    "related_tags": []
+    "related_tags": [
+      "開けっぴろげ+スカート"
+    ]
   },
   {
     "tag_name": "skirt pull",
@@ -25055,7 +28465,9 @@ return [
   },
   {
     "tag_name": "naked capelet",
-    "related_tags": []
+    "related_tags": [
+      "顕+capelet"
+    ]
   },
   {
     "tag_name": "naked cloak",
@@ -25095,7 +28507,9 @@ return [
   },
   {
     "tag_name": "naked robe",
-    "related_tags": []
+    "related_tags": [
+      "顕+衣"
+    ]
   },
   {
     "tag_name": "naked scarf",
@@ -25117,7 +28531,9 @@ return [
   },
   {
     "tag_name": "naked suspenders",
-    "related_tags": []
+    "related_tags": [
+      "顕+靴下止め"
+    ]
   },
   {
     "tag_name": "naked tabard",
@@ -25133,7 +28549,9 @@ return [
   },
   {
     "tag_name": "underwear only",
-    "related_tags": []
+    "related_tags": [
+      "下衣+一"
+    ]
   },
   {
     "tag_name": "downblouse",
@@ -25147,11 +28565,15 @@ return [
   },
   {
     "tag_name": "covering head",
-    "related_tags": []
+    "related_tags": [
+      "掩護+髄"
+    ]
   },
   {
     "tag_name": "covering one eye",
-    "related_tags": []
+    "related_tags": [
+      "掩護+一+眼"
+    ]
   },
   {
     "tag_name": "adjusting clothes",
@@ -25161,43 +28583,63 @@ return [
   },
   {
     "tag_name": "clothes grab",
-    "related_tags": []
+    "related_tags": [
+      "衣服+グラブ"
+    ]
   },
   {
     "tag_name": "apron grab",
-    "related_tags": []
+    "related_tags": [
+      "前かけ+グラブ"
+    ]
   },
   {
     "tag_name": "collar grab",
-    "related_tags": []
+    "related_tags": [
+      "胸ぐら+グラブ"
+    ]
   },
   {
     "tag_name": "necktie grab",
-    "related_tags": []
+    "related_tags": [
+      "襟飾り+グラブ"
+    ]
   },
   {
     "tag_name": "skirt grab",
-    "related_tags": []
+    "related_tags": [
+      "スカート+グラブ"
+    ]
   },
   {
     "tag_name": "collar tug",
-    "related_tags": []
+    "related_tags": [
+      "胸ぐら+引き"
+    ]
   },
   {
     "tag_name": "shirt tug",
-    "related_tags": []
+    "related_tags": [
+      "shirt+引き"
+    ]
   },
   {
     "tag_name": "skirt tug",
-    "related_tags": []
+    "related_tags": [
+      "スカート+引き"
+    ]
   },
   {
     "tag_name": "wringing clothes",
-    "related_tags": []
+    "related_tags": [
+      "ぐっしょり+衣服"
+    ]
   },
   {
     "tag_name": "nude modeling",
-    "related_tags": []
+    "related_tags": [
+      "ヌード・モデル"
+    ]
   },
   {
     "tag_name": "tan",
@@ -25213,11 +28655,15 @@ return [
   },
   {
     "tag_name": "pincers",
-    "related_tags": []
+    "related_tags": [
+      "釘抜き"
+    ]
   },
   {
     "tag_name": "carapace",
-    "related_tags": []
+    "related_tags": [
+      "甲"
+    ]
   },
   {
     "tag_name": "Moth",
@@ -25233,11 +28679,15 @@ return [
   },
   {
     "tag_name": "Moth antennae",
-    "related_tags": []
+    "related_tags": [
+      "蛾+antennae"
+    ]
   },
   {
     "tag_name": "Moth boy",
-    "related_tags": []
+    "related_tags": [
+      "蛾+一男"
+    ]
   },
   {
     "tag_name": "kneeling",
@@ -25265,7 +28715,9 @@ return [
   },
   {
     "tag_name": "fetal position",
-    "related_tags": []
+    "related_tags": [
+      "fetal+位地"
+    ]
   },
   {
     "tag_name": "on back",
@@ -25293,7 +28745,9 @@ return [
   },
   {
     "tag_name": "butterfly sitting",
-    "related_tags": []
+    "related_tags": [
+      "胡蝶+一席"
+    ]
   },
   {
     "tag_name": "figure four sitting",
@@ -25327,11 +28781,15 @@ return [
   },
   {
     "tag_name": "sitting on lap",
-    "related_tags": []
+    "related_tags": [
+      "一席+on+膝"
+    ]
   },
   {
     "tag_name": "sitting on person",
-    "related_tags": []
+    "related_tags": [
+      "一席+on+一員"
+    ]
   },
   {
     "tag_name": "straddling",
@@ -25341,7 +28799,9 @@ return [
   },
   {
     "tag_name": "thigh straddling",
-    "related_tags": []
+    "related_tags": [
+      "股+日和見"
+    ]
   },
   {
     "tag_name": "upright straddle",
@@ -25375,7 +28835,9 @@ return [
   },
   {
     "tag_name": "legs apart",
-    "related_tags": []
+    "related_tags": [
+      "下脚+別々に"
+    ]
   },
   {
     "tag_name": "standing on one leg",
@@ -25385,7 +28847,9 @@ return [
   },
   {
     "tag_name": "crawling",
-    "related_tags": []
+    "related_tags": [
+      "蒲伏"
+    ]
   },
   {
     "tag_name": "jumping",
@@ -25395,11 +28859,15 @@ return [
   },
   {
     "tag_name": "running",
-    "related_tags": []
+    "related_tags": [
+      "運転"
+    ]
   },
   {
     "tag_name": "walking",
-    "related_tags": []
+    "related_tags": [
+      "御拾い"
+    ]
   },
   {
     "tag_name": "wallwalking",
@@ -25413,7 +28881,9 @@ return [
   },
   {
     "tag_name": "top-down bottom-up",
-    "related_tags": []
+    "related_tags": [
+      "曲独楽+羽+下+up"
+    ]
   },
   {
     "tag_name": "prostration",
@@ -25445,15 +28915,21 @@ return [
   },
   {
     "tag_name": "fighting stance",
-    "related_tags": []
+    "related_tags": [
+      "ファイティング・ポーズ"
+    ]
   },
   {
     "tag_name": "battoujutsu stance",
-    "related_tags": []
+    "related_tags": [
+      "battoujutsu+構"
+    ]
   },
   {
     "tag_name": "full scorpion",
-    "related_tags": []
+    "related_tags": [
+      "委しい+スコーピオン"
+    ]
   },
   {
     "tag_name": "reclining",
@@ -25491,7 +28967,9 @@ return [
   },
   {
     "tag_name": "headstand",
-    "related_tags": []
+    "related_tags": [
+      "逆立ち"
+    ]
   },
   {
     "tag_name": "yoga",
@@ -25501,11 +28979,15 @@ return [
   },
   {
     "tag_name": "scorpion pose",
-    "related_tags": []
+    "related_tags": [
+      "スコーピオン+格好"
+    ]
   },
   {
     "tag_name": "arm support",
-    "related_tags": []
+    "related_tags": [
+      "腕+引き立て"
+    ]
   },
   {
     "tag_name": "head rest",
@@ -25521,15 +29003,21 @@ return [
   },
   {
     "tag_name": "looking to the side",
-    "related_tags": []
+    "related_tags": [
+      "見+to+the+横っ腹"
+    ]
   },
   {
     "tag_name": "looking afar",
-    "related_tags": []
+    "related_tags": [
+      "瞻望"
+    ]
   },
   {
     "tag_name": "head down",
-    "related_tags": []
+    "related_tags": [
+      "髄+羽"
+    ]
   },
   {
     "tag_name": "head tilt",
@@ -25545,7 +29033,9 @@ return [
   },
   {
     "tag_name": "bent over",
-    "related_tags": []
+    "related_tags": [
+      "曲がった+越し"
+    ]
   },
   {
     "tag_name": "leaning back",
@@ -25561,15 +29051,21 @@ return [
   },
   {
     "tag_name": "slouching",
-    "related_tags": []
+    "related_tags": [
+      "前かがみ"
+    ]
   },
   {
     "tag_name": "twisted torso",
-    "related_tags": []
+    "related_tags": [
+      "曲がった+躯"
+    ]
   },
   {
     "tag_name": "arm behind back",
-    "related_tags": []
+    "related_tags": [
+      "腕+後+蔭"
+    ]
   },
   {
     "tag_name": "arms behind back",
@@ -25579,11 +29075,15 @@ return [
   },
   {
     "tag_name": "arm up",
-    "related_tags": []
+    "related_tags": [
+      "腕+up"
+    ]
   },
   {
     "tag_name": "arm behind head",
-    "related_tags": []
+    "related_tags": [
+      "腕+後+髄"
+    ]
   },
   {
     "tag_name": "akanbe",
@@ -25605,7 +29105,9 @@ return [
   },
   {
     "tag_name": "v over eye",
-    "related_tags": []
+    "related_tags": [
+      "v+越し+眼"
+    ]
   },
   {
     "tag_name": "waving",
@@ -25615,11 +29117,15 @@ return [
   },
   {
     "tag_name": "victory pose",
-    "related_tags": []
+    "related_tags": [
+      "凱歌+格好"
+    ]
   },
   {
     "tag_name": "arms up",
-    "related_tags": []
+    "related_tags": [
+      "干戈+up"
+    ]
   },
   {
     "tag_name": "\\o/",
@@ -25627,7 +29133,9 @@ return [
   },
   {
     "tag_name": "arms behind head",
-    "related_tags": []
+    "related_tags": [
+      "干戈+後+髄"
+    ]
   },
   {
     "tag_name": "carry me",
@@ -25643,11 +29151,15 @@ return [
   },
   {
     "tag_name": "finger frame",
-    "related_tags": []
+    "related_tags": [
+      "一指+架構"
+    ]
   },
   {
     "tag_name": "horns pose",
-    "related_tags": []
+    "related_tags": [
+      "角+格好"
+    ]
   },
   {
     "tag_name": "outstretched arm",
@@ -25663,15 +29175,21 @@ return [
   },
   {
     "tag_name": "spread arms",
-    "related_tags": []
+    "related_tags": [
+      "拡がり+干戈"
+    ]
   },
   {
     "tag_name": "arm at side",
-    "related_tags": []
+    "related_tags": [
+      "腕+at+横っ腹"
+    ]
   },
   {
     "tag_name": "arms at sides",
-    "related_tags": []
+    "related_tags": [
+      "干戈+at+横っ腹"
+    ]
   },
   {
     "tag_name": "airplane arms",
@@ -25687,7 +29205,9 @@ return [
   },
   {
     "tag_name": "flexing",
-    "related_tags": []
+    "related_tags": [
+      "フレックス"
+    ]
   },
   {
     "tag_name": "praise the sun",
@@ -25697,7 +29217,9 @@ return [
   },
   {
     "tag_name": "reaching",
-    "related_tags": []
+    "related_tags": [
+      "到達"
+    ]
   },
   {
     "tag_name": "shrugging",
@@ -25717,31 +29239,45 @@ return [
   },
   {
     "tag_name": "v arms",
-    "related_tags": []
+    "related_tags": [
+      "v+干戈"
+    ]
   },
   {
     "tag_name": "w arms",
-    "related_tags": []
+    "related_tags": [
+      "w+干戈"
+    ]
   },
   {
     "tag_name": "stroking own chin",
-    "related_tags": []
+    "related_tags": [
+      "撫で撫で+自家+顎"
+    ]
   },
   {
     "tag_name": "outstretched hand",
-    "related_tags": []
+    "related_tags": [
+      "outstretched+一臂"
+    ]
   },
   {
     "tag_name": "hand on own ear",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+自家+耳"
+    ]
   },
   {
     "tag_name": "hand on own ass",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+自家+太もも"
+    ]
   },
   {
     "tag_name": "hand in pocket",
-    "related_tags": []
+    "related_tags": [
+      "一臂+in+衣嚢"
+    ]
   },
   {
     "tag_name": "interlocked fingers",
@@ -25757,11 +29293,15 @@ return [
   },
   {
     "tag_name": "own hands together",
-    "related_tags": []
+    "related_tags": [
+      "自家+御手手+一しょ"
+    ]
   },
   {
     "tag_name": "star hands",
-    "related_tags": []
+    "related_tags": [
+      "巨擘+御手手"
+    ]
   },
   {
     "tag_name": "contrapposto",
@@ -25771,7 +29311,9 @@ return [
   },
   {
     "tag_name": "crossed ankles",
-    "related_tags": []
+    "related_tags": [
+      "十字+足関節"
+    ]
   },
   {
     "tag_name": "folded",
@@ -25781,27 +29323,39 @@ return [
   },
   {
     "tag_name": "leg up",
-    "related_tags": []
+    "related_tags": [
+      "脚+up"
+    ]
   },
   {
     "tag_name": "legs up",
-    "related_tags": []
+    "related_tags": [
+      "下脚+up"
+    ]
   },
   {
     "tag_name": "knees to chest",
-    "related_tags": []
+    "related_tags": [
+      "小膝+to+胸"
+    ]
   },
   {
     "tag_name": "legs over head",
-    "related_tags": []
+    "related_tags": [
+      "下脚+越し+髄"
+    ]
   },
   {
     "tag_name": "leg lift",
-    "related_tags": []
+    "related_tags": [
+      "脚+エレベータ"
+    ]
   },
   {
     "tag_name": "outstretched leg",
-    "related_tags": []
+    "related_tags": [
+      "outstretched+脚"
+    ]
   },
   {
     "tag_name": "split",
@@ -25829,15 +29383,21 @@ return [
   },
   {
     "tag_name": "watson cross",
-    "related_tags": []
+    "related_tags": [
+      "watson+交雑種"
+    ]
   },
   {
     "tag_name": "knees together feet apart",
-    "related_tags": []
+    "related_tags": [
+      "小膝+一しょ+フィート+別々に"
+    ]
   },
   {
     "tag_name": "knees apart feet together",
-    "related_tags": []
+    "related_tags": [
+      "小膝+別々に+フィート+一しょ"
+    ]
   },
   {
     "tag_name": "dorsiflexion",
@@ -25865,11 +29425,15 @@ return [
   },
   {
     "tag_name": "tiptoe kiss",
-    "related_tags": []
+    "related_tags": [
+      "tiptoe+口づけ"
+    ]
   },
   {
     "tag_name": "ass-to-ass",
-    "related_tags": []
+    "related_tags": [
+      "太もも+to+太もも"
+    ]
   },
   {
     "tag_name": "back-to-back",
@@ -25879,15 +29443,21 @@ return [
   },
   {
     "tag_name": "belly-to-belly",
-    "related_tags": []
+    "related_tags": [
+      "御中+to+御中"
+    ]
   },
   {
     "tag_name": "cheek-to-breast",
-    "related_tags": []
+    "related_tags": [
+      "心臓+to+胸"
+    ]
   },
   {
     "tag_name": "cheek-to-cheek",
-    "related_tags": []
+    "related_tags": [
+      "心臓+to+心臓"
+    ]
   },
   {
     "tag_name": "eye contact",
@@ -25903,15 +29473,21 @@ return [
   },
   {
     "tag_name": "forehead-to-forehead",
-    "related_tags": []
+    "related_tags": [
+      "額+to+額"
+    ]
   },
   {
     "tag_name": "head on chest",
-    "related_tags": []
+    "related_tags": [
+      "髄+on+胸"
+    ]
   },
   {
     "tag_name": "heads together",
-    "related_tags": []
+    "related_tags": [
+      "髄+一しょ"
+    ]
   },
   {
     "tag_name": "holding hands",
@@ -25933,23 +29509,33 @@ return [
   },
   {
     "tag_name": "nipple-to-nipple",
-    "related_tags": []
+    "related_tags": [
+      "乳首+to+乳首"
+    ]
   },
   {
     "tag_name": "noses touching",
-    "related_tags": []
+    "related_tags": [
+      "嫌や+感動的"
+    ]
   },
   {
     "tag_name": "shoulder-to-shoulder",
-    "related_tags": []
+    "related_tags": [
+      "肩+to+肩"
+    ]
   },
   {
     "tag_name": "circle formation",
-    "related_tags": []
+    "related_tags": [
+      "円+群系"
+    ]
   },
   {
     "tag_name": "group hug",
-    "related_tags": []
+    "related_tags": [
+      "一つ穴+相擁"
+    ]
   },
   {
     "tag_name": "hug",
@@ -25959,31 +29545,45 @@ return [
   },
   {
     "tag_name": "object hug",
-    "related_tags": []
+    "related_tags": [
+      "宛+相擁"
+    ]
   },
   {
     "tag_name": "hugging tail",
-    "related_tags": []
+    "related_tags": [
+      "ムギュウ+尻っぽ"
+    ]
   },
   {
     "tag_name": "arm hug",
-    "related_tags": []
+    "related_tags": [
+      "腕+相擁"
+    ]
   },
   {
     "tag_name": "hug from behind",
-    "related_tags": []
+    "related_tags": [
+      "相擁+からして+後"
+    ]
   },
   {
     "tag_name": "waist hug",
-    "related_tags": []
+    "related_tags": [
+      "御腰+相擁"
+    ]
   },
   {
     "tag_name": "baby carry",
-    "related_tags": []
+    "related_tags": [
+      "嬰児+キャリー"
+    ]
   },
   {
     "tag_name": "carrying",
-    "related_tags": []
+    "related_tags": [
+      "載積"
+    ]
   },
   {
     "tag_name": "carried breast rest",
@@ -25993,15 +29593,21 @@ return [
   },
   {
     "tag_name": "carrying over shoulder",
-    "related_tags": []
+    "related_tags": [
+      "載積+越し+肩"
+    ]
   },
   {
     "tag_name": "carrying under arm",
-    "related_tags": []
+    "related_tags": [
+      "載積+下+腕"
+    ]
   },
   {
     "tag_name": "child carry",
-    "related_tags": []
+    "related_tags": [
+      "御子+キャリー"
+    ]
   },
   {
     "tag_name": "fireman's carry",
@@ -26029,15 +29635,21 @@ return [
   },
   {
     "tag_name": "sitting on shoulder",
-    "related_tags": []
+    "related_tags": [
+      "一席+on+肩"
+    ]
   },
   {
     "tag_name": "standing on shoulder",
-    "related_tags": []
+    "related_tags": [
+      "御立ち+on+肩"
+    ]
   },
   {
     "tag_name": "animal pose",
-    "related_tags": []
+    "related_tags": [
+      "獣+格好"
+    ]
   },
   {
     "tag_name": "rabbit pose",
@@ -26047,7 +29659,9 @@ return [
   },
   {
     "tag_name": "paw pose",
-    "related_tags": []
+    "related_tags": [
+      "脚+格好"
+    ]
   },
   {
     "tag_name": "claw pose",
@@ -26057,11 +29671,15 @@ return [
   },
   {
     "tag_name": "archer pose",
-    "related_tags": []
+    "related_tags": [
+      "弓兵+格好"
+    ]
   },
   {
     "tag_name": "bras d'honneur",
-    "related_tags": []
+    "related_tags": [
+      "ブラ+d'honneur"
+    ]
   },
   {
     "tag_name": "body bridge",
@@ -26071,7 +29689,9 @@ return [
   },
   {
     "tag_name": "dojikko pose",
-    "related_tags": []
+    "related_tags": [
+      "dojikko+格好"
+    ]
   },
   {
     "tag_name": "gendou pose",
@@ -26105,19 +29725,27 @@ return [
   },
   {
     "tag_name": "saboten pose",
-    "related_tags": []
+    "related_tags": [
+      "saboten+格好"
+    ]
   },
   {
     "tag_name": "symmetrical hand pose",
-    "related_tags": []
+    "related_tags": [
+      "整斉+一臂+格好"
+    ]
   },
   {
     "tag_name": "villain pose",
-    "related_tags": []
+    "related_tags": [
+      "悪漢+格好"
+    ]
   },
   {
     "tag_name": "zombie pose",
-    "related_tags": []
+    "related_tags": [
+      "ゾンビ+格好"
+    ]
   },
   {
     "tag_name": "expressions",
@@ -26145,7 +29773,9 @@ return [
   },
   {
     "tag_name": "annoyed",
-    "related_tags": []
+    "related_tags": [
+      "閉口"
+    ]
   },
   {
     "tag_name": "clenched teeth",
@@ -26167,7 +29797,9 @@ return [
   },
   {
     "tag_name": "blush stickers",
-    "related_tags": []
+    "related_tags": [
+      "紅潮+張り紙"
+    ]
   },
   {
     "tag_name": "embarrassed",
@@ -26177,7 +29809,9 @@ return [
   },
   {
     "tag_name": "full-face blush",
-    "related_tags": []
+    "related_tags": [
+      "委しい+逢着+紅潮"
+    ]
   },
   {
     "tag_name": "nose blush",
@@ -26211,7 +29845,9 @@ return [
   },
   {
     "tag_name": "determined",
-    "related_tags": []
+    "related_tags": [
+      "意思が強い"
+    ]
   },
   {
     "tag_name": "disappointed",
@@ -26221,7 +29857,9 @@ return [
   },
   {
     "tag_name": "disdain",
-    "related_tags": []
+    "related_tags": [
+      "軽べつ"
+    ]
   },
   {
     "tag_name": "disgust",
@@ -26231,7 +29869,9 @@ return [
   },
   {
     "tag_name": "despair",
-    "related_tags": []
+    "related_tags": [
+      "闇"
+    ]
   },
   {
     "tag_name": "drunk",
@@ -26241,11 +29881,15 @@ return [
   },
   {
     "tag_name": "envy",
-    "related_tags": []
+    "related_tags": [
+      "岡焼き"
+    ]
   },
   {
     "tag_name": "exhausted",
-    "related_tags": []
+    "related_tags": [
+      "くたくた"
+    ]
   },
   {
     "tag_name": "expressionless",
@@ -26259,7 +29903,9 @@ return [
   },
   {
     "tag_name": "flustered",
-    "related_tags": []
+    "related_tags": [
+      "おたおた"
+    ]
   },
   {
     "tag_name": "frustrated",
@@ -26267,15 +29913,21 @@ return [
   },
   {
     "tag_name": "furrowed brow",
-    "related_tags": []
+    "related_tags": [
+      "畝間+額"
+    ]
   },
   {
     "tag_name": "grimace",
-    "related_tags": []
+    "related_tags": [
+      "渋面"
+    ]
   },
   {
     "tag_name": "guilt",
-    "related_tags": []
+    "related_tags": [
+      "黒"
+    ]
   },
   {
     "tag_name": "happy",
@@ -26285,15 +29937,21 @@ return [
   },
   {
     "tag_name": "kubrick stare",
-    "related_tags": []
+    "related_tags": [
+      "kubrick+眼"
+    ]
   },
   {
     "tag_name": "lonely",
-    "related_tags": []
+    "related_tags": [
+      "寂しい"
+    ]
   },
   {
     "tag_name": "nervous",
-    "related_tags": []
+    "related_tags": [
+      "心もとない"
+    ]
   },
   {
     "tag_name": "one eye closed",
@@ -26309,15 +29967,21 @@ return [
   },
   {
     "tag_name": "parted lips",
-    "related_tags": []
+    "related_tags": [
+      "一角+口さき"
+    ]
   },
   {
     "tag_name": "raised eyebrow",
-    "related_tags": []
+    "related_tags": [
+      "増俸+眉"
+    ]
   },
   {
     "tag_name": "rape face",
-    "related_tags": []
+    "related_tags": [
+      "悪戯+逢着"
+    ]
   },
   {
     "tag_name": "rolling eyes",
@@ -26345,7 +30009,9 @@ return [
   },
   {
     "tag_name": "gloom (expression)",
-    "related_tags": []
+    "related_tags": [
+      "暗うつ+(expression)"
+    ]
   },
   {
     "tag_name": "tears",
@@ -26355,7 +30021,9 @@ return [
   },
   {
     "tag_name": "scared",
-    "related_tags": []
+    "related_tags": [
+      "引きつり"
+    ]
   },
   {
     "tag_name": "worried",
@@ -26365,15 +30033,21 @@ return [
   },
   {
     "tag_name": "serious",
-    "related_tags": []
+    "related_tags": [
+      "肩がこる"
+    ]
   },
   {
     "tag_name": "sigh",
-    "related_tags": []
+    "related_tags": [
+      "嘆"
+    ]
   },
   {
     "tag_name": "sleepy",
-    "related_tags": []
+    "related_tags": [
+      "睡い"
+    ]
   },
   {
     "tag_name": "surprised",
@@ -26383,11 +30057,15 @@ return [
   },
   {
     "tag_name": "pensive",
-    "related_tags": []
+    "related_tags": [
+      "哀れ気"
+    ]
   },
   {
     "tag_name": "v-shaped eyebrows",
-    "related_tags": []
+    "related_tags": [
+      "v+影+眉"
+    ]
   },
   {
     "tag_name": "wince",
@@ -26397,7 +30075,9 @@ return [
   },
   {
     "tag_name": "upset",
-    "related_tags": []
+    "related_tags": [
+      "大金星"
+    ]
   },
   {
     "tag_name": "aroused",
@@ -26411,7 +30091,9 @@ return [
   },
   {
     "tag_name": "seductive smile",
-    "related_tags": []
+    "related_tags": [
+      "艶笑"
+    ]
   },
   {
     "tag_name": "Smile",
@@ -26421,7 +30103,9 @@ return [
   },
   {
     "tag_name": "crazy smile",
-    "related_tags": []
+    "related_tags": [
+      "気が変+一笑"
+    ]
   },
   {
     "tag_name": "evil smile",
@@ -26455,19 +30139,27 @@ return [
   },
   {
     "tag_name": "evil grin",
-    "related_tags": []
+    "related_tags": [
+      "悪+grin"
+    ]
   },
   {
     "tag_name": "light smile",
-    "related_tags": []
+    "related_tags": [
+      "簡単+一笑"
+    ]
   },
   {
     "tag_name": "sad smile",
-    "related_tags": []
+    "related_tags": [
+      "惨め+一笑"
+    ]
   },
   {
     "tag_name": "stifled laugh",
-    "related_tags": []
+    "related_tags": [
+      "忍び笑い"
+    ]
   },
   {
     "tag_name": "Smug",
@@ -26483,15 +30175,21 @@ return [
   },
   {
     "tag_name": "smirk",
-    "related_tags": []
+    "related_tags": [
+      "似非笑い"
+    ]
   },
   {
     "tag_name": "troll face",
-    "related_tags": []
+    "related_tags": [
+      "荒らし+逢着"
+    ]
   },
   {
     "tag_name": "horrified",
-    "related_tags": []
+    "related_tags": [
+      "恟々"
+    ]
   },
   {
     "tag_name": "turn pale",
@@ -26607,7 +30305,9 @@ return [
   },
   {
     "tag_name": "diamond mouth",
-    "related_tags": []
+    "related_tags": [
+      "金剛+口"
+    ]
   },
   {
     "tag_name": ":>",
@@ -26637,11 +30337,15 @@ return [
   },
   {
     "tag_name": "solid circle eyes",
-    "related_tags": []
+    "related_tags": [
+      "安固+円+眼つき"
+    ]
   },
   {
     "tag_name": "heart-shaped eyes",
-    "related_tags": []
+    "related_tags": [
+      "意気+影+眼つき"
+    ]
   },
   {
     "tag_name": "^o^",
@@ -26685,7 +30389,9 @@ return [
   },
   {
     "tag_name": "constricted pupils",
-    "related_tags": []
+    "related_tags": [
+      "constricted+学童"
+    ]
   },
   {
     "tag_name": "cross-eyed",
@@ -26695,35 +30401,51 @@ return [
   },
   {
     "tag_name": "dot mouth",
-    "related_tags": []
+    "related_tags": [
+      "点+口"
+    ]
   },
   {
     "tag_name": "dot nose",
-    "related_tags": []
+    "related_tags": [
+      "点+鼻"
+    ]
   },
   {
     "tag_name": "mouth drool",
-    "related_tags": []
+    "related_tags": [
+      "口+涎"
+    ]
   },
   {
     "tag_name": "no nose",
-    "related_tags": []
+    "related_tags": [
+      "no+鼻"
+    ]
   },
   {
     "tag_name": "no mouth",
-    "related_tags": []
+    "related_tags": [
+      "no+口"
+    ]
   },
   {
     "tag_name": "rectangular mouth",
-    "related_tags": []
+    "related_tags": [
+      "四角い+口"
+    ]
   },
   {
     "tag_name": "sideways mouth",
-    "related_tags": []
+    "related_tags": [
+      "横ちょ+口"
+    ]
   },
   {
     "tag_name": "split mouth",
-    "related_tags": []
+    "related_tags": [
+      "割り目+口"
+    ]
   },
   {
     "tag_name": "wide-eyed",
@@ -26733,7 +30455,9 @@ return [
   },
   {
     "tag_name": "awesome face",
-    "related_tags": []
+    "related_tags": [
+      "畏るべき+逢着"
+    ]
   },
   {
     "tag_name": "face of the people who sank all their money into the fx",
@@ -26753,19 +30477,27 @@ return [
   },
   {
     "tag_name": "smiley face",
-    "related_tags": []
+    "related_tags": [
+      "スマイリー・フェイス"
+    ]
   },
   {
     "tag_name": "breast awe",
-    "related_tags": []
+    "related_tags": [
+      "胸+畏敬"
+    ]
   },
   {
     "tag_name": "food awe",
-    "related_tags": []
+    "related_tags": [
+      "喰いもの+畏敬"
+    ]
   },
   {
     "tag_name": "muscle awe",
-    "related_tags": []
+    "related_tags": [
+      "筋+畏敬"
+    ]
   },
   {
     "tag_name": "penis awe",
@@ -26779,7 +30511,9 @@ return [
   },
   {
     "tag_name": "Zaku II F Dozle Zabi Custom",
-    "related_tags": []
+    "related_tags": [
+      "zaku+ii+f+dozle+zabi+為来たり"
+    ]
   },
   {
     "tag_name": "Zaku II F2",
@@ -26825,7 +30559,9 @@ return [
   },
   {
     "tag_name": "Zaku Desert Type",
-    "related_tags": []
+    "related_tags": [
+      "zaku+黄沙+型"
+    ]
   },
   {
     "tag_name": "Zaku Mariner",
@@ -26833,27 +30569,39 @@ return [
   },
   {
     "tag_name": "Zaku Marine Type",
-    "related_tags": []
+    "related_tags": [
+      "zaku+海兵+型"
+    ]
   },
   {
     "tag_name": "Badminton",
-    "related_tags": []
+    "related_tags": [
+      "羽球"
+    ]
   },
   {
     "tag_name": "Billiards",
-    "related_tags": []
+    "related_tags": [
+      "球戯"
+    ]
   },
   {
     "tag_name": "Croquet",
-    "related_tags": []
+    "related_tags": [
+      "クロケット"
+    ]
   },
   {
     "tag_name": "Field Hockey",
-    "related_tags": []
+    "related_tags": [
+      "フィールド・ホッケー"
+    ]
   },
   {
     "tag_name": "Gymnastics",
-    "related_tags": []
+    "related_tags": [
+      "体操"
+    ]
   },
   {
     "tag_name": "Rhythmic Gymnastics",
@@ -26863,7 +30611,9 @@ return [
   },
   {
     "tag_name": "Kabaddi",
-    "related_tags": []
+    "related_tags": [
+      "カバディ"
+    ]
   },
   {
     "tag_name": "Kemari",
@@ -26917,7 +30667,9 @@ return [
   },
   {
     "tag_name": "Billiard ball",
-    "related_tags": []
+    "related_tags": [
+      "球戯+球"
+    ]
   },
   {
     "tag_name": "Golf ball",
@@ -26945,7 +30697,9 @@ return [
   },
   {
     "tag_name": "Tennis ball",
-    "related_tags": []
+    "related_tags": [
+      "テニス・ボール"
+    ]
   },
   {
     "tag_name": "Jersey",
@@ -26967,23 +30721,33 @@ return [
   },
   {
     "tag_name": "Baseball jersey",
-    "related_tags": []
+    "related_tags": [
+      "野球+ジャージ"
+    ]
   },
   {
     "tag_name": "Hockey sweater",
-    "related_tags": []
+    "related_tags": [
+      "ホッケー+スエーター"
+    ]
   },
   {
     "tag_name": "Bowling glove",
-    "related_tags": []
+    "related_tags": [
+      "器+手ぶくろ"
+    ]
   },
   {
     "tag_name": "Bowling pin",
-    "related_tags": []
+    "related_tags": [
+      "器+鈎"
+    ]
   },
   {
     "tag_name": "Cue stick",
-    "related_tags": []
+    "related_tags": [
+      "キュー"
+    ]
   },
   {
     "tag_name": "Golf club",
@@ -26993,27 +30757,39 @@ return [
   },
   {
     "tag_name": "Hockey mask",
-    "related_tags": []
+    "related_tags": [
+      "ホッケー+仮面"
+    ]
   },
   {
     "tag_name": "Hockey puck",
-    "related_tags": []
+    "related_tags": [
+      "ホッケー+パック"
+    ]
   },
   {
     "tag_name": "Hockey stick",
-    "related_tags": []
+    "related_tags": [
+      "ホッケー+策"
+    ]
   },
   {
     "tag_name": "Hoop",
-    "related_tags": []
+    "related_tags": [
+      "環"
+    ]
   },
   {
     "tag_name": "Juggling club",
-    "related_tags": []
+    "related_tags": [
+      "胡麻化し+会"
+    ]
   },
   {
     "tag_name": "Pool table",
-    "related_tags": []
+    "related_tags": [
+      "球撞き+一覧"
+    ]
   },
   {
     "tag_name": "Racket",
@@ -27023,15 +30799,21 @@ return [
   },
   {
     "tag_name": "Badminton racket",
-    "related_tags": []
+    "related_tags": [
+      "羽球+乱痴気騒ぎ"
+    ]
   },
   {
     "tag_name": "Table tennis paddle",
-    "related_tags": []
+    "related_tags": [
+      "一覧+硬式テニス+水かき"
+    ]
   },
   {
     "tag_name": "Tennis racket",
-    "related_tags": []
+    "related_tags": [
+      "テニス・ラケット"
+    ]
   },
   {
     "tag_name": "Ribbon",
@@ -27041,7 +30823,9 @@ return [
   },
   {
     "tag_name": "Ribbon baton",
-    "related_tags": []
+    "related_tags": [
+      "リボン+警棒"
+    ]
   },
   {
     "tag_name": "Rope",
@@ -27093,7 +30877,9 @@ return [
   },
   {
     "tag_name": "Super Bowl XXXVI",
-    "related_tags": []
+    "related_tags": [
+      "超がつく+器+xxxvi"
+    ]
   },
   {
     "tag_name": "World Baseball Classic",
@@ -27197,7 +30983,9 @@ return [
   },
   {
     "tag_name": "UEFA Champions League",
-    "related_tags": []
+    "related_tags": [
+      "uefa+王+同盟"
+    ]
   },
   {
     "tag_name": "2010-2011 UEFA Champions' League",
@@ -27205,7 +30993,9 @@ return [
   },
   {
     "tag_name": "Copa America",
-    "related_tags": []
+    "related_tags": [
+      "copa+亜"
+    ]
   },
   {
     "tag_name": "2011 Copa America",
@@ -27217,7 +31007,9 @@ return [
   },
   {
     "tag_name": "Copa America Centenario",
-    "related_tags": []
+    "related_tags": [
+      "copa+亜+centenario"
+    ]
   },
   {
     "tag_name": "2021 Copa America",
@@ -27225,11 +31017,15 @@ return [
   },
   {
     "tag_name": "KBO League",
-    "related_tags": []
+    "related_tags": [
+      "kbo+同盟"
+    ]
   },
   {
     "tag_name": "Doosan Bears",
-    "related_tags": []
+    "related_tags": [
+      "doosan+熊羆"
+    ]
   },
   {
     "tag_name": "Hanwha Eagles",
@@ -27277,7 +31073,9 @@ return [
   },
   {
     "tag_name": "Colorado Rockies",
-    "related_tags": []
+    "related_tags": [
+      "コロラド+rockies"
+    ]
   },
   {
     "tag_name": "Florida Marlins",
@@ -27299,7 +31097,9 @@ return [
   },
   {
     "tag_name": "Los Angeles Dodgers",
-    "related_tags": []
+    "related_tags": [
+      "los+御使い+dodgers"
+    ]
   },
   {
     "tag_name": "Milwaukee Brewers",
@@ -27315,7 +31115,9 @@ return [
   },
   {
     "tag_name": "New York Yankees",
-    "related_tags": []
+    "related_tags": [
+      "見ず知らず+york+アメ公"
+    ]
   },
   {
     "tag_name": "Seattle Mariners",
@@ -27325,7 +31127,9 @@ return [
   },
   {
     "tag_name": "St. Louis Cardinals",
-    "related_tags": []
+    "related_tags": [
+      "聖+louis+枢要"
+    ]
   },
   {
     "tag_name": "San Francisco Giants",
@@ -27335,19 +31139,27 @@ return [
   },
   {
     "tag_name": "Tampa Bay Rays",
-    "related_tags": []
+    "related_tags": [
+      "tampa+江+光"
+    ]
   },
   {
     "tag_name": "Texas Rangers",
-    "related_tags": []
+    "related_tags": [
+      "テキサス+レーンジャー"
+    ]
   },
   {
     "tag_name": "Toronto Blue Jays",
-    "related_tags": []
+    "related_tags": [
+      "トロント+重い+jays"
+    ]
   },
   {
     "tag_name": "Washington Nationals",
-    "related_tags": []
+    "related_tags": [
+      "washington+官立"
+    ]
   },
   {
     "tag_name": "Nippon Professional Baseball",
@@ -27357,7 +31169,9 @@ return [
   },
   {
     "tag_name": "Chiba Lotte Marines",
-    "related_tags": []
+    "related_tags": [
+      "chiba+lotte+海兵"
+    ]
   },
   {
     "tag_name": "Chunichi Dragons",
@@ -27403,7 +31217,9 @@ return [
   },
   {
     "tag_name": "Taiyou Whales",
-    "related_tags": []
+    "related_tags": [
+      "taiyou+ホェール"
+    ]
   },
   {
     "tag_name": "Tokyo Yakult Swallows",
@@ -27431,11 +31247,15 @@ return [
   },
   {
     "tag_name": "B. League",
-    "related_tags": []
+    "related_tags": [
+      "b.+同盟"
+    ]
   },
   {
     "tag_name": "Yokohama B-Corsairs",
-    "related_tags": []
+    "related_tags": [
+      "浜+b+私掠船"
+    ]
   },
   {
     "tag_name": "National Basketball Association",
@@ -27445,7 +31265,9 @@ return [
   },
   {
     "tag_name": "Atlanta Hawks",
-    "related_tags": []
+    "related_tags": [
+      "atlanta+強硬派"
+    ]
   },
   {
     "tag_name": "Boston Celtics",
@@ -27455,7 +31277,9 @@ return [
   },
   {
     "tag_name": "Brooklyn Nets",
-    "related_tags": []
+    "related_tags": [
+      "brooklyn+網"
+    ]
   },
   {
     "tag_name": "Charlotte Bobcats",
@@ -27463,7 +31287,9 @@ return [
   },
   {
     "tag_name": "Charlotte Hornets",
-    "related_tags": []
+    "related_tags": [
+      "charlotte+熊ん蜂"
+    ]
   },
   {
     "tag_name": "Chicago Bulls",
@@ -27477,7 +31303,9 @@ return [
   },
   {
     "tag_name": "Dallas Mavericks",
-    "related_tags": []
+    "related_tags": [
+      "dallas+異端児"
+    ]
   },
   {
     "tag_name": "Denver Nuggets",
@@ -27487,31 +31315,45 @@ return [
   },
   {
     "tag_name": "Golden State Warriors",
-    "related_tags": []
+    "related_tags": [
+      "黄金+安排+益荒男"
+    ]
   },
   {
     "tag_name": "Houston Rockets",
-    "related_tags": []
+    "related_tags": [
+      "houston+火箭"
+    ]
   },
   {
     "tag_name": "Indiana Pacers",
-    "related_tags": []
+    "related_tags": [
+      "インディアナ+pacers"
+    ]
   },
   {
     "tag_name": "Los Angeles Clippers",
-    "related_tags": []
+    "related_tags": [
+      "los+御使い+剪刀"
+    ]
   },
   {
     "tag_name": "Los Angeles Lakers",
-    "related_tags": []
+    "related_tags": [
+      "los+御使い+lakers"
+    ]
   },
   {
     "tag_name": "Memphis Grizzlies",
-    "related_tags": []
+    "related_tags": [
+      "メンフィス+grizzlies"
+    ]
   },
   {
     "tag_name": "Miami Heat",
-    "related_tags": []
+    "related_tags": [
+      "マイアミ+温気"
+    ]
   },
   {
     "tag_name": "Milwaukee Bucks",
@@ -27521,27 +31363,39 @@ return [
   },
   {
     "tag_name": "Minnesota Timberwolves",
-    "related_tags": []
+    "related_tags": [
+      "ミネソタ+timberwolves"
+    ]
   },
   {
     "tag_name": "New Orleans Pelicans",
-    "related_tags": []
+    "related_tags": [
+      "見ず知らず+orleans+伽藍鳥"
+    ]
   },
   {
     "tag_name": "New York Knicks",
-    "related_tags": []
+    "related_tags": [
+      "見ず知らず+york+knicks"
+    ]
   },
   {
     "tag_name": "Oklahoma City Thunder",
-    "related_tags": []
+    "related_tags": [
+      "オクラホマ+市+神"
+    ]
   },
   {
     "tag_name": "Orlando Magic",
-    "related_tags": []
+    "related_tags": [
+      "orlando+奇術"
+    ]
   },
   {
     "tag_name": "Phoenix Suns",
-    "related_tags": []
+    "related_tags": [
+      "不死鳥+金烏"
+    ]
   },
   {
     "tag_name": "Philadelphia 76ers",
@@ -27551,7 +31405,9 @@ return [
   },
   {
     "tag_name": "Portland Trail Blazers",
-    "related_tags": []
+    "related_tags": [
+      "portland+散歩道+ブレザー"
+    ]
   },
   {
     "tag_name": "Sacramento Kings",
@@ -27561,23 +31417,33 @@ return [
   },
   {
     "tag_name": "San Antonio Spurs",
-    "related_tags": []
+    "related_tags": [
+      "san+antonio+距"
+    ]
   },
   {
     "tag_name": "Seattle Supersonics",
-    "related_tags": []
+    "related_tags": [
+      "舎路+スーパーソニック"
+    ]
   },
   {
     "tag_name": "Toronto Raptors",
-    "related_tags": []
+    "related_tags": [
+      "トロント+猛禽類"
+    ]
   },
   {
     "tag_name": "Utah Jazz",
-    "related_tags": []
+    "related_tags": [
+      "ユタ+ジャズ"
+    ]
   },
   {
     "tag_name": "Washington Wizards",
-    "related_tags": []
+    "related_tags": [
+      "washington+鬼才"
+    ]
   },
   {
     "tag_name": "National Football League",
@@ -27587,27 +31453,39 @@ return [
   },
   {
     "tag_name": "Arizona Cardinals",
-    "related_tags": []
+    "related_tags": [
+      "arizona+枢要"
+    ]
   },
   {
     "tag_name": "Atlanta Falcons",
-    "related_tags": []
+    "related_tags": [
+      "atlanta+連"
+    ]
   },
   {
     "tag_name": "Baltimore Ravens",
-    "related_tags": []
+    "related_tags": [
+      "baltimore+烏"
+    ]
   },
   {
     "tag_name": "Buffalo Bills",
-    "related_tags": []
+    "related_tags": [
+      "野牛+案"
+    ]
   },
   {
     "tag_name": "Carolina Panthers",
-    "related_tags": []
+    "related_tags": [
+      "カロライナ+パンサー"
+    ]
   },
   {
     "tag_name": "Chicago Bears",
-    "related_tags": []
+    "related_tags": [
+      "シカゴ+熊羆"
+    ]
   },
   {
     "tag_name": "Dallas Cowboys",
@@ -27617,7 +31495,9 @@ return [
   },
   {
     "tag_name": "Denver Broncos",
-    "related_tags": []
+    "related_tags": [
+      "デンバー+broncos"
+    ]
   },
   {
     "tag_name": "Houston Texans",
@@ -27625,7 +31505,9 @@ return [
   },
   {
     "tag_name": "Indianapolis Colts",
-    "related_tags": []
+    "related_tags": [
+      "indianapolis+仔馬"
+    ]
   },
   {
     "tag_name": "Las Vegas Raiders",
@@ -27635,23 +31517,33 @@ return [
   },
   {
     "tag_name": "Minnesota Vikings",
-    "related_tags": []
+    "related_tags": [
+      "ミネソタ+バイキング"
+    ]
   },
   {
     "tag_name": "New England Patriots",
-    "related_tags": []
+    "related_tags": [
+      "見ず知らず+英吉利+志士"
+    ]
   },
   {
     "tag_name": "New Orleans Saints",
-    "related_tags": []
+    "related_tags": [
+      "見ず知らず+orleans+聖者"
+    ]
   },
   {
     "tag_name": "New York Giants",
-    "related_tags": []
+    "related_tags": [
+      "見ず知らず+york+ギガンテス"
+    ]
   },
   {
     "tag_name": "New York Jets",
-    "related_tags": []
+    "related_tags": [
+      "見ず知らず+york+吹き出し口"
+    ]
   },
   {
     "tag_name": "Pittsburgh Steelers",
@@ -27663,23 +31555,33 @@ return [
   },
   {
     "tag_name": "Seattle Seahawks",
-    "related_tags": []
+    "related_tags": [
+      "舎路+seahawks"
+    ]
   },
   {
     "tag_name": "Primera Division",
-    "related_tags": []
+    "related_tags": [
+      "primera+課"
+    ]
   },
   {
     "tag_name": "Club Atletico Boca Juniors",
-    "related_tags": []
+    "related_tags": [
+      "会+atletico+boca+三回生"
+    ]
   },
   {
     "tag_name": "Club Atletico River Plate",
-    "related_tags": []
+    "related_tags": [
+      "会+atletico+川+一皿"
+    ]
   },
   {
     "tag_name": "Melbourne Victory FC",
-    "related_tags": []
+    "related_tags": [
+      "メルボルン+凱歌+fc"
+    ]
   },
   {
     "tag_name": "Ceara SC",
@@ -27687,7 +31589,9 @@ return [
   },
   {
     "tag_name": "SC Corinthians Paulista",
-    "related_tags": []
+    "related_tags": [
+      "sc+corinthians+パウレスタ"
+    ]
   },
   {
     "tag_name": "CR Flamengo",
@@ -27725,7 +31629,9 @@ return [
   },
   {
     "tag_name": "Arsenal FC",
-    "related_tags": []
+    "related_tags": [
+      "工廠+fc"
+    ]
   },
   {
     "tag_name": "Chelsea FC",
@@ -27737,7 +31643,9 @@ return [
   },
   {
     "tag_name": "Leicester City FC",
-    "related_tags": []
+    "related_tags": [
+      "leicester+市+fc"
+    ]
   },
   {
     "tag_name": "Liverpool FC",
@@ -27745,7 +31653,9 @@ return [
   },
   {
     "tag_name": "Manchester City FC",
-    "related_tags": []
+    "related_tags": [
+      "マンチェスター+市+fc"
+    ]
   },
   {
     "tag_name": "Manchester United",
@@ -27755,15 +31665,21 @@ return [
   },
   {
     "tag_name": "Newcastle United FC",
-    "related_tags": []
+    "related_tags": [
+      "newcastle+一丸となって+fc"
+    ]
   },
   {
     "tag_name": "Sheffield United FC",
-    "related_tags": []
+    "related_tags": [
+      "sheffield+一丸となって+fc"
+    ]
   },
   {
     "tag_name": "Tottenham Hotspur FC",
-    "related_tags": []
+    "related_tags": [
+      "tottenham+猪武者+fc"
+    ]
   },
   {
     "tag_name": "Ligue 1",
@@ -27775,7 +31691,9 @@ return [
   },
   {
     "tag_name": "Paris Saint-Germain",
-    "related_tags": []
+    "related_tags": [
+      "paris+聖者+germain"
+    ]
   },
   {
     "tag_name": "Bundesliga",
@@ -27817,7 +31735,9 @@ return [
   },
   {
     "tag_name": "Serie A",
-    "related_tags": []
+    "related_tags": [
+      "一連+a"
+    ]
   },
   {
     "tag_name": "AC Milan",
@@ -27883,7 +31803,9 @@ return [
   },
   {
     "tag_name": "FC Tokyo",
-    "related_tags": []
+    "related_tags": [
+      "fc+東京"
+    ]
   },
   {
     "tag_name": "Gamba Osaka",
@@ -27891,7 +31813,9 @@ return [
   },
   {
     "tag_name": "JEF United",
-    "related_tags": []
+    "related_tags": [
+      "jef+一丸となって"
+    ]
   },
   {
     "tag_name": "Jubilo Iwata",
@@ -27947,15 +31871,21 @@ return [
   },
   {
     "tag_name": "Shimizu S-Pulse",
-    "related_tags": []
+    "related_tags": [
+      "shimizu+s+脈"
+    ]
   },
   {
     "tag_name": "Tokyo Verdy",
-    "related_tags": []
+    "related_tags": [
+      "東京+verdy"
+    ]
   },
   {
     "tag_name": "Urawa Red Diamonds",
-    "related_tags": []
+    "related_tags": [
+      "urawa+赭い+金剛"
+    ]
   },
   {
     "tag_name": "Vegalta Sendai",
@@ -27985,11 +31915,15 @@ return [
   },
   {
     "tag_name": "Atlas FC",
-    "related_tags": []
+    "related_tags": [
+      "地図帳+fc"
+    ]
   },
   {
     "tag_name": "Club America",
-    "related_tags": []
+    "related_tags": [
+      "会+亜"
+    ]
   },
   {
     "tag_name": "Cruz Azul",
@@ -27997,7 +31931,9 @@ return [
   },
   {
     "tag_name": "Club Leon",
-    "related_tags": []
+    "related_tags": [
+      "会+leon"
+    ]
   },
   {
     "tag_name": "Santos Laguna",
@@ -28009,7 +31945,9 @@ return [
   },
   {
     "tag_name": "AFC Ajax",
-    "related_tags": []
+    "related_tags": [
+      "自動周波数制御+ajax"
+    ]
   },
   {
     "tag_name": "FC Porto",
@@ -28037,7 +31975,9 @@ return [
   },
   {
     "tag_name": "Club Atletico de Madrid",
-    "related_tags": []
+    "related_tags": [
+      "会+atletico+de+madrid"
+    ]
   },
   {
     "tag_name": "FC Barcelona",
@@ -28045,11 +31985,15 @@ return [
   },
   {
     "tag_name": "Real Betis",
-    "related_tags": []
+    "related_tags": [
+      "実の+betis"
+    ]
   },
   {
     "tag_name": "Real Madrid",
-    "related_tags": []
+    "related_tags": [
+      "実の+madrid"
+    ]
   },
   {
     "tag_name": "Valencia CF",
@@ -28061,15 +32005,21 @@ return [
   },
   {
     "tag_name": "Major League Soccer",
-    "related_tags": []
+    "related_tags": [
+      "空佐+同盟+ア式蹴球"
+    ]
   },
   {
     "tag_name": "Columbus Crew",
-    "related_tags": []
+    "related_tags": [
+      "columbus+一味"
+    ]
   },
   {
     "tag_name": "Houston Dynamo",
-    "related_tags": []
+    "related_tags": [
+      "houston+発電機"
+    ]
   },
   {
     "tag_name": "National Hockey League",
@@ -28079,27 +32029,39 @@ return [
   },
   {
     "tag_name": "Boston Bruins",
-    "related_tags": []
+    "related_tags": [
+      "ボストン+bruins"
+    ]
   },
   {
     "tag_name": "Buffalo Sabres",
-    "related_tags": []
+    "related_tags": [
+      "野牛+軍刀"
+    ]
   },
   {
     "tag_name": "Calgary Flames",
-    "related_tags": []
+    "related_tags": [
+      "カルガリー+火先"
+    ]
   },
   {
     "tag_name": "Carolina Hurricanes",
-    "related_tags": []
+    "related_tags": [
+      "カロライナ+台風"
+    ]
   },
   {
     "tag_name": "Colorado Avalanche",
-    "related_tags": []
+    "related_tags": [
+      "コロラド+滑落"
+    ]
   },
   {
     "tag_name": "Detroit Red Wings",
-    "related_tags": []
+    "related_tags": [
+      "detroit+赭い+羽交い"
+    ]
   },
   {
     "tag_name": "Edmonton Oilers",
@@ -28107,11 +32069,15 @@ return [
   },
   {
     "tag_name": "Los Angeles Kings",
-    "related_tags": []
+    "related_tags": [
+      "los+御使い+君達"
+    ]
   },
   {
     "tag_name": "Minnesota Wild",
-    "related_tags": []
+    "related_tags": [
+      "ミネソタ+一向"
+    ]
   },
   {
     "tag_name": "Montreal Canadiens",
@@ -28119,23 +32085,33 @@ return [
   },
   {
     "tag_name": "New York Islanders",
-    "related_tags": []
+    "related_tags": [
+      "見ず知らず+york+島人"
+    ]
   },
   {
     "tag_name": "New York Rangers",
-    "related_tags": []
+    "related_tags": [
+      "見ず知らず+york+レーンジャー"
+    ]
   },
   {
     "tag_name": "Ottawa Senators",
-    "related_tags": []
+    "related_tags": [
+      "オタワ+上院議員"
+    ]
   },
   {
     "tag_name": "Philadelphia Flyers",
-    "related_tags": []
+    "related_tags": [
+      "フィラデルフィア+宣伝ビラ"
+    ]
   },
   {
     "tag_name": "Pittsburgh Penguins",
-    "related_tags": []
+    "related_tags": [
+      "pittsburgh+企鵝"
+    ]
   },
   {
     "tag_name": "Quebec Nordiques",
@@ -28149,27 +32125,39 @@ return [
   },
   {
     "tag_name": "Seattle Kraken",
-    "related_tags": []
+    "related_tags": [
+      "舎路+クラーケン"
+    ]
   },
   {
     "tag_name": "St. Louis Blues",
-    "related_tags": []
+    "related_tags": [
+      "聖+louis+ブルース"
+    ]
   },
   {
     "tag_name": "Tampa Bay Lightning",
-    "related_tags": []
+    "related_tags": [
+      "tampa+江+稲光"
+    ]
   },
   {
     "tag_name": "Toronto Maple Leafs",
-    "related_tags": []
+    "related_tags": [
+      "トロント+松楓+一片"
+    ]
   },
   {
     "tag_name": "Vancouver Canucks",
-    "related_tags": []
+    "related_tags": [
+      "晩香波+canucks"
+    ]
   },
   {
     "tag_name": "Vegas Golden Knights",
-    "related_tags": []
+    "related_tags": [
+      "vegas+黄金+騎士"
+    ]
   },
   {
     "tag_name": "Eyeshield 21",
@@ -28179,7 +32167,9 @@ return [
   },
   {
     "tag_name": "Tecmo Super Bowl",
-    "related_tags": []
+    "related_tags": [
+      "tecmo+超がつく+器"
+    ]
   },
   {
     "tag_name": "Ahiru no Sora",
@@ -28195,7 +32185,9 @@ return [
   },
   {
     "tag_name": "Dash Kappei",
-    "related_tags": []
+    "related_tags": [
+      "疾走+kappei"
+    ]
   },
   {
     "tag_name": "Kuroko no Basuke",
@@ -28209,7 +32201,9 @@ return [
   },
   {
     "tag_name": "NBA Jam",
-    "related_tags": []
+    "related_tags": [
+      "nba+混雑"
+    ]
   },
   {
     "tag_name": "Rou-kyuu-bu!",
@@ -28238,7 +32232,7 @@ return [
   {
     "tag_name": "Major",
     "related_tags": [
-      "MAJOR,"
+      "メジャー"
     ]
   },
   {
@@ -28250,7 +32244,7 @@ return [
   {
     "tag_name": "Mr. Fullswing",
     "related_tags": [
-      "Mr.FULLSWING"
+      "ミスフル"
     ]
   },
   {
@@ -28273,7 +32267,9 @@ return [
   },
   {
     "tag_name": "Break Shot",
-    "related_tags": []
+    "related_tags": [
+      "一休み+一発"
+    ]
   },
   {
     "tag_name": "1 Pound no Fukuin",
@@ -28299,7 +32295,9 @@ return [
   },
   {
     "tag_name": "Punch-Out!!",
-    "related_tags": []
+    "related_tags": [
+      "一発+out!!"
+    ]
   },
   {
     "tag_name": "Kaze no Daichi",
@@ -28327,7 +32325,9 @@ return [
   },
   {
     "tag_name": "Pro Golfer Saru",
-    "related_tags": []
+    "related_tags": [
+      "プロ選手+ゴルファー+saru"
+    ]
   },
   {
     "tag_name": "Robot x LaserBeam",
@@ -28361,7 +32361,9 @@ return [
   },
   {
     "tag_name": "Akakichi no Eleven",
-    "related_tags": []
+    "related_tags": [
+      "akakichi+no+十一"
+    ]
   },
   {
     "tag_name": "Aoki Densetsu Shoot!",
@@ -28371,11 +32373,15 @@ return [
   },
   {
     "tag_name": "Area no Kishi",
-    "related_tags": []
+    "related_tags": [
+      "箇所+no+kishi"
+    ]
   },
   {
     "tag_name": "Giant Killing",
-    "related_tags": []
+    "related_tags": [
+      "ジャイアント・キリング"
+    ]
   },
   {
     "tag_name": "Ginga e Kickoff!!",
@@ -28385,7 +32391,9 @@ return [
   },
   {
     "tag_name": "Moero! Top Striker",
-    "related_tags": []
+    "related_tags": [
+      "moero!+曲独楽+スト参加者"
+    ]
   },
   {
     "tag_name": "Soccer Spirits",
@@ -28413,11 +32421,15 @@ return [
   },
   {
     "tag_name": "Ping Pong",
-    "related_tags": []
+    "related_tags": [
+      "卓球"
+    ]
   },
   {
     "tag_name": "Ping Pong Club",
-    "related_tags": []
+    "related_tags": [
+      "卓球部"
+    ]
   },
   {
     "tag_name": "Shakunetsu no Takkyuu Musume",
@@ -28505,7 +32517,9 @@ return [
   },
   {
     "tag_name": "armored twintails",
-    "related_tags": []
+    "related_tags": [
+      "鎧+twintails"
+    ]
   },
   {
     "tag_name": "faceplate",
@@ -28531,11 +32545,15 @@ return [
   },
   {
     "tag_name": "morion",
-    "related_tags": []
+    "related_tags": [
+      "煙水晶"
+    ]
   },
   {
     "tag_name": "kettle helm",
-    "related_tags": []
+    "related_tags": [
+      "釜+梶"
+    ]
   },
   {
     "tag_name": "kabuto",
@@ -28545,15 +32563,21 @@ return [
   },
   {
     "tag_name": "pith helmet",
-    "related_tags": []
+    "related_tags": [
+      "骨子+鉄帽"
+    ]
   },
   {
     "tag_name": "spiked helmet",
-    "related_tags": []
+    "related_tags": [
+      "角兜"
+    ]
   },
   {
     "tag_name": "visor (armor)",
-    "related_tags": []
+    "related_tags": [
+      "眉庇+(armor)"
+    ]
   },
   {
     "tag_name": "gorget",
@@ -28591,7 +32615,9 @@ return [
   },
   {
     "tag_name": "arm guards",
-    "related_tags": []
+    "related_tags": [
+      "腕+警備隊"
+    ]
   },
   {
     "tag_name": "couter",
@@ -28603,7 +32629,9 @@ return [
   },
   {
     "tag_name": "bracer",
-    "related_tags": []
+    "related_tags": [
+      "小手"
+    ]
   },
   {
     "tag_name": "elbow pads",
@@ -28647,7 +32675,9 @@ return [
   },
   {
     "tag_name": "muscle cuirass",
-    "related_tags": []
+    "related_tags": [
+      "筋+cuirass"
+    ]
   },
   {
     "tag_name": "muneate",
@@ -28667,7 +32697,9 @@ return [
   },
   {
     "tag_name": "scale armor",
-    "related_tags": []
+    "related_tags": [
+      "音階+鎧"
+    ]
   },
   {
     "tag_name": "linothorax",
@@ -28675,7 +32707,9 @@ return [
   },
   {
     "tag_name": "crotch plate",
-    "related_tags": []
+    "related_tags": [
+      "股+一皿"
+    ]
   },
   {
     "tag_name": "faulds",
@@ -28695,7 +32729,9 @@ return [
   },
   {
     "tag_name": "armored boots",
-    "related_tags": []
+    "related_tags": [
+      "鎧+沓"
+    ]
   },
   {
     "tag_name": "sabaton",
@@ -28703,11 +32739,15 @@ return [
   },
   {
     "tag_name": "cuisses",
-    "related_tags": []
+    "related_tags": [
+      "シーユーアイ"
+    ]
   },
   {
     "tag_name": "greaves",
-    "related_tags": []
+    "related_tags": [
+      "脛当て"
+    ]
   },
   {
     "tag_name": "knee pads",
@@ -28717,7 +32757,9 @@ return [
   },
   {
     "tag_name": "leg armor",
-    "related_tags": []
+    "related_tags": [
+      "脚+鎧"
+    ]
   },
   {
     "tag_name": "poleyn",
@@ -28765,19 +32807,27 @@ return [
   },
   {
     "tag_name": "bomb suit",
-    "related_tags": []
+    "related_tags": [
+      "失敗作+一重ね"
+    ]
   },
   {
     "tag_name": "full armor",
-    "related_tags": []
+    "related_tags": [
+      "委しい+鎧"
+    ]
   },
   {
     "tag_name": "Plate armor",
-    "related_tags": []
+    "related_tags": [
+      "板金鎧"
+    ]
   },
   {
     "tag_name": "Japanese armor",
-    "related_tags": []
+    "related_tags": [
+      "日本的+鎧"
+    ]
   },
   {
     "tag_name": "dou",
@@ -28791,11 +32841,15 @@ return [
   },
   {
     "tag_name": "SEVA Suit",
-    "related_tags": []
+    "related_tags": [
+      "seva+一重ね"
+    ]
   },
   {
     "tag_name": "conquistador",
-    "related_tags": []
+    "related_tags": [
+      "コンキスタドール"
+    ]
   },
   {
     "tag_name": "knight",
@@ -28805,7 +32859,9 @@ return [
   },
   {
     "tag_name": "dark knight",
-    "related_tags": []
+    "related_tags": [
+      "暗々+騎士"
+    ]
   },
   {
     "tag_name": "legionnaire",
@@ -28813,7 +32869,9 @@ return [
   },
   {
     "tag_name": "Viking",
-    "related_tags": []
+    "related_tags": [
+      "バイキング"
+    ]
   },
   {
     "tag_name": "military operator",
@@ -28823,7 +32881,9 @@ return [
   },
   {
     "tag_name": "Polish Hussar",
-    "related_tags": []
+    "related_tags": [
+      "艶+hussar"
+    ]
   },
   {
     "tag_name": "samurai",
@@ -28845,15 +32905,21 @@ return [
   },
   {
     "tag_name": "Swiss Guard",
-    "related_tags": []
+    "related_tags": [
+      "スイス傭兵"
+    ]
   },
   {
     "tag_name": "Armor of Altair",
-    "related_tags": []
+    "related_tags": [
+      "鎧+of+altair"
+    ]
   },
   {
     "tag_name": "Berserker Armor",
-    "related_tags": []
+    "related_tags": [
+      "バーサーカ+鎧"
+    ]
   },
   {
     "tag_name": "High-cut Armor",
@@ -28867,7 +32933,9 @@ return [
   },
   {
     "tag_name": "Terminator Armor",
-    "related_tags": []
+    "related_tags": [
+      "終端抵抗+鎧"
+    ]
   },
   {
     "tag_name": "barding",
@@ -28877,19 +32945,27 @@ return [
   },
   {
     "tag_name": "broken armor",
-    "related_tags": []
+    "related_tags": [
+      "駄目+鎧"
+    ]
   },
   {
     "tag_name": "leather armor",
-    "related_tags": []
+    "related_tags": [
+      "革+鎧"
+    ]
   },
   {
     "tag_name": "naked armor",
-    "related_tags": []
+    "related_tags": [
+      "顕+鎧"
+    ]
   },
   {
     "tag_name": "ornate armor",
-    "related_tags": []
+    "related_tags": [
+      "絢爛+鎧"
+    ]
   },
   {
     "tag_name": "armor",
@@ -28963,7 +33039,9 @@ return [
   },
   {
     "tag_name": "Women's Day",
-    "related_tags": []
+    "related_tags": [
+      "ウィメンズ+日"
+    ]
   },
   {
     "tag_name": "Miku day",
@@ -29061,7 +33139,9 @@ return [
   },
   {
     "tag_name": "Doughnut Day",
-    "related_tags": []
+    "related_tags": [
+      "ドーナッツ+日"
+    ]
   },
   {
     "tag_name": "Father's Day",
@@ -29077,7 +33157,9 @@ return [
   },
   {
     "tag_name": "UFO Day",
-    "related_tags": []
+    "related_tags": [
+      "未確認飛行物体+日"
+    ]
   },
   {
     "tag_name": "Canada Day",
@@ -29087,7 +33169,9 @@ return [
   },
   {
     "tag_name": "Fourth of July",
-    "related_tags": []
+    "related_tags": [
+      "アメリカ独立記念日"
+    ]
   },
   {
     "tag_name": "Bikini Day",
@@ -29103,7 +33187,9 @@ return [
   },
   {
     "tag_name": "Bastille Day",
-    "related_tags": []
+    "related_tags": [
+      "bastille+日"
+    ]
   },
   {
     "tag_name": "Obon",
@@ -29209,7 +33295,9 @@ return [
   },
   {
     "tag_name": "Remembrance Day",
-    "related_tags": []
+    "related_tags": [
+      "記憶+日"
+    ]
   },
   {
     "tag_name": "Shichi-Go-San",
@@ -29225,11 +33313,15 @@ return [
   },
   {
     "tag_name": "Good Kneehighs Day",
-    "related_tags": []
+    "related_tags": [
+      "愛い+kneehighs+日"
+    ]
   },
   {
     "tag_name": "Hanukkah",
-    "related_tags": []
+    "related_tags": [
+      "ハヌカ"
+    ]
   },
   {
     "tag_name": "Christmas",
@@ -29293,7 +33385,9 @@ return [
   },
   {
     "tag_name": "Milestone celebration",
-    "related_tags": []
+    "related_tags": [
+      "新機軸+賀"
+    ]
   },
   {
     "tag_name": "Akeome",
@@ -29397,19 +33491,27 @@ return [
   },
   {
     "tag_name": "Box of Chocolates",
-    "related_tags": []
+    "related_tags": [
+      "囲み+of+チョコ"
+    ]
   },
   {
     "tag_name": "Heart-shaped chocolate",
-    "related_tags": []
+    "related_tags": [
+      "意気+影+チョコ"
+    ]
   },
   {
     "tag_name": "Happy Valentine",
-    "related_tags": []
+    "related_tags": [
+      "愛でたい+バレンタイン"
+    ]
   },
   {
     "tag_name": "Heart-shaped box",
-    "related_tags": []
+    "related_tags": [
+      "意気+影+囲み"
+    ]
   },
   {
     "tag_name": "Valentine",
@@ -29443,7 +33545,9 @@ return [
   },
   {
     "tag_name": "Kashiwa Mochi",
-    "related_tags": []
+    "related_tags": [
+      "kashiwa+餅"
+    ]
   },
   {
     "tag_name": "Koinobori",
@@ -29459,7 +33563,9 @@ return [
   },
   {
     "tag_name": "Ribbon of Saint George",
-    "related_tags": []
+    "related_tags": [
+      "リボン+of+聖者+george"
+    ]
   },
   {
     "tag_name": "Dragon boat",
@@ -29517,7 +33623,9 @@ return [
   },
   {
     "tag_name": "bagged fish",
-    "related_tags": []
+    "related_tags": [
+      "bagged+魚"
+    ]
   },
   {
     "tag_name": "Beer",
@@ -29575,7 +33683,9 @@ return [
   },
   {
     "tag_name": "Happy Halloween",
-    "related_tags": []
+    "related_tags": [
+      "愛でたい+ハローウィン"
+    ]
   },
   {
     "tag_name": "Jack-o'-lantern",
@@ -29601,7 +33711,9 @@ return [
   },
   {
     "tag_name": "Christmas Tree",
-    "related_tags": []
+    "related_tags": [
+      "聖樹"
+    ]
   },
   {
     "tag_name": "Merry Christmas",
@@ -29683,7 +33795,9 @@ return [
   },
   {
     "tag_name": "Kid Icarus (NES)",
-    "related_tags": []
+    "related_tags": [
+      "餓鬼+icarus+(nes)"
+    ]
   },
   {
     "tag_name": "Kirby",
@@ -29795,7 +33909,9 @@ return [
   },
   {
     "tag_name": "Prince of Persia",
-    "related_tags": []
+    "related_tags": [
+      "王+of+波斯"
+    ]
   },
   {
     "tag_name": "Rayman",
@@ -29869,11 +33985,15 @@ return [
   },
   {
     "tag_name": "deer ears",
-    "related_tags": []
+    "related_tags": [
+      "紅葉鳥+耳底"
+    ]
   },
   {
     "tag_name": "ferret ears",
-    "related_tags": []
+    "related_tags": [
+      "白イタチ+耳底"
+    ]
   },
   {
     "tag_name": "fox ears",
@@ -29913,7 +34033,9 @@ return [
   },
   {
     "tag_name": "panda ears",
-    "related_tags": []
+    "related_tags": [
+      "熊猫+耳底"
+    ]
   },
   {
     "tag_name": "pikachu ears",
@@ -29929,15 +34051,21 @@ return [
   },
   {
     "tag_name": "raccoon ears",
-    "related_tags": []
+    "related_tags": [
+      "ラクーン+耳底"
+    ]
   },
   {
     "tag_name": "sheep ears",
-    "related_tags": []
+    "related_tags": [
+      "綿羊+耳底"
+    ]
   },
   {
     "tag_name": "squirrel ears",
-    "related_tags": []
+    "related_tags": [
+      "木鼠+耳底"
+    ]
   },
   {
     "tag_name": "tiger ears",
@@ -29959,15 +34087,21 @@ return [
   },
   {
     "tag_name": "animal ear headphones",
-    "related_tags": []
+    "related_tags": [
+      "獣+耳+ヘッドフォーン"
+    ]
   },
   {
     "tag_name": "bear ear headphones",
-    "related_tags": []
+    "related_tags": [
+      "熊羆+耳+ヘッドフォーン"
+    ]
   },
   {
     "tag_name": "rabbit ear headphones",
-    "related_tags": []
+    "related_tags": [
+      "占め子+耳+ヘッドフォーン"
+    ]
   },
   {
     "tag_name": "hair ears",
@@ -29983,7 +34117,9 @@ return [
   },
   {
     "tag_name": "long pointy ears",
-    "related_tags": []
+    "related_tags": [
+      "永+尖圭+耳底"
+    ]
   },
   {
     "tag_name": "extra ears",
@@ -29993,35 +34129,51 @@ return [
   },
   {
     "tag_name": "ear piercing",
-    "related_tags": []
+    "related_tags": [
+      "耳ピ"
+    ]
   },
   {
     "tag_name": "ear protection",
-    "related_tags": []
+    "related_tags": [
+      "耳+愛護"
+    ]
   },
   {
     "tag_name": "single earring",
-    "related_tags": []
+    "related_tags": [
+      "単+耳ピ"
+    ]
   },
   {
     "tag_name": "behind ear",
-    "related_tags": []
+    "related_tags": [
+      "後+耳"
+    ]
   },
   {
     "tag_name": "grabbing another's ear",
-    "related_tags": []
+    "related_tags": [
+      "手づかみ+another's+耳"
+    ]
   },
   {
     "tag_name": "ear wiggle",
-    "related_tags": []
+    "related_tags": [
+      "耳+wiggle"
+    ]
   },
   {
     "tag_name": "holding ears",
-    "related_tags": []
+    "related_tags": [
+      "握把+耳底"
+    ]
   },
   {
     "tag_name": "ground vehicle",
-    "related_tags": []
+    "related_tags": [
+      "基底+駕"
+    ]
   },
   {
     "tag_name": "Type 59",
@@ -30074,7 +34226,7 @@ return [
   {
     "tag_name": "FT-17",
     "related_tags": [
-      "FT-17"
+      "ルノーFT-17"
     ]
   },
   {
@@ -30517,7 +34669,9 @@ return [
   },
   {
     "tag_name": "Tsar Tank",
-    "related_tags": []
+    "related_tags": [
+      "露帝+舟"
+    ]
   },
   {
     "tag_name": "BT-7",
@@ -30528,7 +34682,7 @@ return [
   {
     "tag_name": "T-26",
     "related_tags": [
-      "T-26"
+      "T-26戦車"
     ]
   },
   {
@@ -30666,7 +34820,7 @@ return [
   {
     "tag_name": "T-14 Armata",
     "related_tags": [
-      "T-14"
+      "T-14アルマータ"
     ]
   },
   {
@@ -30678,13 +34832,13 @@ return [
   {
     "tag_name": "T-55",
     "related_tags": [
-      "T-55"
+      "T-55中戦車"
     ]
   },
   {
     "tag_name": "T-62",
     "related_tags": [
-      "T-62"
+      "T-62戦車"
     ]
   },
   {
@@ -30766,7 +34920,7 @@ return [
   {
     "tag_name": "Mark IV tank",
     "related_tags": [
-      "Mark.IV"
+      "菱形戦車"
     ]
   },
   {
@@ -30847,11 +35001,15 @@ return [
   },
   {
     "tag_name": "Ferret scout car",
-    "related_tags": []
+    "related_tags": [
+      "白イタチ+斥候+四輪車"
+    ]
   },
   {
     "tag_name": "Land Rover Defender",
-    "related_tags": []
+    "related_tags": [
+      "境地+旅人+弁護者"
+    ]
   },
   {
     "tag_name": "M3 Stuart",
@@ -31101,11 +35259,15 @@ return [
   },
   {
     "tag_name": "Volkswagen Beetle",
-    "related_tags": []
+    "related_tags": [
+      "volkswagen+甲虫"
+    ]
   },
   {
     "tag_name": "Volkswagen Golf",
-    "related_tags": []
+    "related_tags": [
+      "volkswagen+ゴルフ"
+    ]
   },
   {
     "tag_name": "Volkswagen Type 2",
@@ -31215,7 +35377,9 @@ return [
   },
   {
     "tag_name": "Mazda Cosmo",
-    "related_tags": []
+    "related_tags": [
+      "mazda+宇宙"
+    ]
   },
   {
     "tag_name": "Mazda RX-7",
@@ -31287,7 +35451,9 @@ return [
   },
   {
     "tag_name": "Nissan Skyline",
-    "related_tags": []
+    "related_tags": [
+      "nissan+天涯"
+    ]
   },
   {
     "tag_name": "Subaru 360",
@@ -31317,7 +35483,9 @@ return [
   },
   {
     "tag_name": "Toyota Corolla",
-    "related_tags": []
+    "related_tags": [
+      "toyota+英"
+    ]
   },
   {
     "tag_name": "Toyota Corolla AE85",
@@ -31333,7 +35501,9 @@ return [
   },
   {
     "tag_name": "Toyota Crown",
-    "related_tags": []
+    "related_tags": [
+      "toyota+位"
+    ]
   },
   {
     "tag_name": "Toyota Hiace",
@@ -31365,7 +35535,9 @@ return [
   },
   {
     "tag_name": "Toyota Starlet",
-    "related_tags": []
+    "related_tags": [
+      "toyota+スターレット"
+    ]
   },
   {
     "tag_name": "Toyota Supra",
@@ -31387,7 +35559,9 @@ return [
   },
   {
     "tag_name": "Austin Mini",
-    "related_tags": []
+    "related_tags": [
+      "オースチン+mini"
+    ]
   },
   {
     "tag_name": "Jaguar C-X75",
@@ -31397,19 +35571,27 @@ return [
   },
   {
     "tag_name": "Land Rover",
-    "related_tags": []
+    "related_tags": [
+      "境地+旅人"
+    ]
   },
   {
     "tag_name": "Lotus Elan",
-    "related_tags": []
+    "related_tags": [
+      "蓮+elan"
+    ]
   },
   {
     "tag_name": "Lotus Elise",
-    "related_tags": []
+    "related_tags": [
+      "蓮+elise"
+    ]
   },
   {
     "tag_name": "Lotus Esprit",
-    "related_tags": []
+    "related_tags": [
+      "蓮+エスプリ"
+    ]
   },
   {
     "tag_name": "Mini Cooper",
@@ -31419,7 +35601,9 @@ return [
   },
   {
     "tag_name": "Morris Marina",
-    "related_tags": []
+    "related_tags": [
+      "morris+マリーナ"
+    ]
   },
   {
     "tag_name": "Reliant Robin",
@@ -31429,7 +35613,9 @@ return [
   },
   {
     "tag_name": "Triumph Spitfire",
-    "related_tags": []
+    "related_tags": [
+      "勝利+spitfire"
+    ]
   },
   {
     "tag_name": "Tyrrell P34",
@@ -31453,7 +35639,9 @@ return [
   },
   {
     "tag_name": "Dodge Challenger",
-    "related_tags": []
+    "related_tags": [
+      "機関+挑戦者"
+    ]
   },
   {
     "tag_name": "Dodge Charger",
@@ -31463,15 +35651,21 @@ return [
   },
   {
     "tag_name": "Dodge Monaco",
-    "related_tags": []
+    "related_tags": [
+      "機関+摩納哥"
+    ]
   },
   {
     "tag_name": "Ford Model T",
-    "related_tags": []
+    "related_tags": [
+      "浅瀬+下敷+t"
+    ]
   },
   {
     "tag_name": "Ford GT",
-    "related_tags": []
+    "related_tags": [
+      "浅瀬+gt"
+    ]
   },
   {
     "tag_name": "Ford Mustang",
@@ -31505,7 +35699,9 @@ return [
   },
   {
     "tag_name": "Maser tank",
-    "related_tags": []
+    "related_tags": [
+      "maser+舟"
+    ]
   },
   {
     "tag_name": "Leman Russ",
@@ -31531,12 +35727,14 @@ return [
   },
   {
     "tag_name": "Wraith",
-    "related_tags": []
+    "related_tags": [
+      "生き霊"
+    ]
   },
   {
     "tag_name": "All-terrain vehicle",
     "related_tags": [
-      "4-wheeler"
+      "全地形対応車"
     ]
   },
   {
@@ -31547,11 +35745,15 @@ return [
   },
   {
     "tag_name": "Armored recovery vehicle",
-    "related_tags": []
+    "related_tags": [
+      "装甲回収車"
+    ]
   },
   {
     "tag_name": "Armored vehicle",
-    "related_tags": []
+    "related_tags": [
+      "装甲車"
+    ]
   },
   {
     "tag_name": "Bicycle",
@@ -31561,11 +35763,15 @@ return [
   },
   {
     "tag_name": "Drill tank",
-    "related_tags": []
+    "related_tags": [
+      "演練+舟"
+    ]
   },
   {
     "tag_name": "Half-track",
-    "related_tags": []
+    "related_tags": [
+      "ハーフ・トラック"
+    ]
   },
   {
     "tag_name": "Motorcycle",
@@ -31575,7 +35781,9 @@ return [
   },
   {
     "tag_name": "Motor vehicle",
-    "related_tags": []
+    "related_tags": [
+      "自動車"
+    ]
   },
   {
     "tag_name": "Self-propelled artillery",
@@ -31603,7 +35811,9 @@ return [
   },
   {
     "tag_name": "Turretless tank",
-    "related_tags": []
+    "related_tags": [
+      "turretless+舟"
+    ]
   },
   {
     "tag_name": "Caterpillar tracks",
@@ -31613,11 +35823,15 @@ return [
   },
   {
     "tag_name": "Exhaust",
-    "related_tags": []
+    "related_tags": [
+      "排気"
+    ]
   },
   {
     "tag_name": "Hatch",
-    "related_tags": []
+    "related_tags": [
+      "船庫"
+    ]
   },
   {
     "tag_name": "License plate",
@@ -31627,7 +35841,9 @@ return [
   },
   {
     "tag_name": "Mine roller",
-    "related_tags": []
+    "related_tags": [
+      "機雷+畝ねり"
+    ]
   },
   {
     "tag_name": "Steering wheel",
@@ -31637,19 +35853,27 @@ return [
   },
   {
     "tag_name": "Tank gun",
-    "related_tags": []
+    "related_tags": [
+      "舟+銃"
+    ]
   },
   {
     "tag_name": "Turret",
-    "related_tags": []
+    "related_tags": [
+      "矢倉"
+    ]
   },
   {
     "tag_name": "Tank turret",
-    "related_tags": []
+    "related_tags": [
+      "舟+矢倉"
+    ]
   },
   {
     "tag_name": "Vehicle muffler",
-    "related_tags": []
+    "related_tags": [
+      "駕+巻きもの"
+    ]
   },
   {
     "tag_name": "Wheel",
@@ -31665,7 +35889,9 @@ return [
   },
   {
     "tag_name": "Spare tire",
-    "related_tags": []
+    "related_tags": [
+      "換え+タイア"
+    ]
   },
   {
     "tag_name": "Anti-tank dog",
@@ -31675,15 +35901,21 @@ return [
   },
   {
     "tag_name": "Anti-tank grenade",
-    "related_tags": []
+    "related_tags": [
+      "anti+舟+手りゅう弾"
+    ]
   },
   {
     "tag_name": "Anti-tank gun",
-    "related_tags": []
+    "related_tags": [
+      "anti+舟+銃"
+    ]
   },
   {
     "tag_name": "Bazooka",
-    "related_tags": []
+    "related_tags": [
+      "バズーカ砲"
+    ]
   },
   {
     "tag_name": "Goliath tracked mine",
@@ -31703,7 +35935,9 @@ return [
   },
   {
     "tag_name": "Driver",
-    "related_tags": []
+    "related_tags": [
+      "運ちゃん"
+    ]
   },
   {
     "tag_name": "Tank shell",
@@ -31713,7 +35947,9 @@ return [
   },
   {
     "tag_name": "Throat microphone",
-    "related_tags": []
+    "related_tags": [
+      "咽喉マイク"
+    ]
   },
   {
     "tag_name": "Tank desant",
@@ -31723,7 +35959,9 @@ return [
   },
   {
     "tag_name": "Vehicle request",
-    "related_tags": []
+    "related_tags": [
+      "駕+依嘱"
+    ]
   },
   {
     "tag_name": "magazines",
@@ -31757,15 +35995,21 @@ return [
   },
   {
     "tag_name": "Comic Aun",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+阿うん"
+    ]
   },
   {
     "tag_name": "Comic Bazooka",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+バズーカ砲"
+    ]
   },
   {
     "tag_name": "Comic Hanaman",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+hanaman"
+    ]
   },
   {
     "tag_name": "Comic Hotmilk",
@@ -31775,7 +36019,9 @@ return [
   },
   {
     "tag_name": "Comic Ino",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+ino"
+    ]
   },
   {
     "tag_name": "Comic Kairakuten",
@@ -31801,31 +36047,45 @@ return [
   },
   {
     "tag_name": "Comic Megamilk",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+megamilk"
+    ]
   },
   {
     "tag_name": "Comic Megaplus",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+megaplus"
+    ]
   },
   {
     "tag_name": "Comic Megastore",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+megastore"
+    ]
   },
   {
     "tag_name": "Comic Megastore H",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+megastore+h"
+    ]
   },
   {
     "tag_name": "Megastore Comics",
-    "related_tags": []
+    "related_tags": [
+      "megastore+戯画"
+    ]
   },
   {
     "tag_name": "Comic MILF",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+熟女"
+    ]
   },
   {
     "tag_name": "Comic MoeMax",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+moemax"
+    ]
   },
   {
     "tag_name": "Comic Mujin",
@@ -31835,47 +36095,69 @@ return [
   },
   {
     "tag_name": "Comic PAPIPO",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+papipo"
+    ]
   },
   {
     "tag_name": "Comic Penguin Club",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+企鵝+会"
+    ]
   },
   {
     "tag_name": "Comic Potpourri Club",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+一緒くた+会"
+    ]
   },
   {
     "tag_name": "Comic Rin",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+rin"
+    ]
   },
   {
     "tag_name": "Comic Shitsurakuten",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+shitsurakuten"
+    ]
   },
   {
     "tag_name": "Comic Sigma",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+Σ"
+    ]
   },
   {
     "tag_name": "Comic Tenma",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+tenma"
+    ]
   },
   {
     "tag_name": "Comic Unreal",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+有りもしない"
+    ]
   },
   {
     "tag_name": "Comic XTC",
-    "related_tags": []
+    "related_tags": [
+      "御笑い+xtc"
+    ]
   },
   {
     "tag_name": "Comp H's",
-    "related_tags": []
+    "related_tags": [
+      "カンプ+h's"
+    ]
   },
   {
     "tag_name": "Cyber Comix",
-    "related_tags": []
+    "related_tags": [
+      "サイバー+comix"
+    ]
   },
   {
     "tag_name": "Dengeki Bunko",
@@ -31919,7 +36201,9 @@ return [
   },
   {
     "tag_name": "Fancy Frontier",
-    "related_tags": []
+    "related_tags": [
+      "空想+新開地"
+    ]
   },
   {
     "tag_name": "Feel Young",
@@ -31971,19 +36255,27 @@ return [
   },
   {
     "tag_name": "Girl's Avenue",
-    "related_tags": []
+    "related_tags": [
+      "girl's+通路"
+    ]
   },
   {
     "tag_name": "Megami Magazine Creators",
-    "related_tags": []
+    "related_tags": [
+      "megami+火薬庫+造り手"
+    ]
   },
   {
     "tag_name": "Megami Magazine Deluxe",
-    "related_tags": []
+    "related_tags": [
+      "megami+火薬庫+特製"
+    ]
   },
   {
     "tag_name": "Men's Young",
-    "related_tags": []
+    "related_tags": [
+      "男持ち+乙"
+    ]
   },
   {
     "tag_name": "Namaiki!",
@@ -32013,7 +36305,9 @@ return [
   },
   {
     "tag_name": "Shounen Champion",
-    "related_tags": []
+    "related_tags": [
+      "shounen+王"
+    ]
   },
   {
     "tag_name": "Shounen Jump",
@@ -32045,11 +36339,15 @@ return [
   },
   {
     "tag_name": "magazine cover",
-    "related_tags": []
+    "related_tags": [
+      "火薬庫+堰板"
+    ]
   },
   {
     "tag_name": "sprite",
-    "related_tags": []
+    "related_tags": [
+      "精"
+    ]
   },
   {
     "tag_name": "player 2",
@@ -32075,7 +36373,9 @@ return [
   },
   {
     "tag_name": "Visual novel",
-    "related_tags": []
+    "related_tags": [
+      "サウンド・ノベル"
+    ]
   },
   {
     "tag_name": "Eroge",
@@ -32083,19 +36383,27 @@ return [
   },
   {
     "tag_name": "character select",
-    "related_tags": []
+    "related_tags": [
+      "一字+セレクト"
+    ]
   },
   {
     "tag_name": "game over",
-    "related_tags": []
+    "related_tags": [
+      "ゲーム・オーバー"
+    ]
   },
   {
     "tag_name": "boss_fight",
-    "related_tags": []
+    "related_tags": [
+      "監督+軍"
+    ]
   },
   {
     "tag_name": "title screen",
-    "related_tags": []
+    "related_tags": [
+      "冠+映写幕"
+    ]
   },
   {
     "tag_name": "VS",
@@ -32109,7 +36417,9 @@ return [
   },
   {
     "tag_name": "Damage numbers",
-    "related_tags": []
+    "related_tags": [
+      "汚損+数"
+    ]
   },
   {
     "tag_name": "Hadouken",
@@ -32119,7 +36429,9 @@ return [
   },
   {
     "tag_name": "Health bar",
-    "related_tags": []
+    "related_tags": [
+      "安排+飲み屋"
+    ]
   },
   {
     "tag_name": "Hitbox",
@@ -32135,7 +36447,9 @@ return [
   },
   {
     "tag_name": "Power level",
-    "related_tags": []
+    "related_tags": [
+      "偉力+位"
+    ]
   },
   {
     "tag_name": "Shouryuuken",
@@ -32151,11 +36465,15 @@ return [
   },
   {
     "tag_name": "Special moves",
-    "related_tags": []
+    "related_tags": [
+      "異色+伎"
+    ]
   },
   {
     "tag_name": "Spinning Bird Kick",
-    "related_tags": []
+    "related_tags": [
+      "製糸+禽+一蹴り"
+    ]
   },
   {
     "tag_name": "Tatsumaki Senpuukyaku",
@@ -32187,7 +36505,9 @@ return [
   },
   {
     "tag_name": "Gust",
-    "related_tags": []
+    "related_tags": [
+      "一吹き"
+    ]
   },
   {
     "tag_name": "Idea Factory",
@@ -32243,7 +36563,9 @@ return [
   },
   {
     "tag_name": "Square Enix",
-    "related_tags": []
+    "related_tags": [
+      "角+enix"
+    ]
   },
   {
     "tag_name": "Sunsoft",
@@ -32259,19 +36581,27 @@ return [
   },
   {
     "tag_name": "Game cartridge",
-    "related_tags": []
+    "related_tags": [
+      "カセット"
+    ]
   },
   {
     "tag_name": "Famicom cartridge",
-    "related_tags": []
+    "related_tags": [
+      "famicom+薬きょう"
+    ]
   },
   {
     "tag_name": "Game Boy cartridge",
-    "related_tags": []
+    "related_tags": [
+      "一戦+一男+薬きょう"
+    ]
   },
   {
     "tag_name": "Super Famicom cartridge",
-    "related_tags": []
+    "related_tags": [
+      "超がつく+famicom+薬きょう"
+    ]
   },
   {
     "tag_name": "Game console",
@@ -32293,11 +36623,15 @@ return [
   },
   {
     "tag_name": "Dance pad",
-    "related_tags": []
+    "related_tags": [
+      "所作+宛"
+    ]
   },
   {
     "tag_name": "Dreamcast controller",
-    "related_tags": []
+    "related_tags": [
+      "dreamcast+監事"
+    ]
   },
   {
     "tag_name": "DualShock",
@@ -32305,19 +36639,27 @@ return [
   },
   {
     "tag_name": "Famicom gamepad",
-    "related_tags": []
+    "related_tags": [
+      "famicom+ゲームパッド"
+    ]
   },
   {
     "tag_name": "Gamecube controller",
-    "related_tags": []
+    "related_tags": [
+      "gamecube+監事"
+    ]
   },
   {
     "tag_name": "Gamepad",
-    "related_tags": []
+    "related_tags": [
+      "ゲームパッド"
+    ]
   },
   {
     "tag_name": "Joystick",
-    "related_tags": []
+    "related_tags": [
+      "操縦桿"
+    ]
   },
   {
     "tag_name": "Kinect",
@@ -32329,27 +36671,39 @@ return [
   },
   {
     "tag_name": "Nintendo Switch Pro controller",
-    "related_tags": []
+    "related_tags": [
+      "nintendo+開閉器+プロ選手+監事"
+    ]
   },
   {
     "tag_name": "Playstation controller",
-    "related_tags": []
+    "related_tags": [
+      "playstation+監事"
+    ]
   },
   {
     "tag_name": "Playstation Move",
-    "related_tags": []
+    "related_tags": [
+      "playstation+伎"
+    ]
   },
   {
     "tag_name": "Super Famicom gamepad",
-    "related_tags": []
+    "related_tags": [
+      "超がつく+famicom+ゲームパッド"
+    ]
   },
   {
     "tag_name": "Wii Balance Board",
-    "related_tags": []
+    "related_tags": [
+      "wii+乙張+委員会"
+    ]
   },
   {
     "tag_name": "Wii Racing Wheel",
-    "related_tags": []
+    "related_tags": [
+      "wii+ばくばく+回し車"
+    ]
   },
   {
     "tag_name": "Wii Remote",
@@ -32359,11 +36713,15 @@ return [
   },
   {
     "tag_name": "Wii U gamepad",
-    "related_tags": []
+    "related_tags": [
+      "wii+u+ゲームパッド"
+    ]
   },
   {
     "tag_name": "Xbox controller",
-    "related_tags": []
+    "related_tags": [
+      "xbox+監事"
+    ]
   },
   {
     "tag_name": "Handheld game console",
@@ -32379,11 +36737,15 @@ return [
   },
   {
     "tag_name": "Atari Jaguar",
-    "related_tags": []
+    "related_tags": [
+      "atari+アメリカ豹"
+    ]
   },
   {
     "tag_name": "Atari Lynx",
-    "related_tags": []
+    "related_tags": [
+      "atari+リンクス"
+    ]
   },
   {
     "tag_name": "Google Stadia",
@@ -32406,7 +36768,7 @@ return [
   {
     "tag_name": "Xbox One",
     "related_tags": [
-      "XBOX-ONE"
+      "XboxOne"
     ]
   },
   {
@@ -32429,7 +36791,9 @@ return [
   },
   {
     "tag_name": "Famicom Disk System",
-    "related_tags": []
+    "related_tags": [
+      "famicom+円板+機関"
+    ]
   },
   {
     "tag_name": "Super Nintendo",
@@ -32481,7 +36845,9 @@ return [
   },
   {
     "tag_name": "Nintendo Switch Lite",
-    "related_tags": []
+    "related_tags": [
+      "nintendo+開閉器+lite"
+    ]
   },
   {
     "tag_name": "Game Boy",
@@ -32497,11 +36863,15 @@ return [
   },
   {
     "tag_name": "Game link cable",
-    "related_tags": []
+    "related_tags": [
+      "一戦+因み+索条"
+    ]
   },
   {
     "tag_name": "Game Boy Color",
-    "related_tags": []
+    "related_tags": [
+      "一戦+一男+艶"
+    ]
   },
   {
     "tag_name": "Game Boy Advance",
@@ -32511,11 +36881,15 @@ return [
   },
   {
     "tag_name": "Game Boy Advance SP",
-    "related_tags": []
+    "related_tags": [
+      "一戦+一男+繰り上げ+sp"
+    ]
   },
   {
     "tag_name": "Game Boy Micro",
-    "related_tags": []
+    "related_tags": [
+      "一戦+一男+狭域"
+    ]
   },
   {
     "tag_name": "Nintendo DS",
@@ -32563,15 +36937,21 @@ return [
   },
   {
     "tag_name": "Sega Game Gear",
-    "related_tags": []
+    "related_tags": [
+      "セガ+一戦+索具"
+    ]
   },
   {
     "tag_name": "Sega Master System",
-    "related_tags": []
+    "related_tags": [
+      "セガ+王+機関"
+    ]
   },
   {
     "tag_name": "Sega Mark III",
-    "related_tags": []
+    "related_tags": [
+      "セガ+印+iii"
+    ]
   },
   {
     "tag_name": "Sega Mega Drive",
@@ -32609,15 +36989,21 @@ return [
   },
   {
     "tag_name": "Neo Geo CD",
-    "related_tags": []
+    "related_tags": [
+      "地球近傍天体+geo+cd"
+    ]
   },
   {
     "tag_name": "Neo Geo Mini",
-    "related_tags": []
+    "related_tags": [
+      "地球近傍天体+geo+mini"
+    ]
   },
   {
     "tag_name": "Neo Geo Pocket Color",
-    "related_tags": []
+    "related_tags": [
+      "地球近傍天体+geo+衣嚢+艶"
+    ]
   },
   {
     "tag_name": "PlayStation 1",
@@ -32647,7 +37033,9 @@ return [
   },
   {
     "tag_name": "PlayStation Portable",
-    "related_tags": []
+    "related_tags": [
+      "playstation+可搬型"
+    ]
   },
   {
     "tag_name": "PlayStation Vita",
@@ -32667,15 +37055,21 @@ return [
   },
   {
     "tag_name": "flash",
-    "related_tags": []
+    "related_tags": [
+      "一閃"
+    ]
   },
   {
     "tag_name": "Flash game",
-    "related_tags": []
+    "related_tags": [
+      "一閃+一戦"
+    ]
   },
   {
     "tag_name": "Interactive",
-    "related_tags": []
+    "related_tags": [
+      "双方向"
+    ]
   },
   {
     "tag_name": "arthropod girl",
@@ -32685,17 +37079,21 @@ return [
   },
   {
     "tag_name": "arthropod boy",
-    "related_tags": []
+    "related_tags": [
+      "節足動物+一男"
+    ]
   },
   {
     "tag_name": "Apex Legends",
     "related_tags": [
-      "Apex_Legends"
+      "エーペックス"
     ]
   },
   {
     "tag_name": "Battlefield",
-    "related_tags": []
+    "related_tags": [
+      "軍の庭"
+    ]
   },
   {
     "tag_name": "Bioshock",
@@ -32755,11 +37153,15 @@ return [
   },
   {
     "tag_name": "Chex Quest",
-    "related_tags": []
+    "related_tags": [
+      "chex+探求"
+    ]
   },
   {
     "tag_name": "Duke Nukem",
-    "related_tags": []
+    "related_tags": [
+      "公+nukem"
+    ]
   },
   {
     "tag_name": "F.E.A.R.",
@@ -32767,7 +37169,9 @@ return [
   },
   {
     "tag_name": "Far Cry",
-    "related_tags": []
+    "related_tags": [
+      "遥か+一声"
+    ]
   },
   {
     "tag_name": "Goldeneye 007",
@@ -32787,7 +37191,9 @@ return [
   },
   {
     "tag_name": "Halo: Combat Evolved",
-    "related_tags": []
+    "related_tags": [
+      "halo:+実戦+evolved"
+    ]
   },
   {
     "tag_name": "Halo 2",
@@ -32799,7 +37205,9 @@ return [
   },
   {
     "tag_name": "Halo: Reach",
-    "related_tags": []
+    "related_tags": [
+      "halo:+懐"
+    ]
   },
   {
     "tag_name": "Halo 4",
@@ -32847,7 +37255,9 @@ return [
   },
   {
     "tag_name": "Serious Sam",
-    "related_tags": []
+    "related_tags": [
+      "肩がこる+地対空ミサイル"
+    ]
   },
   {
     "tag_name": "Team Fortress 2",
@@ -32873,7 +37283,9 @@ return [
   },
   {
     "tag_name": "Unreal",
-    "related_tags": []
+    "related_tags": [
+      "有りもしない"
+    ]
   },
   {
     "tag_name": "Valorant",
@@ -32905,7 +37317,9 @@ return [
   },
   {
     "tag_name": "Space Harrier",
-    "related_tags": []
+    "related_tags": [
+      "宇宙+harrier"
+    ]
   },
   {
     "tag_name": "Contra",
@@ -32961,7 +37375,9 @@ return [
   },
   {
     "tag_name": "Asteroids",
-    "related_tags": []
+    "related_tags": [
+      "海星"
+    ]
   },
   {
     "tag_name": "Axelay",
@@ -32995,7 +37411,9 @@ return [
   },
   {
     "tag_name": "Defender",
-    "related_tags": []
+    "related_tags": [
+      "弁護者"
+    ]
   },
   {
     "tag_name": "Dodonpachi",
@@ -33011,7 +37429,9 @@ return [
   },
   {
     "tag_name": "ESP Ra.De.",
-    "related_tags": []
+    "related_tags": [
+      "超感覚的知覚+ra.de."
+    ]
   },
   {
     "tag_name": "Espgaluda",
@@ -33065,12 +37485,14 @@ return [
   },
   {
     "tag_name": "Hellfire",
-    "related_tags": []
+    "related_tags": [
+      "業火"
+    ]
   },
   {
     "tag_name": "Hellsinker",
     "related_tags": [
-      "Hellsinker."
+      "ヘルシンカー"
     ]
   },
   {
@@ -33098,7 +37520,7 @@ return [
   {
     "tag_name": "R-Type",
     "related_tags": [
-      "R-TYPE"
+      "アール・タイプ"
     ]
   },
   {
@@ -33127,7 +37549,9 @@ return [
   },
   {
     "tag_name": "Sonic Wings",
-    "related_tags": []
+    "related_tags": [
+      "ソニック+羽交い"
+    ]
   },
   {
     "tag_name": "Space Invaders",
@@ -33143,7 +37567,9 @@ return [
   },
   {
     "tag_name": "Thunder Force",
-    "related_tags": []
+    "related_tags": [
+      "神+圧"
+    ]
   },
   {
     "tag_name": "Trigger Heart Exelica",
@@ -33153,7 +37579,9 @@ return [
   },
   {
     "tag_name": "Twilight Insanity",
-    "related_tags": []
+    "related_tags": [
+      "逢う魔が刻+狂い"
+    ]
   },
   {
     "tag_name": "Twinbee",
@@ -33215,7 +37643,9 @@ return [
   },
   {
     "tag_name": "Mass Effect",
-    "related_tags": []
+    "related_tags": [
+      "塊+為"
+    ]
   },
   {
     "tag_name": "Mass Effect 2",
@@ -33227,12 +37657,14 @@ return [
   },
   {
     "tag_name": "Mass Effect: Andromeda",
-    "related_tags": []
+    "related_tags": [
+      "塊+effect:+姫馬酔木"
+    ]
   },
   {
     "tag_name": "Max Payne",
     "related_tags": [
-      "Max_Payne"
+      "マックスペイン"
     ]
   },
   {
@@ -33250,16 +37682,20 @@ return [
   {
     "tag_name": "Spec Ops The Line",
     "related_tags": [
-      "SpecOps:TheLine"
+      "スペックオプスザ・ライン"
     ]
   },
   {
     "tag_name": "biting hair",
-    "related_tags": []
+    "related_tags": [
+      "辛らつ+一髪"
+    ]
   },
   {
     "tag_name": "eating hair",
-    "related_tags": []
+    "related_tags": [
+      "喫飯+一髪"
+    ]
   },
   {
     "tag_name": "grabbing another's hair",
@@ -33269,11 +37705,15 @@ return [
   },
   {
     "tag_name": "hairdressing",
-    "related_tags": []
+    "related_tags": [
+      "結髪"
+    ]
   },
   {
     "tag_name": "braiding hair",
-    "related_tags": []
+    "related_tags": [
+      "真田+一髪"
+    ]
   },
   {
     "tag_name": "cutting hair",
@@ -33283,35 +37723,51 @@ return [
   },
   {
     "tag_name": "cutting own hair",
-    "related_tags": []
+    "related_tags": [
+      "開削+自家+一髪"
+    ]
   },
   {
     "tag_name": "brushing hair",
-    "related_tags": []
+    "related_tags": [
+      "ブラシ掛け+一髪"
+    ]
   },
   {
     "tag_name": "brushing another's hair",
-    "related_tags": []
+    "related_tags": [
+      "ブラシ掛け+another's+一髪"
+    ]
   },
   {
     "tag_name": "brushing own hair",
-    "related_tags": []
+    "related_tags": [
+      "ブラシ掛け+自家+一髪"
+    ]
   },
   {
     "tag_name": "heartbreak haircut",
-    "related_tags": []
+    "related_tags": [
+      "傷心+刈り込み"
+    ]
   },
   {
     "tag_name": "tying hair",
-    "related_tags": []
+    "related_tags": [
+      "括り+一髪"
+    ]
   },
   {
     "tag_name": "hand in own hair",
-    "related_tags": []
+    "related_tags": [
+      "一臂+in+自家+一髪"
+    ]
   },
   {
     "tag_name": "adjusting hair",
-    "related_tags": []
+    "related_tags": [
+      "adjusting+一髪"
+    ]
   },
   {
     "tag_name": "bunching hair",
@@ -33321,7 +37777,9 @@ return [
   },
   {
     "tag_name": "hair flip",
-    "related_tags": []
+    "related_tags": [
+      "一髪+フリップ"
+    ]
   },
   {
     "tag_name": "hair tucking",
@@ -33331,35 +37789,51 @@ return [
   },
   {
     "tag_name": "holding hair",
-    "related_tags": []
+    "related_tags": [
+      "握把+一髪"
+    ]
   },
   {
     "tag_name": "holding another's hair",
-    "related_tags": []
+    "related_tags": [
+      "握把+another's+一髪"
+    ]
   },
   {
     "tag_name": "ruffling hair",
-    "related_tags": []
+    "related_tags": [
+      "ruffling+一髪"
+    ]
   },
   {
     "tag_name": "hair twirling",
-    "related_tags": []
+    "related_tags": [
+      "一髪+捻じれ"
+    ]
   },
   {
     "tag_name": "hair sex",
-    "related_tags": []
+    "related_tags": [
+      "一髪+営み"
+    ]
   },
   {
     "tag_name": "kissing hair",
-    "related_tags": []
+    "related_tags": [
+      "口角力+一髪"
+    ]
   },
   {
     "tag_name": "smelling hair",
-    "related_tags": []
+    "related_tags": [
+      "臭い+一髪"
+    ]
   },
   {
     "tag_name": "whipping hair",
-    "related_tags": []
+    "related_tags": [
+      "撹拌+一髪"
+    ]
   },
   {
     "tag_name": "hair brush",
@@ -33375,15 +37849,21 @@ return [
   },
   {
     "tag_name": "shampoo",
-    "related_tags": []
+    "related_tags": [
+      "洗髪剤"
+    ]
   },
   {
     "tag_name": "arrow through hair",
-    "related_tags": []
+    "related_tags": [
+      "射+越し+一髪"
+    ]
   },
   {
     "tag_name": "bun cover",
-    "related_tags": []
+    "related_tags": [
+      "バン+堰板"
+    ]
   },
   {
     "tag_name": "hairpods",
@@ -33403,11 +37883,15 @@ return [
   },
   {
     "tag_name": "hair bell",
-    "related_tags": []
+    "related_tags": [
+      "一髪+ベル"
+    ]
   },
   {
     "tag_name": "hair tubes",
-    "related_tags": []
+    "related_tags": [
+      "一髪+桶"
+    ]
   },
   {
     "tag_name": "hair tie",
@@ -33417,11 +37901,15 @@ return [
   },
   {
     "tag_name": "hair weapon",
-    "related_tags": []
+    "related_tags": [
+      "一髪+干戈"
+    ]
   },
   {
     "tag_name": "knife in hair",
-    "related_tags": []
+    "related_tags": [
+      "出刃+in+一髪"
+    ]
   },
   {
     "tag_name": "scrunchie",
@@ -33431,7 +37919,9 @@ return [
   },
   {
     "tag_name": "wig",
-    "related_tags": []
+    "related_tags": [
+      "仮髪"
+    ]
   },
   {
     "tag_name": "facial hair",
@@ -33441,7 +37931,9 @@ return [
   },
   {
     "tag_name": "bearded girl",
-    "related_tags": []
+    "related_tags": [
+      "髭もじゃ+姉ちゃん"
+    ]
   },
   {
     "tag_name": "goatee",
@@ -33451,7 +37943,9 @@ return [
   },
   {
     "tag_name": "fake mustache",
-    "related_tags": []
+    "related_tags": [
+      "贋+口ひげ"
+    ]
   },
   {
     "tag_name": "stubble",
@@ -33461,87 +37955,129 @@ return [
   },
   {
     "tag_name": "Cloud Hair",
-    "related_tags": []
+    "related_tags": [
+      "雲+一髪"
+    ]
   },
   {
     "tag_name": "Chocolate Hair",
-    "related_tags": []
+    "related_tags": [
+      "チョコ+一髪"
+    ]
   },
   {
     "tag_name": "Crystal Hair",
-    "related_tags": []
+    "related_tags": [
+      "玉瑛+一髪"
+    ]
   },
   {
     "tag_name": "Energy Hair",
-    "related_tags": []
+    "related_tags": [
+      "威勢+一髪"
+    ]
   },
   {
     "tag_name": "Feather Hair",
-    "related_tags": []
+    "related_tags": [
+      "羽+一髪"
+    ]
   },
   {
     "tag_name": "Glowing Hair",
-    "related_tags": []
+    "related_tags": [
+      "赫奕+一髪"
+    ]
   },
   {
     "tag_name": "Intestine Hair",
-    "related_tags": []
+    "related_tags": [
+      "臓器+一髪"
+    ]
   },
   {
     "tag_name": "Liquid Hair",
-    "related_tags": []
+    "related_tags": [
+      "液+一髪"
+    ]
   },
   {
     "tag_name": "Mechanical Hair",
-    "related_tags": []
+    "related_tags": [
+      "機械的+一髪"
+    ]
   },
   {
     "tag_name": "Plant Hair",
-    "related_tags": []
+    "related_tags": [
+      "株+一髪"
+    ]
   },
   {
     "tag_name": "Prehensile hair",
-    "related_tags": []
+    "related_tags": [
+      "prehensile+一髪"
+    ]
   },
   {
     "tag_name": "tentacle hair",
-    "related_tags": []
+    "related_tags": [
+      "触手+一髪"
+    ]
   },
   {
     "tag_name": "living hair",
-    "related_tags": []
+    "related_tags": [
+      "衣食+一髪"
+    ]
   },
   {
     "tag_name": "Snake Hair",
-    "related_tags": []
+    "related_tags": [
+      "蛇+一髪"
+    ]
   },
   {
     "tag_name": "Starry Hair",
-    "related_tags": []
+    "related_tags": [
+      "starry+一髪"
+    ]
   },
   {
     "tag_name": "blood in hair",
-    "related_tags": []
+    "related_tags": [
+      "血+in+一髪"
+    ]
   },
   {
     "tag_name": "burnt hair",
-    "related_tags": []
+    "related_tags": [
+      "burnt+一髪"
+    ]
   },
   {
     "tag_name": "detached hair",
-    "related_tags": []
+    "related_tags": [
+      "淡々+一髪"
+    ]
   },
   {
     "tag_name": "severed hair",
-    "related_tags": []
+    "related_tags": [
+      "苛酷+一髪"
+    ]
   },
   {
     "tag_name": "floating hair",
-    "related_tags": []
+    "related_tags": [
+      "浮き+一髪"
+    ]
   },
   {
     "tag_name": "hair spread out",
-    "related_tags": []
+    "related_tags": [
+      "一髪+拡がり+死"
+    ]
   },
   {
     "tag_name": "wet hair",
@@ -33551,23 +38087,33 @@ return [
   },
   {
     "tag_name": "grill",
-    "related_tags": []
+    "related_tags": [
+      "焼き肉"
+    ]
   },
   {
     "tag_name": "barbecue_(activity)",
-    "related_tags": []
+    "related_tags": [
+      "バーベキュー+(activity)"
+    ]
   },
   {
     "tag_name": "bbq_(activity)",
-    "related_tags": []
+    "related_tags": [
+      "バーベキュー+(activity)"
+    ]
   },
   {
     "tag_name": "ear focus",
-    "related_tags": []
+    "related_tags": [
+      "耳+中心"
+    ]
   },
   {
     "tag_name": "face",
-    "related_tags": []
+    "related_tags": [
+      "逢着"
+    ]
   },
   {
     "tag_name": "forehead",
@@ -33577,7 +38123,9 @@ return [
   },
   {
     "tag_name": "forehead mark",
-    "related_tags": []
+    "related_tags": [
+      "額+印"
+    ]
   },
   {
     "tag_name": "beard",
@@ -33629,7 +38177,9 @@ return [
   },
   {
     "tag_name": "glands of montgomery",
-    "related_tags": []
+    "related_tags": [
+      "腺+of+montgomery"
+    ]
   },
   {
     "tag_name": "armpits",
@@ -33675,7 +38225,9 @@ return [
   },
   {
     "tag_name": "long neck",
-    "related_tags": []
+    "related_tags": [
+      "永+雁首"
+    ]
   },
   {
     "tag_name": "nipples",
@@ -33697,7 +38249,9 @@ return [
   },
   {
     "tag_name": "no nipples",
-    "related_tags": []
+    "related_tags": [
+      "no+乳首"
+    ]
   },
   {
     "tag_name": "puffy nipples",
@@ -33707,7 +38261,9 @@ return [
   },
   {
     "tag_name": "small nipples",
-    "related_tags": []
+    "related_tags": [
+      "狭あい+乳首"
+    ]
   },
   {
     "tag_name": "pectorals",
@@ -33735,7 +38291,9 @@ return [
   },
   {
     "tag_name": "cloaca",
-    "related_tags": []
+    "related_tags": [
+      "総排出腔"
+    ]
   },
   {
     "tag_name": "dimples of venus",
@@ -33751,7 +38309,9 @@ return [
   },
   {
     "tag_name": "wide hips",
-    "related_tags": []
+    "related_tags": [
+      "宏い+後"
+    ]
   },
   {
     "tag_name": "intestines",
@@ -33761,7 +38321,9 @@ return [
   },
   {
     "tag_name": "liver",
-    "related_tags": []
+    "related_tags": [
+      "肝"
+    ]
   },
   {
     "tag_name": "narrow waist",
@@ -33789,11 +38351,15 @@ return [
   },
   {
     "tag_name": "dog penis",
-    "related_tags": []
+    "related_tags": [
+      "わん公+一物"
+    ]
   },
   {
     "tag_name": "dolphin penis",
-    "related_tags": []
+    "related_tags": [
+      "係柱+一物"
+    ]
   },
   {
     "tag_name": "horse penis",
@@ -33809,7 +38375,9 @@ return [
   },
   {
     "tag_name": "pig penis",
-    "related_tags": []
+    "related_tags": [
+      "鋳塊+一物"
+    ]
   },
   {
     "tag_name": "snake penis",
@@ -33819,7 +38387,9 @@ return [
   },
   {
     "tag_name": "spiked penis",
-    "related_tags": []
+    "related_tags": [
+      "花穂+一物"
+    ]
   },
   {
     "tag_name": "bulge",
@@ -33841,7 +38411,9 @@ return [
   },
   {
     "tag_name": "disembodied penis",
-    "related_tags": []
+    "related_tags": [
+      "disembodied+一物"
+    ]
   },
   {
     "tag_name": "erection",
@@ -33869,7 +38441,9 @@ return [
   },
   {
     "tag_name": "flaccid",
-    "related_tags": []
+    "related_tags": [
+      "ぐんなり"
+    ]
   },
   {
     "tag_name": "gigantic penis",
@@ -33897,11 +38471,15 @@ return [
   },
   {
     "tag_name": "small penis",
-    "related_tags": []
+    "related_tags": [
+      "粗ちん"
+    ]
   },
   {
     "tag_name": "veiny penis",
-    "related_tags": []
+    "related_tags": [
+      "veiny+一物"
+    ]
   },
   {
     "tag_name": "perineum",
@@ -33951,7 +38529,9 @@ return [
   },
   {
     "tag_name": "obliques",
-    "related_tags": []
+    "related_tags": [
+      "筋違い"
+    ]
   },
   {
     "tag_name": "stomach_(organ)",
@@ -33967,11 +38547,15 @@ return [
   },
   {
     "tag_name": "covered testicles",
-    "related_tags": []
+    "related_tags": [
+      "有蓋+陰核"
+    ]
   },
   {
     "tag_name": "no testicles",
-    "related_tags": []
+    "related_tags": [
+      "no+陰核"
+    ]
   },
   {
     "tag_name": "uterus",
@@ -33987,7 +38571,9 @@ return [
   },
   {
     "tag_name": "thick arms",
-    "related_tags": []
+    "related_tags": [
+      "欝蒼+干戈"
+    ]
   },
   {
     "tag_name": "biceps",
@@ -34003,7 +38589,9 @@ return [
   },
   {
     "tag_name": "bad feet",
-    "related_tags": []
+    "related_tags": [
+      "悪い+フィート"
+    ]
   },
   {
     "tag_name": "barefoot",
@@ -34025,7 +38613,9 @@ return [
   },
   {
     "tag_name": "hands",
-    "related_tags": []
+    "related_tags": [
+      "御手手"
+    ]
   },
   {
     "tag_name": "palms",
@@ -34035,7 +38625,9 @@ return [
   },
   {
     "tag_name": "knees",
-    "related_tags": []
+    "related_tags": [
+      "小膝"
+    ]
   },
   {
     "tag_name": "kneepits",
@@ -34051,11 +38643,15 @@ return [
   },
   {
     "tag_name": "long legs",
-    "related_tags": []
+    "related_tags": [
+      "永+下脚"
+    ]
   },
   {
     "tag_name": "slim legs",
-    "related_tags": []
+    "related_tags": [
+      "繊細+下脚"
+    ]
   },
   {
     "tag_name": "tentacles",
@@ -34071,7 +38667,9 @@ return [
   },
   {
     "tag_name": "groin tendon",
-    "related_tags": []
+    "related_tags": [
+      "股+筋"
+    ]
   },
   {
     "tag_name": "thick thighs",
@@ -34087,31 +38685,45 @@ return [
   },
   {
     "tag_name": "ninja toes",
-    "related_tags": []
+    "related_tags": [
+      "草+爪先"
+    ]
   },
   {
     "tag_name": "arm around neck",
-    "related_tags": []
+    "related_tags": [
+      "腕+見当+雁首"
+    ]
   },
   {
     "tag_name": "arms around neck",
-    "related_tags": []
+    "related_tags": [
+      "干戈+見当+雁首"
+    ]
   },
   {
     "tag_name": "hand on another's neck",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+another's+雁首"
+    ]
   },
   {
     "tag_name": "hand on own neck",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+自家+雁首"
+    ]
   },
   {
     "tag_name": "neck biting",
-    "related_tags": []
+    "related_tags": [
+      "雁首+辛らつ"
+    ]
   },
   {
     "tag_name": "kissing neck",
-    "related_tags": []
+    "related_tags": [
+      "口角力+雁首"
+    ]
   },
   {
     "tag_name": "bolo tie",
@@ -34121,11 +38733,15 @@ return [
   },
   {
     "tag_name": "ribbon choker",
-    "related_tags": []
+    "related_tags": [
+      "リボン+頚飾り"
+    ]
   },
   {
     "tag_name": "neck bell",
-    "related_tags": []
+    "related_tags": [
+      "雁首+ベル"
+    ]
   },
   {
     "tag_name": "animal collar",
@@ -34135,11 +38751,15 @@ return [
   },
   {
     "tag_name": "spiked collar",
-    "related_tags": []
+    "related_tags": [
+      "花穂+胸ぐら"
+    ]
   },
   {
     "tag_name": "studded collar",
-    "related_tags": []
+    "related_tags": [
+      "studded+胸ぐら"
+    ]
   },
   {
     "tag_name": "pet cone",
@@ -34149,11 +38769,15 @@ return [
   },
   {
     "tag_name": "goggles around neck",
-    "related_tags": []
+    "related_tags": [
+      "ゴーグル+見当+雁首"
+    ]
   },
   {
     "tag_name": "headphones around neck",
-    "related_tags": []
+    "related_tags": [
+      "ヘッドフォーン+見当+雁首"
+    ]
   },
   {
     "tag_name": "jabot",
@@ -34169,11 +38793,15 @@ return [
   },
   {
     "tag_name": "chain necklace",
-    "related_tags": []
+    "related_tags": [
+      "鎖+頚飾り"
+    ]
   },
   {
     "tag_name": "friendship charm",
-    "related_tags": []
+    "related_tags": [
+      "義理合い+愛きょう"
+    ]
   },
   {
     "tag_name": "pearl necklace",
@@ -34189,7 +38817,9 @@ return [
   },
   {
     "tag_name": "amulet",
-    "related_tags": []
+    "related_tags": [
+      "悪魔よけ"
+    ]
   },
   {
     "tag_name": "locket",
@@ -34205,7 +38835,9 @@ return [
   },
   {
     "tag_name": "neck tassel",
-    "related_tags": []
+    "related_tags": [
+      "雁首+総"
+    ]
   },
   {
     "tag_name": "necktie on head",
@@ -34215,91 +38847,135 @@ return [
   },
   {
     "tag_name": "necktie removed",
-    "related_tags": []
+    "related_tags": [
+      "襟飾り+removed"
+    ]
   },
   {
     "tag_name": "cross tie",
-    "related_tags": []
+    "related_tags": [
+      "交雑種+因縁"
+    ]
   },
   {
     "tag_name": "aqua neckwear",
-    "related_tags": []
+    "related_tags": [
+      "水色+頚巻"
+    ]
   },
   {
     "tag_name": "black neckwear",
-    "related_tags": []
+    "related_tags": [
+      "暗然+頚巻"
+    ]
   },
   {
     "tag_name": "blue neckwear",
-    "related_tags": []
+    "related_tags": [
+      "重い+頚巻"
+    ]
   },
   {
     "tag_name": "brown neckwear",
-    "related_tags": []
+    "related_tags": [
+      "赤銅色+頚巻"
+    ]
   },
   {
     "tag_name": "green neckwear",
-    "related_tags": []
+    "related_tags": [
+      "産+頚巻"
+    ]
   },
   {
     "tag_name": "grey neckwear",
-    "related_tags": []
+    "related_tags": [
+      "灰色+頚巻"
+    ]
   },
   {
     "tag_name": "orange neckwear",
-    "related_tags": []
+    "related_tags": [
+      "炎色+頚巻"
+    ]
   },
   {
     "tag_name": "pink neckwear",
-    "related_tags": []
+    "related_tags": [
+      "退紅+頚巻"
+    ]
   },
   {
     "tag_name": "purple neckwear",
-    "related_tags": []
+    "related_tags": [
+      "此の糸+頚巻"
+    ]
   },
   {
     "tag_name": "red neckwear",
-    "related_tags": []
+    "related_tags": [
+      "赭い+頚巻"
+    ]
   },
   {
     "tag_name": "white neckwear",
-    "related_tags": []
+    "related_tags": [
+      "白+頚巻"
+    ]
   },
   {
     "tag_name": "yellow neckwear",
-    "related_tags": []
+    "related_tags": [
+      "黄+頚巻"
+    ]
   },
   {
     "tag_name": "checkered neckwear",
-    "related_tags": []
+    "related_tags": [
+      "チェック+頚巻"
+    ]
   },
   {
     "tag_name": "plaid neckwear",
-    "related_tags": []
+    "related_tags": [
+      "格子じま+頚巻"
+    ]
   },
   {
     "tag_name": "striped neckwear",
-    "related_tags": []
+    "related_tags": [
+      "縞々+頚巻"
+    ]
   },
   {
     "tag_name": "adjusting collar",
-    "related_tags": []
+    "related_tags": [
+      "adjusting+胸ぐら"
+    ]
   },
   {
     "tag_name": "detached collar",
-    "related_tags": []
+    "related_tags": [
+      "淡々+胸ぐら"
+    ]
   },
   {
     "tag_name": "fur collar",
-    "related_tags": []
+    "related_tags": [
+      "毛革+胸ぐら"
+    ]
   },
   {
     "tag_name": "high collar",
-    "related_tags": []
+    "related_tags": [
+      "ハイ・カラー"
+    ]
   },
   {
     "tag_name": "popped collar",
-    "related_tags": []
+    "related_tags": [
+      "popped+胸ぐら"
+    ]
   },
   {
     "tag_name": "sailor collar",
@@ -34351,16 +39027,20 @@ return [
   },
   {
     "tag_name": "Dead Spike",
-    "related_tags": []
+    "related_tags": [
+      "死に+花穂"
+    ]
   },
   {
     "tag_name": "Devoured by Darkness",
-    "related_tags": []
+    "related_tags": [
+      "devoured+by+暗がり"
+    ]
   },
   {
     "tag_name": "F-Zero",
     "related_tags": [
-      "F-ZERO"
+      "エフゼロ"
     ]
   },
   {
@@ -34371,7 +39051,9 @@ return [
   },
   {
     "tag_name": "Falcon Punch",
-    "related_tags": []
+    "related_tags": [
+      "連+一発"
+    ]
   },
   {
     "tag_name": "G Gundam",
@@ -34393,7 +39075,9 @@ return [
   },
   {
     "tag_name": "Shining Finger",
-    "related_tags": []
+    "related_tags": [
+      "映射+一指"
+    ]
   },
   {
     "tag_name": "God Gundam",
@@ -34403,7 +39087,9 @@ return [
   },
   {
     "tag_name": "Bakunetsu God Finger",
-    "related_tags": []
+    "related_tags": [
+      "bakunetsu+天父+一指"
+    ]
   },
   {
     "tag_name": "Kenshiro",
@@ -34431,7 +39117,9 @@ return [
   },
   {
     "tag_name": "Starlight Breaker",
-    "related_tags": []
+    "related_tags": [
+      "星影+砕け波"
+    ]
   },
   {
     "tag_name": "Sakura Kyouko",
@@ -34527,11 +39215,15 @@ return [
   },
   {
     "tag_name": "Crescent",
-    "related_tags": []
+    "related_tags": [
+      "彎月"
+    ]
   },
   {
     "tag_name": "Heptagon",
-    "related_tags": []
+    "related_tags": [
+      "七角形"
+    ]
   },
   {
     "tag_name": "Hexagon",
@@ -34541,19 +39233,27 @@ return [
   },
   {
     "tag_name": "Octagon",
-    "related_tags": []
+    "related_tags": [
+      "八角"
+    ]
   },
   {
     "tag_name": "Pentagon",
-    "related_tags": []
+    "related_tags": [
+      "五稜堡"
+    ]
   },
   {
     "tag_name": "Rectangle",
-    "related_tags": []
+    "related_tags": [
+      "角型"
+    ]
   },
   {
     "tag_name": "Rhombus",
-    "related_tags": []
+    "related_tags": [
+      "斜方形"
+    ]
   },
   {
     "tag_name": "Square",
@@ -34569,7 +39269,9 @@ return [
   },
   {
     "tag_name": "Spoken star",
-    "related_tags": []
+    "related_tags": [
+      "口頭+巨擘"
+    ]
   },
   {
     "tag_name": "Pentagram",
@@ -34605,7 +39307,9 @@ return [
   },
   {
     "tag_name": "Star of Lakshmi",
-    "related_tags": []
+    "related_tags": [
+      "巨擘+of+lakshmi"
+    ]
   },
   {
     "tag_name": "Enneagram",
@@ -34627,11 +39331,15 @@ return [
   },
   {
     "tag_name": "Cone",
-    "related_tags": []
+    "related_tags": [
+      "円すい"
+    ]
   },
   {
     "tag_name": "Tetrahedron",
-    "related_tags": []
+    "related_tags": [
+      "四面体"
+    ]
   },
   {
     "tag_name": "Cube",
@@ -34647,7 +39355,9 @@ return [
   },
   {
     "tag_name": "Dodecahedron",
-    "related_tags": []
+    "related_tags": [
+      "十二面体"
+    ]
   },
   {
     "tag_name": "Icosahedron",
@@ -34657,7 +39367,9 @@ return [
   },
   {
     "tag_name": "Prism",
-    "related_tags": []
+    "related_tags": [
+      "角柱"
+    ]
   },
   {
     "tag_name": "Pyramid (geometry)",
@@ -34685,7 +39397,9 @@ return [
   },
   {
     "tag_name": "Hypercube",
-    "related_tags": []
+    "related_tags": [
+      "超立方体"
+    ]
   },
   {
     "tag_name": "Mobius strip",
@@ -34695,7 +39409,9 @@ return [
   },
   {
     "tag_name": "Klein bottle",
-    "related_tags": []
+    "related_tags": [
+      "クラインの壺"
+    ]
   },
   {
     "tag_name": "^^^",
@@ -34711,39 +39427,57 @@ return [
   },
   {
     "tag_name": "Spoken anger vein",
-    "related_tags": []
+    "related_tags": [
+      "口頭+向かっ腹+一脈"
+    ]
   },
   {
     "tag_name": "Spoken blush",
-    "related_tags": []
+    "related_tags": [
+      "口頭+紅潮"
+    ]
   },
   {
     "tag_name": "Arrow through heart",
-    "related_tags": []
+    "related_tags": [
+      "射+越し+意気"
+    ]
   },
   {
     "tag_name": "Broken heart",
-    "related_tags": []
+    "related_tags": [
+      "失意"
+    ]
   },
   {
     "tag_name": "Spoken heart",
-    "related_tags": []
+    "related_tags": [
+      "口頭+意気"
+    ]
   },
   {
     "tag_name": "Notice lines",
-    "related_tags": []
+    "related_tags": [
+      "案内+一行"
+    ]
   },
   {
     "tag_name": "Shout lines",
-    "related_tags": []
+    "related_tags": [
+      "一声+一行"
+    ]
   },
   {
     "tag_name": "Squiggle",
-    "related_tags": []
+    "related_tags": [
+      "(不満な感情を表す手書き線)"
+    ]
   },
   {
     "tag_name": "Spoken squiggle",
-    "related_tags": []
+    "related_tags": [
+      "口頭+(不満な感情を表す手書き線)"
+    ]
   },
   {
     "tag_name": "Symbol BA-90",
@@ -34759,7 +39493,9 @@ return [
   },
   {
     "tag_name": "Spoken sweatdrop",
-    "related_tags": []
+    "related_tags": [
+      "口頭+sweatdrop"
+    ]
   },
   {
     "tag_name": "Flying sweatdrops",
@@ -34775,7 +39511,9 @@ return [
   },
   {
     "tag_name": "Flat sign",
-    "related_tags": []
+    "related_tags": [
+      "横に+印"
+    ]
   },
   {
     "tag_name": "Musical note",
@@ -34785,15 +39523,21 @@ return [
   },
   {
     "tag_name": "Spoken musical note",
-    "related_tags": []
+    "related_tags": [
+      "口頭+音楽的+一節"
+    ]
   },
   {
     "tag_name": "Natural sign",
-    "related_tags": []
+    "related_tags": [
+      "御尤も+印"
+    ]
   },
   {
     "tag_name": "Sharp sign",
-    "related_tags": []
+    "related_tags": [
+      "悪らつ+印"
+    ]
   },
   {
     "tag_name": "Staff (music)",
@@ -34843,7 +39587,9 @@ return [
   },
   {
     "tag_name": "spoken exclamation mark",
-    "related_tags": []
+    "related_tags": [
+      "口頭+詠嘆+印"
+    ]
   },
   {
     "tag_name": "!?",
@@ -34851,7 +39597,9 @@ return [
   },
   {
     "tag_name": "spoken interrobang",
-    "related_tags": []
+    "related_tags": [
+      "口頭+interrobang"
+    ]
   },
   {
     "tag_name": "?",
@@ -34861,7 +39609,9 @@ return [
   },
   {
     "tag_name": "spoken question mark",
-    "related_tags": []
+    "related_tags": [
+      "口頭+課題+印"
+    ]
   },
   {
     "tag_name": "...",
@@ -34869,7 +39619,9 @@ return [
   },
   {
     "tag_name": "spoken ellipsis",
-    "related_tags": []
+    "related_tags": [
+      "口頭+省略記号"
+    ]
   },
   {
     "tag_name": "@",
@@ -34877,15 +39629,21 @@ return [
   },
   {
     "tag_name": "Equal sign",
-    "related_tags": []
+    "related_tags": [
+      "一様+印"
+    ]
   },
   {
     "tag_name": "Infinity",
-    "related_tags": []
+    "related_tags": [
+      "限り無し"
+    ]
   },
   {
     "tag_name": "Kanji",
-    "related_tags": []
+    "related_tags": [
+      "漢字"
+    ]
   },
   {
     "tag_name": "Dao Fu",
@@ -34895,11 +39653,15 @@ return [
   },
   {
     "tag_name": "Heaven kanji",
-    "related_tags": []
+    "related_tags": [
+      "雲の上+漢字"
+    ]
   },
   {
     "tag_name": "Minus sign",
-    "related_tags": []
+    "related_tags": [
+      "減号"
+    ]
   },
   {
     "tag_name": "Number",
@@ -34909,7 +39671,9 @@ return [
   },
   {
     "tag_name": "Omega symbol",
-    "related_tags": []
+    "related_tags": [
+      "Ω+印"
+    ]
   },
   {
     "tag_name": "Pi (math)",
@@ -34917,12 +39681,14 @@ return [
   },
   {
     "tag_name": "Runes",
-    "related_tags": []
+    "related_tags": [
+      "ルーン文字"
+    ]
   },
   {
     "tag_name": "Sigrunen",
     "related_tags": [
-      "SS-Runen"
+      "ᛋᛋ"
     ]
   },
   {
@@ -34931,27 +39697,39 @@ return [
   },
   {
     "tag_name": "Dollar sign",
-    "related_tags": []
+    "related_tags": [
+      "ダラー+印"
+    ]
   },
   {
     "tag_name": "Euro sign",
-    "related_tags": []
+    "related_tags": [
+      "euro+印"
+    ]
   },
   {
     "tag_name": "Franc sign",
-    "related_tags": []
+    "related_tags": [
+      "franc+印"
+    ]
   },
   {
     "tag_name": "Pound sign",
-    "related_tags": []
+    "related_tags": [
+      "番号記号"
+    ]
   },
   {
     "tag_name": "Ruble sign",
-    "related_tags": []
+    "related_tags": [
+      "ruble+印"
+    ]
   },
   {
     "tag_name": "Won sign",
-    "related_tags": []
+    "related_tags": [
+      "won+印"
+    ]
   },
   {
     "tag_name": "Yen sign",
@@ -34971,11 +39749,15 @@ return [
   },
   {
     "tag_name": "Anarchy symbol",
-    "related_tags": []
+    "related_tags": [
+      "無警察+印"
+    ]
   },
   {
     "tag_name": "Ankh",
-    "related_tags": []
+    "related_tags": [
+      "アンク"
+    ]
   },
   {
     "tag_name": "Ars Goetia",
@@ -34985,7 +39767,9 @@ return [
   },
   {
     "tag_name": "Biohazard symbol",
-    "related_tags": []
+    "related_tags": [
+      "バイオハザード+印"
+    ]
   },
   {
     "tag_name": "Black Sun",
@@ -35025,7 +39809,9 @@ return [
   },
   {
     "tag_name": "Crucifix",
-    "related_tags": []
+    "related_tags": [
+      "十字架像"
+    ]
   },
   {
     "tag_name": "Greek cross",
@@ -35041,11 +39827,15 @@ return [
   },
   {
     "tag_name": "Latin cross",
-    "related_tags": []
+    "related_tags": [
+      "羅典+交雑種"
+    ]
   },
   {
     "tag_name": "Maltese cross",
-    "related_tags": []
+    "related_tags": [
+      "maltese+交雑種"
+    ]
   },
   {
     "tag_name": "Orthodox cross",
@@ -35055,7 +39845,9 @@ return [
   },
   {
     "tag_name": "Plus sign",
-    "related_tags": []
+    "related_tags": [
+      "加号"
+    ]
   },
   {
     "tag_name": "Fasces",
@@ -35063,15 +39855,21 @@ return [
   },
   {
     "tag_name": "Fragile Symbol",
-    "related_tags": []
+    "related_tags": [
+      "柔+印"
+    ]
   },
   {
     "tag_name": "Lightning bolt symbol",
-    "related_tags": []
+    "related_tags": [
+      "稲光+心張り棒+印"
+    ]
   },
   {
     "tag_name": "No symbol",
-    "related_tags": []
+    "related_tags": [
+      "no+印"
+    ]
   },
   {
     "tag_name": "No entry sign",
@@ -35081,11 +39879,15 @@ return [
   },
   {
     "tag_name": "No smoking",
-    "related_tags": []
+    "related_tags": [
+      "ノー・スモーキング"
+    ]
   },
   {
     "tag_name": "Onsen symbol",
-    "related_tags": []
+    "related_tags": [
+      "温泉+印"
+    ]
   },
   {
     "tag_name": "Om",
@@ -35098,7 +39900,7 @@ return [
   {
     "tag_name": "Parental Advisory",
     "related_tags": [
-      "Parental_Advisory"
+      "ペアレンタルアドバイザリー"
     ]
   },
   {
@@ -35109,15 +39911,21 @@ return [
   },
   {
     "tag_name": "Power symbol",
-    "related_tags": []
+    "related_tags": [
+      "偉力+印"
+    ]
   },
   {
     "tag_name": "Radiation symbol",
-    "related_tags": []
+    "related_tags": [
+      "放射能マーク"
+    ]
   },
   {
     "tag_name": "Recycling symbol",
-    "related_tags": []
+    "related_tags": [
+      "再資源化+印"
+    ]
   },
   {
     "tag_name": "Reichsadler",
@@ -35131,11 +39939,15 @@ return [
   },
   {
     "tag_name": "Skull and crossbones",
-    "related_tags": []
+    "related_tags": [
+      "どくろマーク"
+    ]
   },
   {
     "tag_name": "Jolly Roger",
-    "related_tags": []
+    "related_tags": [
+      "海賊旗"
+    ]
   },
   {
     "tag_name": "Totenkopf",
@@ -35143,7 +39955,9 @@ return [
   },
   {
     "tag_name": "Star and crescent",
-    "related_tags": []
+    "related_tags": [
+      "巨擘+以って+彎月"
+    ]
   },
   {
     "tag_name": "Trigram",
@@ -35173,11 +39987,15 @@ return [
   },
   {
     "tag_name": "Warning sign",
-    "related_tags": []
+    "related_tags": [
+      "黄信号"
+    ]
   },
   {
     "tag_name": "Wheel of Dharma",
-    "related_tags": []
+    "related_tags": [
+      "回し車+of+法"
+    ]
   },
   {
     "tag_name": "Wolfsangel",
@@ -35185,11 +40003,15 @@ return [
   },
   {
     "tag_name": "X mark",
-    "related_tags": []
+    "related_tags": [
+      "ばつ印"
+    ]
   },
   {
     "tag_name": "Spoken X",
-    "related_tags": []
+    "related_tags": [
+      "口頭+x"
+    ]
   },
   {
     "tag_name": "Yin Yang",
@@ -35205,39 +40027,57 @@ return [
   },
   {
     "tag_name": "Sun symbol",
-    "related_tags": []
+    "related_tags": [
+      "金烏+印"
+    ]
   },
   {
     "tag_name": "Mercury symbol",
-    "related_tags": []
+    "related_tags": [
+      "mercury+印"
+    ]
   },
   {
     "tag_name": "Venus symbol",
-    "related_tags": []
+    "related_tags": [
+      "愛の神+印"
+    ]
   },
   {
     "tag_name": "Mars symbol",
-    "related_tags": []
+    "related_tags": [
+      "mars+印"
+    ]
   },
   {
     "tag_name": "Jupiter symbol",
-    "related_tags": []
+    "related_tags": [
+      "歳星+印"
+    ]
   },
   {
     "tag_name": "Saturn symbol",
-    "related_tags": []
+    "related_tags": [
+      "saturn+印"
+    ]
   },
   {
     "tag_name": "Uranus symbol",
-    "related_tags": []
+    "related_tags": [
+      "uranus+印"
+    ]
   },
   {
     "tag_name": "Neptune symbol",
-    "related_tags": []
+    "related_tags": [
+      "海神+印"
+    ]
   },
   {
     "tag_name": "Pluto symbol",
-    "related_tags": []
+    "related_tags": [
+      "pluto+印"
+    ]
   },
   {
     "tag_name": "Androgyne symbol",
@@ -35247,23 +40087,33 @@ return [
   },
   {
     "tag_name": "Interlocked Mars symbols",
-    "related_tags": []
+    "related_tags": [
+      "インターロック+mars+印"
+    ]
   },
   {
     "tag_name": "Interlocked Mars and Venus symbols",
-    "related_tags": []
+    "related_tags": [
+      "インターロック+mars+以って+愛の神+印"
+    ]
   },
   {
     "tag_name": "Interlocked Venus symbols",
-    "related_tags": []
+    "related_tags": [
+      "インターロック+愛の神+印"
+    ]
   },
   {
     "tag_name": "Male-Female symbol",
-    "related_tags": []
+    "related_tags": [
+      "牡+妻+印"
+    ]
   },
   {
     "tag_name": "Transgender symbol",
-    "related_tags": []
+    "related_tags": [
+      "トランスジェンダー+印"
+    ]
   },
   {
     "tag_name": "Road signs",
@@ -35273,15 +40123,21 @@ return [
   },
   {
     "tag_name": "Bicycles only sign",
-    "related_tags": []
+    "related_tags": [
+      "銀輪+一+印"
+    ]
   },
   {
     "tag_name": "Falling rocks sign",
-    "related_tags": []
+    "related_tags": [
+      "立ち下がり+巌+印"
+    ]
   },
   {
     "tag_name": "Motor vehicles only sign",
-    "related_tags": []
+    "related_tags": [
+      "原動機+駕+一+印"
+    ]
   },
   {
     "tag_name": "No parking sign",
@@ -35291,51 +40147,75 @@ return [
   },
   {
     "tag_name": "No pedestrian crossing sign",
-    "related_tags": []
+    "related_tags": [
+      "no+通行人+越し+印"
+    ]
   },
   {
     "tag_name": "No stopping sign",
-    "related_tags": []
+    "related_tags": [
+      "no+閉栓+印"
+    ]
   },
   {
     "tag_name": "No U-turn sign",
-    "related_tags": []
+    "related_tags": [
+      "no+u+回り+印"
+    ]
   },
   {
     "tag_name": "One way sign",
-    "related_tags": []
+    "related_tags": [
+      "一+為すすべ+印"
+    ]
   },
   {
     "tag_name": "Parking permissive sign",
-    "related_tags": []
+    "related_tags": [
+      "パーキング+permissive+印"
+    ]
   },
   {
     "tag_name": "Pedestrian crossing sign",
-    "related_tags": []
+    "related_tags": [
+      "通行人+越し+印"
+    ]
   },
   {
     "tag_name": "Pedestrians only sign",
-    "related_tags": []
+    "related_tags": [
+      "通行人+一+印"
+    ]
   },
   {
     "tag_name": "Railroad crossing ahead sign",
-    "related_tags": []
+    "related_tags": [
+      "線路+越し+先+印"
+    ]
   },
   {
     "tag_name": "Road closed to Vehicles sign",
-    "related_tags": []
+    "related_tags": [
+      "往来+閉鎖的+to+駕+印"
+    ]
   },
   {
     "tag_name": "Road narrows sign",
-    "related_tags": []
+    "related_tags": [
+      "往来+戸+印"
+    ]
   },
   {
     "tag_name": "School crossing sign",
-    "related_tags": []
+    "related_tags": [
+      "一家+越し+印"
+    ]
   },
   {
     "tag_name": "Speed limit sign",
-    "related_tags": []
+    "related_tags": [
+      "急ぎ+果+印"
+    ]
   },
   {
     "tag_name": "Stop sign",
@@ -35345,19 +40225,27 @@ return [
   },
   {
     "tag_name": "Straight or left turn sign",
-    "related_tags": []
+    "related_tags": [
+      "一路+or+後+回り+印"
+    ]
   },
   {
     "tag_name": "Straight or right turn sign",
-    "related_tags": []
+    "related_tags": [
+      "一路+or+右+回り+印"
+    ]
   },
   {
     "tag_name": "Turn left sign",
-    "related_tags": []
+    "related_tags": [
+      "回り+後+印"
+    ]
   },
   {
     "tag_name": "Turn right sign",
-    "related_tags": []
+    "related_tags": [
+      "回り+右+印"
+    ]
   },
   {
     "tag_name": "Mitsuba Aoi",
@@ -35379,27 +40267,39 @@ return [
   },
   {
     "tag_name": "Sakamoto Clan (emblem)",
-    "related_tags": []
+    "related_tags": [
+      "sakamoto+一味+(emblem)"
+    ]
   },
   {
     "tag_name": "Great Lungmen logo",
-    "related_tags": []
+    "related_tags": [
+      "偉い+lungmen+マーク"
+    ]
   },
   {
     "tag_name": "Penguin Logistics logo",
-    "related_tags": []
+    "related_tags": [
+      "企鵝+物流+マーク"
+    ]
   },
   {
     "tag_name": "Rhine Lab logo",
-    "related_tags": []
+    "related_tags": [
+      "rhine+ラボ+マーク"
+    ]
   },
   {
     "tag_name": "Rhodes Island logo",
-    "related_tags": []
+    "related_tags": [
+      "rhodes+嶋+マーク"
+    ]
   },
   {
     "tag_name": "Ursus Empire logo",
-    "related_tags": []
+    "related_tags": [
+      "ursus+帝国+マーク"
+    ]
   },
   {
     "tag_name": "Dragon Empery (emblem)",
@@ -35407,19 +40307,27 @@ return [
   },
   {
     "tag_name": "Eagle Union (emblem)",
-    "related_tags": []
+    "related_tags": [
+      "eagle+一致+(emblem)"
+    ]
   },
   {
     "tag_name": "Iris Libre (emblem)",
-    "related_tags": []
+    "related_tags": [
+      "アイリス+libre+(emblem)"
+    ]
   },
   {
     "tag_name": "Iron Blood (emblem)",
-    "related_tags": []
+    "related_tags": [
+      "黒金+血+(emblem)"
+    ]
   },
   {
     "tag_name": "Northern Parliament (emblem)",
-    "related_tags": []
+    "related_tags": [
+      "northern+議院+(emblem)"
+    ]
   },
   {
     "tag_name": "Sakura Empire (emblem)",
@@ -35429,7 +40337,9 @@ return [
   },
   {
     "tag_name": "Royal Navy Emblem",
-    "related_tags": []
+    "related_tags": [
+      "王立+海軍+印"
+    ]
   },
   {
     "tag_name": "Sardegna Empire (emblem)",
@@ -35439,19 +40349,27 @@ return [
   },
   {
     "tag_name": "Vichya Dominion (emblem)",
-    "related_tags": []
+    "related_tags": [
+      "vichya+主権+(emblem)"
+    ]
   },
   {
     "tag_name": "Blazblue insignia",
-    "related_tags": []
+    "related_tags": [
+      "blazblue+旗じるし"
+    ]
   },
   {
     "tag_name": "Shihouin symbol",
-    "related_tags": []
+    "related_tags": [
+      "shihouin+印"
+    ]
   },
   {
     "tag_name": "Shinigami daikou symbol",
-    "related_tags": []
+    "related_tags": [
+      "shinigami+daikou+印"
+    ]
   },
   {
     "tag_name": "Command spell",
@@ -35461,15 +40379,21 @@ return [
   },
   {
     "tag_name": "Amestris symbol",
-    "related_tags": []
+    "related_tags": [
+      "amestris+印"
+    ]
   },
   {
     "tag_name": "Flamel symbol",
-    "related_tags": []
+    "related_tags": [
+      "flamel+印"
+    ]
   },
   {
     "tag_name": "True Rune",
-    "related_tags": []
+    "related_tags": [
+      "実の+ルーン文字"
+    ]
   },
   {
     "tag_name": "Ooarai (emblem)",
@@ -35477,7 +40401,9 @@ return [
   },
   {
     "tag_name": "St. Gloriana's (emblem)",
-    "related_tags": []
+    "related_tags": [
+      "聖+gloriana's+(emblem)"
+    ]
   },
   {
     "tag_name": "Saunders (emblem)",
@@ -35497,7 +40423,9 @@ return [
   },
   {
     "tag_name": "Chi-Hatan (emblem)",
-    "related_tags": []
+    "related_tags": [
+      "Χ+hatan+(emblem)"
+    ]
   },
   {
     "tag_name": "Keizoku (emblem)",
@@ -35505,47 +40433,69 @@ return [
   },
   {
     "tag_name": "Selection University (emblem)",
-    "related_tags": []
+    "related_tags": [
+      "簡抜+総合大学+(emblem)"
+    ]
   },
   {
     "tag_name": "Japanese Tankery League (emblem)",
-    "related_tags": []
+    "related_tags": [
+      "日本的+tankery+同盟+(emblem)"
+    ]
   },
   {
     "tag_name": "Japari symbol",
-    "related_tags": []
+    "related_tags": [
+      "japari+印"
+    ]
   },
   {
     "tag_name": "Amegakure symbol",
-    "related_tags": []
+    "related_tags": [
+      "amegakure+印"
+    ]
   },
   {
     "tag_name": "Iwagakure symbol",
-    "related_tags": []
+    "related_tags": [
+      "iwagakure+印"
+    ]
   },
   {
     "tag_name": "Konohagakure symbol",
-    "related_tags": []
+    "related_tags": [
+      "konohagakure+印"
+    ]
   },
   {
     "tag_name": "Kirigakure symbol",
-    "related_tags": []
+    "related_tags": [
+      "kirigakure+印"
+    ]
   },
   {
     "tag_name": "Otogakure symbol",
-    "related_tags": []
+    "related_tags": [
+      "otogakure+印"
+    ]
   },
   {
     "tag_name": "Sunagakure symbol",
-    "related_tags": []
+    "related_tags": [
+      "sunagakure+印"
+    ]
   },
   {
     "tag_name": "Uchiha symbol",
-    "related_tags": []
+    "related_tags": [
+      "uchiha+印"
+    ]
   },
   {
     "tag_name": "Straw Hats Jolly Roger",
-    "related_tags": []
+    "related_tags": [
+      "藁+高度通信システム相互接続+jolly+合点承知の助"
+    ]
   },
   {
     "tag_name": "Survey Corps (Emblem)",
@@ -35573,11 +40523,15 @@ return [
   },
   {
     "tag_name": "G-clef (Suite Precure)",
-    "related_tags": []
+    "related_tags": [
+      "g+音部記号+(suite+precure)"
+    ]
   },
   {
     "tag_name": "Xillia Symbol",
-    "related_tags": []
+    "related_tags": [
+      "xillia+印"
+    ]
   },
   {
     "tag_name": "501st Joint Fighter Wing (emblem)",
@@ -35637,7 +40591,9 @@ return [
   },
   {
     "tag_name": "dark-skinned other",
-    "related_tags": []
+    "related_tags": [
+      "暗々+skinned+異"
+    ]
   },
   {
     "tag_name": "Pale skin",
@@ -35647,11 +40603,15 @@ return [
   },
   {
     "tag_name": "Sun tattoo",
-    "related_tags": []
+    "related_tags": [
+      "金烏+彫り物"
+    ]
   },
   {
     "tag_name": "Black skin",
-    "related_tags": []
+    "related_tags": [
+      "暗然+外皮"
+    ]
   },
   {
     "tag_name": "Blue skin",
@@ -35667,15 +40627,21 @@ return [
   },
   {
     "tag_name": "Grey skin",
-    "related_tags": []
+    "related_tags": [
+      "灰色+外皮"
+    ]
   },
   {
     "tag_name": "Orange skin",
-    "related_tags": []
+    "related_tags": [
+      "炎色+外皮"
+    ]
   },
   {
     "tag_name": "Pink skin",
-    "related_tags": []
+    "related_tags": [
+      "退紅+外皮"
+    ]
   },
   {
     "tag_name": "Purple skin",
@@ -35691,7 +40657,9 @@ return [
   },
   {
     "tag_name": "White skin",
-    "related_tags": []
+    "related_tags": [
+      "白+外皮"
+    ]
   },
   {
     "tag_name": "Yellow skin",
@@ -35707,7 +40675,9 @@ return [
   },
   {
     "tag_name": "Shiny skin",
-    "related_tags": []
+    "related_tags": [
+      "艶やか+外皮"
+    ]
   },
   {
     "tag_name": "mahou_shoujo",
@@ -35715,7 +40685,9 @@ return [
   },
   {
     "tag_name": "visual novels",
-    "related_tags": []
+    "related_tags": [
+      "サウンド・ノベル"
+    ]
   },
   {
     "tag_name": "428",
@@ -35725,7 +40697,9 @@ return [
   },
   {
     "tag_name": "AI: The Somnium Files",
-    "related_tags": []
+    "related_tags": [
+      "ai:+the+somnium+伍"
+    ]
   },
   {
     "tag_name": "Akai Ito",
@@ -35760,18 +40734,20 @@ return [
   {
     "tag_name": "Chaos;Child",
     "related_tags": [
-      "chaos;child"
+      "カオスチャイルド"
     ]
   },
   {
     "tag_name": "Code:Realize",
     "related_tags": [
-      "Code:Realize"
+      "Code:Realize〜創世の姫君〜"
     ]
   },
   {
     "tag_name": "Code Geass: Lost Colors",
-    "related_tags": []
+    "related_tags": [
+      "暗号+geass:+行方不明+絵の具"
+    ]
   },
   {
     "tag_name": "Collar X Malice",
@@ -35799,7 +40775,9 @@ return [
   },
   {
     "tag_name": "Dream Daddy: A Dad Dating Simulator",
-    "related_tags": []
+    "related_tags": [
+      "一夢+daddy:+a+父さん+日付+シミュレータ"
+    ]
   },
   {
     "tag_name": "Ever 17",
@@ -35843,7 +40821,9 @@ return [
   },
   {
     "tag_name": "Last Window",
-    "related_tags": []
+    "related_tags": [
+      "究極+窓"
+    ]
   },
   {
     "tag_name": "Jesus Kyofu no Bio Monster",
@@ -35883,11 +40863,15 @@ return [
   },
   {
     "tag_name": "Long Live the Queen",
-    "related_tags": []
+    "related_tags": [
+      "永+実況+the+王后"
+    ]
   },
   {
     "tag_name": "Monster Prom",
-    "related_tags": []
+    "related_tags": [
+      "化け物+プロム"
+    ]
   },
   {
     "tag_name": "Narcissu",
@@ -35913,11 +40897,15 @@ return [
   },
   {
     "tag_name": "Princess Waltz",
-    "related_tags": []
+    "related_tags": [
+      "王女+円舞"
+    ]
   },
   {
     "tag_name": "Radical Dreamers",
-    "related_tags": []
+    "related_tags": [
+      "過激+脳内お花畑"
+    ]
   },
   {
     "tag_name": "Root Letter",
@@ -35933,7 +40921,9 @@ return [
   },
   {
     "tag_name": "The Silver Case",
-    "related_tags": []
+    "related_tags": [
+      "the+白銀+案件"
+    ]
   },
   {
     "tag_name": "Symphonic Rain",
@@ -35950,7 +40940,7 @@ return [
   {
     "tag_name": "VA-11 Hall-A",
     "related_tags": [
-      "VA-11_Hall-A"
+      "ヴァルハラ"
     ]
   },
   {
@@ -35987,7 +40977,9 @@ return [
   },
   {
     "tag_name": "Ashita no Kimi to Au Tame ni",
-    "related_tags": []
+    "related_tags": [
+      "ashita+no+kimi+to+au+温順+ni"
+    ]
   },
   {
     "tag_name": "Baldr Sky",
@@ -35997,7 +40989,9 @@ return [
   },
   {
     "tag_name": "Bondage Game",
-    "related_tags": []
+    "related_tags": [
+      "緊縛+一戦"
+    ]
   },
   {
     "tag_name": "Bra-ban!",
@@ -36027,7 +41021,9 @@ return [
   },
   {
     "tag_name": "Deep Body",
-    "related_tags": []
+    "related_tags": [
+      "奥がふかい+遺骸"
+    ]
   },
   {
     "tag_name": "Dra+KoI",
@@ -36061,18 +41057,20 @@ return [
   },
   {
     "tag_name": "Existence",
-    "related_tags": []
+    "related_tags": [
+      "実存"
+    ]
   },
   {
     "tag_name": "Everlasting Summer",
     "related_tags": [
-      "eroge_project"
+      "бесконечное_лето"
     ]
   },
   {
     "tag_name": "Fate/hollow ataraxia",
     "related_tags": [
-      "Fate/hollowataraxia"
+      "フェイト/ホロウアタラクシア"
     ]
   },
   {
@@ -36083,7 +41081,9 @@ return [
   },
   {
     "tag_name": "France Shoujo",
-    "related_tags": []
+    "related_tags": [
+      "仏+shoujo"
+    ]
   },
   {
     "tag_name": "G-Senjou no Maou",
@@ -36099,7 +41099,9 @@ return [
   },
   {
     "tag_name": "Gleam Garden no Shoujo",
-    "related_tags": []
+    "related_tags": [
+      "光+園地+no+shoujo"
+    ]
   },
   {
     "tag_name": "Gore Screaming Show",
@@ -36221,7 +41223,9 @@ return [
   },
   {
     "tag_name": "Kami no Ue no Mahou Tsukai",
-    "related_tags": []
+    "related_tags": [
+      "神+no+ue+no+mahou+tsukai"
+    ]
   },
   {
     "tag_name": "Katahane",
@@ -36231,7 +41235,9 @@ return [
   },
   {
     "tag_name": "Kieta Sekai to Tsuki to Shoujo",
-    "related_tags": []
+    "related_tags": [
+      "kieta+sekai+to+突き+to+shoujo"
+    ]
   },
   {
     "tag_name": "Kikokugai",
@@ -36407,7 +41413,9 @@ return [
   },
   {
     "tag_name": "Pigeon Blood",
-    "related_tags": []
+    "related_tags": [
+      "鳩+血"
+    ]
   },
   {
     "tag_name": "Pretty x Cation",
@@ -36421,11 +41429,15 @@ return [
   },
   {
     "tag_name": "Reincarnation Shinsengumi",
-    "related_tags": []
+    "related_tags": [
+      "再生+新撰組"
+    ]
   },
   {
     "tag_name": "Rondo Leaflet",
-    "related_tags": []
+    "related_tags": [
+      "輪舞曲+折りたたみ印刷物"
+    ]
   },
   {
     "tag_name": "Ryuusei World Actor",
@@ -36435,7 +41447,9 @@ return [
   },
   {
     "tag_name": "Sakaagari Hurricane",
-    "related_tags": []
+    "related_tags": [
+      "sakaagari+台風"
+    ]
   },
   {
     "tag_name": "Sanoba Witch",
@@ -36469,7 +41483,9 @@ return [
   },
   {
     "tag_name": "Shin Genre Esudere!!",
-    "related_tags": []
+    "related_tags": [
+      "向うずね+類型+esudere!!"
+    ]
   },
   {
     "tag_name": "Shinju no Yakata",
@@ -36545,7 +41561,9 @@ return [
   },
   {
     "tag_name": "Tokeijikake no Ley Line",
-    "related_tags": []
+    "related_tags": [
+      "tokeijikake+no+ley+一行"
+    ]
   },
   {
     "tag_name": "Tomoyo After",
@@ -36571,7 +41589,9 @@ return [
   },
   {
     "tag_name": "Wind A Breath of Heart",
-    "related_tags": []
+    "related_tags": [
+      "瓦斯+a+気吹+of+意気"
+    ]
   },
   {
     "tag_name": "Yotsunoha",
@@ -36593,11 +41613,15 @@ return [
   },
   {
     "tag_name": "hair bow",
-    "related_tags": []
+    "related_tags": [
+      "一髪+敬礼"
+    ]
   },
   {
     "tag_name": "hair ribbon",
-    "related_tags": []
+    "related_tags": [
+      "一髪+リボン"
+    ]
   },
   {
     "tag_name": "hairband",
@@ -36627,7 +41651,9 @@ return [
   },
   {
     "tag_name": "headdress",
-    "related_tags": []
+    "related_tags": [
+      "冠り物"
+    ]
   },
   {
     "tag_name": "maid headdress",
@@ -36643,7 +41669,9 @@ return [
   },
   {
     "tag_name": "veil",
-    "related_tags": []
+    "related_tags": [
+      "垂れ絹"
+    ]
   },
   {
     "tag_name": "honggaitou",
@@ -36659,7 +41687,9 @@ return [
   },
   {
     "tag_name": "frilled shirt",
-    "related_tags": []
+    "related_tags": [
+      "縁飾り+shirt"
+    ]
   },
   {
     "tag_name": "sleeveless shirt",
@@ -36691,7 +41721,9 @@ return [
   },
   {
     "tag_name": "cardigan vest",
-    "related_tags": []
+    "related_tags": [
+      "カーデ+胴衣"
+    ]
   },
   {
     "tag_name": "coat",
@@ -36707,19 +41739,27 @@ return [
   },
   {
     "tag_name": "fur coat",
-    "related_tags": []
+    "related_tags": [
+      "皮衣"
+    ]
   },
   {
     "tag_name": "fur-trimmed coat",
-    "related_tags": []
+    "related_tags": [
+      "毛革+trimmed+外被"
+    ]
   },
   {
     "tag_name": "long coat",
-    "related_tags": []
+    "related_tags": [
+      "永+外被"
+    ]
   },
   {
     "tag_name": "overcoat",
-    "related_tags": []
+    "related_tags": [
+      "外とう"
+    ]
   },
   {
     "tag_name": "peacoat",
@@ -36735,7 +41775,9 @@ return [
   },
   {
     "tag_name": "yellow raincoat",
-    "related_tags": []
+    "related_tags": [
+      "黄+雨がっぱ"
+    ]
   },
   {
     "tag_name": "transparent raincoat",
@@ -36751,11 +41793,15 @@ return [
   },
   {
     "tag_name": "winter coat",
-    "related_tags": []
+    "related_tags": [
+      "玄冬+外被"
+    ]
   },
   {
     "tag_name": "compression shirt",
-    "related_tags": []
+    "related_tags": [
+      "圧搾+shirt"
+    ]
   },
   {
     "tag_name": "corset",
@@ -36777,7 +41823,9 @@ return [
   },
   {
     "tag_name": "criss-cross halter",
-    "related_tags": []
+    "related_tags": [
+      "criss+交雑種+絞首索"
+    ]
   },
   {
     "tag_name": "hoodie",
@@ -36811,11 +41859,15 @@ return [
   },
   {
     "tag_name": "safari jacket",
-    "related_tags": []
+    "related_tags": [
+      "サファリ・ジャケット"
+    ]
   },
   {
     "tag_name": "suit jacket",
-    "related_tags": []
+    "related_tags": [
+      "一重ね+外被"
+    ]
   },
   {
     "tag_name": "sukajan",
@@ -36843,7 +41895,9 @@ return [
   },
   {
     "tag_name": "shoulder sash",
-    "related_tags": []
+    "related_tags": [
+      "肩+腰帯"
+    ]
   },
   {
     "tag_name": "stole",
@@ -36859,7 +41913,9 @@ return [
   },
   {
     "tag_name": "collared shirt",
-    "related_tags": []
+    "related_tags": [
+      "襟つき+shirt"
+    ]
   },
   {
     "tag_name": "dress shirt",
@@ -36875,7 +41931,9 @@ return [
   },
   {
     "tag_name": "striped shirt",
-    "related_tags": []
+    "related_tags": [
+      "縞々+shirt"
+    ]
   },
   {
     "tag_name": "t-shirt",
@@ -36885,11 +41943,15 @@ return [
   },
   {
     "tag_name": "shrug",
-    "related_tags": []
+    "related_tags": [
+      "ボレロ"
+    ]
   },
   {
     "tag_name": "surcoat",
-    "related_tags": []
+    "related_tags": [
+      "サーコート"
+    ]
   },
   {
     "tag_name": "sweater",
@@ -36899,7 +41961,9 @@ return [
   },
   {
     "tag_name": "pullover",
-    "related_tags": []
+    "related_tags": [
+      "プルオーバー"
+    ]
   },
   {
     "tag_name": "turtleneck",
@@ -36933,7 +41997,9 @@ return [
   },
   {
     "tag_name": "stringer",
-    "related_tags": []
+    "related_tags": [
+      "側桁"
+    ]
   },
   {
     "tag_name": "tube top",
@@ -36995,7 +42061,9 @@ return [
   },
   {
     "tag_name": "pants",
-    "related_tags": []
+    "related_tags": [
+      "ズボン"
+    ]
   },
   {
     "tag_name": "bell-bottoms",
@@ -37005,11 +42073,15 @@ return [
   },
   {
     "tag_name": "capri pants",
-    "related_tags": []
+    "related_tags": [
+      "capri+ズボン"
+    ]
   },
   {
     "tag_name": "detached pants",
-    "related_tags": []
+    "related_tags": [
+      "淡々+ズボン"
+    ]
   },
   {
     "tag_name": "jeans",
@@ -37019,19 +42091,27 @@ return [
   },
   {
     "tag_name": "cutoff jeans",
-    "related_tags": []
+    "related_tags": [
+      "cutoff+ジーン"
+    ]
   },
   {
     "tag_name": "lowleg pants",
-    "related_tags": []
+    "related_tags": [
+      "lowleg+ズボン"
+    ]
   },
   {
     "tag_name": "pants rolled up",
-    "related_tags": []
+    "related_tags": [
+      "ズボン+巻子本+up"
+    ]
   },
   {
     "tag_name": "yoga pants",
-    "related_tags": []
+    "related_tags": [
+      "瑜伽+ズボン"
+    ]
   },
   {
     "tag_name": "pelvic curtain",
@@ -37065,7 +42145,9 @@ return [
   },
   {
     "tag_name": "denim shorts",
-    "related_tags": []
+    "related_tags": [
+      "ジーンズ+短パン"
+    ]
   },
   {
     "tag_name": "dolphin shorts",
@@ -37075,15 +42157,21 @@ return [
   },
   {
     "tag_name": "gym shorts",
-    "related_tags": []
+    "related_tags": [
+      "ブルーマー"
+    ]
   },
   {
     "tag_name": "lowleg shorts",
-    "related_tags": []
+    "related_tags": [
+      "lowleg+短パン"
+    ]
   },
   {
     "tag_name": "micro shorts",
-    "related_tags": []
+    "related_tags": [
+      "狭域+短パン"
+    ]
   },
   {
     "tag_name": "short shorts",
@@ -37093,7 +42181,9 @@ return [
   },
   {
     "tag_name": "shorts under skirt",
-    "related_tags": []
+    "related_tags": [
+      "短パン+下+スカート"
+    ]
   },
   {
     "tag_name": "skirt",
@@ -37121,7 +42211,9 @@ return [
   },
   {
     "tag_name": "lowleg skirt",
-    "related_tags": []
+    "related_tags": [
+      "lowleg+スカート"
+    ]
   },
   {
     "tag_name": "microskirt",
@@ -37221,11 +42313,15 @@ return [
   },
   {
     "tag_name": "ankle socks",
-    "related_tags": []
+    "related_tags": [
+      "足関節+沓下"
+    ]
   },
   {
     "tag_name": "bobby socks",
-    "related_tags": []
+    "related_tags": [
+      "bobby+沓下"
+    ]
   },
   {
     "tag_name": "loose socks",
@@ -37241,11 +42337,15 @@ return [
   },
   {
     "tag_name": "toe socks",
-    "related_tags": []
+    "related_tags": [
+      "指+沓下"
+    ]
   },
   {
     "tag_name": "tube socks",
-    "related_tags": []
+    "related_tags": [
+      "チューブ靴下"
+    ]
   },
   {
     "tag_name": "thighhighs",
@@ -37273,7 +42373,9 @@ return [
   },
   {
     "tag_name": "cowboy boots",
-    "related_tags": []
+    "related_tags": [
+      "カウボーイ・ブーツ"
+    ]
   },
   {
     "tag_name": "spurs",
@@ -37319,7 +42421,9 @@ return [
   },
   {
     "tag_name": "cross-laced footwear",
-    "related_tags": []
+    "related_tags": [
+      "交雑種+ラック+沓"
+    ]
   },
   {
     "tag_name": "dress shoes",
@@ -37329,11 +42433,15 @@ return [
   },
   {
     "tag_name": "flats",
-    "related_tags": []
+    "related_tags": [
+      "横に"
+    ]
   },
   {
     "tag_name": "footwear ribbon",
-    "related_tags": []
+    "related_tags": [
+      "沓+リボン"
+    ]
   },
   {
     "tag_name": "high heels",
@@ -37349,7 +42457,9 @@ return [
   },
   {
     "tag_name": "kiltie loafers",
-    "related_tags": []
+    "related_tags": [
+      "kiltie+ローファ"
+    ]
   },
   {
     "tag_name": "mary janes",
@@ -37359,11 +42469,15 @@ return [
   },
   {
     "tag_name": "platform footwear",
-    "related_tags": []
+    "related_tags": [
+      "雲台+沓"
+    ]
   },
   {
     "tag_name": "pointy footwear",
-    "related_tags": []
+    "related_tags": [
+      "尖圭+沓"
+    ]
   },
   {
     "tag_name": "pumps",
@@ -37379,11 +42493,15 @@ return [
   },
   {
     "tag_name": "clog sandals",
-    "related_tags": []
+    "related_tags": [
+      "木靴+サンダル"
+    ]
   },
   {
     "tag_name": "cross-laced sandals",
-    "related_tags": []
+    "related_tags": [
+      "交雑種+ラック+サンダル"
+    ]
   },
   {
     "tag_name": "flip-flops",
@@ -37435,7 +42553,9 @@ return [
   },
   {
     "tag_name": "monk shoes",
-    "related_tags": []
+    "related_tags": [
+      "我僧+沓"
+    ]
   },
   {
     "tag_name": "slippers",
@@ -37445,7 +42565,9 @@ return [
   },
   {
     "tag_name": "animal slippers",
-    "related_tags": []
+    "related_tags": [
+      "獣+室内履き"
+    ]
   },
   {
     "tag_name": "ballet slippers",
@@ -37485,11 +42607,15 @@ return [
   },
   {
     "tag_name": "toeless footwear",
-    "related_tags": []
+    "related_tags": [
+      "toeless+沓"
+    ]
   },
   {
     "tag_name": "wedge heels",
-    "related_tags": []
+    "related_tags": [
+      "ウェッジ・ヒール"
+    ]
   },
   {
     "tag_name": "apron",
@@ -37499,7 +42625,9 @@ return [
   },
   {
     "tag_name": "band uniform",
-    "related_tags": []
+    "related_tags": [
+      "音楽隊+一定"
+    ]
   },
   {
     "tag_name": "cape",
@@ -37521,7 +42649,9 @@ return [
   },
   {
     "tag_name": "shoulder cape",
-    "related_tags": []
+    "related_tags": [
+      "肩+回し"
+    ]
   },
   {
     "tag_name": "cassock",
@@ -37537,11 +42667,15 @@ return [
   },
   {
     "tag_name": "costume",
-    "related_tags": []
+    "related_tags": [
+      "衣裳"
+    ]
   },
   {
     "tag_name": "ghost costume",
-    "related_tags": []
+    "related_tags": [
+      "化け物+衣裳"
+    ]
   },
   {
     "tag_name": "formal",
@@ -37557,7 +42691,9 @@ return [
   },
   {
     "tag_name": "business suit",
-    "related_tags": []
+    "related_tags": [
+      "仕事着"
+    ]
   },
   {
     "tag_name": "pant suit",
@@ -37609,7 +42745,9 @@ return [
   },
   {
     "tag_name": "hev suit",
-    "related_tags": []
+    "related_tags": [
+      "hev+一重ね"
+    ]
   },
   {
     "tag_name": "kigurumi",
@@ -37619,63 +42757,93 @@ return [
   },
   {
     "tag_name": "animal costume",
-    "related_tags": []
+    "related_tags": [
+      "獣+衣裳"
+    ]
   },
   {
     "tag_name": "bear costume",
-    "related_tags": []
+    "related_tags": [
+      "熊羆+衣裳"
+    ]
   },
   {
     "tag_name": "boar costume",
-    "related_tags": []
+    "related_tags": [
+      "種豚+衣裳"
+    ]
   },
   {
     "tag_name": "cat costume",
-    "related_tags": []
+    "related_tags": [
+      "猫+衣裳"
+    ]
   },
   {
     "tag_name": "cow costume",
-    "related_tags": []
+    "related_tags": [
+      "牛+衣裳"
+    ]
   },
   {
     "tag_name": "monkey costume",
-    "related_tags": []
+    "related_tags": [
+      "猿公+衣裳"
+    ]
   },
   {
     "tag_name": "mouse costume",
-    "related_tags": []
+    "related_tags": [
+      "悪戯者+衣裳"
+    ]
   },
   {
     "tag_name": "panda costume",
-    "related_tags": []
+    "related_tags": [
+      "熊猫+衣裳"
+    ]
   },
   {
     "tag_name": "penguin costume",
-    "related_tags": []
+    "related_tags": [
+      "企鵝+衣裳"
+    ]
   },
   {
     "tag_name": "pig costume",
-    "related_tags": []
+    "related_tags": [
+      "鋳塊+衣裳"
+    ]
   },
   {
     "tag_name": "rabbit costume",
-    "related_tags": []
+    "related_tags": [
+      "占め子+衣裳"
+    ]
   },
   {
     "tag_name": "reindeer costume",
-    "related_tags": []
+    "related_tags": [
+      "reindeer+衣裳"
+    ]
   },
   {
     "tag_name": "seal costume",
-    "related_tags": []
+    "related_tags": [
+      "印+衣裳"
+    ]
   },
   {
     "tag_name": "sheep costume",
-    "related_tags": []
+    "related_tags": [
+      "綿羊+衣裳"
+    ]
   },
   {
     "tag_name": "tiger costume",
-    "related_tags": []
+    "related_tags": [
+      "tiger+衣裳"
+    ]
   },
   {
     "tag_name": "maid",
@@ -37739,7 +42907,9 @@ return [
   },
   {
     "tag_name": "meiji schoolgirl uniform",
-    "related_tags": []
+    "related_tags": [
+      "meiji+女学生+一定"
+    ]
   },
   {
     "tag_name": "shosei",
@@ -37761,7 +42931,9 @@ return [
   },
   {
     "tag_name": "tutu",
-    "related_tags": []
+    "related_tags": [
+      "チュチュ"
+    ]
   },
   {
     "tag_name": "waitress",
@@ -37783,7 +42955,9 @@ return [
   },
   {
     "tag_name": "racing suit",
-    "related_tags": []
+    "related_tags": [
+      "ばくばく+一重ね"
+    ]
   },
   {
     "tag_name": "bodystocking",
@@ -37805,7 +42979,9 @@ return [
   },
   {
     "tag_name": "short jumpsuit",
-    "related_tags": []
+    "related_tags": [
+      "幾許もない+ジャンプスーツ"
+    ]
   },
   {
     "tag_name": "leotard",
@@ -37815,11 +42991,15 @@ return [
   },
   {
     "tag_name": "see-through leotard",
-    "related_tags": []
+    "related_tags": [
+      "御覧なさい+越し+レオタード"
+    ]
   },
   {
     "tag_name": "strapless leotard",
-    "related_tags": []
+    "related_tags": [
+      "ストラップレス+レオタード"
+    ]
   },
   {
     "tag_name": "playboy bunny",
@@ -37853,11 +43033,15 @@ return [
   },
   {
     "tag_name": "leaf bikini",
-    "related_tags": []
+    "related_tags": [
+      "一片+bikini"
+    ]
   },
   {
     "tag_name": "string bikini",
-    "related_tags": []
+    "related_tags": [
+      "紐パン"
+    ]
   },
   {
     "tag_name": "micro bikini",
@@ -37867,7 +43051,9 @@ return [
   },
   {
     "tag_name": "side-tie bikini bottom",
-    "related_tags": []
+    "related_tags": [
+      "横っ腹+因縁+bikini+下"
+    ]
   },
   {
     "tag_name": "lowleg bikini",
@@ -37875,11 +43061,15 @@ return [
   },
   {
     "tag_name": "thong bikini",
-    "related_tags": []
+    "related_tags": [
+      "革ひも+bikini"
+    ]
   },
   {
     "tag_name": "venus bikini",
-    "related_tags": []
+    "related_tags": [
+      "愛の神+bikini"
+    ]
   },
   {
     "tag_name": "sports bikini",
@@ -37889,7 +43079,9 @@ return [
   },
   {
     "tag_name": "tankini",
-    "related_tags": []
+    "related_tags": [
+      "タンキニ"
+    ]
   },
   {
     "tag_name": "swim briefs",
@@ -37899,7 +43091,9 @@ return [
   },
   {
     "tag_name": "jammers",
-    "related_tags": []
+    "related_tags": [
+      "ジャマー"
+    ]
   },
   {
     "tag_name": "legskin",
@@ -37913,15 +43107,21 @@ return [
   },
   {
     "tag_name": "robe",
-    "related_tags": []
+    "related_tags": [
+      "衣"
+    ]
   },
   {
     "tag_name": "bathrobe",
-    "related_tags": []
+    "related_tags": [
+      "ガウン"
+    ]
   },
   {
     "tag_name": "open robe",
-    "related_tags": []
+    "related_tags": [
+      "開けっぴろげ+衣"
+    ]
   },
   {
     "tag_name": "kesa",
@@ -38007,15 +43207,21 @@ return [
   },
   {
     "tag_name": "hakama skirt",
-    "related_tags": []
+    "related_tags": [
+      "窮屈袋+スカート"
+    ]
   },
   {
     "tag_name": "hakama short skirt",
-    "related_tags": []
+    "related_tags": [
+      "窮屈袋+幾許もない+スカート"
+    ]
   },
   {
     "tag_name": "hakama pants",
-    "related_tags": []
+    "related_tags": [
+      "窮屈袋+ズボン"
+    ]
   },
   {
     "tag_name": "kimono",
@@ -38085,7 +43291,9 @@ return [
   },
   {
     "tag_name": "kimono skirt",
-    "related_tags": []
+    "related_tags": [
+      "着物+スカート"
+    ]
   },
   {
     "tag_name": "sarashi",
@@ -38107,11 +43315,15 @@ return [
   },
   {
     "tag_name": "Budget sarashi",
-    "related_tags": []
+    "related_tags": [
+      "運営経費+sarashi"
+    ]
   },
   {
     "tag_name": "Undone sarashi",
-    "related_tags": []
+    "related_tags": [
+      "渙然+sarashi"
+    ]
   },
   {
     "tag_name": "straw cape",
@@ -38151,11 +43363,15 @@ return [
   },
   {
     "tag_name": "hoop earrings",
-    "related_tags": []
+    "related_tags": [
+      "環+耳ピ"
+    ]
   },
   {
     "tag_name": "stud earrings",
-    "related_tags": []
+    "related_tags": [
+      "間柱+耳ピ"
+    ]
   },
   {
     "tag_name": "earclip",
@@ -38181,7 +43397,9 @@ return [
   },
   {
     "tag_name": "hair beads",
-    "related_tags": []
+    "related_tags": [
+      "一髪+ビーズ"
+    ]
   },
   {
     "tag_name": "hair bobbles",
@@ -38197,15 +43415,21 @@ return [
   },
   {
     "tag_name": "hairpin",
-    "related_tags": []
+    "related_tags": [
+      "差し物"
+    ]
   },
   {
     "tag_name": "hair scrunchie",
-    "related_tags": []
+    "related_tags": [
+      "一髪+シュシュ"
+    ]
   },
   {
     "tag_name": "hair stick",
-    "related_tags": []
+    "related_tags": [
+      "一髪+策"
+    ]
   },
   {
     "tag_name": "kanzashi",
@@ -38261,7 +43485,9 @@ return [
   },
   {
     "tag_name": "feather boa",
-    "related_tags": []
+    "related_tags": [
+      "羽+王蛇"
+    ]
   },
   {
     "tag_name": "lapels",
@@ -38277,7 +43503,9 @@ return [
   },
   {
     "tag_name": "neck ruff",
-    "related_tags": []
+    "related_tags": [
+      "雁首+襟巻鷸"
+    ]
   },
   {
     "tag_name": "neckerchief",
@@ -38329,7 +43557,9 @@ return [
   },
   {
     "tag_name": "arm belt",
-    "related_tags": []
+    "related_tags": [
+      "腕+一帯"
+    ]
   },
   {
     "tag_name": "armband",
@@ -38351,15 +43581,21 @@ return [
   },
   {
     "tag_name": "bangle",
-    "related_tags": []
+    "related_tags": [
+      "腕輪"
+    ]
   },
   {
     "tag_name": "spiked bracelet",
-    "related_tags": []
+    "related_tags": [
+      "花穂+腕貫"
+    ]
   },
   {
     "tag_name": "bridal gauntlets",
-    "related_tags": []
+    "related_tags": [
+      "ブライダル+甲掛け"
+    ]
   },
   {
     "tag_name": "detached sleeves",
@@ -38405,7 +43641,9 @@ return [
   },
   {
     "tag_name": "spiked gloves",
-    "related_tags": []
+    "related_tags": [
+      "花穂+手ぶくろ"
+    ]
   },
   {
     "tag_name": "yugake",
@@ -38419,7 +43657,9 @@ return [
   },
   {
     "tag_name": "leg belt",
-    "related_tags": []
+    "related_tags": [
+      "脚+一帯"
+    ]
   },
   {
     "tag_name": "ring",
@@ -38429,7 +43669,9 @@ return [
   },
   {
     "tag_name": "claw ring",
-    "related_tags": []
+    "related_tags": [
+      "鈎爪+一味"
+    ]
   },
   {
     "tag_name": "wedding ring",
@@ -38443,7 +43685,9 @@ return [
   },
   {
     "tag_name": "wide sleeves",
-    "related_tags": []
+    "related_tags": [
+      "広袖"
+    ]
   },
   {
     "tag_name": "wristband",
@@ -38453,11 +43697,15 @@ return [
   },
   {
     "tag_name": "wrist cuffs",
-    "related_tags": []
+    "related_tags": [
+      "手頚+カフス"
+    ]
   },
   {
     "tag_name": "wrist scrunchie",
-    "related_tags": []
+    "related_tags": [
+      "手頚+シュシュ"
+    ]
   },
   {
     "tag_name": "aiguillette",
@@ -38473,7 +43721,9 @@ return [
   },
   {
     "tag_name": "belly chain",
-    "related_tags": []
+    "related_tags": [
+      "御中+鎖"
+    ]
   },
   {
     "tag_name": "belt",
@@ -38507,7 +43757,9 @@ return [
   },
   {
     "tag_name": "large buttons",
-    "related_tags": []
+    "related_tags": [
+      "巨いなる+撮み"
+    ]
   },
   {
     "tag_name": "button badge",
@@ -38541,7 +43793,9 @@ return [
   },
   {
     "tag_name": "watch",
-    "related_tags": []
+    "related_tags": [
+      "看視人"
+    ]
   },
   {
     "tag_name": "pocket watch",
@@ -38557,83 +43811,123 @@ return [
   },
   {
     "tag_name": "butterfly print",
-    "related_tags": []
+    "related_tags": [
+      "胡蝶+印"
+    ]
   },
   {
     "tag_name": "clover print",
-    "related_tags": []
+    "related_tags": [
+      "clover+印"
+    ]
   },
   {
     "tag_name": "rose print",
-    "related_tags": []
+    "related_tags": [
+      "薔薇+印"
+    ]
   },
   {
     "tag_name": "sunflower print",
-    "related_tags": []
+    "related_tags": [
+      "葵花+印"
+    ]
   },
   {
     "tag_name": "morning glory print",
-    "related_tags": []
+    "related_tags": [
+      "午前+映え+印"
+    ]
   },
   {
     "tag_name": "food print",
-    "related_tags": []
+    "related_tags": [
+      "喰いもの+印"
+    ]
   },
   {
     "tag_name": "fruit pattern",
-    "related_tags": []
+    "related_tags": [
+      "果+下敷"
+    ]
   },
   {
     "tag_name": "apple print",
-    "related_tags": []
+    "related_tags": [
+      "アップル+印"
+    ]
   },
   {
     "tag_name": "blueberry print",
-    "related_tags": []
+    "related_tags": [
+      "西洋酸の木+印"
+    ]
   },
   {
     "tag_name": "cherry print",
-    "related_tags": []
+    "related_tags": [
+      "チェリー+印"
+    ]
   },
   {
     "tag_name": "kiwi print",
-    "related_tags": []
+    "related_tags": [
+      "kiwi+印"
+    ]
   },
   {
     "tag_name": "lemon print",
-    "related_tags": []
+    "related_tags": [
+      "檸檬+印"
+    ]
   },
   {
     "tag_name": "pineapple print",
-    "related_tags": []
+    "related_tags": [
+      "鳳梨+印"
+    ]
   },
   {
     "tag_name": "orange print",
-    "related_tags": []
+    "related_tags": [
+      "炎色+印"
+    ]
   },
   {
     "tag_name": "strawberry print",
-    "related_tags": []
+    "related_tags": [
+      "ストロベリー+印"
+    ]
   },
   {
     "tag_name": "maple leaf print",
-    "related_tags": []
+    "related_tags": [
+      "松楓+一片+印"
+    ]
   },
   {
     "tag_name": "paw print",
-    "related_tags": []
+    "related_tags": [
+      "脚+印"
+    ]
   },
   {
     "tag_name": "petal print",
-    "related_tags": []
+    "related_tags": [
+      "一片+印"
+    ]
   },
   {
     "tag_name": "sparkle print",
-    "related_tags": []
+    "related_tags": [
+      "煌めき+印"
+    ]
   },
   {
     "tag_name": "triangle print",
-    "related_tags": []
+    "related_tags": [
+      "三角+印"
+    ]
   },
   {
     "tag_name": "space print",
@@ -38649,23 +43943,33 @@ return [
   },
   {
     "tag_name": "star print",
-    "related_tags": []
+    "related_tags": [
+      "巨擘+印"
+    ]
   },
   {
     "tag_name": "wave print",
-    "related_tags": []
+    "related_tags": [
+      "周波+印"
+    ]
   },
   {
     "tag_name": "wing print",
-    "related_tags": []
+    "related_tags": [
+      "羽+印"
+    ]
   },
   {
     "tag_name": "clothing cutout",
-    "related_tags": []
+    "related_tags": [
+      "衣+切り絵"
+    ]
   },
   {
     "tag_name": "dress flower",
-    "related_tags": []
+    "related_tags": [
+      "衣+花"
+    ]
   },
   {
     "tag_name": "frills",
@@ -38675,15 +43979,21 @@ return [
   },
   {
     "tag_name": "fur trim",
-    "related_tags": []
+    "related_tags": [
+      "毛革+刈"
+    ]
   },
   {
     "tag_name": "gathers",
-    "related_tags": []
+    "related_tags": [
+      "襞"
+    ]
   },
   {
     "tag_name": "gold trim",
-    "related_tags": []
+    "related_tags": [
+      "黄金+刈"
+    ]
   },
   {
     "tag_name": "lace trim",
@@ -38693,7 +44003,9 @@ return [
   },
   {
     "tag_name": "ribbon trim",
-    "related_tags": []
+    "related_tags": [
+      "リボン+刈"
+    ]
   },
   {
     "tag_name": "see-through",
@@ -38703,11 +44015,15 @@ return [
   },
   {
     "tag_name": "silver trim",
-    "related_tags": []
+    "related_tags": [
+      "白銀+刈"
+    ]
   },
   {
     "tag_name": "taut shirt",
-    "related_tags": []
+    "related_tags": [
+      "がっちり+shirt"
+    ]
   },
   {
     "tag_name": "torn clothes",
@@ -38747,7 +44063,9 @@ return [
   },
   {
     "tag_name": "actor",
-    "related_tags": []
+    "related_tags": [
+      "演技者"
+    ]
   },
   {
     "tag_name": "actress",
@@ -38757,7 +44075,9 @@ return [
   },
   {
     "tag_name": "alchemist",
-    "related_tags": []
+    "related_tags": [
+      "錬金術師"
+    ]
   },
   {
     "tag_name": "artist painter",
@@ -38773,7 +44093,9 @@ return [
   },
   {
     "tag_name": "athlete",
-    "related_tags": []
+    "related_tags": [
+      "運動家"
+    ]
   },
   {
     "tag_name": "bartender",
@@ -38783,7 +44105,9 @@ return [
   },
   {
     "tag_name": "bodyguard",
-    "related_tags": []
+    "related_tags": [
+      "警護"
+    ]
   },
   {
     "tag_name": "burglar",
@@ -38799,7 +44123,9 @@ return [
   },
   {
     "tag_name": "cashier",
-    "related_tags": []
+    "related_tags": [
+      "会計係"
+    ]
   },
   {
     "tag_name": "chef",
@@ -38809,7 +44135,9 @@ return [
   },
   {
     "tag_name": "chemist",
-    "related_tags": []
+    "related_tags": [
+      "化学者"
+    ]
   },
   {
     "tag_name": "conductor",
@@ -38819,7 +44147,9 @@ return [
   },
   {
     "tag_name": "construction worker",
-    "related_tags": []
+    "related_tags": [
+      "建設労働者"
+    ]
   },
   {
     "tag_name": "croupier",
@@ -38829,7 +44159,9 @@ return [
   },
   {
     "tag_name": "cyclist",
-    "related_tags": []
+    "related_tags": [
+      "サイクリスト"
+    ]
   },
   {
     "tag_name": "dentist",
@@ -38855,7 +44187,9 @@ return [
   },
   {
     "tag_name": "farmer",
-    "related_tags": []
+    "related_tags": [
+      "栽培家"
+    ]
   },
   {
     "tag_name": "firefighter",
@@ -38877,11 +44211,15 @@ return [
   },
   {
     "tag_name": "guard",
-    "related_tags": []
+    "related_tags": [
+      "宛"
+    ]
   },
   {
     "tag_name": "hacker",
-    "related_tags": []
+    "related_tags": [
+      "ハッカー"
+    ]
   },
   {
     "tag_name": "hikikomori",
@@ -38897,15 +44235,21 @@ return [
   },
   {
     "tag_name": "janitor",
-    "related_tags": []
+    "related_tags": [
+      "管理人"
+    ]
   },
   {
     "tag_name": "judge",
-    "related_tags": []
+    "related_tags": [
+      "鑑識家"
+    ]
   },
   {
     "tag_name": "librarian",
-    "related_tags": []
+    "related_tags": [
+      "司書"
+    ]
   },
   {
     "tag_name": "lifeguard",
@@ -38915,7 +44259,9 @@ return [
   },
   {
     "tag_name": "lumberjack",
-    "related_tags": []
+    "related_tags": [
+      "樵"
+    ]
   },
   {
     "tag_name": "merchant",
@@ -38925,15 +44271,21 @@ return [
   },
   {
     "tag_name": "miner",
-    "related_tags": []
+    "related_tags": [
+      "坑夫"
+    ]
   },
   {
     "tag_name": "monk",
-    "related_tags": []
+    "related_tags": [
+      "我僧"
+    ]
   },
   {
     "tag_name": "musician",
-    "related_tags": []
+    "related_tags": [
+      "音楽家"
+    ]
   },
   {
     "tag_name": "ninja",
@@ -38973,11 +44325,15 @@ return [
   },
   {
     "tag_name": "politician",
-    "related_tags": []
+    "related_tags": [
+      "為政家"
+    ]
   },
   {
     "tag_name": "priest",
-    "related_tags": []
+    "related_tags": [
+      "貴僧"
+    ]
   },
   {
     "tag_name": "prisoner",
@@ -38999,11 +44355,15 @@ return [
   },
   {
     "tag_name": "scientist",
-    "related_tags": []
+    "related_tags": [
+      "科学者"
+    ]
   },
   {
     "tag_name": "shepherd",
-    "related_tags": []
+    "related_tags": [
+      "牧人"
+    ]
   },
   {
     "tag_name": "slave",
@@ -39013,7 +44373,9 @@ return [
   },
   {
     "tag_name": "officer",
-    "related_tags": []
+    "related_tags": [
+      "運転士"
+    ]
   },
   {
     "tag_name": "standard-bearer",
@@ -39023,7 +44385,9 @@ return [
   },
   {
     "tag_name": "spy",
-    "related_tags": []
+    "related_tags": [
+      "回し者"
+    ]
   },
   {
     "tag_name": "stripper",
@@ -39175,23 +44539,33 @@ return [
   },
   {
     "tag_name": "cel shading",
-    "related_tags": []
+    "related_tags": [
+      "cel+阿"
+    ]
   },
   {
     "tag_name": "flat color",
-    "related_tags": []
+    "related_tags": [
+      "横に+艶"
+    ]
   },
   {
     "tag_name": "gradient",
-    "related_tags": []
+    "related_tags": [
+      "階調"
+    ]
   },
   {
     "tag_name": "ff gradient",
-    "related_tags": []
+    "related_tags": [
+      "ff+階調"
+    ]
   },
   {
     "tag_name": "high contrast",
-    "related_tags": []
+    "related_tags": [
+      "ハイ・コントラスト"
+    ]
   },
   {
     "tag_name": "inverted colors",
@@ -39207,27 +44581,39 @@ return [
   },
   {
     "tag_name": "color drain",
-    "related_tags": []
+    "related_tags": [
+      "艶+下水道"
+    ]
   },
   {
     "tag_name": "multiple monochrome",
-    "related_tags": []
+    "related_tags": [
+      "多重+一色"
+    ]
   },
   {
     "tag_name": "spot color",
-    "related_tags": []
+    "related_tags": [
+      "汚れ+艶"
+    ]
   },
   {
     "tag_name": "greyscale with colored background",
-    "related_tags": []
+    "related_tags": [
+      "グレー・スケール+以ちまして+色つき+背景"
+    ]
   },
   {
     "tag_name": "colored with greyscale background",
-    "related_tags": []
+    "related_tags": [
+      "色つき+以ちまして+グレー・スケール+背景"
+    ]
   },
   {
     "tag_name": "partially colored",
-    "related_tags": []
+    "related_tags": [
+      "生+色つき"
+    ]
   },
   {
     "tag_name": "dark",
@@ -39237,15 +44623,21 @@ return [
   },
   {
     "tag_name": "muted color",
-    "related_tags": []
+    "related_tags": [
+      "唖+艶"
+    ]
   },
   {
     "tag_name": "neon palette",
-    "related_tags": []
+    "related_tags": [
+      "neon+絵皿"
+    ]
   },
   {
     "tag_name": "pale color",
-    "related_tags": []
+    "related_tags": [
+      "薄色"
+    ]
   },
   {
     "tag_name": "pastel colors",
@@ -39261,7 +44653,9 @@ return [
   },
   {
     "tag_name": "rainbow order",
-    "related_tags": []
+    "related_tags": [
+      "虹+下知"
+    ]
   },
   {
     "tag_name": "sepia",
@@ -39271,7 +44665,9 @@ return [
   },
   {
     "tag_name": "color connection",
-    "related_tags": []
+    "related_tags": [
+      "艶+挨拶"
+    ]
   },
   {
     "tag_name": "colorized",
@@ -39323,7 +44719,9 @@ return [
   },
   {
     "tag_name": "Nightgown",
-    "related_tags": []
+    "related_tags": [
+      "寝衣"
+    ]
   },
   {
     "tag_name": "Boyshort panties",
@@ -39343,7 +44741,9 @@ return [
   },
   {
     "tag_name": "G-string",
-    "related_tags": []
+    "related_tags": [
+      "紐パン"
+    ]
   },
   {
     "tag_name": "Pearl thong",
@@ -39353,7 +44753,9 @@ return [
   },
   {
     "tag_name": "Male Underwear",
-    "related_tags": []
+    "related_tags": [
+      "牡+下衣"
+    ]
   },
   {
     "tag_name": "Boxers",
@@ -39393,7 +44795,9 @@ return [
   },
   {
     "tag_name": "Penis sheath",
-    "related_tags": []
+    "related_tags": [
+      "一物+鞘"
+    ]
   },
   {
     "tag_name": "Blindfold",
@@ -39403,11 +44807,15 @@ return [
   },
   {
     "tag_name": "Gimp suit",
-    "related_tags": []
+    "related_tags": [
+      "gimp+一重ね"
+    ]
   },
   {
     "tag_name": "bondage outfit",
-    "related_tags": []
+    "related_tags": [
+      "緊縛+衣裳"
+    ]
   },
   {
     "tag_name": "Latex",
@@ -39433,11 +44841,15 @@ return [
   },
   {
     "tag_name": "crotchless pants",
-    "related_tags": []
+    "related_tags": [
+      "crotchless+ズボン"
+    ]
   },
   {
     "tag_name": "crotchless swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "crotchless+水泳着"
+    ]
   },
   {
     "tag_name": "crotchless pantyhose",
@@ -39445,11 +44857,15 @@ return [
   },
   {
     "tag_name": "crotchless leotard",
-    "related_tags": []
+    "related_tags": [
+      "crotchless+レオタード"
+    ]
   },
   {
     "tag_name": "crotchless bloomers",
-    "related_tags": []
+    "related_tags": [
+      "crotchless+ズロース"
+    ]
   },
   {
     "tag_name": "crotchless buruma",
@@ -39457,11 +44873,15 @@ return [
   },
   {
     "tag_name": "Ass Cutout",
-    "related_tags": []
+    "related_tags": [
+      "太もも+切り絵"
+    ]
   },
   {
     "tag_name": "assless swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "assless+水泳着"
+    ]
   },
   {
     "tag_name": "backless panties",
@@ -39471,15 +44891,21 @@ return [
   },
   {
     "tag_name": "backless pants",
-    "related_tags": []
+    "related_tags": [
+      "バックレス+ズボン"
+    ]
   },
   {
     "tag_name": "breastless clothes",
-    "related_tags": []
+    "related_tags": [
+      "breastless+衣服"
+    ]
   },
   {
     "tag_name": "nippleless clothes",
-    "related_tags": []
+    "related_tags": [
+      "nippleless+衣服"
+    ]
   },
   {
     "tag_name": "cupless bikini",
@@ -39499,7 +44925,9 @@ return [
   },
   {
     "tag_name": "reverse outfit",
-    "related_tags": []
+    "related_tags": [
+      "逆+衣裳"
+    ]
   },
   {
     "tag_name": "reverse bunnysuit",
@@ -39527,15 +44955,21 @@ return [
   },
   {
     "tag_name": "ass expansion",
-    "related_tags": []
+    "related_tags": [
+      "太もも+拡充"
+    ]
   },
   {
     "tag_name": "bad ass",
-    "related_tags": []
+    "related_tags": [
+      "悪い+太もも"
+    ]
   },
   {
     "tag_name": "flat ass",
-    "related_tags": []
+    "related_tags": [
+      "横に+太もも"
+    ]
   },
   {
     "tag_name": "huge ass",
@@ -39545,7 +44979,9 @@ return [
   },
   {
     "tag_name": "spread ass",
-    "related_tags": []
+    "related_tags": [
+      "拡がり+太もも"
+    ]
   },
   {
     "tag_name": "butt crack",
@@ -39567,7 +45003,9 @@ return [
   },
   {
     "tag_name": "no anus",
-    "related_tags": []
+    "related_tags": [
+      "no+菊座"
+    ]
   },
   {
     "tag_name": "spread anus",
@@ -39577,23 +45015,33 @@ return [
   },
   {
     "tag_name": "tiny anus",
-    "related_tags": []
+    "related_tags": [
+      "可愛い+菊座"
+    ]
   },
   {
     "tag_name": "ass smack",
-    "related_tags": []
+    "related_tags": [
+      "太もも+平手うち"
+    ]
   },
   {
     "tag_name": "covering anus",
-    "related_tags": []
+    "related_tags": [
+      "掩護+菊座"
+    ]
   },
   {
     "tag_name": "covering ass",
-    "related_tags": []
+    "related_tags": [
+      "掩護+太もも"
+    ]
   },
   {
     "tag_name": "smelling ass",
-    "related_tags": []
+    "related_tags": [
+      "臭い+太もも"
+    ]
   },
   {
     "tag_name": "head on ass",
@@ -39609,15 +45057,21 @@ return [
   },
   {
     "tag_name": "ass on glass",
-    "related_tags": []
+    "related_tags": [
+      "太もも+on+水飲み"
+    ]
   },
   {
     "tag_name": "ass ache",
-    "related_tags": []
+    "related_tags": [
+      "太もも+傷み"
+    ]
   },
   {
     "tag_name": "ass shake",
-    "related_tags": []
+    "related_tags": [
+      "太もも+振り"
+    ]
   },
   {
     "tag_name": "ass visible through thighs",
@@ -39627,11 +45081,15 @@ return [
   },
   {
     "tag_name": "bouncing ass",
-    "related_tags": []
+    "related_tags": [
+      "ぷるぷる+太もも"
+    ]
   },
   {
     "tag_name": "x anus",
-    "related_tags": []
+    "related_tags": [
+      "x+菊座"
+    ]
   },
   {
     "tag_name": "goggles",
@@ -39647,7 +45105,9 @@ return [
   },
   {
     "tag_name": "aqua-framed eyewear",
-    "related_tags": []
+    "related_tags": [
+      "水色+架構+アイウェア"
+    ]
   },
   {
     "tag_name": "black-framed eyewear",
@@ -39657,35 +45117,51 @@ return [
   },
   {
     "tag_name": "blue-framed eyewear",
-    "related_tags": []
+    "related_tags": [
+      "重い+架構+アイウェア"
+    ]
   },
   {
     "tag_name": "brown-framed eyewear",
-    "related_tags": []
+    "related_tags": [
+      "赤銅色+架構+アイウェア"
+    ]
   },
   {
     "tag_name": "green-framed eyewear",
-    "related_tags": []
+    "related_tags": [
+      "産+架構+アイウェア"
+    ]
   },
   {
     "tag_name": "grey-framed eyewear",
-    "related_tags": []
+    "related_tags": [
+      "灰色+架構+アイウェア"
+    ]
   },
   {
     "tag_name": "magenta-framed eyewear",
-    "related_tags": []
+    "related_tags": [
+      "紅紫+架構+アイウェア"
+    ]
   },
   {
     "tag_name": "orange-framed eyewear",
-    "related_tags": []
+    "related_tags": [
+      "炎色+架構+アイウェア"
+    ]
   },
   {
     "tag_name": "pink-framed eyewear",
-    "related_tags": []
+    "related_tags": [
+      "退紅+架構+アイウェア"
+    ]
   },
   {
     "tag_name": "purple-framed eyewear",
-    "related_tags": []
+    "related_tags": [
+      "此の糸+架構+アイウェア"
+    ]
   },
   {
     "tag_name": "red-framed eyewear",
@@ -39695,79 +45171,117 @@ return [
   },
   {
     "tag_name": "white-framed eyewear",
-    "related_tags": []
+    "related_tags": [
+      "白+架構+アイウェア"
+    ]
   },
   {
     "tag_name": "two-tone eyewear",
-    "related_tags": []
+    "related_tags": [
+      "二+音調+アイウェア"
+    ]
   },
   {
     "tag_name": "yellow-framed eyewear",
-    "related_tags": []
+    "related_tags": [
+      "黄+架構+アイウェア"
+    ]
   },
   {
     "tag_name": "aqua-tinted eyewear",
-    "related_tags": []
+    "related_tags": [
+      "水色+色+アイウェア"
+    ]
   },
   {
     "tag_name": "blue-tinted eyewear",
-    "related_tags": []
+    "related_tags": [
+      "重い+色+アイウェア"
+    ]
   },
   {
     "tag_name": "brown-tinted eyewear",
-    "related_tags": []
+    "related_tags": [
+      "赤銅色+色+アイウェア"
+    ]
   },
   {
     "tag_name": "green-tinted eyewear",
-    "related_tags": []
+    "related_tags": [
+      "産+色+アイウェア"
+    ]
   },
   {
     "tag_name": "grey-tinted eyewear",
-    "related_tags": []
+    "related_tags": [
+      "灰色+色+アイウェア"
+    ]
   },
   {
     "tag_name": "multicolour-tinted eyewear",
-    "related_tags": []
+    "related_tags": [
+      "色とりどり+色+アイウェア"
+    ]
   },
   {
     "tag_name": "rainbow-tinted eyewear",
-    "related_tags": []
+    "related_tags": [
+      "虹+色+アイウェア"
+    ]
   },
   {
     "tag_name": "orange-tinted eyewear",
-    "related_tags": []
+    "related_tags": [
+      "炎色+色+アイウェア"
+    ]
   },
   {
     "tag_name": "pink-tinted eyewear",
-    "related_tags": []
+    "related_tags": [
+      "退紅+色+アイウェア"
+    ]
   },
   {
     "tag_name": "purple-tinted eyewear",
-    "related_tags": []
+    "related_tags": [
+      "此の糸+色+アイウェア"
+    ]
   },
   {
     "tag_name": "red-tinted eyewear",
-    "related_tags": []
+    "related_tags": [
+      "赭い+色+アイウェア"
+    ]
   },
   {
     "tag_name": "yellow-tinted eyewear",
-    "related_tags": []
+    "related_tags": [
+      "黄+色+アイウェア"
+    ]
   },
   {
     "tag_name": "animal-themed eyewear",
-    "related_tags": []
+    "related_tags": [
+      "獣+彼ら+アイウェア"
+    ]
   },
   {
     "tag_name": "food-themed eyewear",
-    "related_tags": []
+    "related_tags": [
+      "喰いもの+彼ら+アイウェア"
+    ]
   },
   {
     "tag_name": "heart-shaped eyewear",
-    "related_tags": []
+    "related_tags": [
+      "意気+影+アイウェア"
+    ]
   },
   {
     "tag_name": "rectangular eyewear",
-    "related_tags": []
+    "related_tags": [
+      "四角い+アイウェア"
+    ]
   },
   {
     "tag_name": "rimless eyewear",
@@ -39783,7 +45297,9 @@ return [
   },
   {
     "tag_name": "semi-circular eyewear",
-    "related_tags": []
+    "related_tags": [
+      "半ば+円い+アイウェア"
+    ]
   },
   {
     "tag_name": "semi-rimless eyewear",
@@ -39793,7 +45309,9 @@ return [
   },
   {
     "tag_name": "over-rim eyewear",
-    "related_tags": []
+    "related_tags": [
+      "越し+縁+アイウェア"
+    ]
   },
   {
     "tag_name": "under-rim eyewear",
@@ -39803,11 +45321,15 @@ return [
   },
   {
     "tag_name": "teardrop-framed glasses",
-    "related_tags": []
+    "related_tags": [
+      "teardrop+架構+眼鏡"
+    ]
   },
   {
     "tag_name": "triangular eyewear",
-    "related_tags": []
+    "related_tags": [
+      "triangular+アイウェア"
+    ]
   },
   {
     "tag_name": "tortoiseshell-framed eyewear",
@@ -39817,7 +45339,9 @@ return [
   },
   {
     "tag_name": "alternate eyewear",
-    "related_tags": []
+    "related_tags": [
+      "一つ置き+アイウェア"
+    ]
   },
   {
     "tag_name": "crooked eyewear",
@@ -39827,11 +45351,15 @@ return [
   },
   {
     "tag_name": "eyewear on head",
-    "related_tags": []
+    "related_tags": [
+      "アイウェア+on+髄"
+    ]
   },
   {
     "tag_name": "eyewear on headwear",
-    "related_tags": []
+    "related_tags": [
+      "アイウェア+on+headwear"
+    ]
   },
   {
     "tag_name": "eyewear removed",
@@ -39841,15 +45369,21 @@ return [
   },
   {
     "tag_name": "eyewear hang",
-    "related_tags": []
+    "related_tags": [
+      "アイウェア+骨"
+    ]
   },
   {
     "tag_name": "eyewear in mouth",
-    "related_tags": []
+    "related_tags": [
+      "アイウェア+in+口"
+    ]
   },
   {
     "tag_name": "holding eyewear",
-    "related_tags": []
+    "related_tags": [
+      "握把+アイウェア"
+    ]
   },
   {
     "tag_name": "looking for glasses",
@@ -39859,23 +45393,33 @@ return [
   },
   {
     "tag_name": "eyewear strap",
-    "related_tags": []
+    "related_tags": [
+      "アイウェア+緒"
+    ]
   },
   {
     "tag_name": "eyewear switch",
-    "related_tags": []
+    "related_tags": [
+      "アイウェア+開閉器"
+    ]
   },
   {
     "tag_name": "eyewear view",
-    "related_tags": []
+    "related_tags": [
+      "アイウェア+意見"
+    ]
   },
   {
     "tag_name": "hand on eyewear",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+アイウェア"
+    ]
   },
   {
     "tag_name": "removing eyewear",
-    "related_tags": []
+    "related_tags": [
+      "卸+アイウェア"
+    ]
   },
   {
     "tag_name": "3D glasses",
@@ -39885,7 +45429,9 @@ return [
   },
   {
     "tag_name": "aviator sunglasses",
-    "related_tags": []
+    "related_tags": [
+      "鳥人+黒眼鏡"
+    ]
   },
   {
     "tag_name": "coke-bottle glasses",
@@ -39895,15 +45441,21 @@ return [
   },
   {
     "tag_name": "diving mask",
-    "related_tags": []
+    "related_tags": [
+      "潜り+仮面"
+    ]
   },
   {
     "tag_name": "fancy glasses",
-    "related_tags": []
+    "related_tags": [
+      "空想+眼鏡"
+    ]
   },
   {
     "tag_name": "star-shaped eyewear",
-    "related_tags": []
+    "related_tags": [
+      "巨擘+影+アイウェア"
+    ]
   },
   {
     "tag_name": "funny glasses",
@@ -39917,11 +45469,15 @@ return [
   },
   {
     "tag_name": "Nodoka glasses",
-    "related_tags": []
+    "related_tags": [
+      "nodoka+眼鏡"
+    ]
   },
   {
     "tag_name": "opaque glasses",
-    "related_tags": []
+    "related_tags": [
+      "不透明+眼鏡"
+    ]
   },
   {
     "tag_name": "opera glasses",
@@ -39931,7 +45487,9 @@ return [
   },
   {
     "tag_name": "pince-nez",
-    "related_tags": []
+    "related_tags": [
+      "鼻めがね"
+    ]
   },
   {
     "tag_name": "safety glasses",
@@ -39947,11 +45505,15 @@ return [
   },
   {
     "tag_name": "shooting glasses",
-    "related_tags": []
+    "related_tags": [
+      "撮影+眼鏡"
+    ]
   },
   {
     "tag_name": "ski goggles",
-    "related_tags": []
+    "related_tags": [
+      "スキーの板+ゴーグル"
+    ]
   },
   {
     "tag_name": "X-ray glasses",
@@ -39961,15 +45523,21 @@ return [
   },
   {
     "tag_name": "Kamina shades",
-    "related_tags": []
+    "related_tags": [
+      "kamina+阿"
+    ]
   },
   {
     "tag_name": "shutter shades",
-    "related_tags": []
+    "related_tags": [
+      "戸+阿"
+    ]
   },
   {
     "tag_name": "Simon shades",
-    "related_tags": []
+    "related_tags": [
+      "simon+阿"
+    ]
   },
   {
     "tag_name": "air quotes",
@@ -39979,15 +45547,21 @@ return [
   },
   {
     "tag_name": "clenched hands",
-    "related_tags": []
+    "related_tags": [
+      "clenched+御手手"
+    ]
   },
   {
     "tag_name": "cupping hands",
-    "related_tags": []
+    "related_tags": [
+      "カッピング+御手手"
+    ]
   },
   {
     "tag_name": "double finger gun",
-    "related_tags": []
+    "related_tags": [
+      "陰武者+一指+銃"
+    ]
   },
   {
     "tag_name": "double v",
@@ -39997,23 +45571,33 @@ return [
   },
   {
     "tag_name": "finger counting",
-    "related_tags": []
+    "related_tags": [
+      "一指+勘定"
+    ]
   },
   {
     "tag_name": "fist bump",
-    "related_tags": []
+    "related_tags": [
+      "拳+凸"
+    ]
   },
   {
     "tag_name": "fist in hand",
-    "related_tags": []
+    "related_tags": [
+      "拳+in+一臂"
+    ]
   },
   {
     "tag_name": "hand glasses",
-    "related_tags": []
+    "related_tags": [
+      "一臂+眼鏡"
+    ]
   },
   {
     "tag_name": "heart arms",
-    "related_tags": []
+    "related_tags": [
+      "意気+干戈"
+    ]
   },
   {
     "tag_name": "heart hands duo",
@@ -40023,7 +45607,9 @@ return [
   },
   {
     "tag_name": "heart hands trio",
-    "related_tags": []
+    "related_tags": [
+      "意気+御手手+三羽がらす"
+    ]
   },
   {
     "tag_name": "high five",
@@ -40037,15 +45623,21 @@ return [
   },
   {
     "tag_name": "palm-fist greeting",
-    "related_tags": []
+    "related_tags": [
+      "手掌+拳+挨拶"
+    ]
   },
   {
     "tag_name": "palm-fist tap",
-    "related_tags": []
+    "related_tags": [
+      "手掌+拳+飲み口"
+    ]
   },
   {
     "tag_name": "penetration gesture",
-    "related_tags": []
+    "related_tags": [
+      "観入+為種"
+    ]
   },
   {
     "tag_name": "pinky swear",
@@ -40055,19 +45647,27 @@ return [
   },
   {
     "tag_name": "shadow puppet",
-    "related_tags": []
+    "related_tags": [
+      "阿+偶人"
+    ]
   },
   {
     "tag_name": "steepled fingers",
-    "related_tags": []
+    "related_tags": [
+      "尖塔+手先"
+    ]
   },
   {
     "tag_name": "x arms",
-    "related_tags": []
+    "related_tags": [
+      "x+干戈"
+    ]
   },
   {
     "tag_name": "index finger raised",
-    "related_tags": []
+    "related_tags": [
+      "見出し+一指+増俸"
+    ]
   },
   {
     "tag_name": "middle finger",
@@ -40077,27 +45677,39 @@ return [
   },
   {
     "tag_name": "pinky out",
-    "related_tags": []
+    "related_tags": [
+      "子指+死"
+    ]
   },
   {
     "tag_name": "pointing at self",
-    "related_tags": []
+    "related_tags": [
+      "ポインティング+at+自我"
+    ]
   },
   {
     "tag_name": "pointing down",
-    "related_tags": []
+    "related_tags": [
+      "下向き"
+    ]
   },
   {
     "tag_name": "pointing forward",
-    "related_tags": []
+    "related_tags": [
+      "ポインティング+差し出がましい"
+    ]
   },
   {
     "tag_name": "pointing up",
-    "related_tags": []
+    "related_tags": [
+      "上向き"
+    ]
   },
   {
     "tag_name": "kamina pose",
-    "related_tags": []
+    "related_tags": [
+      "kamina+格好"
+    ]
   },
   {
     "tag_name": "saturday night fever",
@@ -40107,7 +45719,9 @@ return [
   },
   {
     "tag_name": "slit throat (gesture)",
-    "related_tags": []
+    "related_tags": [
+      "割れ目+咽+(gesture)"
+    ]
   },
   {
     "tag_name": "thumbs down",
@@ -40129,7 +45743,9 @@ return [
   },
   {
     "tag_name": "crossed fingers",
-    "related_tags": []
+    "related_tags": [
+      "十字+手先"
+    ]
   },
   {
     "tag_name": "finger gun",
@@ -40151,15 +45767,21 @@ return [
   },
   {
     "tag_name": "inward v",
-    "related_tags": []
+    "related_tags": [
+      "人知れず+v"
+    ]
   },
   {
     "tag_name": "shaka sign",
-    "related_tags": []
+    "related_tags": [
+      "shaka+印"
+    ]
   },
   {
     "tag_name": "two-finger salute",
-    "related_tags": []
+    "related_tags": [
+      "二+一指+挨拶"
+    ]
   },
   {
     "tag_name": "\\m/",
@@ -40167,15 +45789,21 @@ return [
   },
   {
     "tag_name": "middle w",
-    "related_tags": []
+    "related_tags": [
+      "央+w"
+    ]
   },
   {
     "tag_name": "money gesture",
-    "related_tags": []
+    "related_tags": [
+      "円+為種"
+    ]
   },
   {
     "tag_name": "ok sign",
-    "related_tags": []
+    "related_tags": [
+      "ok+印"
+    ]
   },
   {
     "tag_name": "ohikaenasutte",
@@ -40183,15 +45811,21 @@ return [
   },
   {
     "tag_name": "open hand",
-    "related_tags": []
+    "related_tags": [
+      "平手"
+    ]
   },
   {
     "tag_name": "spread fingers",
-    "related_tags": []
+    "related_tags": [
+      "拡がり+手先"
+    ]
   },
   {
     "tag_name": "stop (gesture)",
-    "related_tags": []
+    "related_tags": [
+      "句切り+(gesture)"
+    ]
   },
   {
     "tag_name": "straight-arm salute",
@@ -40201,7 +45835,9 @@ return [
   },
   {
     "tag_name": "vulcan salute",
-    "related_tags": []
+    "related_tags": [
+      "vulcan+挨拶"
+    ]
   },
   {
     "tag_name": "fig sign",
@@ -40211,15 +45847,21 @@ return [
   },
   {
     "tag_name": "power fist",
-    "related_tags": []
+    "related_tags": [
+      "偉力+拳"
+    ]
   },
   {
     "tag_name": "raised fist",
-    "related_tags": []
+    "related_tags": [
+      "増俸+拳"
+    ]
   },
   {
     "tag_name": "cunnilingus gesture",
-    "related_tags": []
+    "related_tags": [
+      "口淫+為種"
+    ]
   },
   {
     "tag_name": "fellatio gesture",
@@ -40235,7 +45877,9 @@ return [
   },
   {
     "tag_name": "hat tip",
-    "related_tags": []
+    "related_tags": [
+      "帽+外れ"
+    ]
   },
   {
     "tag_name": "oral invitation",
@@ -40245,15 +45889,21 @@ return [
   },
   {
     "tag_name": "oral simulation",
-    "related_tags": []
+    "related_tags": [
+      "経口+疑似体験"
+    ]
   },
   {
     "tag_name": "shocker (gesture)",
-    "related_tags": []
+    "related_tags": [
+      "ショッカー+(gesture)"
+    ]
   },
   {
     "tag_name": "v over mouth",
-    "related_tags": []
+    "related_tags": [
+      "v+越し+口"
+    ]
   },
   {
     "tag_name": "v",
@@ -40273,7 +45923,9 @@ return [
   },
   {
     "tag_name": "curtsey",
-    "related_tags": []
+    "related_tags": [
+      "カーテシー"
+    ]
   },
   {
     "tag_name": "kuji-in",
@@ -40289,11 +45941,15 @@ return [
   },
   {
     "tag_name": "toe-point",
-    "related_tags": []
+    "related_tags": [
+      "指+一角"
+    ]
   },
   {
     "tag_name": "presenting",
-    "related_tags": []
+    "related_tags": [
+      "上"
+    ]
   },
   {
     "tag_name": "footjob",
@@ -40303,11 +45959,15 @@ return [
   },
   {
     "tag_name": "double footjob",
-    "related_tags": []
+    "related_tags": [
+      "陰武者+足こき"
+    ]
   },
   {
     "tag_name": "implied footjob",
-    "related_tags": []
+    "related_tags": [
+      "言外+足こき"
+    ]
   },
   {
     "tag_name": "cooperative footjob",
@@ -40323,15 +45983,21 @@ return [
   },
   {
     "tag_name": "licking foot",
-    "related_tags": []
+    "related_tags": [
+      "舐め舐め+下手"
+    ]
   },
   {
     "tag_name": "foot worship",
-    "related_tags": []
+    "related_tags": [
+      "下手+御参り"
+    ]
   },
   {
     "tag_name": "smelling feet",
-    "related_tags": []
+    "related_tags": [
+      "臭い+フィート"
+    ]
   },
   {
     "tag_name": "frottage",
@@ -40363,7 +46029,9 @@ return [
   },
   {
     "tag_name": "cooperative grinding",
-    "related_tags": []
+    "related_tags": [
+      "共同組合+研ぎ"
+    ]
   },
   {
     "tag_name": "kneepit sex",
@@ -40403,7 +46071,9 @@ return [
   },
   {
     "tag_name": "paizuri over clothes",
-    "related_tags": []
+    "related_tags": [
+      "paizuri+越し+衣服"
+    ]
   },
   {
     "tag_name": "paizuri on lap",
@@ -40431,7 +46101,9 @@ return [
   },
   {
     "tag_name": "stealth paizuri",
-    "related_tags": []
+    "related_tags": [
+      "忍び+paizuri"
+    ]
   },
   {
     "tag_name": "straddling paizuri",
@@ -40447,11 +46119,15 @@ return [
   },
   {
     "tag_name": "groping",
-    "related_tags": []
+    "related_tags": [
+      "手さぐり"
+    ]
   },
   {
     "tag_name": "ass grab",
-    "related_tags": []
+    "related_tags": [
+      "太もも+グラブ"
+    ]
   },
   {
     "tag_name": "grabbing another's breast",
@@ -40467,11 +46143,15 @@ return [
   },
   {
     "tag_name": "pectoral grab",
-    "related_tags": []
+    "related_tags": [
+      "pectoral+グラブ"
+    ]
   },
   {
     "tag_name": "guided pectoral grab",
-    "related_tags": []
+    "related_tags": [
+      "グラフィカル・ユーザ・インタフェース+pectoral+グラブ"
+    ]
   },
   {
     "tag_name": "nipple tweak",
@@ -40481,11 +46161,15 @@ return [
   },
   {
     "tag_name": "crotch grab",
-    "related_tags": []
+    "related_tags": [
+      "股+グラブ"
+    ]
   },
   {
     "tag_name": "guided crotch grab",
-    "related_tags": []
+    "related_tags": [
+      "グラフィカル・ユーザ・インタフェース+股+グラブ"
+    ]
   },
   {
     "tag_name": "grabbing own breast",
@@ -40495,7 +46179,9 @@ return [
   },
   {
     "tag_name": "torso grab",
-    "related_tags": []
+    "related_tags": [
+      "躯+グラブ"
+    ]
   },
   {
     "tag_name": "hairjob",
@@ -40511,7 +46197,9 @@ return [
   },
   {
     "tag_name": "caressing testicles",
-    "related_tags": []
+    "related_tags": [
+      "愛ぶ+陰核"
+    ]
   },
   {
     "tag_name": "double handjob",
@@ -40539,7 +46227,9 @@ return [
   },
   {
     "tag_name": "two-handed handjob",
-    "related_tags": []
+    "related_tags": [
+      "二+翻+handjob"
+    ]
   },
   {
     "tag_name": "clothed masturbation",
@@ -40549,7 +46239,9 @@ return [
   },
   {
     "tag_name": "crotch rub",
-    "related_tags": []
+    "related_tags": [
+      "股+擦れ"
+    ]
   },
   {
     "tag_name": "building sex",
@@ -40559,11 +46251,15 @@ return [
   },
   {
     "tag_name": "pillow sex",
-    "related_tags": []
+    "related_tags": [
+      "枕+営み"
+    ]
   },
   {
     "tag_name": "teddy bear sex",
-    "related_tags": []
+    "related_tags": [
+      "teddy+熊羆+営み"
+    ]
   },
   {
     "tag_name": "table sex",
@@ -40579,11 +46275,15 @@ return [
   },
   {
     "tag_name": "futanari masturbation",
-    "related_tags": []
+    "related_tags": [
+      "futanari+一人エッチ"
+    ]
   },
   {
     "tag_name": "implied masturbation",
-    "related_tags": []
+    "related_tags": [
+      "言外+一人エッチ"
+    ]
   },
   {
     "tag_name": "male masturbation",
@@ -40599,15 +46299,21 @@ return [
   },
   {
     "tag_name": "stealth masturbation",
-    "related_tags": []
+    "related_tags": [
+      "忍び+一人エッチ"
+    ]
   },
   {
     "tag_name": "tail insertion",
-    "related_tags": []
+    "related_tags": [
+      "尻っぽ+差し込み"
+    ]
   },
   {
     "tag_name": "oral",
-    "related_tags": []
+    "related_tags": [
+      "経口"
+    ]
   },
   {
     "tag_name": "anilingus",
@@ -40639,7 +46345,9 @@ return [
   },
   {
     "tag_name": "implied cunnilingus",
-    "related_tags": []
+    "related_tags": [
+      "言外+口淫"
+    ]
   },
   {
     "tag_name": "fellatio",
@@ -40655,7 +46363,9 @@ return [
   },
   {
     "tag_name": "cum swap",
-    "related_tags": []
+    "related_tags": [
+      "愛液+取り替え"
+    ]
   },
   {
     "tag_name": "deepthroat",
@@ -40665,7 +46375,9 @@ return [
   },
   {
     "tag_name": "implied fellatio",
-    "related_tags": []
+    "related_tags": [
+      "言外+吸茎"
+    ]
   },
   {
     "tag_name": "irrumatio",
@@ -40681,7 +46393,9 @@ return [
   },
   {
     "tag_name": "multiple penis fellatio",
-    "related_tags": []
+    "related_tags": [
+      "多重+一物+吸茎"
+    ]
   },
   {
     "tag_name": "hug and suck",
@@ -40715,15 +46429,21 @@ return [
   },
   {
     "tag_name": "bisexual female",
-    "related_tags": []
+    "related_tags": [
+      "両性的+妻"
+    ]
   },
   {
     "tag_name": "bisexual male",
-    "related_tags": []
+    "related_tags": [
+      "両性的+牡"
+    ]
   },
   {
     "tag_name": "daisy chain",
-    "related_tags": []
+    "related_tags": [
+      "デージー・チェーン"
+    ]
   },
   {
     "tag_name": "gangbang",
@@ -40739,7 +46459,9 @@ return [
   },
   {
     "tag_name": "triple penetration",
-    "related_tags": []
+    "related_tags": [
+      "三重+観入"
+    ]
   },
   {
     "tag_name": "love train",
@@ -40749,7 +46471,9 @@ return [
   },
   {
     "tag_name": "cooperative breast smother",
-    "related_tags": []
+    "related_tags": [
+      "共同組合+胸+smother"
+    ]
   },
   {
     "tag_name": "orgy",
@@ -40759,11 +46483,15 @@ return [
   },
   {
     "tag_name": "reverse spitroast",
-    "related_tags": []
+    "related_tags": [
+      "逆+spitroast"
+    ]
   },
   {
     "tag_name": "teamwork",
-    "related_tags": []
+    "related_tags": [
+      "チームワーク"
+    ]
   },
   {
     "tag_name": "threesome",
@@ -40773,23 +46501,33 @@ return [
   },
   {
     "tag_name": "MMF threesome",
-    "related_tags": []
+    "related_tags": [
+      "マネー・マネジメント・ファンド+三人組"
+    ]
   },
   {
     "tag_name": "FFM threesome",
-    "related_tags": []
+    "related_tags": [
+      "ffm+三人組"
+    ]
   },
   {
     "tag_name": "MMM threesome",
-    "related_tags": []
+    "related_tags": [
+      "mmm+三人組"
+    ]
   },
   {
     "tag_name": "FFF threesome",
-    "related_tags": []
+    "related_tags": [
+      "fff+三人組"
+    ]
   },
   {
     "tag_name": "animal insertion",
-    "related_tags": []
+    "related_tags": [
+      "獣+差し込み"
+    ]
   },
   {
     "tag_name": "cervical penetration",
@@ -40811,11 +46549,15 @@ return [
   },
   {
     "tag_name": "food insertion",
-    "related_tags": []
+    "related_tags": [
+      "喰いもの+差し込み"
+    ]
   },
   {
     "tag_name": "large insertion",
-    "related_tags": []
+    "related_tags": [
+      "巨いなる+差し込み"
+    ]
   },
   {
     "tag_name": "stomach bulge",
@@ -40825,7 +46567,9 @@ return [
   },
   {
     "tag_name": "multiple insertions",
-    "related_tags": []
+    "related_tags": [
+      "多重+差し込み"
+    ]
   },
   {
     "tag_name": "nipple penetration",
@@ -40845,11 +46589,15 @@ return [
   },
   {
     "tag_name": "vaginal object insertion",
-    "related_tags": []
+    "related_tags": [
+      "vaginal+宛+差し込み"
+    ]
   },
   {
     "tag_name": "anal object insertion",
-    "related_tags": []
+    "related_tags": [
+      "アナル+宛+差し込み"
+    ]
   },
   {
     "tag_name": "urethral insertion",
@@ -40865,7 +46613,9 @@ return [
   },
   {
     "tag_name": "anal fingering",
-    "related_tags": []
+    "related_tags": [
+      "アナル+手まん"
+    ]
   },
   {
     "tag_name": "prostate milking",
@@ -40875,15 +46625,21 @@ return [
   },
   {
     "tag_name": "fingering through clothes",
-    "related_tags": []
+    "related_tags": [
+      "手まん+越し+衣服"
+    ]
   },
   {
     "tag_name": "fingering through panties",
-    "related_tags": []
+    "related_tags": [
+      "手まん+越し+ショーツ"
+    ]
   },
   {
     "tag_name": "implied fingering",
-    "related_tags": []
+    "related_tags": [
+      "言外+手まん"
+    ]
   },
   {
     "tag_name": "fisting",
@@ -40899,7 +46655,9 @@ return [
   },
   {
     "tag_name": "self fisting",
-    "related_tags": []
+    "related_tags": [
+      "自我+フィスティング"
+    ]
   },
   {
     "tag_name": "after sex",
@@ -40909,35 +46667,51 @@ return [
   },
   {
     "tag_name": "after anal",
-    "related_tags": []
+    "related_tags": [
+      "以後+アナル"
+    ]
   },
   {
     "tag_name": "after buttjob",
-    "related_tags": []
+    "related_tags": [
+      "以後+buttjob"
+    ]
   },
   {
     "tag_name": "after fellatio",
-    "related_tags": []
+    "related_tags": [
+      "以後+吸茎"
+    ]
   },
   {
     "tag_name": "after fingering",
-    "related_tags": []
+    "related_tags": [
+      "以後+手まん"
+    ]
   },
   {
     "tag_name": "after frottage",
-    "related_tags": []
+    "related_tags": [
+      "以後+frottage"
+    ]
   },
   {
     "tag_name": "after insertion",
-    "related_tags": []
+    "related_tags": [
+      "以後+差し込み"
+    ]
   },
   {
     "tag_name": "after masturbation",
-    "related_tags": []
+    "related_tags": [
+      "以後+一人エッチ"
+    ]
   },
   {
     "tag_name": "after oral",
-    "related_tags": []
+    "related_tags": [
+      "以後+経口"
+    ]
   },
   {
     "tag_name": "after paizuri",
@@ -40947,23 +46721,33 @@ return [
   },
   {
     "tag_name": "after rape",
-    "related_tags": []
+    "related_tags": [
+      "以後+悪戯"
+    ]
   },
   {
     "tag_name": "after urethral",
-    "related_tags": []
+    "related_tags": [
+      "以後+urethral"
+    ]
   },
   {
     "tag_name": "after vaginal",
-    "related_tags": []
+    "related_tags": [
+      "以後+vaginal"
+    ]
   },
   {
     "tag_name": "afterglow",
-    "related_tags": []
+    "related_tags": [
+      "残光"
+    ]
   },
   {
     "tag_name": "clothed after sex",
-    "related_tags": []
+    "related_tags": [
+      "巾+以後+営み"
+    ]
   },
   {
     "tag_name": "anal",
@@ -40973,11 +46757,15 @@ return [
   },
   {
     "tag_name": "double anal",
-    "related_tags": []
+    "related_tags": [
+      "陰武者+アナル"
+    ]
   },
   {
     "tag_name": "imminent anal",
-    "related_tags": []
+    "related_tags": [
+      "急迫した+アナル"
+    ]
   },
   {
     "tag_name": "pegging",
@@ -40987,7 +46775,9 @@ return [
   },
   {
     "tag_name": "triple anal",
-    "related_tags": []
+    "related_tags": [
+      "三重+アナル"
+    ]
   },
   {
     "tag_name": "clothed sex",
@@ -40997,7 +46787,9 @@ return [
   },
   {
     "tag_name": "guided penetration",
-    "related_tags": []
+    "related_tags": [
+      "グラフィカル・ユーザ・インタフェース+観入"
+    ]
   },
   {
     "tag_name": "happy sex",
@@ -41019,11 +46811,15 @@ return [
   },
   {
     "tag_name": "navel sex",
-    "related_tags": []
+    "related_tags": [
+      "臍+営み"
+    ]
   },
   {
     "tag_name": "sex from behind",
-    "related_tags": []
+    "related_tags": [
+      "営み+からして+後"
+    ]
   },
   {
     "tag_name": "skull fucking",
@@ -41045,23 +46841,33 @@ return [
   },
   {
     "tag_name": "tentacle sex",
-    "related_tags": []
+    "related_tags": [
+      "触手+営み"
+    ]
   },
   {
     "tag_name": "underwater sex",
-    "related_tags": []
+    "related_tags": [
+      "水中+営み"
+    ]
   },
   {
     "tag_name": "double vaginal",
-    "related_tags": []
+    "related_tags": [
+      "陰武者+vaginal"
+    ]
   },
   {
     "tag_name": "imminent vaginal",
-    "related_tags": []
+    "related_tags": [
+      "急迫した+vaginal"
+    ]
   },
   {
     "tag_name": "triple vaginal",
-    "related_tags": []
+    "related_tags": [
+      "三重+vaginal"
+    ]
   },
   {
     "tag_name": "yaoi",
@@ -41077,7 +46883,9 @@ return [
   },
   {
     "tag_name": "implied yaoi",
-    "related_tags": []
+    "related_tags": [
+      "言外+yaoi"
+    ]
   },
   {
     "tag_name": "bulges touching",
@@ -41093,7 +46901,9 @@ return [
   },
   {
     "tag_name": "testicles touching",
-    "related_tags": []
+    "related_tags": [
+      "陰核+感動的"
+    ]
   },
   {
     "tag_name": "yuri",
@@ -41103,7 +46913,9 @@ return [
   },
   {
     "tag_name": "implied yuri",
-    "related_tags": []
+    "related_tags": [
+      "言外+百合"
+    ]
   },
   {
     "tag_name": "tribadism",
@@ -41149,7 +46961,9 @@ return [
   },
   {
     "tag_name": "leash pull",
-    "related_tags": []
+    "related_tags": [
+      "革ひも+引き"
+    ]
   },
   {
     "tag_name": "pet play",
@@ -41225,7 +47039,9 @@ return [
   },
   {
     "tag_name": "skinny",
-    "related_tags": []
+    "related_tags": [
+      "痩せぎす"
+    ]
   },
   {
     "tag_name": "breast expansion",
@@ -41283,7 +47099,9 @@ return [
   },
   {
     "tag_name": "breast bondage",
-    "related_tags": []
+    "related_tags": [
+      "胸+緊縛"
+    ]
   },
   {
     "tag_name": "predicament bondage",
@@ -41299,7 +47117,9 @@ return [
   },
   {
     "tag_name": "spreader bar",
-    "related_tags": []
+    "related_tags": [
+      "spreader+飲み屋"
+    ]
   },
   {
     "tag_name": "femdom",
@@ -41309,7 +47129,9 @@ return [
   },
   {
     "tag_name": "assertive female",
-    "related_tags": []
+    "related_tags": [
+      "威勢がいい+妻"
+    ]
   },
   {
     "tag_name": "clothed female nude male",
@@ -41337,7 +47159,9 @@ return [
   },
   {
     "tag_name": "public use",
-    "related_tags": []
+    "related_tags": [
+      "公用"
+    ]
   },
   {
     "tag_name": "tally",
@@ -41365,11 +47189,15 @@ return [
   },
   {
     "tag_name": "nipple torture",
-    "related_tags": []
+    "related_tags": [
+      "乳首+拷訊"
+    ]
   },
   {
     "tag_name": "nipple pull",
-    "related_tags": []
+    "related_tags": [
+      "乳首+引き"
+    ]
   },
   {
     "tag_name": "ball busting",
@@ -41379,7 +47207,9 @@ return [
   },
   {
     "tag_name": "tickle torture",
-    "related_tags": []
+    "related_tags": [
+      "擽り+拷訊"
+    ]
   },
   {
     "tag_name": "wax play",
@@ -41419,7 +47249,9 @@ return [
   },
   {
     "tag_name": "cum pool",
-    "related_tags": []
+    "related_tags": [
+      "愛液+球撞き"
+    ]
   },
   {
     "tag_name": "cum inflation",
@@ -41435,7 +47267,9 @@ return [
   },
   {
     "tag_name": "cum in clothes",
-    "related_tags": []
+    "related_tags": [
+      "愛液+in+衣服"
+    ]
   },
   {
     "tag_name": "cum in cup",
@@ -41451,7 +47285,9 @@ return [
   },
   {
     "tag_name": "cum in throat",
-    "related_tags": []
+    "related_tags": [
+      "愛液+in+咽"
+    ]
   },
   {
     "tag_name": "cum on tongue",
@@ -41461,31 +47297,45 @@ return [
   },
   {
     "tag_name": "cum in urethra",
-    "related_tags": []
+    "related_tags": [
+      "愛液+in+尿道"
+    ]
   },
   {
     "tag_name": "cum on body",
-    "related_tags": []
+    "related_tags": [
+      "愛液+on+遺骸"
+    ]
   },
   {
     "tag_name": "cum on armpits",
-    "related_tags": []
+    "related_tags": [
+      "愛液+on+脇"
+    ]
   },
   {
     "tag_name": "cum on ass",
-    "related_tags": []
+    "related_tags": [
+      "愛液+on+太もも"
+    ]
   },
   {
     "tag_name": "cum on back",
-    "related_tags": []
+    "related_tags": [
+      "愛液+on+蔭"
+    ]
   },
   {
     "tag_name": "cum on breasts",
-    "related_tags": []
+    "related_tags": [
+      "愛液+on+胸"
+    ]
   },
   {
     "tag_name": "cum on chest",
-    "related_tags": []
+    "related_tags": [
+      "愛液+on+胸"
+    ]
   },
   {
     "tag_name": "cum on feet",
@@ -41495,7 +47345,9 @@ return [
   },
   {
     "tag_name": "cum on fingers",
-    "related_tags": []
+    "related_tags": [
+      "愛液+on+手先"
+    ]
   },
   {
     "tag_name": "cum on hair",
@@ -41505,19 +47357,27 @@ return [
   },
   {
     "tag_name": "cum on pectorals",
-    "related_tags": []
+    "related_tags": [
+      "愛液+on+pectorals"
+    ]
   },
   {
     "tag_name": "cum on stomach",
-    "related_tags": []
+    "related_tags": [
+      "愛液+on+胃"
+    ]
   },
   {
     "tag_name": "cum in navel",
-    "related_tags": []
+    "related_tags": [
+      "愛液+in+臍"
+    ]
   },
   {
     "tag_name": "cum on clothes",
-    "related_tags": []
+    "related_tags": [
+      "愛液+on+衣服"
+    ]
   },
   {
     "tag_name": "cum on eyewear",
@@ -41527,7 +47387,9 @@ return [
   },
   {
     "tag_name": "cum on food",
-    "related_tags": []
+    "related_tags": [
+      "愛液+on+喰いもの"
+    ]
   },
   {
     "tag_name": "ejaculation",
@@ -41577,7 +47439,9 @@ return [
   },
   {
     "tag_name": "public indecency",
-    "related_tags": []
+    "related_tags": [
+      "公然わいせつ"
+    ]
   },
   {
     "tag_name": "public nudity",
@@ -41593,7 +47457,9 @@ return [
   },
   {
     "tag_name": "public vibrator",
-    "related_tags": []
+    "related_tags": [
+      "顕+振動子"
+    ]
   },
   {
     "tag_name": "stealth sex",
@@ -41609,7 +47475,9 @@ return [
   },
   {
     "tag_name": "cuckolding",
-    "related_tags": []
+    "related_tags": [
+      "寝取られ"
+    ]
   },
   {
     "tag_name": "netorare",
@@ -41637,7 +47505,9 @@ return [
   },
   {
     "tag_name": "walk-in",
-    "related_tags": []
+    "related_tags": [
+      "ウォークイン"
+    ]
   },
   {
     "tag_name": ":>=",
@@ -41665,7 +47535,9 @@ return [
   },
   {
     "tag_name": "naughty face",
-    "related_tags": []
+    "related_tags": [
+      "行儀悪い+逢着"
+    ]
   },
   {
     "tag_name": "crossdressing",
@@ -41693,7 +47565,9 @@ return [
   },
   {
     "tag_name": "implied futanari",
-    "related_tags": []
+    "related_tags": [
+      "言外+futanari"
+    ]
   },
   {
     "tag_name": "full-package futanari",
@@ -41745,19 +47619,27 @@ return [
   },
   {
     "tag_name": "futa with newhalf",
-    "related_tags": []
+    "related_tags": [
+      "futa+以ちまして+newhalf"
+    ]
   },
   {
     "tag_name": "newhalf with female",
-    "related_tags": []
+    "related_tags": [
+      "newhalf+以ちまして+妻"
+    ]
   },
   {
     "tag_name": "newhalf with male",
-    "related_tags": []
+    "related_tags": [
+      "newhalf+以ちまして+牡"
+    ]
   },
   {
     "tag_name": "newhalf with newhalf",
-    "related_tags": []
+    "related_tags": [
+      "newhalf+以ちまして+newhalf"
+    ]
   },
   {
     "tag_name": "incest",
@@ -41795,7 +47677,9 @@ return [
   },
   {
     "tag_name": "compensated molestation",
-    "related_tags": []
+    "related_tags": [
+      "compensated+悪戯"
+    ]
   },
   {
     "tag_name": "smother",
@@ -41809,7 +47693,9 @@ return [
   },
   {
     "tag_name": "internal cumshot",
-    "related_tags": []
+    "related_tags": [
+      "国内+cumshot"
+    ]
   },
   {
     "tag_name": "x-ray",
@@ -41829,7 +47715,9 @@ return [
   },
   {
     "tag_name": "anatomy",
-    "related_tags": []
+    "related_tags": [
+      "解剖学"
+    ]
   },
   {
     "tag_name": "conjoined",
@@ -41857,7 +47745,9 @@ return [
   },
   {
     "tag_name": "Knotting",
-    "related_tags": []
+    "related_tags": [
+      "一結び"
+    ]
   },
   {
     "tag_name": "condom",
@@ -41921,7 +47811,9 @@ return [
   },
   {
     "tag_name": "human furniture",
-    "related_tags": []
+    "related_tags": [
+      "血の通った+家具"
+    ]
   },
   {
     "tag_name": "forniphilia",
@@ -41971,23 +47863,33 @@ return [
   },
   {
     "tag_name": "smelling clothes",
-    "related_tags": []
+    "related_tags": [
+      "臭い+衣服"
+    ]
   },
   {
     "tag_name": "smelling underwear",
-    "related_tags": []
+    "related_tags": [
+      "臭い+下衣"
+    ]
   },
   {
     "tag_name": "smelling pantyhose",
-    "related_tags": []
+    "related_tags": [
+      "臭い+pantyhose"
+    ]
   },
   {
     "tag_name": "consensual tentacles",
-    "related_tags": []
+    "related_tags": [
+      "consensual+触手"
+    ]
   },
   {
     "tag_name": "tentacle gagged",
-    "related_tags": []
+    "related_tags": [
+      "触手+gagged"
+    ]
   },
   {
     "tag_name": "tentaclejob",
@@ -41995,19 +47897,27 @@ return [
   },
   {
     "tag_name": "tentacles in thighhighs",
-    "related_tags": []
+    "related_tags": [
+      "触手+in+thighhighs"
+    ]
   },
   {
     "tag_name": "tentacles under clothes",
-    "related_tags": []
+    "related_tags": [
+      "触手+下+衣服"
+    ]
   },
   {
     "tag_name": "tentacles on male",
-    "related_tags": []
+    "related_tags": [
+      "触手+on+牡"
+    ]
   },
   {
     "tag_name": "too many tentacles",
-    "related_tags": []
+    "related_tags": [
+      "復+壱百萬+触手"
+    ]
   },
   {
     "tag_name": "vore",
@@ -42041,11 +47951,15 @@ return [
   },
   {
     "tag_name": "golden shower",
-    "related_tags": []
+    "related_tags": [
+      "黄金+一雨"
+    ]
   },
   {
     "tag_name": "peeing on viewer",
-    "related_tags": []
+    "related_tags": [
+      "小便+on+見物客"
+    ]
   },
   {
     "tag_name": "have to pee",
@@ -42061,7 +47975,9 @@ return [
   },
   {
     "tag_name": "double amputee",
-    "related_tags": []
+    "related_tags": [
+      "陰武者+切断患者"
+    ]
   },
   {
     "tag_name": "quadruple amputee",
@@ -42071,7 +47987,9 @@ return [
   },
   {
     "tag_name": "triple amputee",
-    "related_tags": []
+    "related_tags": [
+      "三重+切断患者"
+    ]
   },
   {
     "tag_name": "weapon",
@@ -42111,7 +48029,9 @@ return [
   },
   {
     "tag_name": "pain",
-    "related_tags": []
+    "related_tags": [
+      "苦"
+    ]
   },
   {
     "tag_name": "blood",
@@ -42127,7 +48047,9 @@ return [
   },
   {
     "tag_name": "blood on bandages",
-    "related_tags": []
+    "related_tags": [
+      "血+on+縛帯"
+    ]
   },
   {
     "tag_name": "bruise",
@@ -42137,7 +48059,9 @@ return [
   },
   {
     "tag_name": "bruised eye",
-    "related_tags": []
+    "related_tags": [
+      "挫傷+眼"
+    ]
   },
   {
     "tag_name": "cuts",
@@ -42159,7 +48083,9 @@ return [
   },
   {
     "tag_name": "missing eye",
-    "related_tags": []
+    "related_tags": [
+      "欠落+眼"
+    ]
   },
   {
     "tag_name": "nosebleed",
@@ -42175,7 +48101,9 @@ return [
   },
   {
     "tag_name": "scratches",
-    "related_tags": []
+    "related_tags": [
+      "引っかき傷"
+    ]
   },
   {
     "tag_name": "stitches",
@@ -42185,15 +48113,21 @@ return [
   },
   {
     "tag_name": "scrape",
-    "related_tags": []
+    "related_tags": [
+      "擦れ"
+    ]
   },
   {
     "tag_name": "sprain",
-    "related_tags": []
+    "related_tags": [
+      "筋違い"
+    ]
   },
   {
     "tag_name": "stab",
-    "related_tags": []
+    "related_tags": [
+      "一突き"
+    ]
   },
   {
     "tag_name": "impaled",
@@ -42209,7 +48143,9 @@ return [
   },
   {
     "tag_name": "track marks",
-    "related_tags": []
+    "related_tags": [
+      "軌道+成績"
+    ]
   },
   {
     "tag_name": "bandaid",
@@ -42225,39 +48161,57 @@ return [
   },
   {
     "tag_name": "bandaid on arm",
-    "related_tags": []
+    "related_tags": [
+      "カットバン+on+腕"
+    ]
   },
   {
     "tag_name": "bandaid on leg",
-    "related_tags": []
+    "related_tags": [
+      "カットバン+on+脚"
+    ]
   },
   {
     "tag_name": "bandaid on face",
-    "related_tags": []
+    "related_tags": [
+      "カットバン+on+逢着"
+    ]
   },
   {
     "tag_name": "bandaid on cheek",
-    "related_tags": []
+    "related_tags": [
+      "カットバン+on+心臓"
+    ]
   },
   {
     "tag_name": "bandaid on ear",
-    "related_tags": []
+    "related_tags": [
+      "カットバン+on+耳"
+    ]
   },
   {
     "tag_name": "bandaid on forehead",
-    "related_tags": []
+    "related_tags": [
+      "カットバン+on+額"
+    ]
   },
   {
     "tag_name": "bandaid on nose",
-    "related_tags": []
+    "related_tags": [
+      "カットバン+on+鼻"
+    ]
   },
   {
     "tag_name": "bandage on face",
-    "related_tags": []
+    "related_tags": [
+      "縛帯+on+逢着"
+    ]
   },
   {
     "tag_name": "bandage over one eye",
-    "related_tags": []
+    "related_tags": [
+      "縛帯+越し+一+眼"
+    ]
   },
   {
     "tag_name": "eyepatch",
@@ -42267,11 +48221,15 @@ return [
   },
   {
     "tag_name": "sling (medical)",
-    "related_tags": []
+    "related_tags": [
+      "三角巾+(medical)"
+    ]
   },
   {
     "tag_name": "first aid",
-    "related_tags": []
+    "related_tags": [
+      "応急"
+    ]
   },
   {
     "tag_name": "intravenous drip",
@@ -42281,11 +48239,15 @@ return [
   },
   {
     "tag_name": "surgery",
-    "related_tags": []
+    "related_tags": [
+      "外科"
+    ]
   },
   {
     "tag_name": "drugs",
-    "related_tags": []
+    "related_tags": [
+      "医薬品"
+    ]
   },
   {
     "tag_name": "guro",
@@ -42295,11 +48257,15 @@ return [
   },
   {
     "tag_name": "organs",
-    "related_tags": []
+    "related_tags": [
+      "機関"
+    ]
   },
   {
     "tag_name": "ascii",
-    "related_tags": []
+    "related_tags": [
+      "情報交換用アメリカ標準コード"
+    ]
   },
   {
     "tag_name": "keytar",
@@ -42313,7 +48279,9 @@ return [
   },
   {
     "tag_name": "electric_keyboard",
-    "related_tags": []
+    "related_tags": [
+      "電気式+キーボード"
+    ]
   },
   {
     "tag_name": "fighting games",
@@ -42357,11 +48325,15 @@ return [
   },
   {
     "tag_name": "BlazBlue: Calamity Trigger",
-    "related_tags": []
+    "related_tags": [
+      "blazblue:+悪事+火種"
+    ]
   },
   {
     "tag_name": "BlazBlue: Continuum Shift",
-    "related_tags": []
+    "related_tags": [
+      "blazblue:+連続体+移し替え"
+    ]
   },
   {
     "tag_name": "BlazBlue: Chronophantasma",
@@ -42369,7 +48341,9 @@ return [
   },
   {
     "tag_name": "BlazBlue: Central Fiction",
-    "related_tags": []
+    "related_tags": [
+      "blazblue:+最も重要+仮構"
+    ]
   },
   {
     "tag_name": "BlazBlue: Cross Tag Battle",
@@ -42453,7 +48427,9 @@ return [
   },
   {
     "tag_name": "Eternal Fighter Zero",
-    "related_tags": []
+    "related_tags": [
+      "永の+格闘家+跳び"
+    ]
   },
   {
     "tag_name": "Fatal Fury",
@@ -42469,7 +48445,9 @@ return [
   },
   {
     "tag_name": "Fate/unlimited codes",
-    "related_tags": []
+    "related_tags": [
+      "fate/unlimited+化学的酸素要求量"
+    ]
   },
   {
     "tag_name": "Fighter's History",
@@ -42497,11 +48475,15 @@ return [
   },
   {
     "tag_name": "Savage Reign",
-    "related_tags": []
+    "related_tags": [
+      "夷人+御世"
+    ]
   },
   {
     "tag_name": "Kizuna Encounter",
-    "related_tags": []
+    "related_tags": [
+      "kizuna+逢着"
+    ]
   },
   {
     "tag_name": "Galaxy Fight",
@@ -42523,19 +48505,27 @@ return [
   },
   {
     "tag_name": "Guilty Gear Petit",
-    "related_tags": []
+    "related_tags": [
+      "ギルティ+索具+petit"
+    ]
   },
   {
     "tag_name": "Guilty Gear XX",
-    "related_tags": []
+    "related_tags": [
+      "ギルティ+索具+xx"
+    ]
   },
   {
     "tag_name": "Guilty Gear XX Accent Core",
-    "related_tags": []
+    "related_tags": [
+      "ギルティ+索具+xx+強音+核"
+    ]
   },
   {
     "tag_name": "Guilty Gear Isuka",
-    "related_tags": []
+    "related_tags": [
+      "ギルティ+索具+isuka"
+    ]
   },
   {
     "tag_name": "Guilty Gear Xrd",
@@ -42557,7 +48547,9 @@ return [
   },
   {
     "tag_name": "Groove on Fight",
-    "related_tags": []
+    "related_tags": [
+      "溝+on+軍"
+    ]
   },
   {
     "tag_name": "Matrimelee",
@@ -42581,7 +48573,9 @@ return [
   },
   {
     "tag_name": "Hopeless Masquerade",
-    "related_tags": []
+    "related_tags": [
+      "暗い+仮装"
+    ]
   },
   {
     "tag_name": "Touhou Gouyoku Ibun",
@@ -42591,7 +48585,9 @@ return [
   },
   {
     "tag_name": "Injustice: Gods Among Us",
-    "related_tags": []
+    "related_tags": [
+      "injustice:+諸神+間+us"
+    ]
   },
   {
     "tag_name": "Jojo no Kimyou na Bouken: All Star Battle",
@@ -42607,7 +48603,9 @@ return [
   },
   {
     "tag_name": "Jump Super Stars",
-    "related_tags": []
+    "related_tags": [
+      "急伸+超がつく+星々"
+    ]
   },
   {
     "tag_name": "Shiritsu Justice Gakuen",
@@ -42675,15 +48673,21 @@ return [
   },
   {
     "tag_name": "The King of Fighters XI",
-    "related_tags": []
+    "related_tags": [
+      "the+王+of+格闘家+xi"
+    ]
   },
   {
     "tag_name": "The King of Fighters XII",
-    "related_tags": []
+    "related_tags": [
+      "the+王+of+格闘家+xii"
+    ]
   },
   {
     "tag_name": "The King of Fighters XIII",
-    "related_tags": []
+    "related_tags": [
+      "the+王+of+格闘家+xiii"
+    ]
   },
   {
     "tag_name": "The King of Fighters XIV",
@@ -42699,11 +48703,15 @@ return [
   },
   {
     "tag_name": "Maximum Impact II",
-    "related_tags": []
+    "related_tags": [
+      "極大+衝撃+ii"
+    ]
   },
   {
     "tag_name": "The King of Fighters Neowave",
-    "related_tags": []
+    "related_tags": [
+      "the+王+of+格闘家+neowave"
+    ]
   },
   {
     "tag_name": "Max Anarchy",
@@ -42747,12 +48755,14 @@ return [
   },
   {
     "tag_name": "Mortal Kombat vs DC Universe",
-    "related_tags": []
+    "related_tags": [
+      "死すべき+kombat+vs+dc+宇宙"
+    ]
   },
   {
     "tag_name": "M.U.G.E.N",
     "related_tags": [
-      "m.u.g.e.n"
+      "MUGEN"
     ]
   },
   {
@@ -42779,7 +48789,9 @@ return [
   },
   {
     "tag_name": "Power Stone",
-    "related_tags": []
+    "related_tags": [
+      "偉力+核"
+    ]
   },
   {
     "tag_name": "Psychic Force",
@@ -42801,7 +48813,9 @@ return [
   },
   {
     "tag_name": "SNK Gals Fighters",
-    "related_tags": []
+    "related_tags": [
+      "snk+ギャル+格闘家"
+    ]
   },
   {
     "tag_name": "SNK Heroines: Tag Team Frenzy",
@@ -43007,7 +49021,9 @@ return [
   },
   {
     "tag_name": "Marvel Super Heroes vs. Street Fighter",
-    "related_tags": []
+    "related_tags": [
+      "奇跡+超がつく+偉丈夫+対+辻+格闘家"
+    ]
   },
   {
     "tag_name": "Marvel vs. Capcom: Clash of Super Heroes",
@@ -43035,7 +49051,9 @@ return [
   },
   {
     "tag_name": "SNK vs. Capcom: SVC Chaos",
-    "related_tags": []
+    "related_tags": [
+      "snk+対+capcom:+相手先選択接続+混濁"
+    ]
   },
   {
     "tag_name": "Street Fighter X Tekken",
@@ -43087,51 +49105,75 @@ return [
   },
   {
     "tag_name": "aqua headwear",
-    "related_tags": []
+    "related_tags": [
+      "水色+headwear"
+    ]
   },
   {
     "tag_name": "black headwear",
-    "related_tags": []
+    "related_tags": [
+      "暗然+headwear"
+    ]
   },
   {
     "tag_name": "blue headwear",
-    "related_tags": []
+    "related_tags": [
+      "重い+headwear"
+    ]
   },
   {
     "tag_name": "brown headwear",
-    "related_tags": []
+    "related_tags": [
+      "赤銅色+headwear"
+    ]
   },
   {
     "tag_name": "green headwear",
-    "related_tags": []
+    "related_tags": [
+      "産+headwear"
+    ]
   },
   {
     "tag_name": "grey headwear",
-    "related_tags": []
+    "related_tags": [
+      "灰色+headwear"
+    ]
   },
   {
     "tag_name": "orange headwear",
-    "related_tags": []
+    "related_tags": [
+      "炎色+headwear"
+    ]
   },
   {
     "tag_name": "pink headwear",
-    "related_tags": []
+    "related_tags": [
+      "退紅+headwear"
+    ]
   },
   {
     "tag_name": "purple headwear",
-    "related_tags": []
+    "related_tags": [
+      "此の糸+headwear"
+    ]
   },
   {
     "tag_name": "red headwear",
-    "related_tags": []
+    "related_tags": [
+      "赭い+headwear"
+    ]
   },
   {
     "tag_name": "white headwear",
-    "related_tags": []
+    "related_tags": [
+      "白+headwear"
+    ]
   },
   {
     "tag_name": "yellow headwear",
-    "related_tags": []
+    "related_tags": [
+      "黄+headwear"
+    ]
   },
   {
     "tag_name": "budenovka",
@@ -43163,15 +49205,21 @@ return [
   },
   {
     "tag_name": "Mao cap",
-    "related_tags": []
+    "related_tags": [
+      "モノアミン酸化酵素+口金"
+    ]
   },
   {
     "tag_name": "patrol cap",
-    "related_tags": []
+    "related_tags": [
+      "警ら+口金"
+    ]
   },
   {
     "tag_name": "peaked cap",
-    "related_tags": []
+    "related_tags": [
+      "岳+口金"
+    ]
   },
   {
     "tag_name": "rogatywka",
@@ -43201,15 +49249,21 @@ return [
   },
   {
     "tag_name": "bucket hat",
-    "related_tags": []
+    "related_tags": [
+      "バケット・ハット"
+    ]
   },
   {
     "tag_name": "campaign hat",
-    "related_tags": []
+    "related_tags": [
+      "運動+帽"
+    ]
   },
   {
     "tag_name": "cloche hat",
-    "related_tags": []
+    "related_tags": [
+      "cloche+帽"
+    ]
   },
   {
     "tag_name": "cowboy hat",
@@ -43271,11 +49325,15 @@ return [
   },
   {
     "tag_name": "female service cap",
-    "related_tags": []
+    "related_tags": [
+      "妻+扱い+口金"
+    ]
   },
   {
     "tag_name": "flat cap",
-    "related_tags": []
+    "related_tags": [
+      "鳥打ち帽"
+    ]
   },
   {
     "tag_name": "gat",
@@ -43297,11 +49355,15 @@ return [
   },
   {
     "tag_name": "pirate hat",
-    "related_tags": []
+    "related_tags": [
+      "海賊+帽"
+    ]
   },
   {
     "tag_name": "porkpie hat",
-    "related_tags": []
+    "related_tags": [
+      "porkpie+帽"
+    ]
   },
   {
     "tag_name": "shampoo hat",
@@ -43327,23 +49389,33 @@ return [
   },
   {
     "tag_name": "mini top hat",
-    "related_tags": []
+    "related_tags": [
+      "mini+曲独楽+帽"
+    ]
   },
   {
     "tag_name": "tricorne",
-    "related_tags": []
+    "related_tags": [
+      "三角帽"
+    ]
   },
   {
     "tag_name": "witch hat",
-    "related_tags": []
+    "related_tags": [
+      "鬼ばば+帽"
+    ]
   },
   {
     "tag_name": "mini witch hat",
-    "related_tags": []
+    "related_tags": [
+      "mini+鬼ばば+帽"
+    ]
   },
   {
     "tag_name": "wizard hat",
-    "related_tags": []
+    "related_tags": [
+      "鬼才+帽"
+    ]
   },
   {
     "tag_name": "papakha",
@@ -43363,7 +49435,9 @@ return [
   },
   {
     "tag_name": "dixie cup hat",
-    "related_tags": []
+    "related_tags": [
+      "ディキシー+ホール+帽"
+    ]
   },
   {
     "tag_name": "dunce cap",
@@ -43387,19 +49461,27 @@ return [
   },
   {
     "tag_name": "fez hat",
-    "related_tags": []
+    "related_tags": [
+      "トルコ帽+帽"
+    ]
   },
   {
     "tag_name": "fur hat",
-    "related_tags": []
+    "related_tags": [
+      "毛帽子"
+    ]
   },
   {
     "tag_name": "bearskin cap",
-    "related_tags": []
+    "related_tags": [
+      "bearskin+口金"
+    ]
   },
   {
     "tag_name": "garrison cap",
-    "related_tags": []
+    "related_tags": [
+      "衛兵+口金"
+    ]
   },
   {
     "tag_name": "kippah",
@@ -43425,7 +49507,9 @@ return [
   },
   {
     "tag_name": "nightcap",
-    "related_tags": []
+    "related_tags": [
+      "寝酒"
+    ]
   },
   {
     "tag_name": "nurse cap",
@@ -43435,7 +49519,9 @@ return [
   },
   {
     "tag_name": "party hat",
-    "related_tags": []
+    "related_tags": [
+      "一行+帽"
+    ]
   },
   {
     "tag_name": "pillbox hat",
@@ -43451,7 +49537,9 @@ return [
   },
   {
     "tag_name": "sailor hat",
-    "related_tags": []
+    "related_tags": [
+      "海員+帽"
+    ]
   },
   {
     "tag_name": "sajkaca",
@@ -43465,7 +49553,9 @@ return [
   },
   {
     "tag_name": "mini santa hat",
-    "related_tags": []
+    "related_tags": [
+      "mini+サンタ+帽"
+    ]
   },
   {
     "tag_name": "songkok",
@@ -43495,43 +49585,63 @@ return [
   },
   {
     "tag_name": "animal hat",
-    "related_tags": []
+    "related_tags": [
+      "獣+帽"
+    ]
   },
   {
     "tag_name": "hat with ears",
-    "related_tags": []
+    "related_tags": [
+      "帽+以ちまして+耳底"
+    ]
   },
   {
     "tag_name": "deviruchi hat",
-    "related_tags": []
+    "related_tags": [
+      "deviruchi+帽"
+    ]
   },
   {
     "tag_name": "bear hat",
-    "related_tags": []
+    "related_tags": [
+      "熊羆+帽"
+    ]
   },
   {
     "tag_name": "rabbit hat",
-    "related_tags": []
+    "related_tags": [
+      "占め子+帽"
+    ]
   },
   {
     "tag_name": "fox hat",
-    "related_tags": []
+    "related_tags": [
+      "こんこん+帽"
+    ]
   },
   {
     "tag_name": "pelt",
-    "related_tags": []
+    "related_tags": [
+      "獣皮"
+    ]
   },
   {
     "tag_name": "penguin hat",
-    "related_tags": []
+    "related_tags": [
+      "企鵝+帽"
+    ]
   },
   {
     "tag_name": "wolf hat",
-    "related_tags": []
+    "related_tags": [
+      "真神+帽"
+    ]
   },
   {
     "tag_name": "pumpkin hat",
-    "related_tags": []
+    "related_tags": [
+      "唐茄子+帽"
+    ]
   },
   {
     "tag_name": "Helmets",
@@ -43541,7 +49651,9 @@ return [
   },
   {
     "tag_name": "adrian helmet",
-    "related_tags": []
+    "related_tags": [
+      "adrian+鉄帽"
+    ]
   },
   {
     "tag_name": "Altyn helmet",
@@ -43551,23 +49663,33 @@ return [
   },
   {
     "tag_name": "American football helmet",
-    "related_tags": []
+    "related_tags": [
+      "米利堅+football+鉄帽"
+    ]
   },
   {
     "tag_name": "animal ears helmet",
-    "related_tags": []
+    "related_tags": [
+      "獣+耳底+鉄帽"
+    ]
   },
   {
     "tag_name": "baseball helmet",
-    "related_tags": []
+    "related_tags": [
+      "野球+鉄帽"
+    ]
   },
   {
     "tag_name": "bicycle helmet",
-    "related_tags": []
+    "related_tags": [
+      "銀輪+鉄帽"
+    ]
   },
   {
     "tag_name": "brodie helmet",
-    "related_tags": []
+    "related_tags": [
+      "brodie+鉄帽"
+    ]
   },
   {
     "tag_name": "diving helmet",
@@ -43577,11 +49699,15 @@ return [
   },
   {
     "tag_name": "dragoon helmet",
-    "related_tags": []
+    "related_tags": [
+      "竜騎兵+鉄帽"
+    ]
   },
   {
     "tag_name": "fishbowl helmet",
-    "related_tags": []
+    "related_tags": [
+      "fishbowl+鉄帽"
+    ]
   },
   {
     "tag_name": "hardhat",
@@ -43591,11 +49717,15 @@ return [
   },
   {
     "tag_name": "headlamp",
-    "related_tags": []
+    "related_tags": [
+      "ヘッドランプ"
+    ]
   },
   {
     "tag_name": "horned helmet",
-    "related_tags": []
+    "related_tags": [
+      "角状+鉄帽"
+    ]
   },
   {
     "tag_name": "M1 helmet",
@@ -43603,7 +49733,9 @@ return [
   },
   {
     "tag_name": "motorcycle helmet",
-    "related_tags": []
+    "related_tags": [
+      "単車+鉄帽"
+    ]
   },
   {
     "tag_name": "Pickelhaube",
@@ -43613,7 +49745,9 @@ return [
   },
   {
     "tag_name": "pilot helmet",
-    "related_tags": []
+    "related_tags": [
+      "按針+鉄帽"
+    ]
   },
   {
     "tag_name": "sallet",
@@ -43627,7 +49761,9 @@ return [
   },
   {
     "tag_name": "tank helmet",
-    "related_tags": []
+    "related_tags": [
+      "舟+鉄帽"
+    ]
   },
   {
     "tag_name": "circlet",
@@ -43643,7 +49779,9 @@ return [
   },
   {
     "tag_name": "mini crown",
-    "related_tags": []
+    "related_tags": [
+      "mini+位"
+    ]
   },
   {
     "tag_name": "saishi",
@@ -43653,7 +49791,9 @@ return [
   },
   {
     "tag_name": "bandana",
-    "related_tags": []
+    "related_tags": [
+      "三角巾"
+    ]
   },
   {
     "tag_name": "bonnet",
@@ -43681,7 +49821,9 @@ return [
   },
   {
     "tag_name": "jester cap",
-    "related_tags": []
+    "related_tags": [
+      "道化+口金"
+    ]
   },
   {
     "tag_name": "keffiyeh",
@@ -43695,7 +49837,9 @@ return [
   },
   {
     "tag_name": "shower cap",
-    "related_tags": []
+    "related_tags": [
+      "シャワー・キャップ"
+    ]
   },
   {
     "tag_name": "shufa guan",
@@ -43711,43 +49855,63 @@ return [
   },
   {
     "tag_name": "object on head",
-    "related_tags": []
+    "related_tags": [
+      "宛+on+髄"
+    ]
   },
   {
     "tag_name": "bowl hat",
-    "related_tags": []
+    "related_tags": [
+      "器+帽"
+    ]
   },
   {
     "tag_name": "bloomers on head",
-    "related_tags": []
+    "related_tags": [
+      "ズロース+on+髄"
+    ]
   },
   {
     "tag_name": "book on head",
-    "related_tags": []
+    "related_tags": [
+      "一篇+on+髄"
+    ]
   },
   {
     "tag_name": "bucket on head",
-    "related_tags": []
+    "related_tags": [
+      "桶+on+髄"
+    ]
   },
   {
     "tag_name": "food on head",
-    "related_tags": []
+    "related_tags": [
+      "喰いもの+on+髄"
+    ]
   },
   {
     "tag_name": "traffic cone on head",
-    "related_tags": []
+    "related_tags": [
+      "運輸量+円すい+on+髄"
+    ]
   },
   {
     "tag_name": "camouflage headwear",
-    "related_tags": []
+    "related_tags": [
+      "隠蔽色+headwear"
+    ]
   },
   {
     "tag_name": "checkered headwear",
-    "related_tags": []
+    "related_tags": [
+      "チェック+headwear"
+    ]
   },
   {
     "tag_name": "frilled hat",
-    "related_tags": []
+    "related_tags": [
+      "縁飾り+帽"
+    ]
   },
   {
     "tag_name": "military hat",
@@ -43757,15 +49921,21 @@ return [
   },
   {
     "tag_name": "mini hat",
-    "related_tags": []
+    "related_tags": [
+      "mini+帽"
+    ]
   },
   {
     "tag_name": "multicolored headwear",
-    "related_tags": []
+    "related_tags": [
+      "色とりどり+headwear"
+    ]
   },
   {
     "tag_name": "police hat",
-    "related_tags": []
+    "related_tags": [
+      "警官隊+帽"
+    ]
   },
   {
     "tag_name": "school hat",
@@ -43779,35 +49949,51 @@ return [
   },
   {
     "tag_name": "backwards hat",
-    "related_tags": []
+    "related_tags": [
+      "後ろ向き+帽"
+    ]
   },
   {
     "tag_name": "sideways hat",
-    "related_tags": []
+    "related_tags": [
+      "横ちょ+帽"
+    ]
   },
   {
     "tag_name": "hat removed",
-    "related_tags": []
+    "related_tags": [
+      "帽+removed"
+    ]
   },
   {
     "tag_name": "hands on headwear",
-    "related_tags": []
+    "related_tags": [
+      "御手手+on+headwear"
+    ]
   },
   {
     "tag_name": "hat basket",
-    "related_tags": []
+    "related_tags": [
+      "帽+鞄"
+    ]
   },
   {
     "tag_name": "hat loss",
-    "related_tags": []
+    "related_tags": [
+      "帽+遺失"
+    ]
   },
   {
     "tag_name": "hat on chest",
-    "related_tags": []
+    "related_tags": [
+      "帽+on+胸"
+    ]
   },
   {
     "tag_name": "hat over one eye",
-    "related_tags": []
+    "related_tags": [
+      "帽+越し+一+眼"
+    ]
   },
   {
     "tag_name": "headwear removed",
@@ -43815,39 +50001,57 @@ return [
   },
   {
     "tag_name": "helmet removed",
-    "related_tags": []
+    "related_tags": [
+      "鉄帽+removed"
+    ]
   },
   {
     "tag_name": "holding hat",
-    "related_tags": []
+    "related_tags": [
+      "握把+帽"
+    ]
   },
   {
     "tag_name": "holding helmet",
-    "related_tags": []
+    "related_tags": [
+      "握把+鉄帽"
+    ]
   },
   {
     "tag_name": "torn hat",
-    "related_tags": []
+    "related_tags": [
+      "torn+帽"
+    ]
   },
   {
     "tag_name": "putting on headwear",
-    "related_tags": []
+    "related_tags": [
+      "パッティング+on+headwear"
+    ]
   },
   {
     "tag_name": "removing helmet",
-    "related_tags": []
+    "related_tags": [
+      "卸+鉄帽"
+    ]
   },
   {
     "tag_name": "tilted headwear",
-    "related_tags": []
+    "related_tags": [
+      "傾+headwear"
+    ]
   },
   {
     "tag_name": "chin strap",
-    "related_tags": []
+    "related_tags": [
+      "顎紐"
+    ]
   },
   {
     "tag_name": "hat bow",
-    "related_tags": []
+    "related_tags": [
+      "帽+敬礼"
+    ]
   },
   {
     "tag_name": "hat feather",
@@ -43857,87 +50061,129 @@ return [
   },
   {
     "tag_name": "hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "帽+栄"
+    ]
   },
   {
     "tag_name": "anchor hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "巌+帽+栄"
+    ]
   },
   {
     "tag_name": "butterfly hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "胡蝶+帽+栄"
+    ]
   },
   {
     "tag_name": "character hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "一字+帽+栄"
+    ]
   },
   {
     "tag_name": "crescent hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "彎月+帽+栄"
+    ]
   },
   {
     "tag_name": "dolphin hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "係柱+帽+栄"
+    ]
   },
   {
     "tag_name": "food-themed hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "喰いもの+彼ら+帽+栄"
+    ]
   },
   {
     "tag_name": "fruit hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "果+帽+栄"
+    ]
   },
   {
     "tag_name": "grape hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "葡萄+帽+栄"
+    ]
   },
   {
     "tag_name": "peach hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "ピーチ+帽+栄"
+    ]
   },
   {
     "tag_name": "pumpkin hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "唐茄子+帽+栄"
+    ]
   },
   {
     "tag_name": "gear hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "索具+帽+栄"
+    ]
   },
   {
     "tag_name": "heart hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "意気+帽+栄"
+    ]
   },
   {
     "tag_name": "holly hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "柊+帽+栄"
+    ]
   },
   {
     "tag_name": "jack-o'-lantern hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "万力+o'+ランタン+帽+栄"
+    ]
   },
   {
     "tag_name": "leaf hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "一片+帽+栄"
+    ]
   },
   {
     "tag_name": "palette hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "絵皿+帽+栄"
+    ]
   },
   {
     "tag_name": "star hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "巨擘+帽+栄"
+    ]
   },
   {
     "tag_name": "skull hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "人頭+帽+栄"
+    ]
   },
   {
     "tag_name": "tassel hat ornament",
-    "related_tags": []
+    "related_tags": [
+      "総+帽+栄"
+    ]
   },
   {
     "tag_name": "hat ribbon",
-    "related_tags": []
+    "related_tags": [
+      "帽+リボン"
+    ]
   },
   {
     "tag_name": "nejiri hachimaki",
@@ -43947,7 +50193,9 @@ return [
   },
   {
     "tag_name": "native american headdress",
-    "related_tags": []
+    "related_tags": [
+      "現地人+米利堅+冠り物"
+    ]
   },
   {
     "tag_name": "warbonnet",
@@ -43979,7 +50227,9 @@ return [
   },
   {
     "tag_name": "girl on top",
-    "related_tags": []
+    "related_tags": [
+      "姉ちゃん+on+曲独楽"
+    ]
   },
   {
     "tag_name": "amazon position",
@@ -44007,11 +50257,15 @@ return [
   },
   {
     "tag_name": "boy on top",
-    "related_tags": []
+    "related_tags": [
+      "一男+on+曲独楽"
+    ]
   },
   {
     "tag_name": "anvil position",
-    "related_tags": []
+    "related_tags": [
+      "砧骨+位地"
+    ]
   },
   {
     "tag_name": "missionary",
@@ -44049,15 +50303,21 @@ return [
   },
   {
     "tag_name": "box tie",
-    "related_tags": []
+    "related_tags": [
+      "囲み+因縁"
+    ]
   },
   {
     "tag_name": "bound arms",
-    "related_tags": []
+    "related_tags": [
+      "窮まり+干戈"
+    ]
   },
   {
     "tag_name": "bound feet",
-    "related_tags": []
+    "related_tags": [
+      "窮まり+フィート"
+    ]
   },
   {
     "tag_name": "bound legs",
@@ -44067,19 +50327,27 @@ return [
   },
   {
     "tag_name": "bound calves",
-    "related_tags": []
+    "related_tags": [
+      "窮まり+calves"
+    ]
   },
   {
     "tag_name": "bound knees",
-    "related_tags": []
+    "related_tags": [
+      "窮まり+小膝"
+    ]
   },
   {
     "tag_name": "bound thighs",
-    "related_tags": []
+    "related_tags": [
+      "窮まり+股"
+    ]
   },
   {
     "tag_name": "bound torso",
-    "related_tags": []
+    "related_tags": [
+      "窮まり+躯"
+    ]
   },
   {
     "tag_name": "bound wrists",
@@ -44097,15 +50365,21 @@ return [
   },
   {
     "tag_name": "separated arms",
-    "related_tags": []
+    "related_tags": [
+      "散り散り+干戈"
+    ]
   },
   {
     "tag_name": "separated legs",
-    "related_tags": []
+    "related_tags": [
+      "散り散り+下脚"
+    ]
   },
   {
     "tag_name": "separated wrists",
-    "related_tags": []
+    "related_tags": [
+      "散り散り+手頚"
+    ]
   },
   {
     "tag_name": "shrimp tie",
@@ -44115,23 +50389,33 @@ return [
   },
   {
     "tag_name": "strappado",
-    "related_tags": []
+    "related_tags": [
+      "吊し責め"
+    ]
   },
   {
     "tag_name": "suspension",
-    "related_tags": []
+    "related_tags": [
+      "一時停止"
+    ]
   },
   {
     "tag_name": "dual persona",
-    "related_tags": []
+    "related_tags": [
+      "二元的+キャラ"
+    ]
   },
   {
     "tag_name": "multiple persona",
-    "related_tags": []
+    "related_tags": [
+      "多重+キャラ"
+    ]
   },
   {
     "tag_name": "clone",
-    "related_tags": []
+    "related_tags": [
+      "クローン人間"
+    ]
   },
   {
     "tag_name": "crossover",
@@ -44147,7 +50431,9 @@ return [
   },
   {
     "tag_name": "absolutely everyone",
-    "related_tags": []
+    "related_tags": [
+      "一向+一人残らず"
+    ]
   },
   {
     "tag_name": "everyone",
@@ -44183,7 +50469,9 @@ return [
   },
   {
     "tag_name": "multiple boys",
-    "related_tags": []
+    "related_tags": [
+      "多重+一男"
+    ]
   },
   {
     "tag_name": "2boys",
@@ -44207,7 +50495,9 @@ return [
   },
   {
     "tag_name": "multiple others",
-    "related_tags": []
+    "related_tags": [
+      "多重+人"
+    ]
   },
   {
     "tag_name": "2others",
@@ -44273,7 +50563,9 @@ return [
   },
   {
     "tag_name": "Beetle",
-    "related_tags": []
+    "related_tags": [
+      "甲虫"
+    ]
   },
   {
     "tag_name": "Caterpillar",
@@ -44301,7 +50593,9 @@ return [
   },
   {
     "tag_name": "Cave cricket",
-    "related_tags": []
+    "related_tags": [
+      "竃馬"
+    ]
   },
   {
     "tag_name": "Dragonfly",
@@ -44317,7 +50611,9 @@ return [
   },
   {
     "tag_name": "Fly",
-    "related_tags": []
+    "related_tags": [
+      "社会の窓"
+    ]
   },
   {
     "tag_name": "Grasshopper",
@@ -44351,7 +50647,9 @@ return [
   },
   {
     "tag_name": "Arachnid",
-    "related_tags": []
+    "related_tags": [
+      "蜘蛛形類"
+    ]
   },
   {
     "tag_name": "Spider",
@@ -44391,7 +50689,9 @@ return [
   },
   {
     "tag_name": "Panther",
-    "related_tags": []
+    "related_tags": [
+      "パンサー"
+    ]
   },
   {
     "tag_name": "Crocodile",
@@ -44453,7 +50753,9 @@ return [
   },
   {
     "tag_name": "Alligator gar",
-    "related_tags": []
+    "related_tags": [
+      "鰐+ガーパイク"
+    ]
   },
   {
     "tag_name": "Angelfish",
@@ -44482,7 +50784,7 @@ return [
   {
     "tag_name": "Bichir",
     "related_tags": [
-      "bichir_polypterus"
+      "polypterus"
     ]
   },
   {
@@ -44591,7 +50893,9 @@ return [
   },
   {
     "tag_name": "Sailfish",
-    "related_tags": []
+    "related_tags": [
+      "梶木"
+    ]
   },
   {
     "tag_name": "Saury",
@@ -44645,7 +50949,9 @@ return [
   },
   {
     "tag_name": "Saw shark",
-    "related_tags": []
+    "related_tags": [
+      "鋸+鮫"
+    ]
   },
   {
     "tag_name": "Whale shark",
@@ -44685,7 +50991,9 @@ return [
   },
   {
     "tag_name": "Yellow tang",
-    "related_tags": []
+    "related_tags": [
+      "黄+tang"
+    ]
   },
   {
     "tag_name": "Tuna",
@@ -44785,7 +51093,9 @@ return [
   },
   {
     "tag_name": "Clam",
-    "related_tags": []
+    "related_tags": [
+      "クラム"
+    ]
   },
   {
     "tag_name": "Coral",
@@ -44831,7 +51141,9 @@ return [
   },
   {
     "tag_name": "Sea urchin",
-    "related_tags": []
+    "related_tags": [
+      "雲丹"
+    ]
   },
   {
     "tag_name": "Squid",
@@ -44997,7 +51309,9 @@ return [
   },
   {
     "tag_name": "Panda",
-    "related_tags": []
+    "related_tags": [
+      "熊猫"
+    ]
   },
   {
     "tag_name": "Boar",
@@ -45077,15 +51391,21 @@ return [
   },
   {
     "tag_name": "Lamb",
-    "related_tags": []
+    "related_tags": [
+      "仔羊"
+    ]
   },
   {
     "tag_name": "too many cats",
-    "related_tags": []
+    "related_tags": [
+      "復+壱百萬+猫"
+    ]
   },
   {
     "tag_name": "Broad shoulders",
-    "related_tags": []
+    "related_tags": [
+      "開口+肩身"
+    ]
   },
   {
     "tag_name": "Shoulder blades",
@@ -45095,43 +51415,63 @@ return [
   },
   {
     "tag_name": "Puffy sleeves",
-    "related_tags": []
+    "related_tags": [
+      "腫れぼったい+衣手"
+    ]
   },
   {
     "tag_name": "Jacket on shoulders",
-    "related_tags": []
+    "related_tags": [
+      "外被+on+肩身"
+    ]
   },
   {
     "tag_name": "Shirt on shoulders",
-    "related_tags": []
+    "related_tags": [
+      "shirt+on+肩身"
+    ]
   },
   {
     "tag_name": "Off-shoulder dress",
-    "related_tags": []
+    "related_tags": [
+      "off+肩+衣"
+    ]
   },
   {
     "tag_name": "Off-shoulder sweater",
-    "related_tags": []
+    "related_tags": [
+      "off+肩+スエーター"
+    ]
   },
   {
     "tag_name": "Off-shoulder jacket",
-    "related_tags": []
+    "related_tags": [
+      "off+肩+外被"
+    ]
   },
   {
     "tag_name": "Off-shoulder coat",
-    "related_tags": []
+    "related_tags": [
+      "off+肩+外被"
+    ]
   },
   {
     "tag_name": "Off-shoulder bikini",
-    "related_tags": []
+    "related_tags": [
+      "off+肩+bikini"
+    ]
   },
   {
     "tag_name": "Off-shoulder one-piece swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "off+肩+一+一かけら+水泳着"
+    ]
   },
   {
     "tag_name": "Off-shoulder leotard",
-    "related_tags": []
+    "related_tags": [
+      "off+肩+レオタード"
+    ]
   },
   {
     "tag_name": "Sleeveless",
@@ -45147,75 +51487,111 @@ return [
   },
   {
     "tag_name": "Sleeveless sweater",
-    "related_tags": []
+    "related_tags": [
+      "sleeveless+スエーター"
+    ]
   },
   {
     "tag_name": "Sleeveless jacket",
-    "related_tags": []
+    "related_tags": [
+      "sleeveless+外被"
+    ]
   },
   {
     "tag_name": "Sleeveless coat",
-    "related_tags": []
+    "related_tags": [
+      "sleeveless+外被"
+    ]
   },
   {
     "tag_name": "Strapless",
-    "related_tags": []
+    "related_tags": [
+      "ストラップレス"
+    ]
   },
   {
     "tag_name": "Strapless shirt",
-    "related_tags": []
+    "related_tags": [
+      "ストラップレス+shirt"
+    ]
   },
   {
     "tag_name": "Strapless dress",
-    "related_tags": []
+    "related_tags": [
+      "ストラップレス+衣"
+    ]
   },
   {
     "tag_name": "Strapless bikini",
-    "related_tags": []
+    "related_tags": [
+      "ストラップレス+bikini"
+    ]
   },
   {
     "tag_name": "Strapless swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "ストラップレス+水泳着"
+    ]
   },
   {
     "tag_name": "Single-shoulder shirt",
-    "related_tags": []
+    "related_tags": [
+      "単+肩+shirt"
+    ]
   },
   {
     "tag_name": "Single-shoulder dress",
-    "related_tags": []
+    "related_tags": [
+      "単+肩+衣"
+    ]
   },
   {
     "tag_name": "Single-shoulder sweater",
-    "related_tags": []
+    "related_tags": [
+      "単+肩+スエーター"
+    ]
   },
   {
     "tag_name": "Towel around neck",
-    "related_tags": []
+    "related_tags": [
+      "手ぬぐい+見当+雁首"
+    ]
   },
   {
     "tag_name": "Weapon over shoulder",
-    "related_tags": []
+    "related_tags": [
+      "干戈+越し+肩"
+    ]
   },
   {
     "tag_name": "Sword over shoulder",
-    "related_tags": []
+    "related_tags": [
+      "一刀+越し+肩"
+    ]
   },
   {
     "tag_name": "Arm on shoulder",
-    "related_tags": []
+    "related_tags": [
+      "腕+on+肩"
+    ]
   },
   {
     "tag_name": "Hand on shoulder",
-    "related_tags": []
+    "related_tags": [
+      "一臂+on+肩"
+    ]
   },
   {
     "tag_name": "Hands on shoulder",
-    "related_tags": []
+    "related_tags": [
+      "御手手+on+肩"
+    ]
   },
   {
     "tag_name": "Hands on shoulders",
-    "related_tags": []
+    "related_tags": [
+      "御手手+on+肩身"
+    ]
   },
   {
     "tag_name": "Shoulder massage",
@@ -45225,31 +51601,45 @@ return [
   },
   {
     "tag_name": "Animal on shoulder",
-    "related_tags": []
+    "related_tags": [
+      "獣+on+肩"
+    ]
   },
   {
     "tag_name": "Bird on shoulder",
-    "related_tags": []
+    "related_tags": [
+      "禽+on+肩"
+    ]
   },
   {
     "tag_name": "Creature on shoulder",
-    "related_tags": []
+    "related_tags": [
+      "生物+on+肩"
+    ]
   },
   {
     "tag_name": "Dog on shoulder",
-    "related_tags": []
+    "related_tags": [
+      "わん公+on+肩"
+    ]
   },
   {
     "tag_name": "Pokemon on shoulder",
-    "related_tags": []
+    "related_tags": [
+      "ポケモン+on+肩"
+    ]
   },
   {
     "tag_name": "Rabbit on shoulder",
-    "related_tags": []
+    "related_tags": [
+      "占め子+on+肩"
+    ]
   },
   {
     "tag_name": "Over shoulder",
-    "related_tags": []
+    "related_tags": [
+      "越し+肩"
+    ]
   },
   {
     "tag_name": "Shoulder bag",
@@ -45337,7 +51727,9 @@ return [
   },
   {
     "tag_name": "Friday Night Funkin'",
-    "related_tags": []
+    "related_tags": [
+      "金+暮夜+funkin'"
+    ]
   },
   {
     "tag_name": "Granblue Fantasy",
@@ -45351,7 +51743,9 @@ return [
   },
   {
     "tag_name": "Boondocks",
-    "related_tags": []
+    "related_tags": [
+      "超田舎"
+    ]
   },
   {
     "tag_name": "AC-bu",
@@ -45367,7 +51761,9 @@ return [
   },
   {
     "tag_name": "Adenine",
-    "related_tags": []
+    "related_tags": [
+      "アデニン"
+    ]
   },
   {
     "tag_name": "Akatsuka Fujio",
@@ -45401,7 +51797,9 @@ return [
   },
   {
     "tag_name": "Scarlet Weather Rhapsody",
-    "related_tags": []
+    "related_tags": [
+      "銀朱+雲ゆき+狂詩曲"
+    ]
   },
   {
     "tag_name": "Touhou Hisoutensoku",
@@ -45529,11 +51927,15 @@ return [
   },
   {
     "tag_name": "Family Circus",
-    "related_tags": []
+    "related_tags": [
+      "一家+曲馬"
+    ]
   },
   {
     "tag_name": "Bill Watterson",
-    "related_tags": []
+    "related_tags": [
+      "案+watterson"
+    ]
   },
   {
     "tag_name": "Calvin & Hobbes",
@@ -45555,11 +51957,15 @@ return [
   },
   {
     "tag_name": "Bob (biyonbiyon)",
-    "related_tags": []
+    "related_tags": [
+      "断髪+(biyonbiyon)"
+    ]
   },
   {
     "tag_name": "Bryan Lee O'Malley",
-    "related_tags": []
+    "related_tags": [
+      "bryan+風下+o'malley"
+    ]
   },
   {
     "tag_name": "Scott Pilgrim",
@@ -45591,11 +51997,15 @@ return [
   },
   {
     "tag_name": "Dick Tracy",
-    "related_tags": []
+    "related_tags": [
+      "肉茎+tracy"
+    ]
   },
   {
     "tag_name": "Chic Young",
-    "related_tags": []
+    "related_tags": [
+      "乙+乙"
+    ]
   },
   {
     "tag_name": "Blondie",
@@ -45625,7 +52035,9 @@ return [
   },
   {
     "tag_name": "Clay Bennett",
-    "related_tags": []
+    "related_tags": [
+      "埴+bennett"
+    ]
   },
   {
     "tag_name": "David Marquez",
@@ -45886,7 +52298,7 @@ return [
   {
     "tag_name": "Steins;Gate",
     "related_tags": [
-      "steins;gate"
+      "シュタインズゲート"
     ]
   },
   {
@@ -46005,7 +52417,9 @@ return [
   },
   {
     "tag_name": "Jack Kirby",
-    "related_tags": []
+    "related_tags": [
+      "万力+kirby"
+    ]
   },
   {
     "tag_name": "Fantastic Four",
@@ -46193,11 +52607,15 @@ return [
   },
   {
     "tag_name": "For Better or For Worse",
-    "related_tags": []
+    "related_tags": [
+      "対して+格段+or+対して+worse"
+    ]
   },
   {
     "tag_name": "Man Gatarou",
-    "related_tags": []
+    "related_tags": [
+      "牡+gatarou"
+    ]
   },
   {
     "tag_name": "Masara",
@@ -46233,7 +52651,9 @@ return [
   },
   {
     "tag_name": "Matt Groening",
-    "related_tags": []
+    "related_tags": [
+      "マット+groening"
+    ]
   },
   {
     "tag_name": "The Simpsons",
@@ -46243,11 +52663,15 @@ return [
   },
   {
     "tag_name": "Mike Judge",
-    "related_tags": []
+    "related_tags": [
+      "マイク+鑑識家"
+    ]
   },
   {
     "tag_name": "Beavis and Butt-head",
-    "related_tags": []
+    "related_tags": [
+      "beavis+以って+太もも+髄"
+    ]
   },
   {
     "tag_name": "King of the Hill",
@@ -46257,7 +52681,9 @@ return [
   },
   {
     "tag_name": "Mike Mignola",
-    "related_tags": []
+    "related_tags": [
+      "マイク+mignola"
+    ]
   },
   {
     "tag_name": "Mikimoto Haruhiko",
@@ -46279,7 +52705,9 @@ return [
   },
   {
     "tag_name": "Miko Machi",
-    "related_tags": []
+    "related_tags": [
+      "神子+machi"
+    ]
   },
   {
     "tag_name": "Misaki Kurehito",
@@ -46437,7 +52865,9 @@ return [
   },
   {
     "tag_name": "O-life Japan",
-    "related_tags": []
+    "related_tags": [
+      "o+一命+秋津島"
+    ]
   },
   {
     "tag_name": "Obata Takeshi",
@@ -46463,7 +52893,9 @@ return [
   },
   {
     "tag_name": "Oda Non",
-    "related_tags": []
+    "related_tags": [
+      "開放型文書体系+non"
+    ]
   },
   {
     "tag_name": "Ogura Eisuke",
@@ -46609,7 +53041,9 @@ return [
   },
   {
     "tag_name": "New Mutants",
-    "related_tags": []
+    "related_tags": [
+      "見ず知らず+突然変異体"
+    ]
   },
   {
     "tag_name": "Sadamoto Yoshiyuki",
@@ -46987,7 +53421,9 @@ return [
   },
   {
     "tag_name": "Tim Burton",
-    "related_tags": []
+    "related_tags": [
+      "次+burton"
+    ]
   },
   {
     "tag_name": "Tirumu",
@@ -47029,7 +53465,9 @@ return [
   },
   {
     "tag_name": "Tsuki Wani",
-    "related_tags": []
+    "related_tags": [
+      "突き+wani"
+    ]
   },
   {
     "tag_name": "Tsukioka Tsukiho",
@@ -47109,7 +53547,9 @@ return [
   },
   {
     "tag_name": "Legend of Lemnear",
-    "related_tags": []
+    "related_tags": [
+      "言い伝え+of+lemnear"
+    ]
   },
   {
     "tag_name": "Vanripper",
@@ -47133,11 +53573,15 @@ return [
   },
   {
     "tag_name": "Wiley Miller",
-    "related_tags": []
+    "related_tags": [
+      "wiley+粉屋"
+    ]
   },
   {
     "tag_name": "Non Sequitur",
-    "related_tags": []
+    "related_tags": [
+      "不合理結論"
+    ]
   },
   {
     "tag_name": "William-Adolphe Bouguereau",
@@ -47147,7 +53591,9 @@ return [
   },
   {
     "tag_name": "Wool (Miwol)",
-    "related_tags": []
+    "related_tags": [
+      "毛+(miwol)"
+    ]
   },
   {
     "tag_name": "Yamakawa Jun'ichi",
@@ -47179,7 +53625,9 @@ return [
   },
   {
     "tag_name": "Dirty Pair novels",
-    "related_tags": []
+    "related_tags": [
+      "淫ら+一つがい+異色"
+    ]
   },
   {
     "tag_name": "Yoda",
@@ -47367,11 +53815,15 @@ return [
   },
   {
     "tag_name": "Wet dress",
-    "related_tags": []
+    "related_tags": [
+      "雨ふり+衣"
+    ]
   },
   {
     "tag_name": "Wet skirt",
-    "related_tags": []
+    "related_tags": [
+      "雨ふり+スカート"
+    ]
   },
   {
     "tag_name": "Wet shirt",
@@ -47381,19 +53833,27 @@ return [
   },
   {
     "tag_name": "Wet swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "雨ふり+水泳着"
+    ]
   },
   {
     "tag_name": "Wet towel",
-    "related_tags": []
+    "related_tags": [
+      "雨ふり+手ぬぐい"
+    ]
   },
   {
     "tag_name": "Ice",
-    "related_tags": []
+    "related_tags": [
+      "結氷"
+    ]
   },
   {
     "tag_name": "Ice sculpture",
-    "related_tags": []
+    "related_tags": [
+      "氷像"
+    ]
   },
   {
     "tag_name": "Steam",
@@ -47421,11 +53881,15 @@ return [
   },
   {
     "tag_name": "Rowboat",
-    "related_tags": []
+    "related_tags": [
+      "手こぎボート"
+    ]
   },
   {
     "tag_name": "Sailboat",
-    "related_tags": []
+    "related_tags": [
+      "帆かけ船"
+    ]
   },
   {
     "tag_name": "Bath",
@@ -47463,7 +53927,9 @@ return [
   },
   {
     "tag_name": "Shower (place)",
-    "related_tags": []
+    "related_tags": [
+      "一雨+(place)"
+    ]
   },
   {
     "tag_name": "Showering",
@@ -47515,7 +53981,9 @@ return [
   },
   {
     "tag_name": "breast conscious",
-    "related_tags": []
+    "related_tags": [
+      "胸+意識的"
+    ]
   },
   {
     "tag_name": "breast envy",
@@ -47525,35 +53993,51 @@ return [
   },
   {
     "tag_name": "flat envy",
-    "related_tags": []
+    "related_tags": [
+      "横に+岡焼き"
+    ]
   },
   {
     "tag_name": "breast reduction",
-    "related_tags": []
+    "related_tags": [
+      "胸+引き下げ"
+    ]
   },
   {
     "tag_name": "breast size switch",
-    "related_tags": []
+    "related_tags": [
+      "胸+一回り+開閉器"
+    ]
   },
   {
     "tag_name": "flying button",
-    "related_tags": []
+    "related_tags": [
+      "掲揚+撮み"
+    ]
   },
   {
     "tag_name": "convenient breasts",
-    "related_tags": []
+    "related_tags": [
+      "好都合+胸"
+    ]
   },
   {
     "tag_name": "inconvenient breasts",
-    "related_tags": []
+    "related_tags": [
+      "具合が悪い+胸"
+    ]
   },
   {
     "tag_name": "oversized breast cup",
-    "related_tags": []
+    "related_tags": [
+      "oversized+胸+ホール"
+    ]
   },
   {
     "tag_name": "weighing breasts",
-    "related_tags": []
+    "related_tags": [
+      "看貫+胸"
+    ]
   },
   {
     "tag_name": "areola slip",
@@ -47569,7 +54053,9 @@ return [
   },
   {
     "tag_name": "light areolae",
-    "related_tags": []
+    "related_tags": [
+      "簡単+areolae"
+    ]
   },
   {
     "tag_name": "backboob",
@@ -47579,7 +54065,9 @@ return [
   },
   {
     "tag_name": "bursting breasts",
-    "related_tags": []
+    "related_tags": [
+      "炸裂+胸"
+    ]
   },
   {
     "tag_name": "cleavage",
@@ -47607,7 +54095,9 @@ return [
   },
   {
     "tag_name": "nipple hair",
-    "related_tags": []
+    "related_tags": [
+      "乳毛"
+    ]
   },
   {
     "tag_name": "sideboob",
@@ -47635,7 +54125,9 @@ return [
   },
   {
     "tag_name": "impossible shirt",
-    "related_tags": []
+    "related_tags": [
+      "見果てぬ+shirt"
+    ]
   },
   {
     "tag_name": "one breast out",
@@ -47645,11 +54137,15 @@ return [
   },
   {
     "tag_name": "asymmetrical breasts",
-    "related_tags": []
+    "related_tags": [
+      "asymmetrical+胸"
+    ]
   },
   {
     "tag_name": "breasts apart",
-    "related_tags": []
+    "related_tags": [
+      "胸+別々に"
+    ]
   },
   {
     "tag_name": "floating breasts",
@@ -47659,7 +54155,9 @@ return [
   },
   {
     "tag_name": "hanging breasts",
-    "related_tags": []
+    "related_tags": [
+      "懸垂+胸"
+    ]
   },
   {
     "tag_name": "perky breasts",
@@ -47675,7 +54173,9 @@ return [
   },
   {
     "tag_name": "unaligned breasts",
-    "related_tags": []
+    "related_tags": [
+      "unaligned+胸"
+    ]
   },
   {
     "tag_name": "veiny breasts",
@@ -47691,11 +54191,15 @@ return [
   },
   {
     "tag_name": "bikini bottom only",
-    "related_tags": []
+    "related_tags": [
+      "bikini+下+一"
+    ]
   },
   {
     "tag_name": "hand in bra",
-    "related_tags": []
+    "related_tags": [
+      "一臂+in+ブラ"
+    ]
   },
   {
     "tag_name": "no bra",
@@ -47705,7 +54209,9 @@ return [
   },
   {
     "tag_name": "nursing bra",
-    "related_tags": []
+    "related_tags": [
+      "マタニティ・ブラ"
+    ]
   },
   {
     "tag_name": "shelf bra",
@@ -47715,11 +54221,15 @@ return [
   },
   {
     "tag_name": "breast curtain",
-    "related_tags": []
+    "related_tags": [
+      "胸+引き物"
+    ]
   },
   {
     "tag_name": "center opening",
-    "related_tags": []
+    "related_tags": [
+      "央+開き"
+    ]
   },
   {
     "tag_name": "chest binder",
@@ -47741,11 +54251,15 @@ return [
   },
   {
     "tag_name": "framed breasts",
-    "related_tags": []
+    "related_tags": [
+      "架構+胸"
+    ]
   },
   {
     "tag_name": "nipple cutout",
-    "related_tags": []
+    "related_tags": [
+      "乳首+切り絵"
+    ]
   },
   {
     "tag_name": "rei no himo",
@@ -47761,7 +54275,9 @@ return [
   },
   {
     "tag_name": "cooperative naizuri",
-    "related_tags": []
+    "related_tags": [
+      "共同組合+naizuri"
+    ]
   },
   {
     "tag_name": "penis to breast",
@@ -47771,7 +54287,9 @@ return [
   },
   {
     "tag_name": "penis under breasts",
-    "related_tags": []
+    "related_tags": [
+      "一物+下+胸"
+    ]
   },
   {
     "tag_name": "breast pillow",
@@ -47787,11 +54305,15 @@ return [
   },
   {
     "tag_name": "face to breasts",
-    "related_tags": []
+    "related_tags": [
+      "逢着+to+胸"
+    ]
   },
   {
     "tag_name": "face to pecs",
-    "related_tags": []
+    "related_tags": [
+      "逢着+to+pecs"
+    ]
   },
   {
     "tag_name": "head between breasts",
@@ -47801,7 +54323,9 @@ return [
   },
   {
     "tag_name": "face between breasts",
-    "related_tags": []
+    "related_tags": [
+      "逢着+間+胸"
+    ]
   },
   {
     "tag_name": "mutual breast sucking",
@@ -47811,15 +54335,21 @@ return [
   },
   {
     "tag_name": "nipple biting",
-    "related_tags": []
+    "related_tags": [
+      "乳首+辛らつ"
+    ]
   },
   {
     "tag_name": "breast hold",
-    "related_tags": []
+    "related_tags": [
+      "胸+引っかかり"
+    ]
   },
   {
     "tag_name": "flat chest grab",
-    "related_tags": []
+    "related_tags": [
+      "横に+胸+グラブ"
+    ]
   },
   {
     "tag_name": "breast lift",
@@ -47829,7 +54359,9 @@ return [
   },
   {
     "tag_name": "breast poke",
-    "related_tags": []
+    "related_tags": [
+      "胸+一撃"
+    ]
   },
   {
     "tag_name": "breast press",
@@ -47839,11 +54371,15 @@ return [
   },
   {
     "tag_name": "breast pull",
-    "related_tags": []
+    "related_tags": [
+      "胸+引き"
+    ]
   },
   {
     "tag_name": "breast punch",
-    "related_tags": []
+    "related_tags": [
+      "胸+一発"
+    ]
   },
   {
     "tag_name": "breast slap",
@@ -47859,27 +54395,39 @@ return [
   },
   {
     "tag_name": "breast suppress",
-    "related_tags": []
+    "related_tags": [
+      "胸+suppress"
+    ]
   },
   {
     "tag_name": "arm between breasts",
-    "related_tags": []
+    "related_tags": [
+      "腕+間+胸"
+    ]
   },
   {
     "tag_name": "nipple flick",
-    "related_tags": []
+    "related_tags": [
+      "乳首+flick"
+    ]
   },
   {
     "tag_name": "nipple press",
-    "related_tags": []
+    "related_tags": [
+      "乳首+圧搾器"
+    ]
   },
   {
     "tag_name": "nipple push",
-    "related_tags": []
+    "related_tags": [
+      "乳首+圧し"
+    ]
   },
   {
     "tag_name": "nipple rub",
-    "related_tags": []
+    "related_tags": [
+      "乳首+擦れ"
+    ]
   },
   {
     "tag_name": "nipple piercing",
@@ -47889,27 +54437,39 @@ return [
   },
   {
     "tag_name": "areola piercing",
-    "related_tags": []
+    "related_tags": [
+      "乳りん+貫通"
+    ]
   },
   {
     "tag_name": "nipple bar",
-    "related_tags": []
+    "related_tags": [
+      "乳首+飲み屋"
+    ]
   },
   {
     "tag_name": "nipple bells",
-    "related_tags": []
+    "related_tags": [
+      "乳首+ベル"
+    ]
   },
   {
     "tag_name": "nipple lock",
-    "related_tags": []
+    "related_tags": [
+      "乳首+掛け金"
+    ]
   },
   {
     "tag_name": "nipple rings",
-    "related_tags": []
+    "related_tags": [
+      "乳首+吊り環"
+    ]
   },
   {
     "tag_name": "nipple stretcher",
-    "related_tags": []
+    "related_tags": [
+      "乳首+担架"
+    ]
   },
   {
     "tag_name": "nipple tag",
@@ -47919,15 +54479,21 @@ return [
   },
   {
     "tag_name": "nipple plug",
-    "related_tags": []
+    "related_tags": [
+      "乳首+差し込み"
+    ]
   },
   {
     "tag_name": "tied nipples",
-    "related_tags": []
+    "related_tags": [
+      "因縁+乳首"
+    ]
   },
   {
     "tag_name": "nipple ribbon",
-    "related_tags": []
+    "related_tags": [
+      "乳首+リボン"
+    ]
   },
   {
     "tag_name": "between breasts",
@@ -47949,11 +54515,15 @@ return [
   },
   {
     "tag_name": "tied breast",
-    "related_tags": []
+    "related_tags": [
+      "因縁+胸"
+    ]
   },
   {
     "tag_name": "breast implants",
-    "related_tags": []
+    "related_tags": [
+      "胸+移植片"
+    ]
   },
   {
     "tag_name": "breast rest",
@@ -47969,15 +54539,21 @@ return [
   },
   {
     "tag_name": "breast milk",
-    "related_tags": []
+    "related_tags": [
+      "おっぱい"
+    ]
   },
   {
     "tag_name": "lactating into cup",
-    "related_tags": []
+    "related_tags": [
+      "lactating+ずぶり+ホール"
+    ]
   },
   {
     "tag_name": "male with breasts",
-    "related_tags": []
+    "related_tags": [
+      "牡+以ちまして+胸"
+    ]
   },
   {
     "tag_name": "mole on breast",
@@ -47987,11 +54563,15 @@ return [
   },
   {
     "tag_name": "nipple injection",
-    "related_tags": []
+    "related_tags": [
+      "乳首+射出"
+    ]
   },
   {
     "tag_name": "object on breast",
-    "related_tags": []
+    "related_tags": [
+      "宛+on+胸"
+    ]
   },
   {
     "tag_name": "bubble tea challenge",
@@ -48001,7 +54581,9 @@ return [
   },
   {
     "tag_name": "headphones on breasts",
-    "related_tags": []
+    "related_tags": [
+      "ヘッドフォーン+on+胸"
+    ]
   },
   {
     "tag_name": "Tawawa challenge",
@@ -48011,7 +54593,9 @@ return [
   },
   {
     "tag_name": "object on pectorals",
-    "related_tags": []
+    "related_tags": [
+      "宛+on+pectorals"
+    ]
   },
   {
     "tag_name": "oppai challenge",
@@ -48027,7 +54611,9 @@ return [
   },
   {
     "tag_name": "fur (clothing)",
-    "related_tags": []
+    "related_tags": [
+      "毛革+(clothing)"
+    ]
   },
   {
     "tag_name": "furry",
@@ -48043,11 +54629,15 @@ return [
   },
   {
     "tag_name": "Archangel",
-    "related_tags": []
+    "related_tags": [
+      "大天使"
+    ]
   },
   {
     "tag_name": "Cherub",
-    "related_tags": []
+    "related_tags": [
+      "智天使"
+    ]
   },
   {
     "tag_name": "Seraph",
@@ -48079,7 +54669,9 @@ return [
   },
   {
     "tag_name": "Basilisk",
-    "related_tags": []
+    "related_tags": [
+      "バシリスク"
+    ]
   },
   {
     "tag_name": "Behemoth",
@@ -48107,7 +54699,9 @@ return [
   },
   {
     "tag_name": "Hippogriff",
-    "related_tags": []
+    "related_tags": [
+      "ヒッポグリフ"
+    ]
   },
   {
     "tag_name": "Pegasus",
@@ -48123,7 +54717,9 @@ return [
   },
   {
     "tag_name": "Cockatrice",
-    "related_tags": []
+    "related_tags": [
+      "コカトリス"
+    ]
   },
   {
     "tag_name": "Cryptid",
@@ -48139,7 +54735,9 @@ return [
   },
   {
     "tag_name": "Flatwoods Monster",
-    "related_tags": []
+    "related_tags": [
+      "flatwoods+化け物"
+    ]
   },
   {
     "tag_name": "Jackalope",
@@ -48171,7 +54769,9 @@ return [
   },
   {
     "tag_name": "Cupid",
-    "related_tags": []
+    "related_tags": [
+      "結びの神"
+    ]
   },
   {
     "tag_name": "Cyclops",
@@ -48197,7 +54797,9 @@ return [
   },
   {
     "tag_name": "Legion",
-    "related_tags": []
+    "related_tags": [
+      "レギオン"
+    ]
   },
   {
     "tag_name": "Lucifer",
@@ -48207,7 +54809,9 @@ return [
   },
   {
     "tag_name": "Satan",
-    "related_tags": []
+    "related_tags": [
+      "悪魔"
+    ]
   },
   {
     "tag_name": "Demon boy",
@@ -48273,23 +54877,33 @@ return [
   },
   {
     "tag_name": "Blood elf",
-    "related_tags": []
+    "related_tags": [
+      "血+悪戯っ子"
+    ]
   },
   {
     "tag_name": "Elemental",
-    "related_tags": []
+    "related_tags": [
+      "要素別処理"
+    ]
   },
   {
     "tag_name": "Gnome",
-    "related_tags": []
+    "related_tags": [
+      "ノーム"
+    ]
   },
   {
     "tag_name": "Sylph",
-    "related_tags": []
+    "related_tags": [
+      "手弱女"
+    ]
   },
   {
     "tag_name": "Undine",
-    "related_tags": []
+    "related_tags": [
+      "ウンディーネ"
+    ]
   },
   {
     "tag_name": "Enma",
@@ -48315,7 +54929,9 @@ return [
   },
   {
     "tag_name": "Troll",
-    "related_tags": []
+    "related_tags": [
+      "荒らし"
+    ]
   },
   {
     "tag_name": "Goblin",
@@ -48341,7 +54957,9 @@ return [
   },
   {
     "tag_name": "Hobbit",
-    "related_tags": []
+    "related_tags": [
+      "ホビット"
+    ]
   },
   {
     "tag_name": "Halfling",
@@ -48361,7 +54979,9 @@ return [
   },
   {
     "tag_name": "Kage-nashi Dog",
-    "related_tags": []
+    "related_tags": [
+      "kage+nashi+わん公"
+    ]
   },
   {
     "tag_name": "Kitsune",
@@ -48371,11 +54991,15 @@ return [
   },
   {
     "tag_name": "Kraken",
-    "related_tags": []
+    "related_tags": [
+      "クラーケン"
+    ]
   },
   {
     "tag_name": "Medusa",
-    "related_tags": []
+    "related_tags": [
+      "海月"
+    ]
   },
   {
     "tag_name": "Longma",
@@ -48383,7 +55007,9 @@ return [
   },
   {
     "tag_name": "Mandragora",
-    "related_tags": []
+    "related_tags": [
+      "マンドラゴラ"
+    ]
   },
   {
     "tag_name": "Merman",
@@ -48399,7 +55025,9 @@ return [
   },
   {
     "tag_name": "Mimic chest",
-    "related_tags": []
+    "related_tags": [
+      "ミミック+胸"
+    ]
   },
   {
     "tag_name": "Minotaur",
@@ -48415,11 +55043,15 @@ return [
   },
   {
     "tag_name": "Ogre",
-    "related_tags": []
+    "related_tags": [
+      "鬼"
+    ]
   },
   {
     "tag_name": "Namahage",
-    "related_tags": []
+    "related_tags": [
+      "生剥"
+    ]
   },
   {
     "tag_name": "Oni",
@@ -48435,7 +55067,9 @@ return [
   },
   {
     "tag_name": "Phoenix",
-    "related_tags": []
+    "related_tags": [
+      "不死鳥"
+    ]
   },
   {
     "tag_name": "Qilin",
@@ -48461,7 +55095,9 @@ return [
   },
   {
     "tag_name": "Spirit",
-    "related_tags": []
+    "related_tags": [
+      "意気"
+    ]
   },
   {
     "tag_name": "Banshee",
@@ -48503,7 +55139,9 @@ return [
   },
   {
     "tag_name": "Nymph",
-    "related_tags": []
+    "related_tags": [
+      "精"
+    ]
   },
   {
     "tag_name": "Valkyrie",
@@ -48525,7 +55163,9 @@ return [
   },
   {
     "tag_name": "Therianthrope",
-    "related_tags": []
+    "related_tags": [
+      "獣人"
+    ]
   },
   {
     "tag_name": "Werewolf",
@@ -48535,7 +55175,9 @@ return [
   },
   {
     "tag_name": "Undead",
-    "related_tags": []
+    "related_tags": [
+      "不死"
+    ]
   },
   {
     "tag_name": "Hei Bai Wuchang",
@@ -48551,11 +55193,15 @@ return [
   },
   {
     "tag_name": "Frankenstein's monster",
-    "related_tags": []
+    "related_tags": [
+      "frankenstein's+化け物"
+    ]
   },
   {
     "tag_name": "Ghoul",
-    "related_tags": []
+    "related_tags": [
+      "グール"
+    ]
   },
   {
     "tag_name": "Jiangshi",
@@ -48599,7 +55245,9 @@ return [
   },
   {
     "tag_name": "Count Orlok",
-    "related_tags": []
+    "related_tags": [
+      "回数+orlok"
+    ]
   },
   {
     "tag_name": "Vrykolakas",
@@ -48619,7 +55267,9 @@ return [
   },
   {
     "tag_name": "Urban legend",
-    "related_tags": []
+    "related_tags": [
+      "都市伝説"
+    ]
   },
   {
     "tag_name": "Hasshaku-sama",
@@ -48687,7 +55337,9 @@ return [
   },
   {
     "tag_name": "Akaname",
-    "related_tags": []
+    "related_tags": [
+      "垢嘗"
+    ]
   },
   {
     "tag_name": "Amabie",
@@ -48703,7 +55355,9 @@ return [
   },
   {
     "tag_name": "Rokurokubi",
-    "related_tags": []
+    "related_tags": [
+      "轆轤っ首"
+    ]
   },
   {
     "tag_name": "Tengu",
@@ -48729,7 +55383,9 @@ return [
   },
   {
     "tag_name": "Roc",
-    "related_tags": []
+    "related_tags": [
+      "中華民国"
+    ]
   },
   {
     "tag_name": "Buddhism",
@@ -48789,7 +55445,9 @@ return [
   },
   {
     "tag_name": "Isis",
-    "related_tags": []
+    "related_tags": [
+      "イスラーム国"
+    ]
   },
   {
     "tag_name": "Medjed",
@@ -48841,7 +55499,9 @@ return [
   },
   {
     "tag_name": "Chronos",
-    "related_tags": []
+    "related_tags": [
+      "クロノ"
+    ]
   },
   {
     "tag_name": "Demeter",
@@ -48857,7 +55517,9 @@ return [
   },
   {
     "tag_name": "Eros",
-    "related_tags": []
+    "related_tags": [
+      "性愛"
+    ]
   },
   {
     "tag_name": "Ganymede",
@@ -48909,7 +55571,9 @@ return [
   },
   {
     "tag_name": "Oracle",
-    "related_tags": []
+    "related_tags": [
+      "御告"
+    ]
   },
   {
     "tag_name": "Pythia",
@@ -48923,7 +55587,9 @@ return [
   },
   {
     "tag_name": "Psyche",
-    "related_tags": []
+    "related_tags": [
+      "神"
+    ]
   },
   {
     "tag_name": "Thanatos",
@@ -48961,7 +55627,9 @@ return [
   },
   {
     "tag_name": "Leviathan",
-    "related_tags": []
+    "related_tags": [
+      "リバイアサン"
+    ]
   },
   {
     "tag_name": "Abel",
@@ -49009,7 +55677,9 @@ return [
   },
   {
     "tag_name": "Yahweh",
-    "related_tags": []
+    "related_tags": [
+      "ヤーウェ"
+    ]
   },
   {
     "tag_name": "Slavic",
@@ -49061,7 +55731,9 @@ return [
   },
   {
     "tag_name": "Night Elf",
-    "related_tags": []
+    "related_tags": [
+      "暮夜+悪戯っ子"
+    ]
   },
   {
     "tag_name": "Tauren",
@@ -49119,15 +55791,21 @@ return [
   },
   {
     "tag_name": "Pixiv Army",
-    "related_tags": []
+    "related_tags": [
+      "pixiv+旗鼓"
+    ]
   },
   {
     "tag_name": "Pixiv Automata",
-    "related_tags": []
+    "related_tags": [
+      "pixiv+自動人形"
+    ]
   },
   {
     "tag_name": "Pixiv Card Battler",
-    "related_tags": []
+    "related_tags": [
+      "pixiv+簡+battler"
+    ]
   },
   {
     "tag_name": "Pixiv Cat Kingdom",
@@ -49149,11 +55827,15 @@ return [
   },
   {
     "tag_name": "Pixiv Duel",
-    "related_tags": []
+    "related_tags": [
+      "pixiv+果し合い"
+    ]
   },
   {
     "tag_name": "Pixiv Fairy",
-    "related_tags": []
+    "related_tags": [
+      "pixiv+仙女"
+    ]
   },
   {
     "tag_name": "Pixiv Fantasia",
@@ -49247,7 +55929,9 @@ return [
   },
   {
     "tag_name": "Pixiv Forest",
-    "related_tags": []
+    "related_tags": [
+      "pixiv+樹林"
+    ]
   },
   {
     "tag_name": "Pixiv Frontier",
@@ -49351,7 +56035,9 @@ return [
   },
   {
     "tag_name": "Pixiv Shogunate",
-    "related_tags": []
+    "related_tags": [
+      "pixiv+旧幕"
+    ]
   },
   {
     "tag_name": "Pixiv Shujuu Monogatari",
@@ -49379,7 +56065,9 @@ return [
   },
   {
     "tag_name": "Pixiv Swap",
-    "related_tags": []
+    "related_tags": [
+      "pixiv+取り替え"
+    ]
   },
   {
     "tag_name": "Pixiv Trainer",
@@ -49389,7 +56077,9 @@ return [
   },
   {
     "tag_name": "Pixiv Witch",
-    "related_tags": []
+    "related_tags": [
+      "pixiv+鬼ばば"
+    ]
   },
   {
     "tag_name": "Pixiv Witch Craft School",
@@ -49531,15 +56221,21 @@ return [
   },
   {
     "tag_name": "log",
-    "related_tags": []
+    "related_tags": [
+      "丸材"
+    ]
   },
   {
     "tag_name": "stick",
-    "related_tags": []
+    "related_tags": [
+      "策"
+    ]
   },
   {
     "tag_name": "rainforest",
-    "related_tags": []
+    "related_tags": [
+      "降雨林"
+    ]
   },
   {
     "tag_name": "baobab",
@@ -49565,11 +56261,15 @@ return [
   },
   {
     "tag_name": "fir tree",
-    "related_tags": []
+    "related_tags": [
+      "遠赤外線+樹"
+    ]
   },
   {
     "tag_name": "fruit tree",
-    "related_tags": []
+    "related_tags": [
+      "果樹"
+    ]
   },
   {
     "tag_name": "ginkgo",
@@ -49579,7 +56279,9 @@ return [
   },
   {
     "tag_name": "ginkgo nut",
-    "related_tags": []
+    "related_tags": [
+      "銀杏"
+    ]
   },
   {
     "tag_name": "maple leaf",
@@ -49625,7 +56327,9 @@ return [
   },
   {
     "tag_name": "giant tree",
-    "related_tags": []
+    "related_tags": [
+      "巨樹"
+    ]
   },
   {
     "tag_name": "tree shade",
@@ -49635,7 +56339,9 @@ return [
   },
   {
     "tag_name": "against tree",
-    "related_tags": []
+    "related_tags": [
+      "に対し+樹"
+    ]
   },
   {
     "tag_name": "in tree",
@@ -49645,11 +56351,15 @@ return [
   },
   {
     "tag_name": "sitting in tree",
-    "related_tags": []
+    "related_tags": [
+      "一席+in+樹"
+    ]
   },
   {
     "tag_name": "under tree",
-    "related_tags": []
+    "related_tags": [
+      "下+樹"
+    ]
   },
   {
     "tag_name": "date",
@@ -49861,63 +56571,93 @@ return [
   },
   {
     "tag_name": "January",
-    "related_tags": []
+    "related_tags": [
+      "一月"
+    ]
   },
   {
     "tag_name": "February",
-    "related_tags": []
+    "related_tags": [
+      "二月"
+    ]
   },
   {
     "tag_name": "March",
-    "related_tags": []
+    "related_tags": [
+      "進軍"
+    ]
   },
   {
     "tag_name": "April",
-    "related_tags": []
+    "related_tags": [
+      "四月"
+    ]
   },
   {
     "tag_name": "May",
-    "related_tags": []
+    "related_tags": [
+      "山査子"
+    ]
   },
   {
     "tag_name": "June",
-    "related_tags": []
+    "related_tags": [
+      "水無月"
+    ]
   },
   {
     "tag_name": "July",
-    "related_tags": []
+    "related_tags": [
+      "七月"
+    ]
   },
   {
     "tag_name": "August",
-    "related_tags": []
+    "related_tags": [
+      "美"
+    ]
   },
   {
     "tag_name": "September",
-    "related_tags": []
+    "related_tags": [
+      "九月"
+    ]
   },
   {
     "tag_name": "October",
-    "related_tags": []
+    "related_tags": [
+      "十月"
+    ]
   },
   {
     "tag_name": "November",
-    "related_tags": []
+    "related_tags": [
+      "十一月"
+    ]
   },
   {
     "tag_name": "December",
-    "related_tags": []
+    "related_tags": [
+      "極月"
+    ]
   },
   {
     "tag_name": "all sizes",
-    "related_tags": []
+    "related_tags": [
+      "一式+一回り"
+    ]
   },
   {
     "tag_name": "huge_boobs",
-    "related_tags": []
+    "related_tags": [
+      "偉+ぱいぱい"
+    ]
   },
   {
     "tag_name": "huge_tits",
-    "related_tags": []
+    "related_tags": [
+      "偉+おっぱい"
+    ]
   },
   {
     "tag_name": "Deemo",
@@ -49927,23 +56667,33 @@ return [
   },
   {
     "tag_name": "Reflection (Mirror Night)",
-    "related_tags": []
+    "related_tags": [
+      "影+(mirror+night)"
+    ]
   },
   {
     "tag_name": "Wings Of Piano",
-    "related_tags": []
+    "related_tags": [
+      "羽交い+of+洋琴"
+    ]
   },
   {
     "tag_name": "Nine Point Eight",
-    "related_tags": []
+    "related_tags": [
+      "九+一角+捌"
+    ]
   },
   {
     "tag_name": "Light Pollution",
-    "related_tags": []
+    "related_tags": [
+      "光害"
+    ]
   },
   {
     "tag_name": "Undo",
-    "related_tags": []
+    "related_tags": [
+      "アンドゥ"
+    ]
   },
   {
     "tag_name": "Platinum",
@@ -49955,11 +56705,15 @@ return [
   },
   {
     "tag_name": "Reverse Paralel Universe",
-    "related_tags": []
+    "related_tags": [
+      "逆+paralel+宇宙"
+    ]
   },
   {
     "tag_name": "I Hate To Tell You",
-    "related_tags": []
+    "related_tags": [
+      "i+嫌悪+to+tell+我"
+    ]
   },
   {
     "tag_name": "Saika",
@@ -49971,7 +56725,9 @@ return [
   },
   {
     "tag_name": "Evolution Era",
-    "related_tags": []
+    "related_tags": [
+      "化育+防衛費"
+    ]
   },
   {
     "tag_name": "Invite",
@@ -49979,19 +56735,27 @@ return [
   },
   {
     "tag_name": "Run Go Run",
-    "related_tags": []
+    "related_tags": [
+      "一っ走り+go+一っ走り"
+    ]
   },
   {
     "tag_name": "Yawning Lion",
-    "related_tags": []
+    "related_tags": [
+      "欠+師子"
+    ]
   },
   {
     "tag_name": "Pulses",
-    "related_tags": []
+    "related_tags": [
+      "脈"
+    ]
   },
   {
     "tag_name": "Electron",
-    "related_tags": []
+    "related_tags": [
+      "陰電子"
+    ]
   },
   {
     "tag_name": "Untitled2",
@@ -49999,11 +56763,15 @@ return [
   },
   {
     "tag_name": "Walking By The Sea",
-    "related_tags": []
+    "related_tags": [
+      "御拾い+by+the+海"
+    ]
   },
   {
     "tag_name": "Beyond The Stratus",
-    "related_tags": []
+    "related_tags": [
+      "以遠+the+層雲"
+    ]
   },
   {
     "tag_name": "Sairai",
@@ -50011,15 +56779,21 @@ return [
   },
   {
     "tag_name": "Entrance",
-    "related_tags": []
+    "related_tags": [
+      "玄関"
+    ]
   },
   {
     "tag_name": "Angelic Sphere",
-    "related_tags": []
+    "related_tags": [
+      "angelic+球"
+    ]
   },
   {
     "tag_name": "Sunset",
-    "related_tags": []
+    "related_tags": [
+      "日ぐれ"
+    ]
   },
   {
     "tag_name": "Sakura Iro No Yume",
@@ -50039,39 +56813,57 @@ return [
   },
   {
     "tag_name": "Metal Hypnotized",
-    "related_tags": []
+    "related_tags": [
+      "金+hypnotized"
+    ]
   },
   {
     "tag_name": "Peach Lady",
-    "related_tags": []
+    "related_tags": [
+      "ピーチ+令夫人"
+    ]
   },
   {
     "tag_name": "Hey Boy",
-    "related_tags": []
+    "related_tags": [
+      "御前さん+一男"
+    ]
   },
   {
     "tag_name": "Friction",
-    "related_tags": []
+    "related_tags": [
+      "抵抗"
+    ]
   },
   {
     "tag_name": "I Race The Dawn",
-    "related_tags": []
+    "related_tags": [
+      "i+競争+the+引き明け"
+    ]
   },
   {
     "tag_name": "Moon Without The Stars",
-    "related_tags": []
+    "related_tags": [
+      "衛星+没+the+星々"
+    ]
   },
   {
     "tag_name": "Sanctity",
-    "related_tags": []
+    "related_tags": [
+      "神聖"
+    ]
   },
   {
     "tag_name": "Hua Sui Yue",
-    "related_tags": []
+    "related_tags": [
+      "hua+sui+越"
+    ]
   },
   {
     "tag_name": "Fable",
-    "related_tags": []
+    "related_tags": [
+      "寓言"
+    ]
   },
   {
     "tag_name": "Rosetta",
@@ -50079,11 +56871,15 @@ return [
   },
   {
     "tag_name": "Witch'S Invitation",
-    "related_tags": []
+    "related_tags": [
+      "witch's+案内"
+    ]
   },
   {
     "tag_name": "The Truth That You Leave",
-    "related_tags": []
+    "related_tags": [
+      "the+事実+何+我+暇"
+    ]
   },
   {
     "tag_name": "Veritas",
@@ -50095,15 +56891,21 @@ return [
   },
   {
     "tag_name": "Precipitation",
-    "related_tags": []
+    "related_tags": [
+      "降水"
+    ]
   },
   {
     "tag_name": "The Black Case",
-    "related_tags": []
+    "related_tags": [
+      "the+暗然+案件"
+    ]
   },
   {
     "tag_name": "Future World",
-    "related_tags": []
+    "related_tags": [
+      "後+世"
+    ]
   },
   {
     "tag_name": "Niflheimr",
@@ -50115,75 +56917,111 @@ return [
   },
   {
     "tag_name": "Recollections",
-    "related_tags": []
+    "related_tags": [
+      "思いで"
+    ]
   },
   {
     "tag_name": "aqua sleeves",
-    "related_tags": []
+    "related_tags": [
+      "水色+衣手"
+    ]
   },
   {
     "tag_name": "black sleeves",
-    "related_tags": []
+    "related_tags": [
+      "暗然+衣手"
+    ]
   },
   {
     "tag_name": "blue sleeves",
-    "related_tags": []
+    "related_tags": [
+      "重い+衣手"
+    ]
   },
   {
     "tag_name": "brown sleeves",
-    "related_tags": []
+    "related_tags": [
+      "赤銅色+衣手"
+    ]
   },
   {
     "tag_name": "green sleeves",
-    "related_tags": []
+    "related_tags": [
+      "産+衣手"
+    ]
   },
   {
     "tag_name": "grey sleeves",
-    "related_tags": []
+    "related_tags": [
+      "灰色+衣手"
+    ]
   },
   {
     "tag_name": "orange sleeves",
-    "related_tags": []
+    "related_tags": [
+      "炎色+衣手"
+    ]
   },
   {
     "tag_name": "pink sleeves",
-    "related_tags": []
+    "related_tags": [
+      "退紅+衣手"
+    ]
   },
   {
     "tag_name": "purple sleeves",
-    "related_tags": []
+    "related_tags": [
+      "此の糸+衣手"
+    ]
   },
   {
     "tag_name": "red sleeves",
-    "related_tags": []
+    "related_tags": [
+      "赭い+衣手"
+    ]
   },
   {
     "tag_name": "white sleeves",
-    "related_tags": []
+    "related_tags": [
+      "白+衣手"
+    ]
   },
   {
     "tag_name": "yellow sleeves",
-    "related_tags": []
+    "related_tags": [
+      "黄+衣手"
+    ]
   },
   {
     "tag_name": "Prints",
-    "related_tags": []
+    "related_tags": [
+      "印"
+    ]
   },
   {
     "tag_name": "checkered sleeves",
-    "related_tags": []
+    "related_tags": [
+      "チェック+衣手"
+    ]
   },
   {
     "tag_name": "plaid sleeves",
-    "related_tags": []
+    "related_tags": [
+      "格子じま+衣手"
+    ]
   },
   {
     "tag_name": "polka dot sleeves",
-    "related_tags": []
+    "related_tags": [
+      "ポルカ+点+衣手"
+    ]
   },
   {
     "tag_name": "striped sleeves",
-    "related_tags": []
+    "related_tags": [
+      "縞々+衣手"
+    ]
   },
   {
     "tag_name": "short sleeves",
@@ -50211,11 +57049,15 @@ return [
   },
   {
     "tag_name": "sleeves past elbows",
-    "related_tags": []
+    "related_tags": [
+      "衣手+往者+屈曲部"
+    ]
   },
   {
     "tag_name": "sleeves pushed up",
-    "related_tags": []
+    "related_tags": [
+      "衣手+圧し+up"
+    ]
   },
   {
     "tag_name": "sleeves rolled up",
@@ -50225,27 +57067,39 @@ return [
   },
   {
     "tag_name": "feather-trimmed sleeves",
-    "related_tags": []
+    "related_tags": [
+      "羽+trimmed+衣手"
+    ]
   },
   {
     "tag_name": "frilled sleeves",
-    "related_tags": []
+    "related_tags": [
+      "縁飾り+衣手"
+    ]
   },
   {
     "tag_name": "fur-trimmed sleeves",
-    "related_tags": []
+    "related_tags": [
+      "毛革+trimmed+衣手"
+    ]
   },
   {
     "tag_name": "lace-trimmed sleeves",
-    "related_tags": []
+    "related_tags": [
+      "レース+trimmed+衣手"
+    ]
   },
   {
     "tag_name": "ribbon-trimmed sleeves",
-    "related_tags": []
+    "related_tags": [
+      "リボン+trimmed+衣手"
+    ]
   },
   {
     "tag_name": "uneven sleeves",
-    "related_tags": []
+    "related_tags": [
+      "揃わない+衣手"
+    ]
   },
   {
     "tag_name": "bell sleeves",
@@ -50255,7 +57109,9 @@ return [
   },
   {
     "tag_name": "compression sleeve",
-    "related_tags": []
+    "related_tags": [
+      "圧搾+衣手"
+    ]
   },
   {
     "tag_name": "elbow sleeve",
@@ -50265,91 +57121,135 @@ return [
   },
   {
     "tag_name": "single detached sleeve",
-    "related_tags": []
+    "related_tags": [
+      "単+淡々+衣手"
+    ]
   },
   {
     "tag_name": "lace-up sleeves",
-    "related_tags": []
+    "related_tags": [
+      "レース+up+衣手"
+    ]
   },
   {
     "tag_name": "layered sleeves",
-    "related_tags": []
+    "related_tags": [
+      "レイヤード+衣手"
+    ]
   },
   {
     "tag_name": "mismatched sleeves",
-    "related_tags": []
+    "related_tags": [
+      "ちぐはぐ+衣手"
+    ]
   },
   {
     "tag_name": "puff and slash sleeves",
-    "related_tags": []
+    "related_tags": [
+      "一吹き+以って+斬撃+衣手"
+    ]
   },
   {
     "tag_name": "puffy detached sleeves",
-    "related_tags": []
+    "related_tags": [
+      "腫れぼったい+淡々+衣手"
+    ]
   },
   {
     "tag_name": "puffy long sleeves",
-    "related_tags": []
+    "related_tags": [
+      "腫れぼったい+永+衣手"
+    ]
   },
   {
     "tag_name": "puffy short sleeves",
-    "related_tags": []
+    "related_tags": [
+      "腫れぼったい+幾許もない+衣手"
+    ]
   },
   {
     "tag_name": "ribbed sleeves",
-    "related_tags": []
+    "related_tags": [
+      "ribbed+衣手"
+    ]
   },
   {
     "tag_name": "see-through sleeves",
-    "related_tags": []
+    "related_tags": [
+      "御覧なさい+越し+衣手"
+    ]
   },
   {
     "tag_name": "short over long sleeves",
-    "related_tags": []
+    "related_tags": [
+      "幾許もない+越し+永+衣手"
+    ]
   },
   {
     "tag_name": "torn sleeves",
-    "related_tags": []
+    "related_tags": [
+      "torn+衣手"
+    ]
   },
   {
     "tag_name": "arm out of sleeve",
-    "related_tags": []
+    "related_tags": [
+      "腕+死+of+衣手"
+    ]
   },
   {
     "tag_name": "hands in opposite sleeves",
-    "related_tags": []
+    "related_tags": [
+      "御手手+in+逆+衣手"
+    ]
   },
   {
     "tag_name": "pinching sleeves",
-    "related_tags": []
+    "related_tags": [
+      "失敬+衣手"
+    ]
   },
   {
     "tag_name": "sleeve grab",
-    "related_tags": []
+    "related_tags": [
+      "衣手+グラブ"
+    ]
   },
   {
     "tag_name": "sleeveless duster",
-    "related_tags": []
+    "related_tags": [
+      "sleeveless+上っ張り"
+    ]
   },
   {
     "tag_name": "sleeveless hoodie",
-    "related_tags": []
+    "related_tags": [
+      "sleeveless+パーカ"
+    ]
   },
   {
     "tag_name": "sleeveless kimono",
-    "related_tags": []
+    "related_tags": [
+      "sleeveless+着物"
+    ]
   },
   {
     "tag_name": "nipple sleeves",
-    "related_tags": []
+    "related_tags": [
+      "乳首+衣手"
+    ]
   },
   {
     "tag_name": "no detached sleeves",
-    "related_tags": []
+    "related_tags": [
+      "no+淡々+衣手"
+    ]
   },
   {
     "tag_name": "single sleeve",
-    "related_tags": []
+    "related_tags": [
+      "単+衣手"
+    ]
   },
   {
     "tag_name": "sleeve cuffs",
@@ -50359,7 +57259,9 @@ return [
   },
   {
     "tag_name": "up sleeve",
-    "related_tags": []
+    "related_tags": [
+      "up+衣手"
+    ]
   },
   {
     "tag_name": "duster",
@@ -50405,7 +57307,9 @@ return [
   },
   {
     "tag_name": "Sydney",
-    "related_tags": []
+    "related_tags": [
+      "雪特尼"
+    ]
   },
   {
     "tag_name": "Austria",
@@ -50459,7 +57363,9 @@ return [
   },
   {
     "tag_name": "Toronto",
-    "related_tags": []
+    "related_tags": [
+      "トロント"
+    ]
   },
   {
     "tag_name": "Chile",
@@ -50667,7 +57573,9 @@ return [
   },
   {
     "tag_name": "Jerusalem",
-    "related_tags": []
+    "related_tags": [
+      "耶路撒冷"
+    ]
   },
   {
     "tag_name": "Italy",
@@ -50689,7 +57597,9 @@ return [
   },
   {
     "tag_name": "Rome",
-    "related_tags": []
+    "related_tags": [
+      "羅馬"
+    ]
   },
   {
     "tag_name": "Venice",
@@ -50849,7 +57759,9 @@ return [
   },
   {
     "tag_name": "Mexico City",
-    "related_tags": []
+    "related_tags": [
+      "キシコ・シティ"
+    ]
   },
   {
     "tag_name": "Mongolia",
@@ -50895,7 +57807,9 @@ return [
   },
   {
     "tag_name": "East Jerusalem",
-    "related_tags": []
+    "related_tags": [
+      "吾妻+耶路撒冷"
+    ]
   },
   {
     "tag_name": "Panama",
@@ -50953,7 +57867,9 @@ return [
   },
   {
     "tag_name": "Saint Petersburg",
-    "related_tags": []
+    "related_tags": [
+      "聖者+petersburg"
+    ]
   },
   {
     "tag_name": "Vladivostok",
@@ -51051,7 +57967,9 @@ return [
   },
   {
     "tag_name": "Istanbul",
-    "related_tags": []
+    "related_tags": [
+      "イスタンブール"
+    ]
   },
   {
     "tag_name": "United Arab Emirates",
@@ -51077,7 +57995,9 @@ return [
   },
   {
     "tag_name": "London",
-    "related_tags": []
+    "related_tags": [
+      "英京"
+    ]
   },
   {
     "tag_name": "Northern Ireland",
@@ -51093,7 +58013,9 @@ return [
   },
   {
     "tag_name": "Edinburgh",
-    "related_tags": []
+    "related_tags": [
+      "エジンバラ"
+    ]
   },
   {
     "tag_name": "Wales",
@@ -51104,7 +58026,7 @@ return [
   {
     "tag_name": "United States",
     "related_tags": [
-      "United_States"
+      "アメリカ"
     ]
   },
   {
@@ -51125,11 +58047,15 @@ return [
   },
   {
     "tag_name": "Las Vegas",
-    "related_tags": []
+    "related_tags": [
+      "ラボラトリー・オートメーション+vegas"
+    ]
   },
   {
     "tag_name": "Los Angeles",
-    "related_tags": []
+    "related_tags": [
+      "羅府"
+    ]
   },
   {
     "tag_name": "New York",
@@ -51145,7 +58071,9 @@ return [
   },
   {
     "tag_name": "Seattle",
-    "related_tags": []
+    "related_tags": [
+      "舎路"
+    ]
   },
   {
     "tag_name": "Texas",
@@ -51275,7 +58203,9 @@ return [
   },
   {
     "tag_name": "Angel de la Independencia",
-    "related_tags": []
+    "related_tags": [
+      "御使い+de+la+independencia"
+    ]
   },
   {
     "tag_name": "Brooklyn Bridge",
@@ -51291,15 +58221,21 @@ return [
   },
   {
     "tag_name": "CN Tower",
-    "related_tags": []
+    "related_tags": [
+      "cn+台"
+    ]
   },
   {
     "tag_name": "Coors Field",
-    "related_tags": []
+    "related_tags": [
+      "coors+競技場"
+    ]
   },
   {
     "tag_name": "Crypto.com Arena",
-    "related_tags": []
+    "related_tags": [
+      "crypto.com+競技場"
+    ]
   },
   {
     "tag_name": "El Castillo",
@@ -51325,23 +58261,33 @@ return [
   },
   {
     "tag_name": "Grand Canyon",
-    "related_tags": []
+    "related_tags": [
+      "偉大+峡谷"
+    ]
   },
   {
     "tag_name": "Hard Rock Stadium",
-    "related_tags": []
+    "related_tags": [
+      "営々+巌+運動公園"
+    ]
   },
   {
     "tag_name": "Homey Airport",
-    "related_tags": []
+    "related_tags": [
+      "homey+空の玄関"
+    ]
   },
   {
     "tag_name": "Hollywood",
-    "related_tags": []
+    "related_tags": [
+      "聖林"
+    ]
   },
   {
     "tag_name": "Lombard Street",
-    "related_tags": []
+    "related_tags": [
+      "lombard+辻"
+    ]
   },
   {
     "tag_name": "Mount Rushmore",
@@ -51357,7 +58303,9 @@ return [
   },
   {
     "tag_name": "One World Trade Center",
-    "related_tags": []
+    "related_tags": [
+      "一+世+営業+央"
+    ]
   },
   {
     "tag_name": "World Trade Center",
@@ -51379,7 +58327,9 @@ return [
   },
   {
     "tag_name": "Space Needle",
-    "related_tags": []
+    "related_tags": [
+      "宇宙+鈎"
+    ]
   },
   {
     "tag_name": "Statue of Liberty",
@@ -51395,27 +58345,39 @@ return [
   },
   {
     "tag_name": "Transamerica Pyramid",
-    "related_tags": []
+    "related_tags": [
+      "transamerica+角すい"
+    ]
   },
   {
     "tag_name": "Tropicana Field",
-    "related_tags": []
+    "related_tags": [
+      "tropicana+競技場"
+    ]
   },
   {
     "tag_name": "Trump Tower",
-    "related_tags": []
+    "related_tags": [
+      "取っておき+台"
+    ]
   },
   {
     "tag_name": "United States Capitol",
-    "related_tags": []
+    "related_tags": [
+      "一丸となって+列国+議事堂"
+    ]
   },
   {
     "tag_name": "Washington Monument",
-    "related_tags": []
+    "related_tags": [
+      "washington+追悼塔"
+    ]
   },
   {
     "tag_name": "White House",
-    "related_tags": []
+    "related_tags": [
+      "白+屋"
+    ]
   },
   {
     "tag_name": "Willis Tower",
@@ -51435,7 +58397,9 @@ return [
   },
   {
     "tag_name": "Our Lady of the Assumption",
-    "related_tags": []
+    "related_tags": [
+      "我+令夫人+of+the+仮説"
+    ]
   },
   {
     "tag_name": "Al-Masjid al-Nabawi",
@@ -51455,11 +58419,15 @@ return [
   },
   {
     "tag_name": "Borobudur Temple",
-    "related_tags": []
+    "related_tags": [
+      "borobudur+院"
+    ]
   },
   {
     "tag_name": "Burj Al Arab",
-    "related_tags": []
+    "related_tags": [
+      "burj+al+アラビア人"
+    ]
   },
   {
     "tag_name": "Burj Khalifa",
@@ -51467,15 +58435,21 @@ return [
   },
   {
     "tag_name": "Canton Tower",
-    "related_tags": []
+    "related_tags": [
+      "広州+台"
+    ]
   },
   {
     "tag_name": "Chubu Centrair International Airport",
-    "related_tags": []
+    "related_tags": [
+      "chubu+セントレア+国際+空の玄関"
+    ]
   },
   {
     "tag_name": "Dome of the Rock",
-    "related_tags": []
+    "related_tags": [
+      "円屋根+of+the+巌"
+    ]
   },
   {
     "tag_name": "Forbidden City",
@@ -51491,7 +58465,9 @@ return [
   },
   {
     "tag_name": "Ginza Wako",
-    "related_tags": []
+    "related_tags": [
+      "ザギン+wako"
+    ]
   },
   {
     "tag_name": "Great Wall of China",
@@ -51525,7 +58501,9 @@ return [
   },
   {
     "tag_name": "Kumamoto Castle",
-    "related_tags": []
+    "related_tags": [
+      "kumamoto+囲い"
+    ]
   },
   {
     "tag_name": "Matsue Castle",
@@ -51547,11 +58525,15 @@ return [
   },
   {
     "tag_name": "Nagoya Castle",
-    "related_tags": []
+    "related_tags": [
+      "中京+囲い"
+    ]
   },
   {
     "tag_name": "Nanzen-ji Aqueduct",
-    "related_tags": []
+    "related_tags": [
+      "nanzen+ji+水道橋"
+    ]
   },
   {
     "tag_name": "National Diet Building",
@@ -51561,7 +58543,9 @@ return [
   },
   {
     "tag_name": "New National Stadium",
-    "related_tags": []
+    "related_tags": [
+      "見ず知らず+官立+運動公園"
+    ]
   },
   {
     "tag_name": "NTT Docomo Yoyogi Building",
@@ -51589,7 +58573,9 @@ return [
   },
   {
     "tag_name": "Penghu Tianho Temple",
-    "related_tags": []
+    "related_tags": [
+      "penghu+tianho+院"
+    ]
   },
   {
     "tag_name": "Petra",
@@ -51615,7 +58601,9 @@ return [
   },
   {
     "tag_name": "Saw Sawing",
-    "related_tags": []
+    "related_tags": [
+      "鋸+鋸引き"
+    ]
   },
   {
     "tag_name": "Shibuya 109",
@@ -51715,7 +58703,9 @@ return [
   },
   {
     "tag_name": "Allianz Arena",
-    "related_tags": []
+    "related_tags": [
+      "allianz+競技場"
+    ]
   },
   {
     "tag_name": "Anfield",
@@ -51747,23 +58737,33 @@ return [
   },
   {
     "tag_name": "Bramall Lane",
-    "related_tags": []
+    "related_tags": [
+      "bramall+横丁"
+    ]
   },
   {
     "tag_name": "Brandenburg Gate",
-    "related_tags": []
+    "related_tags": [
+      "brandenburg+関"
+    ]
   },
   {
     "tag_name": "Buckingham Palace",
-    "related_tags": []
+    "related_tags": [
+      "buckingham+屋形"
+    ]
   },
   {
     "tag_name": "Camp Nou",
-    "related_tags": []
+    "related_tags": [
+      "営所+nou"
+    ]
   },
   {
     "tag_name": "Cathedral of Santa Eulalia",
-    "related_tags": []
+    "related_tags": [
+      "教会堂+of+サンタ+eulalia"
+    ]
   },
   {
     "tag_name": "Chernobyl NPP",
@@ -51773,11 +58773,15 @@ return [
   },
   {
     "tag_name": "Church of the Savior on Blood",
-    "related_tags": []
+    "related_tags": [
+      "会堂+of+the+救い主+on+血"
+    ]
   },
   {
     "tag_name": "Cologne Cathedral",
-    "related_tags": []
+    "related_tags": [
+      "ケルン+教会堂"
+    ]
   },
   {
     "tag_name": "Colosseum",
@@ -51803,7 +58807,9 @@ return [
   },
   {
     "tag_name": "Florence Cathedral",
-    "related_tags": []
+    "related_tags": [
+      "florence+教会堂"
+    ]
   },
   {
     "tag_name": "Hagia Sophia",
@@ -51817,19 +58823,27 @@ return [
   },
   {
     "tag_name": "Leaning Tower of Pisa",
-    "related_tags": []
+    "related_tags": [
+      "leaning+台+of+pisa"
+    ]
   },
   {
     "tag_name": "Louvre Pyramid",
-    "related_tags": []
+    "related_tags": [
+      "louvre+角すい"
+    ]
   },
   {
     "tag_name": "Luxor Obelisk",
-    "related_tags": []
+    "related_tags": [
+      "luxor+方尖柱"
+    ]
   },
   {
     "tag_name": "Milan Cathedral",
-    "related_tags": []
+    "related_tags": [
+      "milan+教会堂"
+    ]
   },
   {
     "tag_name": "Mont St-Michel",
@@ -51837,11 +58851,15 @@ return [
   },
   {
     "tag_name": "Moscow Kremlin",
-    "related_tags": []
+    "related_tags": [
+      "moscow+クレムリン"
+    ]
   },
   {
     "tag_name": "Neuschwanstein Castle",
-    "related_tags": []
+    "related_tags": [
+      "neuschwanstein+囲い"
+    ]
   },
   {
     "tag_name": "Notre Dame de Paris",
@@ -51851,7 +58869,9 @@ return [
   },
   {
     "tag_name": "Palace of the Parliament",
-    "related_tags": []
+    "related_tags": [
+      "屋形+of+the+議院"
+    ]
   },
   {
     "tag_name": "Palacio de Carlos V",
@@ -51871,27 +58891,39 @@ return [
   },
   {
     "tag_name": "Sanssouci Palace",
-    "related_tags": []
+    "related_tags": [
+      "sanssouci+屋形"
+    ]
   },
   {
     "tag_name": "Schoenbrunn Palace",
-    "related_tags": []
+    "related_tags": [
+      "schoenbrunn+屋形"
+    ]
   },
   {
     "tag_name": "Spasskaya Tower",
-    "related_tags": []
+    "related_tags": [
+      "spasskaya+台"
+    ]
   },
   {
     "tag_name": "St Basil's Cathedral",
-    "related_tags": []
+    "related_tags": [
+      "st+basil's+教会堂"
+    ]
   },
   {
     "tag_name": "St. Peter's Basilica",
-    "related_tags": []
+    "related_tags": [
+      "聖+peter's+バジリカ"
+    ]
   },
   {
     "tag_name": "St. Peter's Square",
-    "related_tags": []
+    "related_tags": [
+      "聖+peter's+角"
+    ]
   },
   {
     "tag_name": "Stonehenge",
@@ -51901,7 +58933,9 @@ return [
   },
   {
     "tag_name": "Trafalgar Square",
-    "related_tags": []
+    "related_tags": [
+      "trafalgar+角"
+    ]
   },
   {
     "tag_name": "Westminster Palace",
@@ -51933,15 +58967,21 @@ return [
   },
   {
     "tag_name": "Sydney Opera House",
-    "related_tags": []
+    "related_tags": [
+      "雪特尼+歌劇+屋"
+    ]
   },
   {
     "tag_name": "location request",
-    "related_tags": []
+    "related_tags": [
+      "位地+依嘱"
+    ]
   },
   {
     "tag_name": "solo focus",
-    "related_tags": []
+    "related_tags": [
+      "単独+中心"
+    ]
   },
   {
     "tag_name": "solo",
@@ -51963,7 +59003,9 @@ return [
   },
   {
     "tag_name": "ass focus",
-    "related_tags": []
+    "related_tags": [
+      "太もも+中心"
+    ]
   },
   {
     "tag_name": "back focus",
@@ -51973,7 +59015,9 @@ return [
   },
   {
     "tag_name": "breast focus",
-    "related_tags": []
+    "related_tags": [
+      "胸+中心"
+    ]
   },
   {
     "tag_name": "eye focus",
@@ -51995,35 +59039,51 @@ return [
   },
   {
     "tag_name": "hip focus",
-    "related_tags": []
+    "related_tags": [
+      "今い+中心"
+    ]
   },
   {
     "tag_name": "navel focus",
-    "related_tags": []
+    "related_tags": [
+      "臍+中心"
+    ]
   },
   {
     "tag_name": "pectoral focus",
-    "related_tags": []
+    "related_tags": [
+      "pectoral+中心"
+    ]
   },
   {
     "tag_name": "thigh focus",
-    "related_tags": []
+    "related_tags": [
+      "股+中心"
+    ]
   },
   {
     "tag_name": "other focus",
-    "related_tags": []
+    "related_tags": [
+      "異+中心"
+    ]
   },
   {
     "tag_name": "animal focus",
-    "related_tags": []
+    "related_tags": [
+      "獣+中心"
+    ]
   },
   {
     "tag_name": "book focus",
-    "related_tags": []
+    "related_tags": [
+      "一篇+中心"
+    ]
   },
   {
     "tag_name": "cloud focus",
-    "related_tags": []
+    "related_tags": [
+      "雲+中心"
+    ]
   },
   {
     "tag_name": "food focus",
@@ -52033,11 +59093,15 @@ return [
   },
   {
     "tag_name": "text focus",
-    "related_tags": []
+    "related_tags": [
+      "条文+中心"
+    ]
   },
   {
     "tag_name": "vehicle focus",
-    "related_tags": []
+    "related_tags": [
+      "駕+中心"
+    ]
   },
   {
     "tag_name": "weapon focus",
@@ -52047,11 +59111,15 @@ return [
   },
   {
     "tag_name": "wind chime focus",
-    "related_tags": []
+    "related_tags": [
+      "瓦斯+鐘+中心"
+    ]
   },
   {
     "tag_name": "soft focus",
-    "related_tags": []
+    "related_tags": [
+      "ソフト・フォーカス"
+    ]
   },
   {
     "tag_name": "Tabletop RPGs",
@@ -52369,7 +59437,9 @@ return [
   },
   {
     "tag_name": "Attouteki Yuugi Mugen Souls Z",
-    "related_tags": []
+    "related_tags": [
+      "attouteki+yuugi+mugen+生霊+z"
+    ]
   },
   {
     "tag_name": "Bahamut Lagoon",
@@ -52379,7 +59449,9 @@ return [
   },
   {
     "tag_name": "Baldur's Gate",
-    "related_tags": []
+    "related_tags": [
+      "baldur's+関"
+    ]
   },
   {
     "tag_name": "Bishoujo Senshi Sailor Moon Another Story",
@@ -52413,7 +59485,9 @@ return [
   },
   {
     "tag_name": "Bravely Default",
-    "related_tags": []
+    "related_tags": [
+      "敢然+違約"
+    ]
   },
   {
     "tag_name": "Bravely Default: Flying Fairy",
@@ -52429,7 +59503,9 @@ return [
   },
   {
     "tag_name": "Bravely Default: Praying Brage",
-    "related_tags": []
+    "related_tags": [
+      "敢然+default:+発願+brage"
+    ]
   },
   {
     "tag_name": "Bravely Default: Fairy's Effect",
@@ -52587,7 +59663,9 @@ return [
   },
   {
     "tag_name": "Digimon World",
-    "related_tags": []
+    "related_tags": [
+      "digimon+世"
+    ]
   },
   {
     "tag_name": "Digimon World -next 0rder-",
@@ -52674,7 +59752,7 @@ return [
   {
     "tag_name": "Dragon Age: Origins",
     "related_tags": [
-      "DragonAge:Origins"
+      "ドラゴンエイジ:オリジンズ"
     ]
   },
   {
@@ -53077,7 +60155,9 @@ return [
   },
   {
     "tag_name": "Fire Emblem: Path of Radiance",
-    "related_tags": []
+    "related_tags": [
+      "火+emblem:+径+of+赫き"
+    ]
   },
   {
     "tag_name": "Fire Emblem: Radiant Dawn",
@@ -53261,7 +60341,9 @@ return [
   },
   {
     "tag_name": "Kingdom Hearts Chain of Memories",
-    "related_tags": []
+    "related_tags": [
+      "王国+意気+鎖+of+遺事"
+    ]
   },
   {
     "tag_name": "Kingdom Hearts II",
@@ -53271,7 +60353,9 @@ return [
   },
   {
     "tag_name": "Kingdom Hearts coded",
-    "related_tags": []
+    "related_tags": [
+      "王国+意気+指揮官"
+    ]
   },
   {
     "tag_name": "Kingdom Hearts 358/2 Days",
@@ -53339,11 +60423,15 @@ return [
   },
   {
     "tag_name": "Legend of Xanadu",
-    "related_tags": []
+    "related_tags": [
+      "言い伝え+of+xanadu"
+    ]
   },
   {
     "tag_name": "Lineage",
-    "related_tags": []
+    "related_tags": [
+      "一統"
+    ]
   },
   {
     "tag_name": "Lineage 2",
@@ -53429,7 +60517,9 @@ return [
   },
   {
     "tag_name": "Might and Magic",
-    "related_tags": []
+    "related_tags": [
+      "偉力+以って+奇術"
+    ]
   },
   {
     "tag_name": "Monster Farm",
@@ -53475,7 +60565,9 @@ return [
   },
   {
     "tag_name": "Neverwinter Nights",
-    "related_tags": []
+    "related_tags": [
+      "neverwinter+暮夜"
+    ]
   },
   {
     "tag_name": "Nier (series)",
@@ -53492,7 +60584,7 @@ return [
   {
     "tag_name": "Nier:automata",
     "related_tags": [
-      "NieR:Automata"
+      "ニーアオートマタ"
     ]
   },
   {
@@ -53521,11 +60613,15 @@ return [
   },
   {
     "tag_name": "Tactics Ogre: Let Us Cling Together",
-    "related_tags": []
+    "related_tags": [
+      "掛け引き+ogre:+レット+us+セ+一しょ"
+    ]
   },
   {
     "tag_name": "Tactics Ogre: The Knight of Lodis",
-    "related_tags": []
+    "related_tags": [
+      "掛け引き+ogre:+the+騎士+of+lodis"
+    ]
   },
   {
     "tag_name": "Ogre Battle 64: Person of Lordly Caliber",
@@ -53585,7 +60681,9 @@ return [
   },
   {
     "tag_name": "Phantasy Star Online",
-    "related_tags": []
+    "related_tags": [
+      "phantasy+巨擘+オンライン"
+    ]
   },
   {
     "tag_name": "Phantasy Star Online 2",
@@ -53595,7 +60693,9 @@ return [
   },
   {
     "tag_name": "Phantasy Star Portable",
-    "related_tags": []
+    "related_tags": [
+      "phantasy+巨擘+可搬型"
+    ]
   },
   {
     "tag_name": "Phantasy Star Portable 2 Infinity",
@@ -53611,7 +60711,9 @@ return [
   },
   {
     "tag_name": "Phantasy Star Zero",
-    "related_tags": []
+    "related_tags": [
+      "phantasy+巨擘+跳び"
+    ]
   },
   {
     "tag_name": "Phantom Brave",
@@ -53627,7 +60729,9 @@ return [
   },
   {
     "tag_name": "Planescape: Torment",
-    "related_tags": []
+    "related_tags": [
+      "planescape:+責め"
+    ]
   },
   {
     "tag_name": "Pokémon (game)",
@@ -53641,7 +60745,9 @@ return [
   },
   {
     "tag_name": "Pokémon FireRed and LeafGreen",
-    "related_tags": []
+    "related_tags": [
+      "pokémon+firered+以って+leafgreen"
+    ]
   },
   {
     "tag_name": "Pokémon Let's Go! Pikachu and Pokémon Let's Go! Eevee",
@@ -53791,7 +60897,9 @@ return [
   },
   {
     "tag_name": "Ragnarok: Guild Masters",
-    "related_tags": []
+    "related_tags": [
+      "ragnarok:+行+王"
+    ]
   },
   {
     "tag_name": "Ragnarok Masters",
@@ -53807,23 +60915,33 @@ return [
   },
   {
     "tag_name": "Ragnarok X: Next Generation",
-    "related_tags": []
+    "related_tags": [
+      "ragnarok+x:+引き続き+一世"
+    ]
   },
   {
     "tag_name": "Ragnarok Violet",
-    "related_tags": []
+    "related_tags": [
+      "ragnarok+縁の色"
+    ]
   },
   {
     "tag_name": "Ragnarok: Hikari to Yami no Koujo",
-    "related_tags": []
+    "related_tags": [
+      "ragnarok:+ひかり+to+yami+no+koujo"
+    ]
   },
   {
     "tag_name": "Ragnarok Online DS",
-    "related_tags": []
+    "related_tags": [
+      "ragnarok+オンライン+ds"
+    ]
   },
   {
     "tag_name": "Rhapsody: A Musical Adventure",
-    "related_tags": []
+    "related_tags": [
+      "rhapsody:+a+音楽的+冒険"
+    ]
   },
   {
     "tag_name": "Riviera: The Promised Land",
@@ -53879,7 +60997,9 @@ return [
   },
   {
     "tag_name": "Rune Factory Oceans",
-    "related_tags": []
+    "related_tags": [
+      "ルーン文字+工所+遠海"
+    ]
   },
   {
     "tag_name": "Saga",
@@ -53937,7 +61057,9 @@ return [
   },
   {
     "tag_name": "Unlimited Saga",
-    "related_tags": []
+    "related_tags": [
+      "限りない+サーガ"
+    ]
   },
   {
     "tag_name": "Seiken Densetsu",
@@ -53967,7 +61089,9 @@ return [
   },
   {
     "tag_name": "Children of Mana",
-    "related_tags": []
+    "related_tags": [
+      "愛の結晶+of+マナ"
+    ]
   },
   {
     "tag_name": "Legend of Mana",
@@ -53977,7 +61101,9 @@ return [
   },
   {
     "tag_name": "Rise of Mana",
-    "related_tags": []
+    "related_tags": [
+      "栄達+of+マナ"
+    ]
   },
   {
     "tag_name": "Sekaiju no Meikyuu",
@@ -54101,7 +61227,9 @@ return [
   },
   {
     "tag_name": "Shining Wisdom",
-    "related_tags": []
+    "related_tags": [
+      "映射+叡知"
+    ]
   },
   {
     "tag_name": "Shining Blade",
@@ -54145,11 +61273,15 @@ return [
   },
   {
     "tag_name": "South Park: The Fractured but Whole",
-    "related_tags": []
+    "related_tags": [
+      "南+park:+the+割り目+候処+円"
+    ]
   },
   {
     "tag_name": "South Park: The Stick of Truth",
-    "related_tags": []
+    "related_tags": [
+      "南+park:+the+策+of+事実"
+    ]
   },
   {
     "tag_name": "Spectral",
@@ -54159,7 +61291,9 @@ return [
   },
   {
     "tag_name": "Blazing Souls",
-    "related_tags": []
+    "related_tags": [
+      "炎々+生霊"
+    ]
   },
   {
     "tag_name": "Spectral Force",
@@ -54169,15 +61303,21 @@ return [
   },
   {
     "tag_name": "Spectral Force Genesis",
-    "related_tags": []
+    "related_tags": [
+      "スペクトル+圧+起"
+    ]
   },
   {
     "tag_name": "Spectral Souls",
-    "related_tags": []
+    "related_tags": [
+      "スペクトル+生霊"
+    ]
   },
   {
     "tag_name": "Spectral vs Generation",
-    "related_tags": []
+    "related_tags": [
+      "スペクトル+vs+一世"
+    ]
   },
   {
     "tag_name": "Star Ocean",
@@ -54223,7 +61363,9 @@ return [
   },
   {
     "tag_name": "Star Wars: Knights of the Old Republic",
-    "related_tags": []
+    "related_tags": [
+      "巨擘+wars:+騎士+of+the+翁+共和国"
+    ]
   },
   {
     "tag_name": "Summon Night",
@@ -54279,15 +61421,21 @@ return [
   },
   {
     "tag_name": "Summon Night EX-Thesis: Yoake no Tsubasa",
-    "related_tags": []
+    "related_tags": [
+      "喚問+暮夜+ex+thesis:+yoake+no+tsubasa"
+    ]
   },
   {
     "tag_name": "Summon Night: Twin Age",
-    "related_tags": []
+    "related_tags": [
+      "喚問+night:+双子+一代"
+    ]
   },
   {
     "tag_name": "Summon Night X: Tears Crown",
-    "related_tags": []
+    "related_tags": [
+      "喚問+暮夜+x:+涙+位"
+    ]
   },
   {
     "tag_name": "Super Mario RPG",
@@ -54423,7 +61571,9 @@ return [
   },
   {
     "tag_name": "Tales of the Tempest",
-    "related_tags": []
+    "related_tags": [
+      "御話+of+the+荒れ"
+    ]
   },
   {
     "tag_name": "Tales of the World Radiant Mythology",
@@ -54455,7 +61605,9 @@ return [
   },
   {
     "tag_name": "The Elder Scrolls",
-    "related_tags": []
+    "related_tags": [
+      "the+上長+一幅"
+    ]
   },
   {
     "tag_name": "The Elder Scrolls IV: Oblivion",
@@ -54471,7 +61623,9 @@ return [
   },
   {
     "tag_name": "The Surge",
-    "related_tags": []
+    "related_tags": [
+      "the+急増"
+    ]
   },
   {
     "tag_name": "The Witcher",
@@ -54517,11 +61671,15 @@ return [
   },
   {
     "tag_name": "Ultima III: Exodus",
-    "related_tags": []
+    "related_tags": [
+      "ultima+iii:+エクソダス"
+    ]
   },
   {
     "tag_name": "Ultima Online",
-    "related_tags": []
+    "related_tags": [
+      "ultima+オンライン"
+    ]
   },
   {
     "tag_name": "Valkyrie Profile",
@@ -54537,7 +61695,9 @@ return [
   },
   {
     "tag_name": "Vampire The Masquerade: Bloodlines",
-    "related_tags": []
+    "related_tags": [
+      "吸血鬼+the+masquerade:+門葉"
+    ]
   },
   {
     "tag_name": "Wild Arms",
@@ -54575,7 +61735,9 @@ return [
   },
   {
     "tag_name": "Wild Arms XF",
-    "related_tags": []
+    "related_tags": [
+      "一向+干戈+xf"
+    ]
   },
   {
     "tag_name": "Wizardry",
@@ -54585,7 +61747,9 @@ return [
   },
   {
     "tag_name": "Wizardry Online",
-    "related_tags": []
+    "related_tags": [
+      "幻術+オンライン"
+    ]
   },
   {
     "tag_name": "World of Warcraft",
@@ -54643,11 +61807,15 @@ return [
   },
   {
     "tag_name": "Xenosaga Episode I",
-    "related_tags": []
+    "related_tags": [
+      "xenosaga+回+i"
+    ]
   },
   {
     "tag_name": "Xenosaga Episode II",
-    "related_tags": []
+    "related_tags": [
+      "xenosaga+回+ii"
+    ]
   },
   {
     "tag_name": "Xenosaga Episode III",
@@ -54663,11 +61831,15 @@ return [
   },
   {
     "tag_name": "Ys Origin",
-    "related_tags": []
+    "related_tags": [
+      "ys+謂れ"
+    ]
   },
   {
     "tag_name": "Ancient Ys Vanished",
-    "related_tags": []
+    "related_tags": [
+      "旧い+ys+vanished"
+    ]
   },
   {
     "tag_name": "Ys III Wanderers of Ys",
@@ -54729,131 +61901,195 @@ return [
   },
   {
     "tag_name": "king",
-    "related_tags": []
+    "related_tags": [
+      "王"
+    ]
   },
   {
     "tag_name": "queen",
-    "related_tags": []
+    "related_tags": [
+      "王后"
+    ]
   },
   {
     "tag_name": "jack",
-    "related_tags": []
+    "related_tags": [
+      "万力"
+    ]
   },
   {
     "tag_name": "ace of clubs",
-    "related_tags": []
+    "related_tags": [
+      "最優秀+of+会"
+    ]
   },
   {
     "tag_name": "king of clubs",
-    "related_tags": []
+    "related_tags": [
+      "王+of+会"
+    ]
   },
   {
     "tag_name": "queen of clubs",
-    "related_tags": []
+    "related_tags": [
+      "王后+of+会"
+    ]
   },
   {
     "tag_name": "jack of clubs (card)",
-    "related_tags": []
+    "related_tags": [
+      "万力+of+会+(card)"
+    ]
   },
   {
     "tag_name": "ten of clubs",
-    "related_tags": []
+    "related_tags": [
+      "一〇+of+会"
+    ]
   },
   {
     "tag_name": "nine of clubs",
-    "related_tags": []
+    "related_tags": [
+      "九+of+会"
+    ]
   },
   {
     "tag_name": "eight of clubs",
-    "related_tags": []
+    "related_tags": [
+      "捌+of+会"
+    ]
   },
   {
     "tag_name": "seven of clubs",
-    "related_tags": []
+    "related_tags": [
+      "七+of+会"
+    ]
   },
   {
     "tag_name": "six of clubs",
-    "related_tags": []
+    "related_tags": [
+      "四の二+of+会"
+    ]
   },
   {
     "tag_name": "five of clubs",
-    "related_tags": []
+    "related_tags": [
+      "五+of+会"
+    ]
   },
   {
     "tag_name": "four of clubs",
-    "related_tags": []
+    "related_tags": [
+      "四+of+会"
+    ]
   },
   {
     "tag_name": "three of clubs",
-    "related_tags": []
+    "related_tags": [
+      "三+of+会"
+    ]
   },
   {
     "tag_name": "two of clubs",
-    "related_tags": []
+    "related_tags": [
+      "二+of+会"
+    ]
   },
   {
     "tag_name": "ace of diamonds",
-    "related_tags": []
+    "related_tags": [
+      "最優秀+of+金剛"
+    ]
   },
   {
     "tag_name": "king of diamonds",
-    "related_tags": []
+    "related_tags": [
+      "王+of+金剛"
+    ]
   },
   {
     "tag_name": "queen of diamonds",
-    "related_tags": []
+    "related_tags": [
+      "王后+of+金剛"
+    ]
   },
   {
     "tag_name": "jack of diamonds",
-    "related_tags": []
+    "related_tags": [
+      "万力+of+金剛"
+    ]
   },
   {
     "tag_name": "ten of diamonds",
-    "related_tags": []
+    "related_tags": [
+      "一〇+of+金剛"
+    ]
   },
   {
     "tag_name": "nine of diamonds",
-    "related_tags": []
+    "related_tags": [
+      "九+of+金剛"
+    ]
   },
   {
     "tag_name": "eight of diamonds (card)",
-    "related_tags": []
+    "related_tags": [
+      "捌+of+金剛+(card)"
+    ]
   },
   {
     "tag_name": "seven of diamonds",
-    "related_tags": []
+    "related_tags": [
+      "七+of+金剛"
+    ]
   },
   {
     "tag_name": "six of diamonds",
-    "related_tags": []
+    "related_tags": [
+      "四の二+of+金剛"
+    ]
   },
   {
     "tag_name": "five of diamonds",
-    "related_tags": []
+    "related_tags": [
+      "五+of+金剛"
+    ]
   },
   {
     "tag_name": "four of diamonds",
-    "related_tags": []
+    "related_tags": [
+      "四+of+金剛"
+    ]
   },
   {
     "tag_name": "three of diamonds",
-    "related_tags": []
+    "related_tags": [
+      "三+of+金剛"
+    ]
   },
   {
     "tag_name": "two of diamonds",
-    "related_tags": []
+    "related_tags": [
+      "二+of+金剛"
+    ]
   },
   {
     "tag_name": "ace of hearts",
-    "related_tags": []
+    "related_tags": [
+      "最優秀+of+意気"
+    ]
   },
   {
     "tag_name": "king of hearts (card)",
-    "related_tags": []
+    "related_tags": [
+      "王+of+意気+(card)"
+    ]
   },
   {
     "tag_name": "queen of hearts (card)",
-    "related_tags": []
+    "related_tags": [
+      "王后+of+意気+(card)"
+    ]
   },
   {
     "tag_name": "queen of hearts (alice in wonderland)",
@@ -54863,55 +62099,81 @@ return [
   },
   {
     "tag_name": "jack of hearts",
-    "related_tags": []
+    "related_tags": [
+      "万力+of+意気"
+    ]
   },
   {
     "tag_name": "ten of hearts",
-    "related_tags": []
+    "related_tags": [
+      "一〇+of+意気"
+    ]
   },
   {
     "tag_name": "nine of hearts",
-    "related_tags": []
+    "related_tags": [
+      "九+of+意気"
+    ]
   },
   {
     "tag_name": "eight of hearts",
-    "related_tags": []
+    "related_tags": [
+      "捌+of+意気"
+    ]
   },
   {
     "tag_name": "seven of hearts",
-    "related_tags": []
+    "related_tags": [
+      "七+of+意気"
+    ]
   },
   {
     "tag_name": "six of hearts",
-    "related_tags": []
+    "related_tags": [
+      "四の二+of+意気"
+    ]
   },
   {
     "tag_name": "five of hearts",
-    "related_tags": []
+    "related_tags": [
+      "五+of+意気"
+    ]
   },
   {
     "tag_name": "four of hearts",
-    "related_tags": []
+    "related_tags": [
+      "四+of+意気"
+    ]
   },
   {
     "tag_name": "three of hearts",
-    "related_tags": []
+    "related_tags": [
+      "三+of+意気"
+    ]
   },
   {
     "tag_name": "two of hearts",
-    "related_tags": []
+    "related_tags": [
+      "二+of+意気"
+    ]
   },
   {
     "tag_name": "ace of spades",
-    "related_tags": []
+    "related_tags": [
+      "最優秀+of+鋤"
+    ]
   },
   {
     "tag_name": "king of spades",
-    "related_tags": []
+    "related_tags": [
+      "王+of+鋤"
+    ]
   },
   {
     "tag_name": "queen of spades",
-    "related_tags": []
+    "related_tags": [
+      "王后+of+鋤"
+    ]
   },
   {
     "tag_name": "queen of spades symbol",
@@ -54921,43 +62183,63 @@ return [
   },
   {
     "tag_name": "jack of spades",
-    "related_tags": []
+    "related_tags": [
+      "万力+of+鋤"
+    ]
   },
   {
     "tag_name": "ten of spades",
-    "related_tags": []
+    "related_tags": [
+      "一〇+of+鋤"
+    ]
   },
   {
     "tag_name": "nine of spades",
-    "related_tags": []
+    "related_tags": [
+      "九+of+鋤"
+    ]
   },
   {
     "tag_name": "eight of spades",
-    "related_tags": []
+    "related_tags": [
+      "捌+of+鋤"
+    ]
   },
   {
     "tag_name": "seven of spades",
-    "related_tags": []
+    "related_tags": [
+      "七+of+鋤"
+    ]
   },
   {
     "tag_name": "six of spades",
-    "related_tags": []
+    "related_tags": [
+      "四の二+of+鋤"
+    ]
   },
   {
     "tag_name": "five of spades",
-    "related_tags": []
+    "related_tags": [
+      "五+of+鋤"
+    ]
   },
   {
     "tag_name": "four of spades",
-    "related_tags": []
+    "related_tags": [
+      "四+of+鋤"
+    ]
   },
   {
     "tag_name": "three of spades",
-    "related_tags": []
+    "related_tags": [
+      "三+of+鋤"
+    ]
   },
   {
     "tag_name": "two of spades",
-    "related_tags": []
+    "related_tags": [
+      "二+of+鋤"
+    ]
   },
   {
     "tag_name": "antennae",
@@ -55015,7 +62297,9 @@ return [
   },
   {
     "tag_name": "millipede girl",
-    "related_tags": []
+    "related_tags": [
+      "馬陸+姉ちゃん"
+    ]
   },
   {
     "tag_name": "mosquito girl",
@@ -55037,11 +62321,15 @@ return [
   },
   {
     "tag_name": "wasp girl",
-    "related_tags": []
+    "related_tags": [
+      "熊ん蜂+姉ちゃん"
+    ]
   },
   {
     "tag_name": "bug_girl",
-    "related_tags": []
+    "related_tags": [
+      "隠しマイク+姉ちゃん"
+    ]
   },
   {
     "tag_name": "buggirl",
@@ -55049,11 +62337,15 @@ return [
   },
   {
     "tag_name": "insect_girl",
-    "related_tags": []
+    "related_tags": [
+      "昆虫+姉ちゃん"
+    ]
   },
   {
     "tag_name": "aqua hair",
-    "related_tags": []
+    "related_tags": [
+      "水色+一髪"
+    ]
   },
   {
     "tag_name": "black hair",
@@ -55075,11 +62367,15 @@ return [
   },
   {
     "tag_name": "light blue hair",
-    "related_tags": []
+    "related_tags": [
+      "簡単+重い+一髪"
+    ]
   },
   {
     "tag_name": "dark blue hair",
-    "related_tags": []
+    "related_tags": [
+      "暗々+重い+一髪"
+    ]
   },
   {
     "tag_name": "brown hair",
@@ -55101,11 +62397,15 @@ return [
   },
   {
     "tag_name": "dark green hair",
-    "related_tags": []
+    "related_tags": [
+      "暗々+産+一髪"
+    ]
   },
   {
     "tag_name": "light green hair",
-    "related_tags": []
+    "related_tags": [
+      "簡単+産+一髪"
+    ]
   },
   {
     "tag_name": "grey hair",
@@ -55133,7 +62433,9 @@ return [
   },
   {
     "tag_name": "light purple hair",
-    "related_tags": []
+    "related_tags": [
+      "簡単+此の糸+一髪"
+    ]
   },
   {
     "tag_name": "red hair",
@@ -55161,7 +62463,9 @@ return [
   },
   {
     "tag_name": "colored tips",
-    "related_tags": []
+    "related_tags": [
+      "色つき+諸注意"
+    ]
   },
   {
     "tag_name": "gradient hair",
@@ -55171,7 +62475,9 @@ return [
   },
   {
     "tag_name": "print hair",
-    "related_tags": []
+    "related_tags": [
+      "印+一髪"
+    ]
   },
   {
     "tag_name": "rainbow hair",
@@ -55187,7 +62493,9 @@ return [
   },
   {
     "tag_name": "spotted hair",
-    "related_tags": []
+    "related_tags": [
+      "斑+一髪"
+    ]
   },
   {
     "tag_name": "streaked hair",
@@ -55203,11 +62511,15 @@ return [
   },
   {
     "tag_name": "alternate hair color",
-    "related_tags": []
+    "related_tags": [
+      "一つ置き+一髪+艶"
+    ]
   },
   {
     "tag_name": "translucent hair",
-    "related_tags": []
+    "related_tags": [
+      "半透明+一髪"
+    ]
   },
   {
     "tag_name": "flower",
@@ -55235,7 +62547,9 @@ return [
   },
   {
     "tag_name": "Angel's trumpet",
-    "related_tags": []
+    "related_tags": [
+      "angel's+喇叭"
+    ]
   },
   {
     "tag_name": "Anthurium",
@@ -55245,7 +62559,9 @@ return [
   },
   {
     "tag_name": "Azalea",
-    "related_tags": []
+    "related_tags": [
+      "アザレア"
+    ]
   },
   {
     "tag_name": "Baby's-breath",
@@ -55271,19 +62587,27 @@ return [
   },
   {
     "tag_name": "Bird of paradise flower",
-    "related_tags": []
+    "related_tags": [
+      "禽+of+楽園+花"
+    ]
   },
   {
     "tag_name": "Black-eyed Susan",
-    "related_tags": []
+    "related_tags": [
+      "暗然+眼+susan"
+    ]
   },
   {
     "tag_name": "Bleeding heart",
-    "related_tags": []
+    "related_tags": [
+      "華鬘草"
+    ]
   },
   {
     "tag_name": "Blueberry blossoms",
-    "related_tags": []
+    "related_tags": [
+      "西洋酸の木+花"
+    ]
   },
   {
     "tag_name": "Bougainvillea",
@@ -55311,7 +62635,9 @@ return [
   },
   {
     "tag_name": "Red carnation",
-    "related_tags": []
+    "related_tags": [
+      "赭い+carnation"
+    ]
   },
   {
     "tag_name": "Chamomile",
@@ -55351,7 +62677,9 @@ return [
   },
   {
     "tag_name": "Cockscomb (flower)",
-    "related_tags": []
+    "related_tags": [
+      "鶏冠+(flower)"
+    ]
   },
   {
     "tag_name": "Cornflower",
@@ -55409,7 +62737,9 @@ return [
   },
   {
     "tag_name": "Dusty miller",
-    "related_tags": []
+    "related_tags": [
+      "埃っぽい+粉屋"
+    ]
   },
   {
     "tag_name": "Edelweiss",
@@ -55427,7 +62757,9 @@ return [
   },
   {
     "tag_name": "Flax",
-    "related_tags": []
+    "related_tags": [
+      "苧"
+    ]
   },
   {
     "tag_name": "Forget-me-not",
@@ -55441,11 +62773,15 @@ return [
   },
   {
     "tag_name": "Four o'clock (flower)",
-    "related_tags": []
+    "related_tags": [
+      "四+時+(flower)"
+    ]
   },
   {
     "tag_name": "Foxglove",
-    "related_tags": []
+    "related_tags": [
+      "狐の手袋"
+    ]
   },
   {
     "tag_name": "Freesia",
@@ -55503,7 +62839,9 @@ return [
   },
   {
     "tag_name": "Geranium",
-    "related_tags": []
+    "related_tags": [
+      "天竺葵"
+    ]
   },
   {
     "tag_name": "Gerbera",
@@ -55525,11 +62863,15 @@ return [
   },
   {
     "tag_name": "Grass lily",
-    "related_tags": []
+    "related_tags": [
+      "芝生+小百合"
+    ]
   },
   {
     "tag_name": "Great burnet",
-    "related_tags": []
+    "related_tags": [
+      "偉い+吾亦紅"
+    ]
   },
   {
     "tag_name": "Kalanchoe",
@@ -55565,7 +62907,9 @@ return [
   },
   {
     "tag_name": "Tiger lily",
-    "related_tags": []
+    "related_tags": [
+      "tiger+小百合"
+    ]
   },
   {
     "tag_name": "Lily of the valley",
@@ -55591,7 +62935,9 @@ return [
   },
   {
     "tag_name": "Marsh marigold",
-    "related_tags": []
+    "related_tags": [
+      "湿地+金盞花"
+    ]
   },
   {
     "tag_name": "Mimosa (flower)",
@@ -55613,7 +62959,9 @@ return [
   },
   {
     "tag_name": "Gourd blossom",
-    "related_tags": []
+    "related_tags": [
+      "瓜+花"
+    ]
   },
   {
     "tag_name": "Nemophila",
@@ -55629,11 +62977,15 @@ return [
   },
   {
     "tag_name": "Oleander",
-    "related_tags": []
+    "related_tags": [
+      "夾竹桃"
+    ]
   },
   {
     "tag_name": "Orange blossoms",
-    "related_tags": []
+    "related_tags": [
+      "炎色+花"
+    ]
   },
   {
     "tag_name": "Orchid",
@@ -55665,7 +63017,9 @@ return [
   },
   {
     "tag_name": "Passion flower",
-    "related_tags": []
+    "related_tags": [
+      "愛慾+花"
+    ]
   },
   {
     "tag_name": "Paulownia",
@@ -55689,15 +63043,21 @@ return [
   },
   {
     "tag_name": "Perennial",
-    "related_tags": []
+    "related_tags": [
+      "万年"
+    ]
   },
   {
     "tag_name": "Periwinkle",
-    "related_tags": []
+    "related_tags": [
+      "細螺"
+    ]
   },
   {
     "tag_name": "Petunia (flower)",
-    "related_tags": []
+    "related_tags": [
+      "衝羽根朝顔+(flower)"
+    ]
   },
   {
     "tag_name": "Pieris japonica",
@@ -55743,11 +63103,15 @@ return [
   },
   {
     "tag_name": "Pomegranate flower",
-    "related_tags": []
+    "related_tags": [
+      "色玉+花"
+    ]
   },
   {
     "tag_name": "Poppy",
-    "related_tags": []
+    "related_tags": [
+      "ポッピー"
+    ]
   },
   {
     "tag_name": "Portulaca",
@@ -55755,11 +63119,15 @@ return [
   },
   {
     "tag_name": "Potato flower",
-    "related_tags": []
+    "related_tags": [
+      "芋+花"
+    ]
   },
   {
     "tag_name": "Potentilla",
-    "related_tags": []
+    "related_tags": [
+      "深山金梅"
+    ]
   },
   {
     "tag_name": "Rafflesia",
@@ -55783,7 +63151,9 @@ return [
   },
   {
     "tag_name": "Red ginger",
-    "related_tags": []
+    "related_tags": [
+      "赭い+ジンジャー"
+    ]
   },
   {
     "tag_name": "Reimu",
@@ -55791,7 +63161,9 @@ return [
   },
   {
     "tag_name": "Rhododendron",
-    "related_tags": []
+    "related_tags": [
+      "石南花"
+    ]
   },
   {
     "tag_name": "Rose",
@@ -55801,7 +63173,9 @@ return [
   },
   {
     "tag_name": "Black rose",
-    "related_tags": []
+    "related_tags": [
+      "暗然+薔薇"
+    ]
   },
   {
     "tag_name": "Blue rose",
@@ -55811,27 +63185,39 @@ return [
   },
   {
     "tag_name": "Brown rose",
-    "related_tags": []
+    "related_tags": [
+      "赤銅色+薔薇"
+    ]
   },
   {
     "tag_name": "Green rose",
-    "related_tags": []
+    "related_tags": [
+      "産+薔薇"
+    ]
   },
   {
     "tag_name": "Grey rose",
-    "related_tags": []
+    "related_tags": [
+      "灰色+薔薇"
+    ]
   },
   {
     "tag_name": "Orange rose",
-    "related_tags": []
+    "related_tags": [
+      "炎色+薔薇"
+    ]
   },
   {
     "tag_name": "Pink rose",
-    "related_tags": []
+    "related_tags": [
+      "退紅+薔薇"
+    ]
   },
   {
     "tag_name": "Purple rose",
-    "related_tags": []
+    "related_tags": [
+      "此の糸+薔薇"
+    ]
   },
   {
     "tag_name": "Red rose",
@@ -55841,7 +63227,9 @@ return [
   },
   {
     "tag_name": "White rose",
-    "related_tags": []
+    "related_tags": [
+      "白+薔薇"
+    ]
   },
   {
     "tag_name": "Yellow rose",
@@ -55851,7 +63239,9 @@ return [
   },
   {
     "tag_name": "Multicolored rose",
-    "related_tags": []
+    "related_tags": [
+      "色とりどり+薔薇"
+    ]
   },
   {
     "tag_name": "Rudbeckia",
@@ -55859,7 +63249,9 @@ return [
   },
   {
     "tag_name": "Snapdragon",
-    "related_tags": []
+    "related_tags": [
+      "金魚草"
+    ]
   },
   {
     "tag_name": "Snowbell",
@@ -55887,7 +63279,9 @@ return [
   },
   {
     "tag_name": "Strawberry blossoms",
-    "related_tags": []
+    "related_tags": [
+      "ストロベリー+花"
+    ]
   },
   {
     "tag_name": "Sunflower",
@@ -55915,27 +63309,39 @@ return [
   },
   {
     "tag_name": "Orange tulip",
-    "related_tags": []
+    "related_tags": [
+      "炎色+鬱金香"
+    ]
   },
   {
     "tag_name": "Pink tulip",
-    "related_tags": []
+    "related_tags": [
+      "退紅+鬱金香"
+    ]
   },
   {
     "tag_name": "Purple tulip",
-    "related_tags": []
+    "related_tags": [
+      "此の糸+鬱金香"
+    ]
   },
   {
     "tag_name": "Red tulip",
-    "related_tags": []
+    "related_tags": [
+      "赭い+鬱金香"
+    ]
   },
   {
     "tag_name": "White tulip",
-    "related_tags": []
+    "related_tags": [
+      "白+鬱金香"
+    ]
   },
   {
     "tag_name": "Yellow tulip",
-    "related_tags": []
+    "related_tags": [
+      "黄+鬱金香"
+    ]
   },
   {
     "tag_name": "Water lily flower",
@@ -55945,7 +63351,9 @@ return [
   },
   {
     "tag_name": "Wax flower",
-    "related_tags": []
+    "related_tags": [
+      "蝋+花"
+    ]
   },
   {
     "tag_name": "Wisteria",
@@ -55967,11 +63375,15 @@ return [
   },
   {
     "tag_name": "Black lotus",
-    "related_tags": []
+    "related_tags": [
+      "暗然+蓮"
+    ]
   },
   {
     "tag_name": "Glaze lily",
-    "related_tags": []
+    "related_tags": [
+      "上薬+小百合"
+    ]
   },
   {
     "tag_name": "Gracidea",
@@ -55979,7 +63391,9 @@ return [
   },
   {
     "tag_name": "Ice flower",
-    "related_tags": []
+    "related_tags": [
+      "結氷+花"
+    ]
   },
   {
     "tag_name": "Lunar tear",
@@ -55989,7 +63403,9 @@ return [
   },
   {
     "tag_name": "Qingxin flower",
-    "related_tags": []
+    "related_tags": [
+      "qingxin+花"
+    ]
   },
   {
     "tag_name": "Silent princess",
@@ -55999,11 +63415,15 @@ return [
   },
   {
     "tag_name": "Silk flower",
-    "related_tags": []
+    "related_tags": [
+      "絹+花"
+    ]
   },
   {
     "tag_name": "Sweet flower",
-    "related_tags": []
+    "related_tags": [
+      "愛くるしい+花"
+    ]
   },
   {
     "tag_name": "bouquet",
@@ -56047,35 +63467,51 @@ return [
   },
   {
     "tag_name": "flower (symbol)",
-    "related_tags": []
+    "related_tags": [
+      "花+(symbol)"
+    ]
   },
   {
     "tag_name": "flower bed",
-    "related_tags": []
+    "related_tags": [
+      "花だん"
+    ]
   },
   {
     "tag_name": "flower bracelet",
-    "related_tags": []
+    "related_tags": [
+      "花+腕貫"
+    ]
   },
   {
     "tag_name": "flower in mouth",
-    "related_tags": []
+    "related_tags": [
+      "花+in+口"
+    ]
   },
   {
     "tag_name": "flower necklace",
-    "related_tags": []
+    "related_tags": [
+      "花+頚飾り"
+    ]
   },
   {
     "tag_name": "flower on head",
-    "related_tags": []
+    "related_tags": [
+      "花+on+髄"
+    ]
   },
   {
     "tag_name": "flower on liquid",
-    "related_tags": []
+    "related_tags": [
+      "花+on+液"
+    ]
   },
   {
     "tag_name": "flower trim",
-    "related_tags": []
+    "related_tags": [
+      "花+刈"
+    ]
   },
   {
     "tag_name": "hair flower",
@@ -56085,11 +63521,15 @@ return [
   },
   {
     "tag_name": "hat flower",
-    "related_tags": []
+    "related_tags": [
+      "帽+花"
+    ]
   },
   {
     "tag_name": "holding flower",
-    "related_tags": []
+    "related_tags": [
+      "握把+花"
+    ]
   },
   {
     "tag_name": "garden",
@@ -56099,7 +63539,9 @@ return [
   },
   {
     "tag_name": "gardening",
-    "related_tags": []
+    "related_tags": [
+      "園芸"
+    ]
   },
   {
     "tag_name": "lei",
@@ -56107,7 +63549,9 @@ return [
   },
   {
     "tag_name": "on flower",
-    "related_tags": []
+    "related_tags": [
+      "on+花"
+    ]
   },
   {
     "tag_name": "petals",
@@ -56117,19 +63561,27 @@ return [
   },
   {
     "tag_name": "rose petals",
-    "related_tags": []
+    "related_tags": [
+      "薔薇+一片"
+    ]
   },
   {
     "tag_name": "petals on liquid",
-    "related_tags": []
+    "related_tags": [
+      "一片+on+液"
+    ]
   },
   {
     "tag_name": "smelling flower",
-    "related_tags": []
+    "related_tags": [
+      "臭い+花"
+    ]
   },
   {
     "tag_name": "wreath",
-    "related_tags": []
+    "related_tags": [
+      "花冠"
+    ]
   },
   {
     "tag_name": "head wreath",
@@ -56139,43 +63591,63 @@ return [
   },
   {
     "tag_name": "dress flip",
-    "related_tags": []
+    "related_tags": [
+      "衣+フリップ"
+    ]
   },
   {
     "tag_name": "dress grab",
-    "related_tags": []
+    "related_tags": [
+      "衣+グラブ"
+    ]
   },
   {
     "tag_name": "dress lift",
-    "related_tags": []
+    "related_tags": [
+      "衣+エレベータ"
+    ]
   },
   {
     "tag_name": "dress pull",
-    "related_tags": []
+    "related_tags": [
+      "衣+引き"
+    ]
   },
   {
     "tag_name": "dress tug",
-    "related_tags": []
+    "related_tags": [
+      "衣+引き"
+    ]
   },
   {
     "tag_name": "open dress",
-    "related_tags": []
+    "related_tags": [
+      "開けっぴろげ+衣"
+    ]
   },
   {
     "tag_name": "skirt basket",
-    "related_tags": []
+    "related_tags": [
+      "スカート+鞄"
+    ]
   },
   {
     "tag_name": "tied dress",
-    "related_tags": []
+    "related_tags": [
+      "因縁+衣"
+    ]
   },
   {
     "tag_name": "torn dress",
-    "related_tags": []
+    "related_tags": [
+      "torn+衣"
+    ]
   },
   {
     "tag_name": "aqua dress",
-    "related_tags": []
+    "related_tags": [
+      "水色+衣"
+    ]
   },
   {
     "tag_name": "black dress",
@@ -56191,27 +63663,39 @@ return [
   },
   {
     "tag_name": "brown dress",
-    "related_tags": []
+    "related_tags": [
+      "赤銅色+衣"
+    ]
   },
   {
     "tag_name": "green dress",
-    "related_tags": []
+    "related_tags": [
+      "産+衣"
+    ]
   },
   {
     "tag_name": "grey dress",
-    "related_tags": []
+    "related_tags": [
+      "灰色+衣"
+    ]
   },
   {
     "tag_name": "orange dress",
-    "related_tags": []
+    "related_tags": [
+      "炎色+衣"
+    ]
   },
   {
     "tag_name": "pink dress",
-    "related_tags": []
+    "related_tags": [
+      "退紅+衣"
+    ]
   },
   {
     "tag_name": "purple dress",
-    "related_tags": []
+    "related_tags": [
+      "此の糸+衣"
+    ]
   },
   {
     "tag_name": "red dress",
@@ -56221,7 +63705,9 @@ return [
   },
   {
     "tag_name": "sepia dress",
-    "related_tags": []
+    "related_tags": [
+      "セピア+衣"
+    ]
   },
   {
     "tag_name": "white dress",
@@ -56231,35 +63717,51 @@ return [
   },
   {
     "tag_name": "yellow dress",
-    "related_tags": []
+    "related_tags": [
+      "黄+衣"
+    ]
   },
   {
     "tag_name": "multicolored dress",
-    "related_tags": []
+    "related_tags": [
+      "色とりどり+衣"
+    ]
   },
   {
     "tag_name": "two-tone dress",
-    "related_tags": []
+    "related_tags": [
+      "二+音調+衣"
+    ]
   },
   {
     "tag_name": "argyle dress",
-    "related_tags": []
+    "related_tags": [
+      "アーガイル+衣"
+    ]
   },
   {
     "tag_name": "checkered dress",
-    "related_tags": []
+    "related_tags": [
+      "チェック+衣"
+    ]
   },
   {
     "tag_name": "flag dress",
-    "related_tags": []
+    "related_tags": [
+      "一旗+衣"
+    ]
   },
   {
     "tag_name": "plaid dress",
-    "related_tags": []
+    "related_tags": [
+      "格子じま+衣"
+    ]
   },
   {
     "tag_name": "polka dot dress",
-    "related_tags": []
+    "related_tags": [
+      "ポルカ+点+衣"
+    ]
   },
   {
     "tag_name": "print dress",
@@ -56269,19 +63771,27 @@ return [
   },
   {
     "tag_name": "striped dress",
-    "related_tags": []
+    "related_tags": [
+      "縞々+衣"
+    ]
   },
   {
     "tag_name": "vertical-striped dress",
-    "related_tags": []
+    "related_tags": [
+      "鉛直+縞々+衣"
+    ]
   },
   {
     "tag_name": "pinstripe dress",
-    "related_tags": []
+    "related_tags": [
+      "pinstripe+衣"
+    ]
   },
   {
     "tag_name": "armored dress",
-    "related_tags": []
+    "related_tags": [
+      "鎧+衣"
+    ]
   },
   {
     "tag_name": "backless dress",
@@ -56291,23 +63801,33 @@ return [
   },
   {
     "tag_name": "crinoline",
-    "related_tags": []
+    "related_tags": [
+      "クリノリン"
+    ]
   },
   {
     "tag_name": "collared dress",
-    "related_tags": []
+    "related_tags": [
+      "襟つき+衣"
+    ]
   },
   {
     "tag_name": "frilled dress",
-    "related_tags": []
+    "related_tags": [
+      "縁飾り+衣"
+    ]
   },
   {
     "tag_name": "fur-trimmed_dress",
-    "related_tags": []
+    "related_tags": [
+      "毛革+trimmed+衣"
+    ]
   },
   {
     "tag_name": "half-dress",
-    "related_tags": []
+    "related_tags": [
+      "一半+衣"
+    ]
   },
   {
     "tag_name": "halter dress",
@@ -56317,39 +63837,57 @@ return [
   },
   {
     "tag_name": "highleg dress",
-    "related_tags": []
+    "related_tags": [
+      "highleg+衣"
+    ]
   },
   {
     "tag_name": "high-low skirt",
-    "related_tags": []
+    "related_tags": [
+      "強い+下劣+スカート"
+    ]
   },
   {
     "tag_name": "hobble dress",
-    "related_tags": []
+    "related_tags": [
+      "足かせ+衣"
+    ]
   },
   {
     "tag_name": "impossible dress",
-    "related_tags": []
+    "related_tags": [
+      "見果てぬ+衣"
+    ]
   },
   {
     "tag_name": "lace-trimmed dress",
-    "related_tags": []
+    "related_tags": [
+      "レース+trimmed+衣"
+    ]
   },
   {
     "tag_name": "latex dress",
-    "related_tags": []
+    "related_tags": [
+      "乳状液+衣"
+    ]
   },
   {
     "tag_name": "layered dress",
-    "related_tags": []
+    "related_tags": [
+      "レイヤード+衣"
+    ]
   },
   {
     "tag_name": "long dress",
-    "related_tags": []
+    "related_tags": [
+      "ロング・ドレス"
+    ]
   },
   {
     "tag_name": "pleated dress",
-    "related_tags": []
+    "related_tags": [
+      "折+衣"
+    ]
   },
   {
     "tag_name": "plunging neckline",
@@ -56359,15 +63897,21 @@ return [
   },
   {
     "tag_name": "ribbed dress",
-    "related_tags": []
+    "related_tags": [
+      "ribbed+衣"
+    ]
   },
   {
     "tag_name": "ribbon-trimmed_dress",
-    "related_tags": []
+    "related_tags": [
+      "リボン+trimmed+衣"
+    ]
   },
   {
     "tag_name": "short dress",
-    "related_tags": []
+    "related_tags": [
+      "幾許もない+衣"
+    ]
   },
   {
     "tag_name": "side slit",
@@ -56377,15 +63921,21 @@ return [
   },
   {
     "tag_name": "taut dress",
-    "related_tags": []
+    "related_tags": [
+      "がっちり+衣"
+    ]
   },
   {
     "tag_name": "see-through dress",
-    "related_tags": []
+    "related_tags": [
+      "御覧なさい+越し+衣"
+    ]
   },
   {
     "tag_name": "cake dress",
-    "related_tags": []
+    "related_tags": [
+      "菓子+衣"
+    ]
   },
   {
     "tag_name": "china dress",
@@ -56395,7 +63945,9 @@ return [
   },
   {
     "tag_name": "coat dress",
-    "related_tags": []
+    "related_tags": [
+      "外被+衣"
+    ]
   },
   {
     "tag_name": "cocktail dress",
@@ -56405,7 +63957,9 @@ return [
   },
   {
     "tag_name": "denim dress",
-    "related_tags": []
+    "related_tags": [
+      "ジーンズ+衣"
+    ]
   },
   {
     "tag_name": "evening gown",
@@ -56445,7 +63999,9 @@ return [
   },
   {
     "tag_name": "pencil dress",
-    "related_tags": []
+    "related_tags": [
+      "鉛筆+衣"
+    ]
   },
   {
     "tag_name": "pinafore dress",
@@ -56461,7 +64017,9 @@ return [
   },
   {
     "tag_name": "santa dress",
-    "related_tags": []
+    "related_tags": [
+      "サンタ+衣"
+    ]
   },
   {
     "tag_name": "sundress",
@@ -56477,15 +64035,21 @@ return [
   },
   {
     "tag_name": "tennis dress",
-    "related_tags": []
+    "related_tags": [
+      "硬式テニス+衣"
+    ]
   },
   {
     "tag_name": "trapeze dress",
-    "related_tags": []
+    "related_tags": [
+      "空中ブランコ+衣"
+    ]
   },
   {
     "tag_name": "tube dress",
-    "related_tags": []
+    "related_tags": [
+      "管+衣"
+    ]
   },
   {
     "tag_name": "vietnamese dress",
@@ -56537,7 +64101,9 @@ return [
   },
   {
     "tag_name": "Poké Ball theme",
-    "related_tags": []
+    "related_tags": [
+      "poké+球+課題"
+    ]
   },
   {
     "tag_name": "Cherish Ball",
@@ -56817,35 +64383,51 @@ return [
   },
   {
     "tag_name": "Kanto map",
-    "related_tags": []
+    "related_tags": [
+      "関東+写像"
+    ]
   },
   {
     "tag_name": "Johto map",
-    "related_tags": []
+    "related_tags": [
+      "johto+写像"
+    ]
   },
   {
     "tag_name": "Hoenn map",
-    "related_tags": []
+    "related_tags": [
+      "hoenn+写像"
+    ]
   },
   {
     "tag_name": "Unova map",
-    "related_tags": []
+    "related_tags": [
+      "unova+写像"
+    ]
   },
   {
     "tag_name": "Kalos map",
-    "related_tags": []
+    "related_tags": [
+      "kalos+写像"
+    ]
   },
   {
     "tag_name": "Alola map",
-    "related_tags": []
+    "related_tags": [
+      "alola+写像"
+    ]
   },
   {
     "tag_name": "Galar map",
-    "related_tags": []
+    "related_tags": [
+      "galar+写像"
+    ]
   },
   {
     "tag_name": "Gym Leader Badge",
-    "related_tags": []
+    "related_tags": [
+      "アスレチック・クラブ+引率者+印"
+    ]
   },
   {
     "tag_name": "Dynamax Band",
@@ -57005,15 +64587,21 @@ return [
   },
   {
     "tag_name": "aqua background",
-    "related_tags": []
+    "related_tags": [
+      "水色+背景"
+    ]
   },
   {
     "tag_name": "beige background",
-    "related_tags": []
+    "related_tags": [
+      "亜麻色+背景"
+    ]
   },
   {
     "tag_name": "black background",
-    "related_tags": []
+    "related_tags": [
+      "暗然+背景"
+    ]
   },
   {
     "tag_name": "blue background",
@@ -57023,43 +64611,63 @@ return [
   },
   {
     "tag_name": "brown background",
-    "related_tags": []
+    "related_tags": [
+      "赤銅色+背景"
+    ]
   },
   {
     "tag_name": "green background",
-    "related_tags": []
+    "related_tags": [
+      "産+背景"
+    ]
   },
   {
     "tag_name": "grey background",
-    "related_tags": []
+    "related_tags": [
+      "灰色+背景"
+    ]
   },
   {
     "tag_name": "lavender background",
-    "related_tags": []
+    "related_tags": [
+      "ラベンダー色+背景"
+    ]
   },
   {
     "tag_name": "orange background",
-    "related_tags": []
+    "related_tags": [
+      "炎色+背景"
+    ]
   },
   {
     "tag_name": "pink background",
-    "related_tags": []
+    "related_tags": [
+      "退紅+背景"
+    ]
   },
   {
     "tag_name": "purple background",
-    "related_tags": []
+    "related_tags": [
+      "此の糸+背景"
+    ]
   },
   {
     "tag_name": "red background",
-    "related_tags": []
+    "related_tags": [
+      "赤地"
+    ]
   },
   {
     "tag_name": "sepia background",
-    "related_tags": []
+    "related_tags": [
+      "セピア+背景"
+    ]
   },
   {
     "tag_name": "tan background",
-    "related_tags": []
+    "related_tags": [
+      "小麦色+背景"
+    ]
   },
   {
     "tag_name": "white background",
@@ -57069,19 +64677,27 @@ return [
   },
   {
     "tag_name": "yellow background",
-    "related_tags": []
+    "related_tags": [
+      "黄+背景"
+    ]
   },
   {
     "tag_name": "gradient background",
-    "related_tags": []
+    "related_tags": [
+      "階調+背景"
+    ]
   },
   {
     "tag_name": "multicolored background",
-    "related_tags": []
+    "related_tags": [
+      "色とりどり+背景"
+    ]
   },
   {
     "tag_name": "rainbow background",
-    "related_tags": []
+    "related_tags": [
+      "虹+背景"
+    ]
   },
   {
     "tag_name": "heaven condition",
@@ -57091,63 +64707,93 @@ return [
   },
   {
     "tag_name": "two-tone background",
-    "related_tags": []
+    "related_tags": [
+      "二+音調+背景"
+    ]
   },
   {
     "tag_name": "argyle background",
-    "related_tags": []
+    "related_tags": [
+      "アーガイル+背景"
+    ]
   },
   {
     "tag_name": "checkered background",
-    "related_tags": []
+    "related_tags": [
+      "チェック+背景"
+    ]
   },
   {
     "tag_name": "food-themed background",
-    "related_tags": []
+    "related_tags": [
+      "喰いもの+彼ら+背景"
+    ]
   },
   {
     "tag_name": "grid background",
-    "related_tags": []
+    "related_tags": [
+      "格子+背景"
+    ]
   },
   {
     "tag_name": "halftone background",
-    "related_tags": []
+    "related_tags": [
+      "halftone+背景"
+    ]
   },
   {
     "tag_name": "honeycomb background",
-    "related_tags": []
+    "related_tags": [
+      "蜂か+背景"
+    ]
   },
   {
     "tag_name": "paw print background",
-    "related_tags": []
+    "related_tags": [
+      "脚+印+背景"
+    ]
   },
   {
     "tag_name": "plaid background",
-    "related_tags": []
+    "related_tags": [
+      "格子じま+背景"
+    ]
   },
   {
     "tag_name": "polka dot background",
-    "related_tags": []
+    "related_tags": [
+      "ポルカ+点+背景"
+    ]
   },
   {
     "tag_name": "simple background",
-    "related_tags": []
+    "related_tags": [
+      "簡素+背景"
+    ]
   },
   {
     "tag_name": "snowflake background",
-    "related_tags": []
+    "related_tags": [
+      "雪の結晶+背景"
+    ]
   },
   {
     "tag_name": "spiral background",
-    "related_tags": []
+    "related_tags": [
+      "渦巻き状+背景"
+    ]
   },
   {
     "tag_name": "strawberry background",
-    "related_tags": []
+    "related_tags": [
+      "ストロベリー+背景"
+    ]
   },
   {
     "tag_name": "striped background",
-    "related_tags": []
+    "related_tags": [
+      "縞々+背景"
+    ]
   },
   {
     "tag_name": "sunburst background",
@@ -57157,11 +64803,15 @@ return [
   },
   {
     "tag_name": "abstract background",
-    "related_tags": []
+    "related_tags": [
+      "概言+背景"
+    ]
   },
   {
     "tag_name": "text background",
-    "related_tags": []
+    "related_tags": [
+      "条文+背景"
+    ]
   },
   {
     "tag_name": "backlighting",
@@ -57171,7 +64821,9 @@ return [
   },
   {
     "tag_name": "blending",
-    "related_tags": []
+    "related_tags": [
+      "交錯"
+    ]
   },
   {
     "tag_name": "blurry background",
@@ -57185,43 +64837,63 @@ return [
   },
   {
     "tag_name": "drama layer",
-    "related_tags": []
+    "related_tags": [
+      "院本+階層"
+    ]
   },
   {
     "tag_name": "fiery background",
-    "related_tags": []
+    "related_tags": [
+      "炎々+背景"
+    ]
   },
   {
     "tag_name": "flag background",
-    "related_tags": []
+    "related_tags": [
+      "一旗+背景"
+    ]
   },
   {
     "tag_name": "floral background",
-    "related_tags": []
+    "related_tags": [
+      "フローラル+背景"
+    ]
   },
   {
     "tag_name": "fruit background",
-    "related_tags": []
+    "related_tags": [
+      "果+背景"
+    ]
   },
   {
     "tag_name": "heart background",
-    "related_tags": []
+    "related_tags": [
+      "意気+背景"
+    ]
   },
   {
     "tag_name": "imageboard colors",
-    "related_tags": []
+    "related_tags": [
+      "imageboard+絵の具"
+    ]
   },
   {
     "tag_name": "lace background",
-    "related_tags": []
+    "related_tags": [
+      "レース+背景"
+    ]
   },
   {
     "tag_name": "mosaic background",
-    "related_tags": []
+    "related_tags": [
+      "モザイク画+背景"
+    ]
   },
   {
     "tag_name": "paneled background",
-    "related_tags": []
+    "related_tags": [
+      "委員会+背景"
+    ]
   },
   {
     "tag_name": "photo background",
@@ -57231,7 +64903,9 @@ return [
   },
   {
     "tag_name": "projected inset",
-    "related_tags": []
+    "related_tags": [
+      "未設+inset"
+    ]
   },
   {
     "tag_name": "sofmap background",
@@ -57241,7 +64915,9 @@ return [
   },
   {
     "tag_name": "starry background",
-    "related_tags": []
+    "related_tags": [
+      "starry+背景"
+    ]
   },
   {
     "tag_name": "transparent background",
@@ -57251,11 +64927,15 @@ return [
   },
   {
     "tag_name": "zoom layer",
-    "related_tags": []
+    "related_tags": [
+      "拡大+階層"
+    ]
   },
   {
     "tag_name": "non-repeating_gif",
-    "related_tags": []
+    "related_tags": [
+      "non+リピート+GIF"
+    ]
   },
   {
     "tag_name": "Chiron",
@@ -57266,7 +64946,7 @@ return [
   {
     "tag_name": "Fate/Apocrypha",
     "related_tags": [
-      "Fate/Apocrypha"
+      "アポクリファ"
     ]
   },
   {
@@ -57300,7 +64980,7 @@ return [
   {
     "tag_name": "Fate/Grand Order",
     "related_tags": [
-      "Fate/GrandOrder"
+      "FGO"
     ]
   },
   {
@@ -57311,95 +64991,141 @@ return [
   },
   {
     "tag_name": "fur on clothing",
-    "related_tags": []
+    "related_tags": [
+      "毛革+on+衣"
+    ]
   },
   {
     "tag_name": "fur_lining",
-    "related_tags": []
+    "related_tags": [
+      "毛革+巻き立て"
+    ]
   },
   {
     "tag_name": "fur-trimmed_bikini",
-    "related_tags": []
+    "related_tags": [
+      "毛革+trimmed+bikini"
+    ]
   },
   {
     "tag_name": "fur-trimmed_boots",
-    "related_tags": []
+    "related_tags": [
+      "毛革+trimmed+沓"
+    ]
   },
   {
     "tag_name": "fur-trimmed_cape",
-    "related_tags": []
+    "related_tags": [
+      "毛革+trimmed+回し"
+    ]
   },
   {
     "tag_name": "fur-trimmed_capelet",
-    "related_tags": []
+    "related_tags": [
+      "毛革+trimmed+capelet"
+    ]
   },
   {
     "tag_name": "fur-trimmed_cardigan",
-    "related_tags": []
+    "related_tags": [
+      "毛革+trimmed+カーデ"
+    ]
   },
   {
     "tag_name": "fur-trimmed_cloak",
-    "related_tags": []
+    "related_tags": [
+      "毛革+trimmed+外とう"
+    ]
   },
   {
     "tag_name": "fur-trimmed_gloves",
-    "related_tags": []
+    "related_tags": [
+      "毛革+trimmed+手ぶくろ"
+    ]
   },
   {
     "tag_name": "fur-trimmed_hood",
-    "related_tags": []
+    "related_tags": [
+      "毛革+trimmed+掩い"
+    ]
   },
   {
     "tag_name": "fur-trimmed_jacket",
-    "related_tags": []
+    "related_tags": [
+      "毛革+trimmed+外被"
+    ]
   },
   {
     "tag_name": "fur-trimmed_kimono",
-    "related_tags": []
+    "related_tags": [
+      "毛革+trimmed+着物"
+    ]
   },
   {
     "tag_name": "fur-trimmed_shirt",
-    "related_tags": []
+    "related_tags": [
+      "毛革+trimmed+shirt"
+    ]
   },
   {
     "tag_name": "fur-trimmed_shorts",
-    "related_tags": []
+    "related_tags": [
+      "毛革+trimmed+短パン"
+    ]
   },
   {
     "tag_name": "fur-trimmed_skirt",
-    "related_tags": []
+    "related_tags": [
+      "毛革+trimmed+スカート"
+    ]
   },
   {
     "tag_name": "Piercing through clothes",
-    "related_tags": []
+    "related_tags": [
+      "貫通+越し+衣服"
+    ]
   },
   {
     "tag_name": "Industrial piercing",
-    "related_tags": []
+    "related_tags": [
+      "産業用+貫通"
+    ]
   },
   {
     "tag_name": "Eyebrow piercing",
-    "related_tags": []
+    "related_tags": [
+      "眉+貫通"
+    ]
   },
   {
     "tag_name": "Anti-eyebrow piercing",
-    "related_tags": []
+    "related_tags": [
+      "anti+眉+貫通"
+    ]
   },
   {
     "tag_name": "Eyelid piercing",
-    "related_tags": []
+    "related_tags": [
+      "眼蓋+貫通"
+    ]
   },
   {
     "tag_name": "Lip piercing",
-    "related_tags": []
+    "related_tags": [
+      "口ピアス"
+    ]
   },
   {
     "tag_name": "Labret piercing",
-    "related_tags": []
+    "related_tags": [
+      "labret+貫通"
+    ]
   },
   {
     "tag_name": "Neck Piercing",
-    "related_tags": []
+    "related_tags": [
+      "雁首+貫通"
+    ]
   },
   {
     "tag_name": "Nose piercing",
@@ -57409,7 +65135,9 @@ return [
   },
   {
     "tag_name": "Bridge piercing",
-    "related_tags": []
+    "related_tags": [
+      "架橋+貫通"
+    ]
   },
   {
     "tag_name": "Tongue piercing",
@@ -57419,7 +65147,9 @@ return [
   },
   {
     "tag_name": "Back piercing",
-    "related_tags": []
+    "related_tags": [
+      "蔭+貫通"
+    ]
   },
   {
     "tag_name": "Corset piercing",
@@ -57429,7 +65159,9 @@ return [
   },
   {
     "tag_name": "Collarbone piercing",
-    "related_tags": []
+    "related_tags": [
+      "鎖骨+貫通"
+    ]
   },
   {
     "tag_name": "Navel piercing",
@@ -57439,31 +65171,45 @@ return [
   },
   {
     "tag_name": "Nipple chain",
-    "related_tags": []
+    "related_tags": [
+      "乳首+鎖"
+    ]
   },
   {
     "tag_name": "Nipple jewelry",
-    "related_tags": []
+    "related_tags": [
+      "乳首+宝飾"
+    ]
   },
   {
     "tag_name": "Pussy piercing",
-    "related_tags": []
+    "related_tags": [
+      "おまんこ+貫通"
+    ]
   },
   {
     "tag_name": "Labia piercing",
-    "related_tags": []
+    "related_tags": [
+      "陰唇+貫通"
+    ]
   },
   {
     "tag_name": "Fourchette piercing",
-    "related_tags": []
+    "related_tags": [
+      "蹄叉+貫通"
+    ]
   },
   {
     "tag_name": "Pussy jewelry",
-    "related_tags": []
+    "related_tags": [
+      "おまんこ+宝飾"
+    ]
   },
   {
     "tag_name": "Penis piercing",
-    "related_tags": []
+    "related_tags": [
+      "一物+貫通"
+    ]
   },
   {
     "tag_name": "Ampallang",
@@ -57475,39 +65221,57 @@ return [
   },
   {
     "tag_name": "Foreskin piercing",
-    "related_tags": []
+    "related_tags": [
+      "陰茎包皮+貫通"
+    ]
   },
   {
     "tag_name": "Frenulum piercing",
-    "related_tags": []
+    "related_tags": [
+      "frenulum+貫通"
+    ]
   },
   {
     "tag_name": "Lorum piercing",
-    "related_tags": []
+    "related_tags": [
+      "lorum+貫通"
+    ]
   },
   {
     "tag_name": "Prince Albert",
-    "related_tags": []
+    "related_tags": [
+      "王+albert"
+    ]
   },
   {
     "tag_name": "Guiche piercing",
-    "related_tags": []
+    "related_tags": [
+      "guiche+貫通"
+    ]
   },
   {
     "tag_name": "Scrotum piercing",
-    "related_tags": []
+    "related_tags": [
+      "陰嚢+貫通"
+    ]
   },
   {
     "tag_name": "Captive bead ring",
-    "related_tags": []
+    "related_tags": [
+      "囚+一粒+一味"
+    ]
   },
   {
     "tag_name": "Linked piercing",
-    "related_tags": []
+    "related_tags": [
+      "連動+貫通"
+    ]
   },
   {
     "tag_name": "Plug (piercing)",
-    "related_tags": []
+    "related_tags": [
+      "差し込み+(piercing)"
+    ]
   },
   {
     "tag_name": "Akujiki Musume Conchita",
@@ -57535,15 +65299,21 @@ return [
   },
   {
     "tag_name": "Battle Royal Valentine",
-    "related_tags": []
+    "related_tags": [
+      "一戦+王立+バレンタイン"
+    ]
   },
   {
     "tag_name": "Colorful x Sexy",
-    "related_tags": []
+    "related_tags": [
+      "カラフル+x+官能的"
+    ]
   },
   {
     "tag_name": "Dancing Love",
-    "related_tags": []
+    "related_tags": [
+      "舞+愛"
+    ]
   },
   {
     "tag_name": "Doutoku no jukai",
@@ -57581,7 +65351,9 @@ return [
   },
   {
     "tag_name": "Mr. Showtime",
-    "related_tags": []
+    "related_tags": [
+      "丈+見せ場"
+    ]
   },
   {
     "tag_name": "Norainu Sissou Biyori",
@@ -57601,7 +65373,9 @@ return [
   },
   {
     "tag_name": "Scarlet Moon",
-    "related_tags": []
+    "related_tags": [
+      "銀朱+衛星"
+    ]
   },
   {
     "tag_name": "Senshuu Ichiya",
@@ -57611,23 +65385,33 @@ return [
   },
   {
     "tag_name": "Sorakiri Scissors ~ Dear Super Star",
-    "related_tags": []
+    "related_tags": [
+      "sorakiri+剪刀+~+妻+超がつく+巨擘"
+    ]
   },
   {
     "tag_name": "Stay with me",
-    "related_tags": []
+    "related_tags": [
+      "居在+以ちまして+me"
+    ]
   },
   {
     "tag_name": "Spy ga Oppai",
-    "related_tags": []
+    "related_tags": [
+      "回し者+ga+oppai"
+    ]
   },
   {
     "tag_name": "Super Bunny",
-    "related_tags": []
+    "related_tags": [
+      "超がつく+bunny"
+    ]
   },
   {
     "tag_name": "The thought to tell",
-    "related_tags": []
+    "related_tags": [
+      "the+一考+to+tell"
+    ]
   },
   {
     "tag_name": "Tsugai kogarashi",
@@ -57671,7 +65455,9 @@ return [
   },
   {
     "tag_name": "Crazy Clown",
-    "related_tags": []
+    "related_tags": [
+      "気が変+道化"
+    ]
   },
   {
     "tag_name": "Hai Wa Hai Ni",
@@ -57681,7 +65467,9 @@ return [
   },
   {
     "tag_name": "HappY EnD",
-    "related_tags": []
+    "related_tags": [
+      "愛でたい+宛"
+    ]
   },
   {
     "tag_name": "Hikyou Sentai Urotander",
@@ -57697,7 +65485,9 @@ return [
   },
   {
     "tag_name": "KAITO ga Uninstall",
-    "related_tags": []
+    "related_tags": [
+      "kaito+ga+未設"
+    ]
   },
   {
     "tag_name": "Kaitonation",
@@ -57707,11 +65497,15 @@ return [
   },
   {
     "tag_name": "Old Radio",
-    "related_tags": []
+    "related_tags": [
+      "翁+無線機"
+    ]
   },
   {
     "tag_name": "Pane Dhiria",
-    "related_tags": []
+    "related_tags": [
+      "硝子+dhiria"
+    ]
   },
   {
     "tag_name": "Sennen no Dokusou Uta",
@@ -58055,11 +65849,15 @@ return [
   },
   {
     "tag_name": "Christmas Morgue",
-    "related_tags": []
+    "related_tags": [
+      "降誕祭+安置室"
+    ]
   },
   {
     "tag_name": "Clock Lock Works",
-    "related_tags": []
+    "related_tags": [
+      "刻時機構+掛け金+作業場"
+    ]
   },
   {
     "tag_name": "Donut Hole",
@@ -58099,7 +65897,9 @@ return [
   },
   {
     "tag_name": "Persona Alice",
-    "related_tags": []
+    "related_tags": [
+      "キャラ+alice"
+    ]
   },
   {
     "tag_name": "Ohime-sama wa Denshi-on de Nemuru",
@@ -58125,7 +65925,9 @@ return [
   },
   {
     "tag_name": "World's End Umbrella",
-    "related_tags": []
+    "related_tags": [
+      "world's+宛+雨がさ"
+    ]
   },
   {
     "tag_name": "Ima suki ni Naru.",
@@ -58181,7 +65983,9 @@ return [
   },
   {
     "tag_name": "Mao",
-    "related_tags": []
+    "related_tags": [
+      "モノアミン酸化酵素"
+    ]
   },
   {
     "tag_name": "Hyakkisai",
@@ -58197,11 +66001,15 @@ return [
   },
   {
     "tag_name": "Catch the Wave",
-    "related_tags": []
+    "related_tags": [
+      "引き手+the+周波"
+    ]
   },
   {
     "tag_name": "DECORATOR",
-    "related_tags": []
+    "related_tags": [
+      "装飾家"
+    ]
   },
   {
     "tag_name": "Finder",
@@ -58211,7 +66019,9 @@ return [
   },
   {
     "tag_name": "Hand in Hand",
-    "related_tags": []
+    "related_tags": [
+      "手を携えて"
+    ]
   },
   {
     "tag_name": "Last Night Good Night",
@@ -58221,11 +66031,15 @@ return [
   },
   {
     "tag_name": "Redial",
-    "related_tags": []
+    "related_tags": [
+      "リーダイヤル"
+    ]
   },
   {
     "tag_name": "Satisfaction",
-    "related_tags": []
+    "related_tags": [
+      "会心"
+    ]
   },
   {
     "tag_name": "Strobe Nights",
@@ -58241,11 +66055,15 @@ return [
   },
   {
     "tag_name": "Weekender Girl",
-    "related_tags": []
+    "related_tags": [
+      "weekender+姉ちゃん"
+    ]
   },
   {
     "tag_name": "Yellow",
-    "related_tags": []
+    "related_tags": [
+      "黄"
+    ]
   },
   {
     "tag_name": "39 Music",
@@ -58331,7 +66149,9 @@ return [
   },
   {
     "tag_name": "Freely Tomorrow",
-    "related_tags": []
+    "related_tags": [
+      "遠慮なく+明日"
+    ]
   },
   {
     "tag_name": "News 39",
@@ -58371,7 +66191,9 @@ return [
   },
   {
     "tag_name": "Andromeda Andromeda",
-    "related_tags": []
+    "related_tags": [
+      "姫馬酔木+姫馬酔木"
+    ]
   },
   {
     "tag_name": "Dance Robot Dance",
@@ -58387,7 +66209,9 @@ return [
   },
   {
     "tag_name": "How to Warp",
-    "related_tags": []
+    "related_tags": [
+      "安んぞ+to+曲がり"
+    ]
   },
   {
     "tag_name": "Perfect Seimei",
@@ -58397,7 +66221,9 @@ return [
   },
   {
     "tag_name": "Rocket Cider",
-    "related_tags": []
+    "related_tags": [
+      "火箭+サイダー"
+    ]
   },
   {
     "tag_name": "StratoStella",
@@ -58573,7 +66399,9 @@ return [
   },
   {
     "tag_name": "Kocchi muite Baby",
-    "related_tags": []
+    "related_tags": [
+      "kocchi+muite+嬰児"
+    ]
   },
   {
     "tag_name": "Koi wa Sensou",
@@ -58595,7 +66423,9 @@ return [
   },
   {
     "tag_name": "Usotsuki no Parade",
-    "related_tags": []
+    "related_tags": [
+      "usotsuki+no+閲兵"
+    ]
   },
   {
     "tag_name": "World is Mine",
@@ -58729,7 +66559,9 @@ return [
   },
   {
     "tag_name": "ala",
-    "related_tags": []
+    "related_tags": [
+      "アルファリノレン酸"
+    ]
   },
   {
     "tag_name": "Albino",
@@ -58783,7 +66615,9 @@ return [
   },
   {
     "tag_name": "Beat Eater",
-    "related_tags": []
+    "related_tags": [
+      "一巡+eater"
+    ]
   },
   {
     "tag_name": "Bitter Choco Decoration",
@@ -58805,7 +66639,9 @@ return [
   },
   {
     "tag_name": "BPM",
-    "related_tags": []
+    "related_tags": [
+      "ビーム伝搬法"
+    ]
   },
   {
     "tag_name": "Break;Down",
@@ -58829,7 +66665,9 @@ return [
   },
   {
     "tag_name": "Canary",
-    "related_tags": []
+    "related_tags": [
+      "金糸雀色"
+    ]
   },
   {
     "tag_name": "Candy Addict Full Course",
@@ -58867,23 +66705,33 @@ return [
   },
   {
     "tag_name": "Charm",
-    "related_tags": []
+    "related_tags": [
+      "愛きょう"
+    ]
   },
   {
     "tag_name": "Closed Blue",
-    "related_tags": []
+    "related_tags": [
+      "閉鎖的+重い"
+    ]
   },
   {
     "tag_name": "Color of Drops",
-    "related_tags": []
+    "related_tags": [
+      "艶+of+一水"
+    ]
   },
   {
     "tag_name": "Colorful x Melody",
-    "related_tags": []
+    "related_tags": [
+      "カラフル+x+音調"
+    ]
   },
   {
     "tag_name": "Crew Kid",
-    "related_tags": []
+    "related_tags": [
+      "一味+餓鬼"
+    ]
   },
   {
     "tag_name": "Crier",
@@ -58893,19 +66741,27 @@ return [
   },
   {
     "tag_name": "Dear",
-    "related_tags": []
+    "related_tags": [
+      "妻"
+    ]
   },
   {
     "tag_name": "Dearest You",
-    "related_tags": []
+    "related_tags": [
+      "愛おしい+我"
+    ]
   },
   {
     "tag_name": "Dogma",
-    "related_tags": []
+    "related_tags": [
+      "教義"
+    ]
   },
   {
     "tag_name": "Domino Taoshi",
-    "related_tags": []
+    "related_tags": [
+      "ドミノ+taoshi"
+    ]
   },
   {
     "tag_name": "Doremifa Rondo",
@@ -58931,7 +66787,9 @@ return [
   },
   {
     "tag_name": "Eh? Ah, Sou",
-    "related_tags": []
+    "related_tags": [
+      "彼+ah,+スー"
+    ]
   },
   {
     "tag_name": "Electric Angel",
@@ -58953,7 +66811,9 @@ return [
   },
   {
     "tag_name": "Epidemic Girl",
-    "related_tags": []
+    "related_tags": [
+      "悪疫+姉ちゃん"
+    ]
   },
   {
     "tag_name": "Esperanza",
@@ -58963,7 +66823,9 @@ return [
   },
   {
     "tag_name": "EXEC_RESOLUTION/.",
-    "related_tags": []
+    "related_tags": [
+      "エグゼック+resolution/."
+    ]
   },
   {
     "tag_name": "Float Planner",
@@ -58973,7 +66835,9 @@ return [
   },
   {
     "tag_name": "Fondant Step",
-    "related_tags": []
+    "related_tags": [
+      "fondant+一切り"
+    ]
   },
   {
     "tag_name": "From Tokyo",
@@ -58983,7 +66847,9 @@ return [
   },
   {
     "tag_name": "From Y To Y",
-    "related_tags": []
+    "related_tags": [
+      "からして+y+to+y"
+    ]
   },
   {
     "tag_name": "Fukujusou",
@@ -59005,7 +66871,9 @@ return [
   },
   {
     "tag_name": "Gallows Bell",
-    "related_tags": []
+    "related_tags": [
+      "絞首台+ベル"
+    ]
   },
   {
     "tag_name": "Gekijou Tragedy",
@@ -59025,19 +66893,27 @@ return [
   },
   {
     "tag_name": "Gilgamesh Night",
-    "related_tags": []
+    "related_tags": [
+      "gilgamesh+暮夜"
+    ]
   },
   {
     "tag_name": "Girlfriend",
-    "related_tags": []
+    "related_tags": [
+      "交際相手"
+    ]
   },
   {
     "tag_name": "Glorious World",
-    "related_tags": []
+    "related_tags": [
+      "栄えある+世"
+    ]
   },
   {
     "tag_name": "Glow",
-    "related_tags": []
+    "related_tags": [
+      "光"
+    ]
   },
   {
     "tag_name": "Greenlights Serenade",
@@ -59069,7 +66945,9 @@ return [
   },
   {
     "tag_name": "HAKOBAKO PLAYER",
-    "related_tags": []
+    "related_tags": [
+      "hakobako+演奏者"
+    ]
   },
   {
     "tag_name": "Hane wa Nai Kedo Watashi wa Toberu",
@@ -59077,11 +66955,15 @@ return [
   },
   {
     "tag_name": "Happy End Gretel",
-    "related_tags": []
+    "related_tags": [
+      "愛でたい+宛+gretel"
+    ]
   },
   {
     "tag_name": "Hareta hi ni wa Guitar Pop wo",
-    "related_tags": []
+    "related_tags": [
+      "hareta+hi+ni+wa+ギター+父さん+wo"
+    ]
   },
   {
     "tag_name": "Haru! Sakura! Ninja!",
@@ -59121,7 +67003,9 @@ return [
   },
   {
     "tag_name": "Heart Shooter",
-    "related_tags": []
+    "related_tags": [
+      "意気+撃ち手"
+    ]
   },
   {
     "tag_name": "Hello/How are you",
@@ -59143,7 +67027,9 @@ return [
   },
   {
     "tag_name": "Heaven or Hell",
-    "related_tags": []
+    "related_tags": [
+      "雲の上+or+魔界"
+    ]
   },
   {
     "tag_name": "Hibikase",
@@ -59199,7 +67085,9 @@ return [
   },
   {
     "tag_name": "Innocence",
-    "related_tags": []
+    "related_tags": [
+      "潔白"
+    ]
   },
   {
     "tag_name": "Inochi ni Kirawarete iru.",
@@ -59215,7 +67103,9 @@ return [
   },
   {
     "tag_name": "Irony Teacher",
-    "related_tags": []
+    "related_tags": [
+      "運命のいたずら+教育家"
+    ]
   },
   {
     "tag_name": "Issen Kounen",
@@ -59225,7 +67115,9 @@ return [
   },
   {
     "tag_name": "Iya Girl",
-    "related_tags": []
+    "related_tags": [
+      "iya+姉ちゃん"
+    ]
   },
   {
     "tag_name": "Junjou Skirt",
@@ -59235,7 +67127,9 @@ return [
   },
   {
     "tag_name": "Kakusei Particle",
-    "related_tags": []
+    "related_tags": [
+      "kakusei+一点"
+    ]
   },
   {
     "tag_name": "Kami no Namae ni Ochiru Mono",
@@ -59251,7 +67145,9 @@ return [
   },
   {
     "tag_name": "Kanou Sekai no Rondo",
-    "related_tags": []
+    "related_tags": [
+      "kanou+sekai+no+輪舞曲"
+    ]
   },
   {
     "tag_name": "Karakuri Pierrot",
@@ -59261,7 +67157,9 @@ return [
   },
   {
     "tag_name": "Kasei no Tart",
-    "related_tags": []
+    "related_tags": [
+      "kasei+no+渋い"
+    ]
   },
   {
     "tag_name": "Kasou Kyoku",
@@ -59275,7 +67173,9 @@ return [
   },
   {
     "tag_name": "Keep Only One Love",
-    "related_tags": []
+    "related_tags": [
+      "天守閣+一+一+愛"
+    ]
   },
   {
     "tag_name": "Kimagure Mercy",
@@ -59337,7 +67237,9 @@ return [
   },
   {
     "tag_name": "Kokoro Nonsense",
-    "related_tags": []
+    "related_tags": [
+      "kokoro+滅茶"
+    ]
   },
   {
     "tag_name": "Kono Fuzaketa Subarashiki Sekai wa, Boku no Tame ni Aru",
@@ -59387,7 +67289,9 @@ return [
   },
   {
     "tag_name": "Kutabare PTA",
-    "related_tags": []
+    "related_tags": [
+      "kutabare+PTA"
+    ]
   },
   {
     "tag_name": "Kyodai Shoujo",
@@ -59397,11 +67301,15 @@ return [
   },
   {
     "tag_name": "Ladies First",
-    "related_tags": []
+    "related_tags": [
+      "ladies+一"
+    ]
   },
   {
     "tag_name": "Life Size",
-    "related_tags": []
+    "related_tags": [
+      "等身大"
+    ]
   },
   {
     "tag_name": "Like a Rolling Star ☆",
@@ -59411,7 +67319,9 @@ return [
   },
   {
     "tag_name": "LOL -lots of laugh-",
-    "related_tags": []
+    "related_tags": [
+      "笑++多目に+of+一笑+"
+    ]
   },
   {
     "tag_name": "Lolicon de Yokatta",
@@ -59427,7 +67337,9 @@ return [
   },
   {
     "tag_name": "Love Love Nightmare",
-    "related_tags": []
+    "related_tags": [
+      "愛+愛+悪夢"
+    ]
   },
   {
     "tag_name": "Lowry's Room",
@@ -59443,7 +67355,9 @@ return [
   },
   {
     "tag_name": "Mafia",
-    "related_tags": []
+    "related_tags": [
+      "マフィア"
+    ]
   },
   {
     "tag_name": "Magnet",
@@ -59457,7 +67371,9 @@ return [
   },
   {
     "tag_name": "Marionette",
-    "related_tags": []
+    "related_tags": [
+      "機関人形"
+    ]
   },
   {
     "tag_name": "Marionette Syndrome",
@@ -59485,7 +67401,9 @@ return [
   },
   {
     "tag_name": "Melody In The Sky",
-    "related_tags": []
+    "related_tags": [
+      "音調+in+the+雲井"
+    ]
   },
   {
     "tag_name": "Menhera Janai Mon!",
@@ -59495,7 +67413,9 @@ return [
   },
   {
     "tag_name": "Meteor",
-    "related_tags": []
+    "related_tags": [
+      "婚い星"
+    ]
   },
   {
     "tag_name": "Mienai Yoru ni",
@@ -59527,7 +67447,9 @@ return [
   },
   {
     "tag_name": "Monochro ∞ Blue Sky",
-    "related_tags": []
+    "related_tags": [
+      "monochro+∞+重い+雲井"
+    ]
   },
   {
     "tag_name": "Moonlit Bear",
@@ -59543,7 +67465,9 @@ return [
   },
   {
     "tag_name": "Mr. Music",
-    "related_tags": []
+    "related_tags": [
+      "丈+音楽"
+    ]
   },
   {
     "tag_name": "Nakenashi no Chikara",
@@ -59553,7 +67477,9 @@ return [
   },
   {
     "tag_name": "Neko ni Cider",
-    "related_tags": []
+    "related_tags": [
+      "neko+ni+サイダー"
+    ]
   },
   {
     "tag_name": "Neko ni Naritai",
@@ -59561,7 +67487,9 @@ return [
   },
   {
     "tag_name": "Nekoshita Crazy",
-    "related_tags": []
+    "related_tags": [
+      "nekoshita+気が変"
+    ]
   },
   {
     "tag_name": "Nenchaku-kei Danshi no 15-nen Nechinechi",
@@ -59589,7 +67517,9 @@ return [
   },
   {
     "tag_name": "Not Gonna Dump Me",
-    "related_tags": []
+    "related_tags": [
+      "無い+gonna+芥溜め+me"
+    ]
   },
   {
     "tag_name": "Noushou Sakuretsu Girl",
@@ -59617,7 +67547,9 @@ return [
   },
   {
     "tag_name": "Orion",
-    "related_tags": []
+    "related_tags": [
+      "オライオン"
+    ]
   },
   {
     "tag_name": "Otsuki-sama",
@@ -59625,7 +67557,9 @@ return [
   },
   {
     "tag_name": "Overwrite",
-    "related_tags": []
+    "related_tags": [
+      "重ね書き"
+    ]
   },
   {
     "tag_name": "Pair&Young Davah",
@@ -59633,11 +67567,15 @@ return [
   },
   {
     "tag_name": "Palette World Breakdown",
-    "related_tags": []
+    "related_tags": [
+      "絵皿+世+決裂"
+    ]
   },
   {
     "tag_name": "Paranoia",
-    "related_tags": []
+    "related_tags": [
+      "被害妄想"
+    ]
   },
   {
     "tag_name": "Party Junkie",
@@ -59675,7 +67613,9 @@ return [
   },
   {
     "tag_name": "Pylori Kin no Uta",
-    "related_tags": []
+    "related_tags": [
+      "pylori+一門+no+uta"
+    ]
   },
   {
     "tag_name": "rain stops, good-bye",
@@ -59695,11 +67635,15 @@ return [
   },
   {
     "tag_name": "Red Punishment",
-    "related_tags": []
+    "related_tags": [
+      "赭い+科罰"
+    ]
   },
   {
     "tag_name": "Risky Game",
-    "related_tags": []
+    "related_tags": [
+      "危ない+一戦"
+    ]
   },
   {
     "tag_name": "Romeo to Cinderella",
@@ -59727,7 +67671,9 @@ return [
   },
   {
     "tag_name": "Round Around",
-    "related_tags": []
+    "related_tags": [
+      "一巡+見当"
+    ]
   },
   {
     "tag_name": "Ryuuno Naku Hakoniwa Yori",
@@ -59741,7 +67687,9 @@ return [
   },
   {
     "tag_name": "Ryuusei Sound",
-    "related_tags": []
+    "related_tags": [
+      "ryuusei+音"
+    ]
   },
   {
     "tag_name": "Sadistic.Music∞Factory",
@@ -59779,7 +67727,9 @@ return [
   },
   {
     "tag_name": "Sainou Sampler",
-    "related_tags": []
+    "related_tags": [
+      "sainou+サンプラ"
+    ]
   },
   {
     "tag_name": "Sakura no Kisetsu",
@@ -59787,7 +67737,9 @@ return [
   },
   {
     "tag_name": "Salaryman no Uta",
-    "related_tags": []
+    "related_tags": [
+      "サラ+no+uta"
+    ]
   },
   {
     "tag_name": "Samsa",
@@ -59821,7 +67773,9 @@ return [
   },
   {
     "tag_name": "shake it!",
-    "related_tags": []
+    "related_tags": [
+      "振り+it!"
+    ]
   },
   {
     "tag_name": "Shiningray",
@@ -59859,11 +67813,15 @@ return [
   },
   {
     "tag_name": "Shotgun Lovers",
-    "related_tags": []
+    "related_tags": [
+      "散弾銃+愛好家"
+    ]
   },
   {
     "tag_name": "Shoushin Rider",
-    "related_tags": []
+    "related_tags": [
+      "shoushin+騎手"
+    ]
   },
   {
     "tag_name": "Shuudo Shoujo to Guuzo Shoujo",
@@ -59871,7 +67829,9 @@ return [
   },
   {
     "tag_name": "Sing My Love",
-    "related_tags": []
+    "related_tags": [
+      "s+my+愛"
+    ]
   },
   {
     "tag_name": "SING＆SMILE",
@@ -59887,11 +67847,15 @@ return [
   },
   {
     "tag_name": "snooze",
-    "related_tags": []
+    "related_tags": [
+      "一睡"
+    ]
   },
   {
     "tag_name": "Snow Fairy Story",
-    "related_tags": []
+    "related_tags": [
+      "降雪+仙女+一篇"
+    ]
   },
   {
     "tag_name": "Snow Trick",
@@ -59917,11 +67881,15 @@ return [
   },
   {
     "tag_name": "Spring",
-    "related_tags": []
+    "related_tags": [
+      "腰"
+    ]
   },
   {
     "tag_name": "Staccato",
-    "related_tags": []
+    "related_tags": [
+      "歯切れいい"
+    ]
   },
   {
     "tag_name": "Starduster",
@@ -59939,11 +67907,15 @@ return [
   },
   {
     "tag_name": "Stella Place",
-    "related_tags": []
+    "related_tags": [
+      "stella+位"
+    ]
   },
   {
     "tag_name": "Step to You",
-    "related_tags": []
+    "related_tags": [
+      "一切り+to+我"
+    ]
   },
   {
     "tag_name": "STOMP THE ENEMY",
@@ -59959,7 +67931,9 @@ return [
   },
   {
     "tag_name": "sugar chocolate waffle",
-    "related_tags": []
+    "related_tags": [
+      "砂糖+チョコ+ワッフル"
+    ]
   },
   {
     "tag_name": "Summer Idol",
@@ -59970,7 +67944,7 @@ return [
   {
     "tag_name": "Sweet Devil",
     "related_tags": [
-      "Sweet_Devil"
+      "スィートデビル"
     ]
   },
   {
@@ -60001,15 +67975,21 @@ return [
   },
   {
     "tag_name": "The Forgotten Song",
-    "related_tags": []
+    "related_tags": [
+      "the+forgotten+唄"
+    ]
   },
   {
     "tag_name": "Thrill for Two",
-    "related_tags": []
+    "related_tags": [
+      "刺戟+対して+二"
+    ]
   },
   {
     "tag_name": "Time Machine",
-    "related_tags": []
+    "related_tags": [
+      "航時機"
+    ]
   },
   {
     "tag_name": "Tokarev to Shoujo",
@@ -60023,7 +68003,9 @@ return [
   },
   {
     "tag_name": "Tokyo-to Rock City",
-    "related_tags": []
+    "related_tags": [
+      "東京+to+巌+市"
+    ]
   },
   {
     "tag_name": "Tondemo Wonders",
@@ -60045,11 +68027,15 @@ return [
   },
   {
     "tag_name": "Tower of Sunz",
-    "related_tags": []
+    "related_tags": [
+      "台+of+sunz"
+    ]
   },
   {
     "tag_name": "TOY BOX",
-    "related_tags": []
+    "related_tags": [
+      "玩具箱"
+    ]
   },
   {
     "tag_name": "Triple Baka",
@@ -60069,7 +68055,9 @@ return [
   },
   {
     "tag_name": "Undefined",
-    "related_tags": []
+    "related_tags": [
+      "不定形"
+    ]
   },
   {
     "tag_name": "Unfragment",
@@ -60091,11 +68079,15 @@ return [
   },
   {
     "tag_name": "Voice (First Sound Story)",
-    "related_tags": []
+    "related_tags": [
+      "一声+(first+音+story)"
+    ]
   },
   {
     "tag_name": "VOiCE",
-    "related_tags": []
+    "related_tags": [
+      "一声"
+    ]
   },
   {
     "tag_name": "Wagamama",
@@ -60109,11 +68101,15 @@ return [
   },
   {
     "tag_name": "Watashi Ga Kami wo Kitta Riyuu",
-    "related_tags": []
+    "related_tags": [
+      "watashi+ga+神+wo+kitta+riyuu"
+    ]
   },
   {
     "tag_name": "We are POP☆CANDY!",
-    "related_tags": []
+    "related_tags": [
+      "we+ざり+pop☆candy!"
+    ]
   },
   {
     "tag_name": "What's Up? Pop!",
@@ -60121,19 +68117,27 @@ return [
   },
   {
     "tag_name": "White Melody",
-    "related_tags": []
+    "related_tags": [
+      "白+音調"
+    ]
   },
   {
     "tag_name": "Wine Berry",
-    "related_tags": []
+    "related_tags": [
+      "葡萄酒+果実"
+    ]
   },
   {
     "tag_name": "Wonderful Days",
-    "related_tags": []
+    "related_tags": [
+      "悪い+月日"
+    ]
   },
   {
     "tag_name": "Wrapping Kiss",
-    "related_tags": []
+    "related_tags": [
+      "皮+口づけ"
+    ]
   },
   {
     "tag_name": "Yami-iro Alice",
@@ -60149,7 +68153,9 @@ return [
   },
   {
     "tag_name": "Youthful Days' Graffiti",
-    "related_tags": []
+    "related_tags": [
+      "若々しい+days'+悪戯書"
+    ]
   },
   {
     "tag_name": "Yubikiri",
@@ -60165,7 +68171,9 @@ return [
   },
   {
     "tag_name": "Yue Xi Jiang",
-    "related_tags": []
+    "related_tags": [
+      "越+xi+jiang"
+    ]
   },
   {
     "tag_name": "Yume to Hazakura",
@@ -60247,7 +68255,9 @@ return [
   },
   {
     "tag_name": "Always and Forever",
-    "related_tags": []
+    "related_tags": [
+      "何時だって+以って+永々"
+    ]
   },
   {
     "tag_name": "Amatsu Kitsune",
@@ -60305,15 +68315,21 @@ return [
   },
   {
     "tag_name": "Dog Day Afternoon",
-    "related_tags": []
+    "related_tags": [
+      "わん公+日+午すぎ"
+    ]
   },
   {
     "tag_name": "Dreaming Leaf -Yumemiru Kotonoha-",
-    "related_tags": []
+    "related_tags": [
+      "夢寐+一片++yumemiru+kotonoha+"
+    ]
   },
   {
     "tag_name": "drop pop candy",
-    "related_tags": []
+    "related_tags": [
+      "一水+父さん+飴"
+    ]
   },
   {
     "tag_name": "Eager♥Believer",
@@ -60321,11 +68337,15 @@ return [
   },
   {
     "tag_name": "Epilogue for Prologue",
-    "related_tags": []
+    "related_tags": [
+      "終章+対して+序章"
+    ]
   },
   {
     "tag_name": "Escape Romantic",
-    "related_tags": []
+    "related_tags": [
+      "逸出+艶っぽい"
+    ]
   },
   {
     "tag_name": "Fate of Soul",
@@ -60345,7 +68365,9 @@ return [
   },
   {
     "tag_name": "Gemini",
-    "related_tags": []
+    "related_tags": [
+      "ジェミニ"
+    ]
   },
   {
     "tag_name": "Gensou-ron",
@@ -60353,11 +68375,15 @@ return [
   },
   {
     "tag_name": "Glare",
-    "related_tags": []
+    "related_tags": [
+      "横にらみ"
+    ]
   },
   {
     "tag_name": "Gokurakuchou -bird of paradise-",
-    "related_tags": []
+    "related_tags": [
+      "gokurakuchou++禽+of+楽園+"
+    ]
   },
   {
     "tag_name": "Hakaokuri no Uta",
@@ -60367,7 +68393,9 @@ return [
   },
   {
     "tag_name": "Hello Nostradamus",
-    "related_tags": []
+    "related_tags": [
+      "今日は+nostradamus"
+    ]
   },
   {
     "tag_name": "Himitsu ~ Kuro no Chikai ~",
@@ -60449,7 +68477,9 @@ return [
   },
   {
     "tag_name": "Kirameki Dreamer",
-    "related_tags": []
+    "related_tags": [
+      "kirameki+脳内お花畑"
+    ]
   },
   {
     "tag_name": "Kitsune no Yomeiri",
@@ -60469,7 +68499,9 @@ return [
   },
   {
     "tag_name": "Koko ni Aru Koe",
-    "related_tags": []
+    "related_tags": [
+      "koko+ni+音声応答ユニット+koe"
+    ]
   },
   {
     "tag_name": "Kokoro",
@@ -60479,11 +68511,15 @@ return [
   },
   {
     "tag_name": "Kyoufu Garden",
-    "related_tags": []
+    "related_tags": [
+      "kyoufu+園地"
+    ]
   },
   {
     "tag_name": "La Fiesta",
-    "related_tags": []
+    "related_tags": [
+      "la+フィエスタ"
+    ]
   },
   {
     "tag_name": "Lost One no Goukoku",
@@ -60497,7 +68533,9 @@ return [
   },
   {
     "tag_name": "Maid no Hoshi kara SOS",
-    "related_tags": []
+    "related_tags": [
+      "家事手伝い+no+星+kara+遭難信号"
+    ]
   },
   {
     "tag_name": "Migikata no Chou",
@@ -60519,7 +68557,9 @@ return [
   },
   {
     "tag_name": "Noiz are Nel",
-    "related_tags": []
+    "related_tags": [
+      "noiz+ざり+nel"
+    ]
   },
   {
     "tag_name": "Noroi no Megane",
@@ -60537,7 +68577,9 @@ return [
   },
   {
     "tag_name": "Positive Dance Time",
-    "related_tags": []
+    "related_tags": [
+      "確+所作+烏兎"
+    ]
   },
   {
     "tag_name": "Potato ni Natte iku",
@@ -60547,7 +68589,9 @@ return [
   },
   {
     "tag_name": "Pretty Panties☆Akuma Rin",
-    "related_tags": []
+    "related_tags": [
+      "愛しい+panties☆akuma+rin"
+    ]
   },
   {
     "tag_name": "Q",
@@ -60591,7 +68635,9 @@ return [
   },
   {
     "tag_name": "Rock'n Rouge",
-    "related_tags": []
+    "related_tags": [
+      "rock'n+燕支"
+    ]
   },
   {
     "tag_name": "Roki",
@@ -60613,19 +68659,27 @@ return [
   },
   {
     "tag_name": "Sakasama Rainbow",
-    "related_tags": []
+    "related_tags": [
+      "sakasama+虹"
+    ]
   },
   {
     "tag_name": "SCORE",
-    "related_tags": []
+    "related_tags": [
+      "楽譜"
+    ]
   },
   {
     "tag_name": "Shakai Shugi Darling",
-    "related_tags": []
+    "related_tags": [
+      "shakai+shugi+愛おしい"
+    ]
   },
   {
     "tag_name": "Sand Scraper",
-    "related_tags": []
+    "related_tags": [
+      "沙+スクレーパー"
+    ]
   },
   {
     "tag_name": "Shanghai Disco",
@@ -60671,7 +68725,9 @@ return [
   },
   {
     "tag_name": "Sute-neko Russian Blue",
-    "related_tags": []
+    "related_tags": [
+      "sute+neko+russian+重い"
+    ]
   },
   {
     "tag_name": "Tengaku",
@@ -60703,7 +68759,9 @@ return [
   },
   {
     "tag_name": "Trick and Treat",
-    "related_tags": []
+    "related_tags": [
+      "悪だくみ+以って+雑作"
+    ]
   },
   {
     "tag_name": "Tsumugi Uta",
@@ -60711,7 +68769,9 @@ return [
   },
   {
     "tag_name": "Ur-Style",
-    "related_tags": []
+    "related_tags": [
+      "ur+一家"
+    ]
   },
   {
     "tag_name": "Usotsuki Betty",
@@ -60785,7 +68845,9 @@ return [
   },
   {
     "tag_name": "Free",
-    "related_tags": []
+    "related_tags": [
+      "閑散"
+    ]
   },
   {
     "tag_name": "Gigantic O.T.N",
@@ -60817,7 +68879,9 @@ return [
   },
   {
     "tag_name": "Ki ni naru ano Musume wa Kuroneko Girl",
-    "related_tags": []
+    "related_tags": [
+      "ki+ni+naru+ano+musume+wa+kuroneko+姉ちゃん"
+    ]
   },
   {
     "tag_name": "Magical Nuko-Lenlen",
@@ -60849,7 +68913,9 @@ return [
   },
   {
     "tag_name": "Out of Eden",
-    "related_tags": []
+    "related_tags": [
+      "死+of+楽園"
+    ]
   },
   {
     "tag_name": "Paradichlorobenzene",
@@ -60885,7 +68951,9 @@ return [
   },
   {
     "tag_name": "Soundless Voice",
-    "related_tags": []
+    "related_tags": [
+      "声にならない+一声"
+    ]
   },
   {
     "tag_name": "Spice!",
@@ -60899,7 +68967,9 @@ return [
   },
   {
     "tag_name": "Synchronicity",
-    "related_tags": []
+    "related_tags": [
+      "シンクロニシティ"
+    ]
   },
   {
     "tag_name": "Tantei Muschi Megane",
@@ -60963,23 +69033,33 @@ return [
   },
   {
     "tag_name": "Between the Black and White",
-    "related_tags": []
+    "related_tags": [
+      "間+the+暗然+以って+白"
+    ]
   },
   {
     "tag_name": "Bullet for Prisoner",
-    "related_tags": []
+    "related_tags": [
+      "球+対して+刑徒"
+    ]
   },
   {
     "tag_name": "Corruption Garden",
-    "related_tags": []
+    "related_tags": [
+      "悪化+園地"
+    ]
   },
   {
     "tag_name": "Crimson Camellia",
-    "related_tags": []
+    "related_tags": [
+      "紅+camellia"
+    ]
   },
   {
     "tag_name": "Dancer in the Dark",
-    "related_tags": []
+    "related_tags": [
+      "舞手+in+the+暗々"
+    ]
   },
   {
     "tag_name": "Dokukinoko",
@@ -61001,7 +69081,9 @@ return [
   },
   {
     "tag_name": "Dye",
-    "related_tags": []
+    "related_tags": [
+      "染め粉"
+    ]
   },
   {
     "tag_name": "Enbizaka no Shitateya",
@@ -61011,11 +69093,15 @@ return [
   },
   {
     "tag_name": "Faced By Faith",
-    "related_tags": []
+    "related_tags": [
+      "逢着+by+宗教"
+    ]
   },
   {
     "tag_name": "Fatal Farewell",
-    "related_tags": []
+    "related_tags": [
+      "致死+決別"
+    ]
   },
   {
     "tag_name": "Happy Synthesizer",
@@ -61025,7 +69111,9 @@ return [
   },
   {
     "tag_name": "Heart Beats",
-    "related_tags": []
+    "related_tags": [
+      "意気+唸り"
+    ]
   },
   {
     "tag_name": "Hello Worker",
@@ -61035,7 +69123,9 @@ return [
   },
   {
     "tag_name": "Hey! Eat a Tomato?!",
-    "related_tags": []
+    "related_tags": [
+      "一寸+eat+a+tomato?!"
+    ]
   },
   {
     "tag_name": "Hoshikuzu Utopia",
@@ -61045,11 +69135,15 @@ return [
   },
   {
     "tag_name": "I Sing for You",
-    "related_tags": []
+    "related_tags": [
+      "i+s+対して+我"
+    ]
   },
   {
     "tag_name": "Jinsei Game",
-    "related_tags": []
+    "related_tags": [
+      "jinsei+一戦"
+    ]
   },
   {
     "tag_name": "Just Be Friends",
@@ -61077,11 +69171,15 @@ return [
   },
   {
     "tag_name": "No Logic",
-    "related_tags": []
+    "related_tags": [
+      "no+筋"
+    ]
   },
   {
     "tag_name": "One more kiss",
-    "related_tags": []
+    "related_tags": [
+      "一+一段+口づけ"
+    ]
   },
   {
     "tag_name": "Oups! Perhaps...!!!",
@@ -61089,7 +69187,9 @@ return [
   },
   {
     "tag_name": "Palette",
-    "related_tags": []
+    "related_tags": [
+      "絵皿"
+    ]
   },
   {
     "tag_name": "Sajou No Yumekui Shoujo",
@@ -61099,11 +69199,15 @@ return [
   },
   {
     "tag_name": "Secret",
-    "related_tags": []
+    "related_tags": [
+      "陰事"
+    ]
   },
   {
     "tag_name": "Secrets",
-    "related_tags": []
+    "related_tags": [
+      "奥義秘伝"
+    ]
   },
   {
     "tag_name": "Toeto",
@@ -61117,11 +69221,15 @@ return [
   },
   {
     "tag_name": "Until the Bitter End",
-    "related_tags": []
+    "related_tags": [
+      "until+the+怨しい+宛"
+    ]
   },
   {
     "tag_name": "Usotsuki no Merry-Go-Round",
-    "related_tags": []
+    "related_tags": [
+      "usotsuki+no+喜々+go+一巡"
+    ]
   },
   {
     "tag_name": "Wander Last",
@@ -61137,7 +69245,9 @@ return [
   },
   {
     "tag_name": "Kokuhaku Rival Sengen",
-    "related_tags": []
+    "related_tags": [
+      "kokuhaku+仇+sengen"
+    ]
   },
   {
     "tag_name": "Kokuhaku Yokou Renshuu",
@@ -61157,7 +69267,9 @@ return [
   },
   {
     "tag_name": "EYE",
-    "related_tags": []
+    "related_tags": [
+      "眼"
+    ]
   },
   {
     "tag_name": "Yoidore Shirazu",
@@ -61167,7 +69279,9 @@ return [
   },
   {
     "tag_name": "About Me",
-    "related_tags": []
+    "related_tags": [
+      "格好+me"
+    ]
   },
   {
     "tag_name": "Aitai",
@@ -61183,7 +69297,9 @@ return [
   },
   {
     "tag_name": "Ametsubu DANCE",
-    "related_tags": []
+    "related_tags": [
+      "ametsubu+所作"
+    ]
   },
   {
     "tag_name": "Anata no Uso",
@@ -61229,11 +69345,15 @@ return [
   },
   {
     "tag_name": "Cinderella School",
-    "related_tags": []
+    "related_tags": [
+      "cinderella+一家"
+    ]
   },
   {
     "tag_name": "Clarity",
-    "related_tags": []
+    "related_tags": [
+      "顕"
+    ]
   },
   {
     "tag_name": "Cranberry",
@@ -61243,7 +69363,9 @@ return [
   },
   {
     "tag_name": "CORE",
-    "related_tags": []
+    "related_tags": [
+      "核"
+    ]
   },
   {
     "tag_name": "Eat Me",
@@ -61309,7 +69431,9 @@ return [
   },
   {
     "tag_name": "Just a game",
-    "related_tags": []
+    "related_tags": [
+      "一人+a+一戦"
+    ]
   },
   {
     "tag_name": "Justice Breaker",
@@ -61331,12 +69455,14 @@ return [
   },
   {
     "tag_name": "Kaze no Waltz",
-    "related_tags": []
+    "related_tags": [
+      "kaze+no+円舞"
+    ]
   },
   {
     "tag_name": "KiLLER LADY",
     "related_tags": [
-      "KiLLER_LADY"
+      "KILLERLADY"
     ]
   },
   {
@@ -61371,7 +69497,9 @@ return [
   },
   {
     "tag_name": "Nakimushi Ensemble",
-    "related_tags": []
+    "related_tags": [
+      "nakimushi+合奏団"
+    ]
   },
   {
     "tag_name": "Natsukoi Hanabi",
@@ -61409,7 +69537,9 @@ return [
   },
   {
     "tag_name": "Reset",
-    "related_tags": []
+    "related_tags": [
+      "置き換え"
+    ]
   },
   {
     "tag_name": "Roku-chou Nen to Ichiya Monogatari",
@@ -61419,7 +69549,9 @@ return [
   },
   {
     "tag_name": "Route Sphere",
-    "related_tags": []
+    "related_tags": [
+      "運転系統+球"
+    ]
   },
   {
     "tag_name": "Setsuna Trip",
@@ -61483,7 +69615,9 @@ return [
   },
   {
     "tag_name": "Goodnight",
-    "related_tags": []
+    "related_tags": [
+      "乙"
+    ]
   },
   {
     "tag_name": "Keystlogical",
@@ -61491,7 +69625,9 @@ return [
   },
   {
     "tag_name": "Life and Death",
-    "related_tags": []
+    "related_tags": [
+      "死活"
+    ]
   },
   {
     "tag_name": "Disco Chocolat",
@@ -61499,7 +69635,9 @@ return [
   },
   {
     "tag_name": "Forgotten Girl",
-    "related_tags": []
+    "related_tags": [
+      "forgotten+姉ちゃん"
+    ]
   },
   {
     "tag_name": "Lag Train",
@@ -61515,11 +69653,15 @@ return [
   },
   {
     "tag_name": "Sentimental Sanpo",
-    "related_tags": []
+    "related_tags": [
+      "感傷的+sanpo"
+    ]
   },
   {
     "tag_name": "Guilty Verse",
-    "related_tags": []
+    "related_tags": [
+      "ギルティ+一連"
+    ]
   },
   {
     "tag_name": "VY1",
@@ -61529,7 +69671,9 @@ return [
   },
   {
     "tag_name": "Nante Midara na Sequencer Da",
-    "related_tags": []
+    "related_tags": [
+      "nante+midara+na+シークエンサ+da"
+    ]
   },
   {
     "tag_name": "VY2",
@@ -61539,7 +69683,9 @@ return [
   },
   {
     "tag_name": "Alone",
-    "related_tags": []
+    "related_tags": [
+      "一手に"
+    ]
   },
   {
     "tag_name": "Cheon Nyeon-ui Si",
@@ -61573,7 +69719,9 @@ return [
   },
   {
     "tag_name": "Summer Dream",
-    "related_tags": []
+    "related_tags": [
+      "炎陽+一夢"
+    ]
   },
   {
     "tag_name": "Shanna",
@@ -61701,7 +69849,9 @@ return [
   },
   {
     "tag_name": "Henceforth",
-    "related_tags": []
+    "related_tags": [
+      "以来"
+    ]
   },
   {
     "tag_name": "If no Sekai Settei",
@@ -61711,7 +69861,9 @@ return [
   },
   {
     "tag_name": "Still-GATE",
-    "related_tags": []
+    "related_tags": [
+      "依然+関"
+    ]
   },
   {
     "tag_name": "Uz",
@@ -61719,7 +69871,9 @@ return [
   },
   {
     "tag_name": "Conqueror",
-    "related_tags": []
+    "related_tags": [
+      "勝利者"
+    ]
   },
   {
     "tag_name": "Genjitsuteki Ronri Shugisha",
@@ -61949,7 +70103,9 @@ return [
   },
   {
     "tag_name": "plant (nuclear throne)",
-    "related_tags": []
+    "related_tags": [
+      "株+(nuclear+throne)"
+    ]
   },
   {
     "tag_name": "bush",
@@ -61959,7 +70115,9 @@ return [
   },
   {
     "tag_name": "rose bush",
-    "related_tags": []
+    "related_tags": [
+      "薔薇+潅木"
+    ]
   },
   {
     "tag_name": "carnivorous plant",
@@ -61993,7 +70151,9 @@ return [
   },
   {
     "tag_name": "herb",
-    "related_tags": []
+    "related_tags": [
+      "香草"
+    ]
   },
   {
     "tag_name": "cattail",
@@ -62033,7 +70193,9 @@ return [
   },
   {
     "tag_name": "agave",
-    "related_tags": []
+    "related_tags": [
+      "竜舌蘭"
+    ]
   },
   {
     "tag_name": "cactus",
@@ -62055,7 +70217,9 @@ return [
   },
   {
     "tag_name": "ivy",
-    "related_tags": []
+    "related_tags": [
+      "アイビ"
+    ]
   },
   {
     "tag_name": "branch",
@@ -62071,11 +70235,15 @@ return [
   },
   {
     "tag_name": "plant cell",
-    "related_tags": []
+    "related_tags": [
+      "植物細胞"
+    ]
   },
   {
     "tag_name": "roots",
-    "related_tags": []
+    "related_tags": [
+      "ルーツ"
+    ]
   },
   {
     "tag_name": "aerial root",
@@ -62091,7 +70259,9 @@ return [
   },
   {
     "tag_name": "tree stump",
-    "related_tags": []
+    "related_tags": [
+      "樹+株"
+    ]
   },
   {
     "tag_name": "bare tree",
@@ -62101,11 +70271,15 @@ return [
   },
   {
     "tag_name": "floral arch",
-    "related_tags": []
+    "related_tags": [
+      "フローラル+弓なり"
+    ]
   },
   {
     "tag_name": "foliage",
-    "related_tags": []
+    "related_tags": [
+      "枝葉"
+    ]
   },
   {
     "tag_name": "piranha plant",
@@ -62115,11 +70289,15 @@ return [
   },
   {
     "tag_name": "plant boy",
-    "related_tags": []
+    "related_tags": [
+      "株+一男"
+    ]
   },
   {
     "tag_name": "plant monster",
-    "related_tags": []
+    "related_tags": [
+      "株+化け物"
+    ]
   },
   {
     "tag_name": "flower pot",
@@ -62129,11 +70307,15 @@ return [
   },
   {
     "tag_name": "hanging plant",
-    "related_tags": []
+    "related_tags": [
+      "ハンギング・プラント"
+    ]
   },
   {
     "tag_name": "planter",
-    "related_tags": []
+    "related_tags": [
+      "種まき機"
+    ]
   },
   {
     "tag_name": "topiary",
@@ -62143,7 +70325,9 @@ return [
   },
   {
     "tag_name": "farming",
-    "related_tags": []
+    "related_tags": [
+      "営農"
+    ]
   },
   {
     "tag_name": "farm",
@@ -62153,7 +70337,9 @@ return [
   },
   {
     "tag_name": "greenhouse",
-    "related_tags": []
+    "related_tags": [
+      "温室"
+    ]
   },
   {
     "tag_name": "melodica",
@@ -62169,7 +70355,9 @@ return [
   },
   {
     "tag_name": "antenna",
-    "related_tags": []
+    "related_tags": [
+      "角"
+    ]
   },
   {
     "tag_name": "food",
@@ -62179,7 +70367,9 @@ return [
   },
   {
     "tag_name": "bad food",
-    "related_tags": []
+    "related_tags": [
+      "悪い+喰いもの"
+    ]
   },
   {
     "tag_name": "akebia fruit",
@@ -62201,15 +70391,21 @@ return [
   },
   {
     "tag_name": "apple core",
-    "related_tags": []
+    "related_tags": [
+      "林檎の心"
+    ]
   },
   {
     "tag_name": "apple peel",
-    "related_tags": []
+    "related_tags": [
+      "アップル+果皮"
+    ]
   },
   {
     "tag_name": "bitten apple",
-    "related_tags": []
+    "related_tags": [
+      "bitten+アップル"
+    ]
   },
   {
     "tag_name": "candy apple",
@@ -62231,11 +70427,15 @@ return [
   },
   {
     "tag_name": "red apple",
-    "related_tags": []
+    "related_tags": [
+      "赭い+アップル"
+    ]
   },
   {
     "tag_name": "apricot",
-    "related_tags": []
+    "related_tags": [
+      "アプリコット"
+    ]
   },
   {
     "tag_name": "avocado",
@@ -62251,7 +70451,9 @@ return [
   },
   {
     "tag_name": "banana boat",
-    "related_tags": []
+    "related_tags": [
+      "甘蕉+舟"
+    ]
   },
   {
     "tag_name": "banana peel",
@@ -62261,11 +70463,15 @@ return [
   },
   {
     "tag_name": "banana popsicle",
-    "related_tags": []
+    "related_tags": [
+      "甘蕉+アイス・キャンデー"
+    ]
   },
   {
     "tag_name": "banana slice",
-    "related_tags": []
+    "related_tags": [
+      "甘蕉+一切れ"
+    ]
   },
   {
     "tag_name": "chocolate banana",
@@ -62275,11 +70481,15 @@ return [
   },
   {
     "tag_name": "gel banana",
-    "related_tags": []
+    "related_tags": [
+      "ゲル状+甘蕉"
+    ]
   },
   {
     "tag_name": "on banana",
-    "related_tags": []
+    "related_tags": [
+      "on+甘蕉"
+    ]
   },
   {
     "tag_name": "berry",
@@ -62313,7 +70523,9 @@ return [
   },
   {
     "tag_name": "cacao fruit",
-    "related_tags": []
+    "related_tags": [
+      "cacao+果"
+    ]
   },
   {
     "tag_name": "cherry",
@@ -62323,7 +70535,9 @@ return [
   },
   {
     "tag_name": "custard apple",
-    "related_tags": []
+    "related_tags": [
+      "カスタード+アップル"
+    ]
   },
   {
     "tag_name": "dragon fruit",
@@ -62339,11 +70553,15 @@ return [
   },
   {
     "tag_name": "fruit bowl",
-    "related_tags": []
+    "related_tags": [
+      "果+器"
+    ]
   },
   {
     "tag_name": "fruit cup",
-    "related_tags": []
+    "related_tags": [
+      "果+ホール"
+    ]
   },
   {
     "tag_name": "gooseberry",
@@ -62365,7 +70583,9 @@ return [
   },
   {
     "tag_name": "currant",
-    "related_tags": []
+    "related_tags": [
+      "酸塊"
+    ]
   },
   {
     "tag_name": "grape stomping",
@@ -62375,7 +70595,9 @@ return [
   },
   {
     "tag_name": "kiwi slice",
-    "related_tags": []
+    "related_tags": [
+      "kiwi+一切れ"
+    ]
   },
   {
     "tag_name": "lemon",
@@ -62385,7 +70607,9 @@ return [
   },
   {
     "tag_name": "lemon slice",
-    "related_tags": []
+    "related_tags": [
+      "檸檬+一切れ"
+    ]
   },
   {
     "tag_name": "lemonade",
@@ -62401,7 +70625,9 @@ return [
   },
   {
     "tag_name": "lime slice",
-    "related_tags": []
+    "related_tags": [
+      "石灰+一切れ"
+    ]
   },
   {
     "tag_name": "loquat",
@@ -62441,7 +70667,9 @@ return [
   },
   {
     "tag_name": "honeydew",
-    "related_tags": []
+    "related_tags": [
+      "蜜"
+    ]
   },
   {
     "tag_name": "watermelon",
@@ -62479,7 +70707,9 @@ return [
   },
   {
     "tag_name": "orange slice",
-    "related_tags": []
+    "related_tags": [
+      "炎色+一切れ"
+    ]
   },
   {
     "tag_name": "papaya",
@@ -62499,7 +70729,9 @@ return [
   },
   {
     "tag_name": "nashi pear",
-    "related_tags": []
+    "related_tags": [
+      "nashi+有りの実"
+    ]
   },
   {
     "tag_name": "persimmon",
@@ -62611,11 +70843,15 @@ return [
   },
   {
     "tag_name": "carrot slice",
-    "related_tags": []
+    "related_tags": [
+      "胡蘿蔔+一切れ"
+    ]
   },
   {
     "tag_name": "carrot sticks",
-    "related_tags": []
+    "related_tags": [
+      "胡蘿蔔+策"
+    ]
   },
   {
     "tag_name": "cauliflower",
@@ -62709,7 +70945,9 @@ return [
   },
   {
     "tag_name": "onion rings",
-    "related_tags": []
+    "related_tags": [
+      "オニオン・フライ"
+    ]
   },
   {
     "tag_name": "spring onion",
@@ -62761,27 +70999,39 @@ return [
   },
   {
     "tag_name": "bell pepper plant",
-    "related_tags": []
+    "related_tags": [
+      "ベル+胡椒+株"
+    ]
   },
   {
     "tag_name": "bell pepper slice",
-    "related_tags": []
+    "related_tags": [
+      "ベル+胡椒+一切れ"
+    ]
   },
   {
     "tag_name": "green pepper",
-    "related_tags": []
+    "related_tags": [
+      "獅子唐"
+    ]
   },
   {
     "tag_name": "orange pepper",
-    "related_tags": []
+    "related_tags": [
+      "炎色+胡椒"
+    ]
   },
   {
     "tag_name": "red pepper",
-    "related_tags": []
+    "related_tags": [
+      "高麗胡椒"
+    ]
   },
   {
     "tag_name": "yellow pepper",
-    "related_tags": []
+    "related_tags": [
+      "黄+胡椒"
+    ]
   },
   {
     "tag_name": "chili pepper",
@@ -62809,7 +71059,9 @@ return [
   },
   {
     "tag_name": "mashed potato",
-    "related_tags": []
+    "related_tags": [
+      "マッシュ・ポテト"
+    ]
   },
   {
     "tag_name": "radish",
@@ -62871,7 +71123,9 @@ return [
   },
   {
     "tag_name": "tomato plant",
-    "related_tags": []
+    "related_tags": [
+      "tomato+株"
+    ]
   },
   {
     "tag_name": "turnip",
@@ -62905,7 +71159,9 @@ return [
   },
   {
     "tag_name": "chicken leg",
-    "related_tags": []
+    "related_tags": [
+      "鶏足"
+    ]
   },
   {
     "tag_name": "chicken nuggets",
@@ -62915,7 +71171,9 @@ return [
   },
   {
     "tag_name": "fried chicken",
-    "related_tags": []
+    "related_tags": [
+      "フライド・チキン"
+    ]
   },
   {
     "tag_name": "yakitori",
@@ -62931,7 +71189,9 @@ return [
   },
   {
     "tag_name": "broken egg",
-    "related_tags": []
+    "related_tags": [
+      "割れた卵"
+    ]
   },
   {
     "tag_name": "egg yolk",
@@ -62947,7 +71207,9 @@ return [
   },
   {
     "tag_name": "eggshell hat",
-    "related_tags": []
+    "related_tags": [
+      "殻+帽"
+    ]
   },
   {
     "tag_name": "fried egg",
@@ -62999,7 +71261,9 @@ return [
   },
   {
     "tag_name": "fish bone",
-    "related_tags": []
+    "related_tags": [
+      "魚+硬骨"
+    ]
   },
   {
     "tag_name": "sashimi",
@@ -63039,7 +71303,9 @@ return [
   },
   {
     "tag_name": "meatball",
-    "related_tags": []
+    "related_tags": [
+      "丸"
+    ]
   },
   {
     "tag_name": "pork",
@@ -63061,7 +71327,9 @@ return [
   },
   {
     "tag_name": "pepperoni",
-    "related_tags": []
+    "related_tags": [
+      "ペパロニ"
+    ]
   },
   {
     "tag_name": "shawarma",
@@ -63077,7 +71345,9 @@ return [
   },
   {
     "tag_name": "sliced meat",
-    "related_tags": []
+    "related_tags": [
+      "一切れ+宍"
+    ]
   },
   {
     "tag_name": "steak",
@@ -63099,7 +71369,9 @@ return [
   },
   {
     "tag_name": "turkey leg",
-    "related_tags": []
+    "related_tags": [
+      "土+脚"
+    ]
   },
   {
     "tag_name": "bread",
@@ -63115,11 +71387,15 @@ return [
   },
   {
     "tag_name": "biscuit",
-    "related_tags": []
+    "related_tags": [
+      "クッキー"
+    ]
   },
   {
     "tag_name": "bread bun",
-    "related_tags": []
+    "related_tags": [
+      "角食+バン"
+    ]
   },
   {
     "tag_name": "bread crust",
@@ -63159,7 +71435,9 @@ return [
   },
   {
     "tag_name": "pizza toast",
-    "related_tags": []
+    "related_tags": [
+      "ピザ・トースト"
+    ]
   },
   {
     "tag_name": "cereal",
@@ -63301,7 +71579,9 @@ return [
   },
   {
     "tag_name": "pancake stack",
-    "related_tags": []
+    "related_tags": [
+      "パンケーキ+山盛"
+    ]
   },
   {
     "tag_name": "souffle pancake",
@@ -63341,7 +71621,9 @@ return [
   },
   {
     "tag_name": "rice on face",
-    "related_tags": []
+    "related_tags": [
+      "御米+on+逢着"
+    ]
   },
   {
     "tag_name": "rice paddy",
@@ -63387,7 +71669,9 @@ return [
   },
   {
     "tag_name": "parmesan cheese",
-    "related_tags": []
+    "related_tags": [
+      "パルメザン・チーズ"
+    ]
   },
   {
     "tag_name": "smoked cheese",
@@ -63397,7 +71681,9 @@ return [
   },
   {
     "tag_name": "swiss cheese",
-    "related_tags": []
+    "related_tags": [
+      "蜂の巣"
+    ]
   },
   {
     "tag_name": "cream",
@@ -63443,7 +71729,9 @@ return [
   },
   {
     "tag_name": "chocolate milk",
-    "related_tags": []
+    "related_tags": [
+      "チョコ+牛乳"
+    ]
   },
   {
     "tag_name": "milk bottle",
@@ -63459,11 +71747,15 @@ return [
   },
   {
     "tag_name": "milk churn",
-    "related_tags": []
+    "related_tags": [
+      "牛乳+churn"
+    ]
   },
   {
     "tag_name": "milk mustache",
-    "related_tags": []
+    "related_tags": [
+      "牛乳+口ひげ"
+    ]
   },
   {
     "tag_name": "milkshake",
@@ -63473,7 +71765,9 @@ return [
   },
   {
     "tag_name": "strawberry milk",
-    "related_tags": []
+    "related_tags": [
+      "ストロベリー+牛乳"
+    ]
   },
   {
     "tag_name": "yakult",
@@ -63501,7 +71795,9 @@ return [
   },
   {
     "tag_name": "Dessert",
-    "related_tags": []
+    "related_tags": [
+      "甘み"
+    ]
   },
   {
     "tag_name": "anmitsu",
@@ -63517,7 +71813,9 @@ return [
   },
   {
     "tag_name": "batter",
-    "related_tags": []
+    "related_tags": [
+      "生地"
+    ]
   },
   {
     "tag_name": "anpan",
@@ -63528,7 +71826,7 @@ return [
   {
     "tag_name": "cinnamon roll",
     "related_tags": [
-      "cinnamon_bun"
+      "肉桂卷"
     ]
   },
   {
@@ -63537,7 +71835,9 @@ return [
   },
   {
     "tag_name": "hot cross bun",
-    "related_tags": []
+    "related_tags": [
+      "温かい+交雑種+バン"
+    ]
   },
   {
     "tag_name": "noppo bread",
@@ -63547,7 +71847,9 @@ return [
   },
   {
     "tag_name": "pastry box",
-    "related_tags": []
+    "related_tags": [
+      "ペーストリー+囲み"
+    ]
   },
   {
     "tag_name": "cake",
@@ -63569,11 +71871,15 @@ return [
   },
   {
     "tag_name": "black forest cake",
-    "related_tags": []
+    "related_tags": [
+      "暗然+樹林+菓子"
+    ]
   },
   {
     "tag_name": "charlotte cake",
-    "related_tags": []
+    "related_tags": [
+      "charlotte+菓子"
+    ]
   },
   {
     "tag_name": "cheesecake",
@@ -63583,11 +71889,15 @@ return [
   },
   {
     "tag_name": "rare cheesecake",
-    "related_tags": []
+    "related_tags": [
+      "希+cheesecake"
+    ]
   },
   {
     "tag_name": "brownie",
-    "related_tags": []
+    "related_tags": [
+      "ブラウニー"
+    ]
   },
   {
     "tag_name": "chocolate cake",
@@ -63597,7 +71907,9 @@ return [
   },
   {
     "tag_name": "chocolate framboise",
-    "related_tags": []
+    "related_tags": [
+      "チョコ+framboise"
+    ]
   },
   {
     "tag_name": "chiffon cake",
@@ -63613,7 +71925,9 @@ return [
   },
   {
     "tag_name": "crepe cake",
-    "related_tags": []
+    "related_tags": [
+      "縮緬+菓子"
+    ]
   },
   {
     "tag_name": "cupcake",
@@ -63651,19 +71965,27 @@ return [
   },
   {
     "tag_name": "opera cake",
-    "related_tags": []
+    "related_tags": [
+      "歌劇+菓子"
+    ]
   },
   {
     "tag_name": "pound cake",
-    "related_tags": []
+    "related_tags": [
+      "パウンド・ケーキ"
+    ]
   },
   {
     "tag_name": "red velvet cake",
-    "related_tags": []
+    "related_tags": [
+      "赭い+ベルベット+菓子"
+    ]
   },
   {
     "tag_name": "cake slice",
-    "related_tags": []
+    "related_tags": [
+      "菓子+一切れ"
+    ]
   },
   {
     "tag_name": "stollen",
@@ -63685,7 +72007,9 @@ return [
   },
   {
     "tag_name": "strawberry swiss roll",
-    "related_tags": []
+    "related_tags": [
+      "ストロベリー+swiss+巻子本"
+    ]
   },
   {
     "tag_name": "tiramisu",
@@ -63725,7 +72049,9 @@ return [
   },
   {
     "tag_name": "creme egg",
-    "related_tags": []
+    "related_tags": [
+      "クレーム+殻"
+    ]
   },
   {
     "tag_name": "jelly bean",
@@ -63759,11 +72085,15 @@ return [
   },
   {
     "tag_name": "shaped lollipop",
-    "related_tags": []
+    "related_tags": [
+      "影+棒つきキャンデー"
+    ]
   },
   {
     "tag_name": "swirl lollipop",
-    "related_tags": []
+    "related_tags": [
+      "渦+棒つきキャンデー"
+    ]
   },
   {
     "tag_name": "m&m's",
@@ -63829,15 +72159,21 @@ return [
   },
   {
     "tag_name": "chocolate marquise",
-    "related_tags": []
+    "related_tags": [
+      "チョコ+マーキーズ"
+    ]
   },
   {
     "tag_name": "chocolate strawberry",
-    "related_tags": []
+    "related_tags": [
+      "チョコ+ストロベリー"
+    ]
   },
   {
     "tag_name": "chocolate syrup",
-    "related_tags": []
+    "related_tags": [
+      "チョコ+舎利別"
+    ]
   },
   {
     "tag_name": "kinoko no yama",
@@ -63847,7 +72183,9 @@ return [
   },
   {
     "tag_name": "strawberry chocolate",
-    "related_tags": []
+    "related_tags": [
+      "ストロベリー+チョコ"
+    ]
   },
   {
     "tag_name": "takenoko no sato",
@@ -63875,7 +72213,9 @@ return [
   },
   {
     "tag_name": "checkerboard cookie",
-    "related_tags": []
+    "related_tags": [
+      "チェッカーボード+クーキー"
+    ]
   },
   {
     "tag_name": "chocolate chip cookie",
@@ -63903,7 +72243,9 @@ return [
   },
   {
     "tag_name": "gingerbread man",
-    "related_tags": []
+    "related_tags": [
+      "ジンジャーブレッド+牡"
+    ]
   },
   {
     "tag_name": "pocky",
@@ -63913,7 +72255,9 @@ return [
   },
   {
     "tag_name": "sandwich cookie",
-    "related_tags": []
+    "related_tags": [
+      "サンド+クーキー"
+    ]
   },
   {
     "tag_name": "oreo",
@@ -63923,7 +72267,9 @@ return [
   },
   {
     "tag_name": "thumbprint cookie",
-    "related_tags": []
+    "related_tags": [
+      "母印+クーキー"
+    ]
   },
   {
     "tag_name": "toppo",
@@ -63939,7 +72285,9 @@ return [
   },
   {
     "tag_name": "wafer stick",
-    "related_tags": []
+    "related_tags": [
+      "軽焼き+策"
+    ]
   },
   {
     "tag_name": "cotton candy",
@@ -63985,7 +72333,9 @@ return [
   },
   {
     "tag_name": "chocolate doughnut",
-    "related_tags": []
+    "related_tags": [
+      "チョコ+ドーナッツ"
+    ]
   },
   {
     "tag_name": "french cruller",
@@ -64019,7 +72369,9 @@ return [
   },
   {
     "tag_name": "banana split",
-    "related_tags": []
+    "related_tags": [
+      "甘蕉+割り目"
+    ]
   },
   {
     "tag_name": "coolish",
@@ -64029,11 +72381,15 @@ return [
   },
   {
     "tag_name": "ice cream cone",
-    "related_tags": []
+    "related_tags": [
+      "アイスクリーム・コーン"
+    ]
   },
   {
     "tag_name": "waffle cone",
-    "related_tags": []
+    "related_tags": [
+      "ワッフル+円すい"
+    ]
   },
   {
     "tag_name": "ice cream float",
@@ -64043,7 +72399,9 @@ return [
   },
   {
     "tag_name": "ice cream sandwich",
-    "related_tags": []
+    "related_tags": [
+      "結氷+乳脂+サンド"
+    ]
   },
   {
     "tag_name": "parfait",
@@ -64053,27 +72411,39 @@ return [
   },
   {
     "tag_name": "strawberry parfait",
-    "related_tags": []
+    "related_tags": [
+      "ストロベリー+parfait"
+    ]
   },
   {
     "tag_name": "single scoop",
-    "related_tags": []
+    "related_tags": [
+      "単+玉杓子"
+    ]
   },
   {
     "tag_name": "double scoop",
-    "related_tags": []
+    "related_tags": [
+      "陰武者+玉杓子"
+    ]
   },
   {
     "tag_name": "triple scoop",
-    "related_tags": []
+    "related_tags": [
+      "三重+玉杓子"
+    ]
   },
   {
     "tag_name": "quadruple scoop",
-    "related_tags": []
+    "related_tags": [
+      "quadruple+玉杓子"
+    ]
   },
   {
     "tag_name": "too many scoops",
-    "related_tags": []
+    "related_tags": [
+      "復+壱百萬+玉杓子"
+    ]
   },
   {
     "tag_name": "soft serve",
@@ -64141,7 +72511,9 @@ return [
   },
   {
     "tag_name": "eclair",
-    "related_tags": []
+    "related_tags": [
+      "エクレーア"
+    ]
   },
   {
     "tag_name": "macaron",
@@ -64163,7 +72535,9 @@ return [
   },
   {
     "tag_name": "cherry pie",
-    "related_tags": []
+    "related_tags": [
+      "チェリー+パイ"
+    ]
   },
   {
     "tag_name": "apple pie",
@@ -64179,7 +72553,9 @@ return [
   },
   {
     "tag_name": "popsicle stick",
-    "related_tags": []
+    "related_tags": [
+      "アイス・キャンデー+策"
+    ]
   },
   {
     "tag_name": "tupet",
@@ -64201,11 +72577,15 @@ return [
   },
   {
     "tag_name": "custard",
-    "related_tags": []
+    "related_tags": [
+      "カスタード"
+    ]
   },
   {
     "tag_name": "pudding a la mode",
-    "related_tags": []
+    "related_tags": [
+      "プディング+a+la+形式"
+    ]
   },
   {
     "tag_name": "souffle",
@@ -64393,19 +72773,27 @@ return [
   },
   {
     "tag_name": "anise",
-    "related_tags": []
+    "related_tags": [
+      "アニス"
+    ]
   },
   {
     "tag_name": "basil leaf",
-    "related_tags": []
+    "related_tags": [
+      "バジル+一片"
+    ]
   },
   {
     "tag_name": "cinnamon stick",
-    "related_tags": []
+    "related_tags": [
+      "桂皮+策"
+    ]
   },
   {
     "tag_name": "clove",
-    "related_tags": []
+    "related_tags": [
+      "クローブ"
+    ]
   },
   {
     "tag_name": "furikake",
@@ -64415,7 +72803,9 @@ return [
   },
   {
     "tag_name": "ginger root",
-    "related_tags": []
+    "related_tags": [
+      "ジンジャー+株"
+    ]
   },
   {
     "tag_name": "honey",
@@ -64461,19 +72851,27 @@ return [
   },
   {
     "tag_name": "pepper (spice",
-    "related_tags": []
+    "related_tags": [
+      "胡椒+(spice"
+    ]
   },
   {
     "tag_name": "pepper mill",
-    "related_tags": []
+    "related_tags": [
+      "ペッパー・ミル"
+    ]
   },
   {
     "tag_name": "pepper shaker",
-    "related_tags": []
+    "related_tags": [
+      "胡椒入れ"
+    ]
   },
   {
     "tag_name": "rosemary (herb)",
-    "related_tags": []
+    "related_tags": [
+      "迷迭香+(herb)"
+    ]
   },
   {
     "tag_name": "salt",
@@ -64483,11 +72881,15 @@ return [
   },
   {
     "tag_name": "salt shaker",
-    "related_tags": []
+    "related_tags": [
+      "塩入れ"
+    ]
   },
   {
     "tag_name": "sauce",
-    "related_tags": []
+    "related_tags": [
+      "液"
+    ]
   },
   {
     "tag_name": "bagna cauda",
@@ -64495,7 +72897,9 @@ return [
   },
   {
     "tag_name": "hot sauce",
-    "related_tags": []
+    "related_tags": [
+      "ホット・ソース"
+    ]
   },
   {
     "tag_name": "soy sauce",
@@ -64505,11 +72909,15 @@ return [
   },
   {
     "tag_name": "tomato sauce",
-    "related_tags": []
+    "related_tags": [
+      "トマト・ソース"
+    ]
   },
   {
     "tag_name": "sugar (food)",
-    "related_tags": []
+    "related_tags": [
+      "砂糖+(food)"
+    ]
   },
   {
     "tag_name": "sugar cube",
@@ -64525,7 +72933,9 @@ return [
   },
   {
     "tag_name": "strawberry syrup",
-    "related_tags": []
+    "related_tags": [
+      "ストロベリー+舎利別"
+    ]
   },
   {
     "tag_name": "wasabi",
@@ -64535,15 +72945,21 @@ return [
   },
   {
     "tag_name": "canned food",
-    "related_tags": []
+    "related_tags": [
+      "缶"
+    ]
   },
   {
     "tag_name": "cooking oil",
-    "related_tags": []
+    "related_tags": [
+      "食油"
+    ]
   },
   {
     "tag_name": "crumbs",
-    "related_tags": []
+    "related_tags": [
+      "クラム"
+    ]
   },
   {
     "tag_name": "curry",
@@ -64553,7 +72969,9 @@ return [
   },
   {
     "tag_name": "dumpling",
-    "related_tags": []
+    "related_tags": [
+      "いしいし"
+    ]
   },
   {
     "tag_name": "jiaozi",
@@ -64593,7 +73011,9 @@ return [
   },
   {
     "tag_name": "flour",
-    "related_tags": []
+    "related_tags": [
+      "打ち粉"
+    ]
   },
   {
     "tag_name": "fondue",
@@ -64673,7 +73093,9 @@ return [
   },
   {
     "tag_name": "feast",
-    "related_tags": []
+    "related_tags": [
+      "一席"
+    ]
   },
   {
     "tag_name": "lunch",
@@ -64701,11 +73123,15 @@ return [
   },
   {
     "tag_name": "party",
-    "related_tags": []
+    "related_tags": [
+      "一行"
+    ]
   },
   {
     "tag_name": "birthday party",
-    "related_tags": []
+    "related_tags": [
+      "御誕生会"
+    ]
   },
   {
     "tag_name": "tea party",
@@ -64763,11 +73189,15 @@ return [
   },
   {
     "tag_name": "holding pizza",
-    "related_tags": []
+    "related_tags": [
+      "握把+pizza"
+    ]
   },
   {
     "tag_name": "pizza box",
-    "related_tags": []
+    "related_tags": [
+      "pizza+囲み"
+    ]
   },
   {
     "tag_name": "pizza delivery",
@@ -64777,11 +73207,15 @@ return [
   },
   {
     "tag_name": "pizza slice",
-    "related_tags": []
+    "related_tags": [
+      "pizza+一切れ"
+    ]
   },
   {
     "tag_name": "ribs (food)",
-    "related_tags": []
+    "related_tags": [
+      "鉱柱+(food)"
+    ]
   },
   {
     "tag_name": "salad",
@@ -64803,7 +73237,9 @@ return [
   },
   {
     "tag_name": "soup",
-    "related_tags": []
+    "related_tags": [
+      "液"
+    ]
   },
   {
     "tag_name": "miso soup",
@@ -64903,7 +73339,9 @@ return [
   },
   {
     "tag_name": "stinky tofu",
-    "related_tags": []
+    "related_tags": [
+      "臭豆腐"
+    ]
   },
   {
     "tag_name": "twice cooked pork",
@@ -64935,7 +73373,9 @@ return [
   },
   {
     "tag_name": "champagne",
-    "related_tags": []
+    "related_tags": [
+      "三鞭酒"
+    ]
   },
   {
     "tag_name": "cocktail",
@@ -64951,11 +73391,15 @@ return [
   },
   {
     "tag_name": "caesar (drink)",
-    "related_tags": []
+    "related_tags": [
+      "カエサル+(drink)"
+    ]
   },
   {
     "tag_name": "cocktail umbrella",
-    "related_tags": []
+    "related_tags": [
+      "混合酒+雨がさ"
+    ]
   },
   {
     "tag_name": "margarita",
@@ -64979,7 +73423,9 @@ return [
   },
   {
     "tag_name": "white russian",
-    "related_tags": []
+    "related_tags": [
+      "白+russian"
+    ]
   },
   {
     "tag_name": "gluhwein",
@@ -64987,7 +73433,9 @@ return [
   },
   {
     "tag_name": "liquor",
-    "related_tags": []
+    "related_tags": [
+      "玉ははき"
+    ]
   },
   {
     "tag_name": "sake",
@@ -64997,7 +73445,9 @@ return [
   },
   {
     "tag_name": "tequila",
-    "related_tags": []
+    "related_tags": [
+      "テキーラ"
+    ]
   },
   {
     "tag_name": "vodka",
@@ -65013,7 +73463,9 @@ return [
   },
   {
     "tag_name": "wine",
-    "related_tags": []
+    "related_tags": [
+      "葡萄酒"
+    ]
   },
   {
     "tag_name": "coffee",
@@ -65023,7 +73475,9 @@ return [
   },
   {
     "tag_name": "cafe au lait",
-    "related_tags": []
+    "related_tags": [
+      "喫茶+au+lait"
+    ]
   },
   {
     "tag_name": "canned coffee",
@@ -65039,7 +73493,9 @@ return [
   },
   {
     "tag_name": "dandelion coffee",
-    "related_tags": []
+    "related_tags": [
+      "ダンディライオン+コーヒーブラウン"
+    ]
   },
   {
     "tag_name": "georgia max coffee",
@@ -65061,7 +73517,9 @@ return [
   },
   {
     "tag_name": "juice",
-    "related_tags": []
+    "related_tags": [
+      "液"
+    ]
   },
   {
     "tag_name": "amazake",
@@ -65111,7 +73569,9 @@ return [
   },
   {
     "tag_name": "mountain dew",
-    "related_tags": []
+    "related_tags": [
+      "岳+露"
+    ]
   },
   {
     "tag_name": "pepsi",
@@ -65139,7 +73599,9 @@ return [
   },
   {
     "tag_name": "soda can",
-    "related_tags": []
+    "related_tags": [
+      "soda+取り消し"
+    ]
   },
   {
     "tag_name": "tea",
@@ -65167,11 +73629,15 @@ return [
   },
   {
     "tag_name": "darjeeling tea",
-    "related_tags": []
+    "related_tags": [
+      "darjeeling+茶"
+    ]
   },
   {
     "tag_name": "earl grey tea",
-    "related_tags": []
+    "related_tags": [
+      "伯+灰色+茶"
+    ]
   },
   {
     "tag_name": "green tea",
@@ -65181,47 +73647,69 @@ return [
   },
   {
     "tag_name": "herbal tea",
-    "related_tags": []
+    "related_tags": [
+      "ハーブ・ティ"
+    ]
   },
   {
     "tag_name": "iced tea",
-    "related_tags": []
+    "related_tags": [
+      "アイス・ティ"
+    ]
   },
   {
     "tag_name": "milk tea",
-    "related_tags": []
+    "related_tags": [
+      "牛乳+茶"
+    ]
   },
   {
     "tag_name": "rose hip tea",
-    "related_tags": []
+    "related_tags": [
+      "薔薇+今い+茶"
+    ]
   },
   {
     "tag_name": "spear mint tea",
-    "related_tags": []
+    "related_tags": [
+      "槍+造幣局+茶"
+    ]
   },
   {
     "tag_name": "tropical drink",
-    "related_tags": []
+    "related_tags": [
+      "トロピカル・ドリンク"
+    ]
   },
   {
     "tag_name": "ketchup bottle",
-    "related_tags": []
+    "related_tags": [
+      "ケチャップ+瓶"
+    ]
   },
   {
     "tag_name": "mayonnaise bottle",
-    "related_tags": []
+    "related_tags": [
+      "マヨ+瓶"
+    ]
   },
   {
     "tag_name": "mustard bottle",
-    "related_tags": []
+    "related_tags": [
+      "芥子+瓶"
+    ]
   },
   {
     "tag_name": "soda bottle",
-    "related_tags": []
+    "related_tags": [
+      "soda+瓶"
+    ]
   },
   {
     "tag_name": "soy sauce bottle",
-    "related_tags": []
+    "related_tags": [
+      "醤油差し"
+    ]
   },
   {
     "tag_name": "can",
@@ -65231,7 +73719,9 @@ return [
   },
   {
     "tag_name": "condiment packet",
-    "related_tags": []
+    "related_tags": [
+      "香辛料+パケ"
+    ]
   },
   {
     "tag_name": "sakazuki",
@@ -65253,23 +73743,33 @@ return [
   },
   {
     "tag_name": "champagne coupe",
-    "related_tags": []
+    "related_tags": [
+      "三鞭酒+クーペ"
+    ]
   },
   {
     "tag_name": "champagne flute",
-    "related_tags": []
+    "related_tags": [
+      "シャンパン・グラス"
+    ]
   },
   {
     "tag_name": "cocktail glass",
-    "related_tags": []
+    "related_tags": [
+      "カクテル・グラス"
+    ]
   },
   {
     "tag_name": "hurricane glass",
-    "related_tags": []
+    "related_tags": [
+      "台風+水飲み"
+    ]
   },
   {
     "tag_name": "shot glass",
-    "related_tags": []
+    "related_tags": [
+      "ショット・グラス"
+    ]
   },
   {
     "tag_name": "snifter",
@@ -65283,19 +73783,27 @@ return [
   },
   {
     "tag_name": "coffee cup",
-    "related_tags": []
+    "related_tags": [
+      "コーヒー茶わん"
+    ]
   },
   {
     "tag_name": "coffee mug",
-    "related_tags": []
+    "related_tags": [
+      "コーヒー・マグ"
+    ]
   },
   {
     "tag_name": "coffee pot",
-    "related_tags": []
+    "related_tags": [
+      "コーヒー沸かし"
+    ]
   },
   {
     "tag_name": "coffee press",
-    "related_tags": []
+    "related_tags": [
+      "コーヒーブラウン+圧搾器"
+    ]
   },
   {
     "tag_name": "gaiwan",
@@ -65311,11 +73819,15 @@ return [
   },
   {
     "tag_name": "jar",
-    "related_tags": []
+    "related_tags": [
+      "広口瓶"
+    ]
   },
   {
     "tag_name": "jug",
-    "related_tags": []
+    "related_tags": [
+      "瓶子"
+    ]
   },
   {
     "tag_name": "juice box",
@@ -65337,11 +73849,15 @@ return [
   },
   {
     "tag_name": "canned tea",
-    "related_tags": []
+    "related_tags": [
+      "缶入り+茶"
+    ]
   },
   {
     "tag_name": "saucer",
-    "related_tags": []
+    "related_tags": [
+      "受け皿"
+    ]
   },
   {
     "tag_name": "teacup",
@@ -65357,7 +73873,9 @@ return [
   },
   {
     "tag_name": "long spout teapot",
-    "related_tags": []
+    "related_tags": [
+      "永+口+茶瓶"
+    ]
   },
   {
     "tag_name": "side handle teapot",
@@ -65403,7 +73921,9 @@ return [
   },
   {
     "tag_name": "flat top chef hat",
-    "related_tags": []
+    "related_tags": [
+      "横に+曲独楽+厨宰+帽"
+    ]
   },
   {
     "tag_name": "food stand",
@@ -65413,7 +73933,9 @@ return [
   },
   {
     "tag_name": "ice cream stand",
-    "related_tags": []
+    "related_tags": [
+      "結氷+乳脂+案"
+    ]
   },
   {
     "tag_name": "yatai",
@@ -65451,7 +73973,9 @@ return [
   },
   {
     "tag_name": "maid cafe",
-    "related_tags": []
+    "related_tags": [
+      "メード喫茶"
+    ]
   },
   {
     "tag_name": "cafeteria",
@@ -65461,7 +73985,9 @@ return [
   },
   {
     "tag_name": "diner",
-    "related_tags": []
+    "related_tags": [
+      "一膳飯屋"
+    ]
   },
   {
     "tag_name": "fast food",
@@ -65537,7 +74063,9 @@ return [
   },
   {
     "tag_name": "market",
-    "related_tags": []
+    "related_tags": [
+      "市"
+    ]
   },
   {
     "tag_name": "groceries",
@@ -65553,11 +74081,15 @@ return [
   },
   {
     "tag_name": "barbecue",
-    "related_tags": []
+    "related_tags": [
+      "バーベキュー"
+    ]
   },
   {
     "tag_name": "cupping glass",
-    "related_tags": []
+    "related_tags": [
+      "カッピング+水飲み"
+    ]
   },
   {
     "tag_name": "eating during class",
@@ -65567,27 +74099,39 @@ return [
   },
   {
     "tag_name": "force-feeding",
-    "related_tags": []
+    "related_tags": [
+      "圧+索餌"
+    ]
   },
   {
     "tag_name": "incoming food",
-    "related_tags": []
+    "related_tags": [
+      "incoming+喰いもの"
+    ]
   },
   {
     "tag_name": "flipping food",
-    "related_tags": []
+    "related_tags": [
+      "反転+喰いもの"
+    ]
   },
   {
     "tag_name": "food fight",
-    "related_tags": []
+    "related_tags": [
+      "喰いもの+軍"
+    ]
   },
   {
     "tag_name": "full mouth",
-    "related_tags": []
+    "related_tags": [
+      "委しい+口"
+    ]
   },
   {
     "tag_name": "hanging food",
-    "related_tags": []
+    "related_tags": [
+      "懸垂+喰いもの"
+    ]
   },
   {
     "tag_name": "hungry",
@@ -65597,11 +74141,15 @@ return [
   },
   {
     "tag_name": "hunger hallucination",
-    "related_tags": []
+    "related_tags": [
+      "餓え+空目"
+    ]
   },
   {
     "tag_name": "in food",
-    "related_tags": []
+    "related_tags": [
+      "in+喰いもの"
+    ]
   },
   {
     "tag_name": "picnic",
@@ -65623,7 +74171,9 @@ return [
   },
   {
     "tag_name": "spill",
-    "related_tags": []
+    "related_tags": [
+      "溢れ"
+    ]
   },
   {
     "tag_name": "tea ceremony",
@@ -65645,7 +74195,9 @@ return [
   },
   {
     "tag_name": "baking sheet",
-    "related_tags": []
+    "related_tags": [
+      "天板"
+    ]
   },
   {
     "tag_name": "bamboo steamer",
@@ -65655,23 +74207,33 @@ return [
   },
   {
     "tag_name": "basket",
-    "related_tags": []
+    "related_tags": [
+      "鞄"
+    ]
   },
   {
     "tag_name": "picnic basket",
-    "related_tags": []
+    "related_tags": [
+      "野遊び+鞄"
+    ]
   },
   {
     "tag_name": "shopping basket",
-    "related_tags": []
+    "related_tags": [
+      "買い物かご"
+    ]
   },
   {
     "tag_name": "shopping cart",
-    "related_tags": []
+    "related_tags": [
+      "ショッピング・カート"
+    ]
   },
   {
     "tag_name": "squeeze bottle",
-    "related_tags": []
+    "related_tags": [
+      "スクイーズ+瓶"
+    ]
   },
   {
     "tag_name": "bowl",
@@ -65687,7 +74249,9 @@ return [
   },
   {
     "tag_name": "cake pan",
-    "related_tags": []
+    "related_tags": [
+      "菓子+牧神"
+    ]
   },
   {
     "tag_name": "chopstick rest",
@@ -65697,15 +74261,21 @@ return [
   },
   {
     "tag_name": "cocktail flower",
-    "related_tags": []
+    "related_tags": [
+      "混合酒+花"
+    ]
   },
   {
     "tag_name": "coffee grinder",
-    "related_tags": []
+    "related_tags": [
+      "珈琲粉砕機"
+    ]
   },
   {
     "tag_name": "cookie cutter",
-    "related_tags": []
+    "related_tags": [
+      "型抜き"
+    ]
   },
   {
     "tag_name": "cutting board",
@@ -65715,7 +74285,9 @@ return [
   },
   {
     "tag_name": "dishes",
-    "related_tags": []
+    "related_tags": [
+      "一品"
+    ]
   },
   {
     "tag_name": "drinking straw",
@@ -65731,19 +74303,27 @@ return [
   },
   {
     "tag_name": "crazy straw",
-    "related_tags": []
+    "related_tags": [
+      "気が変+藁"
+    ]
   },
   {
     "tag_name": "heart straw",
-    "related_tags": []
+    "related_tags": [
+      "意気+藁"
+    ]
   },
   {
     "tag_name": "egg carton",
-    "related_tags": []
+    "related_tags": [
+      "殻+段ボール箱"
+    ]
   },
   {
     "tag_name": "food wrapper",
-    "related_tags": []
+    "related_tags": [
+      "喰いもの+上っ張り"
+    ]
   },
   {
     "tag_name": "fork",
@@ -65765,7 +74345,9 @@ return [
   },
   {
     "tag_name": "gravy boat",
-    "related_tags": []
+    "related_tags": [
+      "グレービー・ボート"
+    ]
   },
   {
     "tag_name": "honey dipper",
@@ -65781,11 +74363,15 @@ return [
   },
   {
     "tag_name": "ice cream scoop",
-    "related_tags": []
+    "related_tags": [
+      "結氷+乳脂+玉杓子"
+    ]
   },
   {
     "tag_name": "kitchen scale",
-    "related_tags": []
+    "related_tags": [
+      "勝手+音階"
+    ]
   },
   {
     "tag_name": "knife",
@@ -65795,7 +74381,9 @@ return [
   },
   {
     "tag_name": "butter knife",
-    "related_tags": []
+    "related_tags": [
+      "バター・ナイフ"
+    ]
   },
   {
     "tag_name": "cleaver",
@@ -65827,7 +74415,9 @@ return [
   },
   {
     "tag_name": "measuring cup",
-    "related_tags": []
+    "related_tags": [
+      "計量カップ"
+    ]
   },
   {
     "tag_name": "mess kit",
@@ -65849,43 +74439,63 @@ return [
   },
   {
     "tag_name": "mini flag",
-    "related_tags": []
+    "related_tags": [
+      "mini+一旗"
+    ]
   },
   {
     "tag_name": "mixer",
-    "related_tags": []
+    "related_tags": [
+      "音響調整卓"
+    ]
   },
   {
     "tag_name": "napkin",
-    "related_tags": []
+    "related_tags": [
+      "巾"
+    ]
   },
   {
     "tag_name": "oven mitts",
-    "related_tags": []
+    "related_tags": [
+      "焼き窯+手ぶくろ"
+    ]
   },
   {
     "tag_name": "pastry bag",
-    "related_tags": []
+    "related_tags": [
+      "絞り袋"
+    ]
   },
   {
     "tag_name": "peel",
-    "related_tags": []
+    "related_tags": [
+      "果皮"
+    ]
   },
   {
     "tag_name": "holding plate",
-    "related_tags": []
+    "related_tags": [
+      "握把+一皿"
+    ]
   },
   {
     "tag_name": "plate stack",
-    "related_tags": []
+    "related_tags": [
+      "一皿+山盛"
+    ]
   },
   {
     "tag_name": "pot",
-    "related_tags": []
+    "related_tags": [
+      "御釜"
+    ]
   },
   {
     "tag_name": "honeypot",
-    "related_tags": []
+    "related_tags": [
+      "ハニー・トラップ"
+    ]
   },
   {
     "tag_name": "cauldron",
@@ -65895,7 +74505,9 @@ return [
   },
   {
     "tag_name": "recipe",
-    "related_tags": []
+    "related_tags": [
+      "作り方"
+    ]
   },
   {
     "tag_name": "refrigerator",
@@ -65923,15 +74535,21 @@ return [
   },
   {
     "tag_name": "sink",
-    "related_tags": []
+    "related_tags": [
+      "吸い込み口"
+    ]
   },
   {
     "tag_name": "sizzler plate",
-    "related_tags": []
+    "related_tags": [
+      "sizzler+一皿"
+    ]
   },
   {
     "tag_name": "soda fountain",
-    "related_tags": []
+    "related_tags": [
+      "ソーダ・ファウンテン"
+    ]
   },
   {
     "tag_name": "spatula",
@@ -65941,7 +74559,9 @@ return [
   },
   {
     "tag_name": "serving spatula",
-    "related_tags": []
+    "related_tags": [
+      "応対+箆"
+    ]
   },
   {
     "tag_name": "spoon",
@@ -65963,19 +74583,27 @@ return [
   },
   {
     "tag_name": "sugar bowl",
-    "related_tags": []
+    "related_tags": [
+      "砂糖いれ"
+    ]
   },
   {
     "tag_name": "takeout container",
-    "related_tags": []
+    "related_tags": [
+      "takeout+器"
+    ]
   },
   {
     "tag_name": "oyster pail",
-    "related_tags": []
+    "related_tags": [
+      "牡蛎+桶"
+    ]
   },
   {
     "tag_name": "teapot heater",
-    "related_tags": []
+    "related_tags": [
+      "茶瓶+加熱器"
+    ]
   },
   {
     "tag_name": "toaster",
@@ -65997,15 +74625,21 @@ return [
   },
   {
     "tag_name": "cake stand",
-    "related_tags": []
+    "related_tags": [
+      "菓子+案"
+    ]
   },
   {
     "tag_name": "tiered tray",
-    "related_tags": []
+    "related_tags": [
+      "位+一錠"
+    ]
   },
   {
     "tag_name": "utensil rack",
-    "related_tags": []
+    "related_tags": [
+      "器具+架"
+    ]
   },
   {
     "tag_name": "whisk",
@@ -66031,7 +74665,9 @@ return [
   },
   {
     "tag_name": "Black Star Burger",
-    "related_tags": []
+    "related_tags": [
+      "暗然+巨擘+バーガー"
+    ]
   },
   {
     "tag_name": "Boukun Habanero",
@@ -66059,7 +74695,9 @@ return [
   },
   {
     "tag_name": "The King",
-    "related_tags": []
+    "related_tags": [
+      "the+王"
+    ]
   },
   {
     "tag_name": "Cadbury",
@@ -66069,7 +74707,9 @@ return [
   },
   {
     "tag_name": "Dairy Queen",
-    "related_tags": []
+    "related_tags": [
+      "牛乳屋+王后"
+    ]
   },
   {
     "tag_name": "Domino's Pizza",
@@ -66099,11 +74739,15 @@ return [
   },
   {
     "tag_name": "Jack in the Box",
-    "related_tags": []
+    "related_tags": [
+      "機械じかけ"
+    ]
   },
   {
     "tag_name": "Jack Box",
-    "related_tags": []
+    "related_tags": [
+      "万力+囲み"
+    ]
   },
   {
     "tag_name": "Jollibee",
@@ -66137,11 +74781,15 @@ return [
   },
   {
     "tag_name": "Little Caesars",
-    "related_tags": []
+    "related_tags": [
+      "何だか+カエサル"
+    ]
   },
   {
     "tag_name": "Little Caesar",
-    "related_tags": []
+    "related_tags": [
+      "何だか+カエサル"
+    ]
   },
   {
     "tag_name": "Lipton",
@@ -66157,7 +74805,9 @@ return [
   },
   {
     "tag_name": "Birdie the Early Bird",
-    "related_tags": []
+    "related_tags": [
+      "とっと+the+原初的+禽"
+    ]
   },
   {
     "tag_name": "Hamburglar",
@@ -66167,7 +74817,9 @@ return [
   },
   {
     "tag_name": "McNugget Buddy",
-    "related_tags": []
+    "related_tags": [
+      "mcnugget+悪友"
+    ]
   },
   {
     "tag_name": "Ronald McDonald",
@@ -66219,7 +74871,9 @@ return [
   },
   {
     "tag_name": "Papa John's",
-    "related_tags": []
+    "related_tags": [
+      "御父さん+john's"
+    ]
   },
   {
     "tag_name": "Pizza Hut",
@@ -66259,11 +74913,15 @@ return [
   },
   {
     "tag_name": "Sonic's Drive-In",
-    "related_tags": []
+    "related_tags": [
+      "sonic's+意気地+in"
+    ]
   },
   {
     "tag_name": "Starbucks Siren",
-    "related_tags": []
+    "related_tags": [
+      "starbucks+傾国"
+    ]
   },
   {
     "tag_name": "Subway",
@@ -66307,7 +74965,9 @@ return [
   },
   {
     "tag_name": "Tim Hortons",
-    "related_tags": []
+    "related_tags": [
+      "次+hortons"
+    ]
   },
   {
     "tag_name": "Toblerone",
@@ -66337,11 +74997,15 @@ return [
   },
   {
     "tag_name": "food on body",
-    "related_tags": []
+    "related_tags": [
+      "喰いもの+on+遺骸"
+    ]
   },
   {
     "tag_name": "chocolate on body",
-    "related_tags": []
+    "related_tags": [
+      "チョコ+on+遺骸"
+    ]
   },
   {
     "tag_name": "chocolate on breasts",
@@ -66357,39 +75021,57 @@ return [
   },
   {
     "tag_name": "cream on body",
-    "related_tags": []
+    "related_tags": [
+      "乳脂+on+遺骸"
+    ]
   },
   {
     "tag_name": "food as clothes",
-    "related_tags": []
+    "related_tags": [
+      "喰いもの+as+衣服"
+    ]
   },
   {
     "tag_name": "chocolate clothes",
-    "related_tags": []
+    "related_tags": [
+      "チョコ+衣服"
+    ]
   },
   {
     "tag_name": "food between breasts",
-    "related_tags": []
+    "related_tags": [
+      "喰いもの+間+胸"
+    ]
   },
   {
     "tag_name": "food on breasts",
-    "related_tags": []
+    "related_tags": [
+      "喰いもの+on+胸"
+    ]
   },
   {
     "tag_name": "food-themed clothes",
-    "related_tags": []
+    "related_tags": [
+      "喰いもの+彼ら+衣服"
+    ]
   },
   {
     "tag_name": "food-themed hair ornament",
-    "related_tags": []
+    "related_tags": [
+      "喰いもの+彼ら+一髪+栄"
+    ]
   },
   {
     "tag_name": "food girls",
-    "related_tags": []
+    "related_tags": [
+      "喰いもの+ガールズ"
+    ]
   },
   {
     "tag_name": "oversized food",
-    "related_tags": []
+    "related_tags": [
+      "oversized+喰いもの"
+    ]
   },
   {
     "tag_name": "sexually suggestive",
@@ -66399,23 +75081,33 @@ return [
   },
   {
     "tag_name": "Artist name",
-    "related_tags": []
+    "related_tags": [
+      "画家+宛て名"
+    ]
   },
   {
     "tag_name": "Character name",
-    "related_tags": []
+    "related_tags": [
+      "一字+宛て名"
+    ]
   },
   {
     "tag_name": "Circle name",
-    "related_tags": []
+    "related_tags": [
+      "円+宛て名"
+    ]
   },
   {
     "tag_name": "Company name",
-    "related_tags": []
+    "related_tags": [
+      "会社名"
+    ]
   },
   {
     "tag_name": "Completion time",
-    "related_tags": []
+    "related_tags": [
+      "完+烏兎"
+    ]
   },
   {
     "tag_name": "Copyright name",
@@ -66431,7 +75123,9 @@ return [
   },
   {
     "tag_name": "Group name",
-    "related_tags": []
+    "related_tags": [
+      "一つ穴+宛て名"
+    ]
   },
   {
     "tag_name": "Content rating",
@@ -66441,7 +75135,9 @@ return [
   },
   {
     "tag_name": "Twitter username",
-    "related_tags": []
+    "related_tags": [
+      "囀り+ユーザー名"
+    ]
   },
   {
     "tag_name": "Signature",
@@ -66451,7 +75147,9 @@ return [
   },
   {
     "tag_name": "Character signature",
-    "related_tags": []
+    "related_tags": [
+      "一字+記帳"
+    ]
   },
   {
     "tag_name": "Song name",
@@ -66461,11 +75159,15 @@ return [
   },
   {
     "tag_name": "Weapon name",
-    "related_tags": []
+    "related_tags": [
+      "干戈+宛て名"
+    ]
   },
   {
     "tag_name": "Backwards text",
-    "related_tags": []
+    "related_tags": [
+      "後ろ向き+条文"
+    ]
   },
   {
     "tag_name": "Clothes writing",
@@ -66475,11 +75177,15 @@ return [
   },
   {
     "tag_name": "Gradient text",
-    "related_tags": []
+    "related_tags": [
+      "階調+条文"
+    ]
   },
   {
     "tag_name": "Foreground text",
-    "related_tags": []
+    "related_tags": [
+      "近景+条文"
+    ]
   },
   {
     "tag_name": "Mirrored text",
@@ -66495,11 +75201,15 @@ return [
   },
   {
     "tag_name": "Pixel text",
-    "related_tags": []
+    "related_tags": [
+      "ドット+条文"
+    ]
   },
   {
     "tag_name": "Rainbow text",
-    "related_tags": []
+    "related_tags": [
+      "虹+条文"
+    ]
   },
   {
     "tag_name": "Sound effects",
@@ -66509,23 +75219,33 @@ return [
   },
   {
     "tag_name": "Text-only page",
-    "related_tags": []
+    "related_tags": [
+      "条文+一+給仕"
+    ]
   },
   {
     "tag_name": "Wall of text",
-    "related_tags": []
+    "related_tags": [
+      "囲い+of+条文"
+    ]
   },
   {
     "tag_name": "Alliteration",
-    "related_tags": []
+    "related_tags": [
+      "頭韻"
+    ]
   },
   {
     "tag_name": "Poem",
-    "related_tags": []
+    "related_tags": [
+      "一首"
+    ]
   },
   {
     "tag_name": "Haiku",
-    "related_tags": []
+    "related_tags": [
+      "句"
+    ]
   },
   {
     "tag_name": "Profanity",
@@ -66535,7 +75255,9 @@ return [
   },
   {
     "tag_name": "Rhyme",
-    "related_tags": []
+    "related_tags": [
+      "韻"
+    ]
   },
   {
     "tag_name": "A",
@@ -66599,7 +75321,9 @@ return [
   },
   {
     "tag_name": "Bopomofo text",
-    "related_tags": []
+    "related_tags": [
+      "国音字母+条文"
+    ]
   },
   {
     "tag_name": "Cantonese text",
@@ -66610,7 +75334,7 @@ return [
   {
     "tag_name": "Minnan text",
     "related_tags": [
-      "min-nan"
+      "閩南語"
     ]
   },
   {
@@ -66633,7 +75357,9 @@ return [
   },
   {
     "tag_name": "Sichuanese text",
-    "related_tags": []
+    "related_tags": [
+      "sichuanese+条文"
+    ]
   },
   {
     "tag_name": "Traditional Chinese text",
@@ -66643,11 +75369,15 @@ return [
   },
   {
     "tag_name": "Pinyin text",
-    "related_tags": []
+    "related_tags": [
+      "pinyin+条文"
+    ]
   },
   {
     "tag_name": "translation request",
-    "related_tags": []
+    "related_tags": [
+      "講読+依嘱"
+    ]
   },
   {
     "tag_name": "Archaic Japanese text",
@@ -66687,11 +75417,15 @@ return [
   },
   {
     "tag_name": "Kiriji text",
-    "related_tags": []
+    "related_tags": [
+      "kiriji+条文"
+    ]
   },
   {
     "tag_name": "Hmong text",
-    "related_tags": []
+    "related_tags": [
+      "苗+条文"
+    ]
   },
   {
     "tag_name": "Indonesian text",
@@ -66707,7 +75441,9 @@ return [
   },
   {
     "tag_name": "Khmer text",
-    "related_tags": []
+    "related_tags": [
+      "khmer+条文"
+    ]
   },
   {
     "tag_name": "Korean text",
@@ -66729,7 +75465,9 @@ return [
   },
   {
     "tag_name": "Lao text",
-    "related_tags": []
+    "related_tags": [
+      "羅宇+条文"
+    ]
   },
   {
     "tag_name": "Malay text",
@@ -66739,11 +75477,15 @@ return [
   },
   {
     "tag_name": "Tagalog text",
-    "related_tags": []
+    "related_tags": [
+      "tagalog+条文"
+    ]
   },
   {
     "tag_name": "Filipino text",
-    "related_tags": []
+    "related_tags": [
+      "フィリピン人+条文"
+    ]
   },
   {
     "tag_name": "Thai text",
@@ -66753,7 +75495,9 @@ return [
   },
   {
     "tag_name": "Tibetan text",
-    "related_tags": []
+    "related_tags": [
+      "tibetan+条文"
+    ]
   },
   {
     "tag_name": "Vietnamese text",
@@ -66769,27 +75513,39 @@ return [
   },
   {
     "tag_name": "Ebonics",
-    "related_tags": []
+    "related_tags": [
+      "黒人英語"
+    ]
   },
   {
     "tag_name": "Engrish text",
-    "related_tags": []
+    "related_tags": [
+      "engrish+条文"
+    ]
   },
   {
     "tag_name": "Singlish text",
-    "related_tags": []
+    "related_tags": [
+      "singlish+条文"
+    ]
   },
   {
     "tag_name": "Old English text",
-    "related_tags": []
+    "related_tags": [
+      "翁+英国人+条文"
+    ]
   },
   {
     "tag_name": "Australian English text",
-    "related_tags": []
+    "related_tags": [
+      "オージー+英国人+条文"
+    ]
   },
   {
     "tag_name": "Irish English text",
-    "related_tags": []
+    "related_tags": [
+      "アイリッシュ+英国人+条文"
+    ]
   },
   {
     "tag_name": "Scottish English text",
@@ -66799,7 +75555,9 @@ return [
   },
   {
     "tag_name": "Breton text",
-    "related_tags": []
+    "related_tags": [
+      "breton+条文"
+    ]
   },
   {
     "tag_name": "Danish text",
@@ -66827,11 +75585,15 @@ return [
   },
   {
     "tag_name": "Swabian text",
-    "related_tags": []
+    "related_tags": [
+      "swabian+条文"
+    ]
   },
   {
     "tag_name": "Icelandic text",
-    "related_tags": []
+    "related_tags": [
+      "icelandic+条文"
+    ]
   },
   {
     "tag_name": "Irish text",
@@ -66841,7 +75603,9 @@ return [
   },
   {
     "tag_name": "Luxembourgish text",
-    "related_tags": []
+    "related_tags": [
+      "luxembourgish+条文"
+    ]
   },
   {
     "tag_name": "Norwegian text",
@@ -66851,11 +75615,15 @@ return [
   },
   {
     "tag_name": "Old Norse Text",
-    "related_tags": []
+    "related_tags": [
+      "翁+ノルド語+条文"
+    ]
   },
   {
     "tag_name": "Scots text",
-    "related_tags": []
+    "related_tags": [
+      "スコットランド人+条文"
+    ]
   },
   {
     "tag_name": "Swedish text",
@@ -66865,19 +75633,27 @@ return [
   },
   {
     "tag_name": "Welsh text",
-    "related_tags": []
+    "related_tags": [
+      "welsh+条文"
+    ]
   },
   {
     "tag_name": "Yiddish text",
-    "related_tags": []
+    "related_tags": [
+      "イディッシュ語+条文"
+    ]
   },
   {
     "tag_name": "Catalan text",
-    "related_tags": []
+    "related_tags": [
+      "catalan+条文"
+    ]
   },
   {
     "tag_name": "Corsican text",
-    "related_tags": []
+    "related_tags": [
+      "corsican+条文"
+    ]
   },
   {
     "tag_name": "French text",
@@ -66887,7 +75663,9 @@ return [
   },
   {
     "tag_name": "Haitian Creole text",
-    "related_tags": []
+    "related_tags": [
+      "haitian+混合語+条文"
+    ]
   },
   {
     "tag_name": "Galician text",
@@ -66909,11 +75687,15 @@ return [
   },
   {
     "tag_name": "Maltese text",
-    "related_tags": []
+    "related_tags": [
+      "maltese+条文"
+    ]
   },
   {
     "tag_name": "Romanian text",
-    "related_tags": []
+    "related_tags": [
+      "romanian+条文"
+    ]
   },
   {
     "tag_name": "Spanish text",
@@ -66941,19 +75723,27 @@ return [
   },
   {
     "tag_name": "Czech text",
-    "related_tags": []
+    "related_tags": [
+      "czech+条文"
+    ]
   },
   {
     "tag_name": "Latvian text",
-    "related_tags": []
+    "related_tags": [
+      "latvian+条文"
+    ]
   },
   {
     "tag_name": "Lithuanian text",
-    "related_tags": []
+    "related_tags": [
+      "lithuanian+条文"
+    ]
   },
   {
     "tag_name": "Macedonian text",
-    "related_tags": []
+    "related_tags": [
+      "macedonian+条文"
+    ]
   },
   {
     "tag_name": "Polish text",
@@ -66975,11 +75765,15 @@ return [
   },
   {
     "tag_name": "Slovak text",
-    "related_tags": []
+    "related_tags": [
+      "スロバキア語+条文"
+    ]
   },
   {
     "tag_name": "Slovenian text",
-    "related_tags": []
+    "related_tags": [
+      "slovenian+条文"
+    ]
   },
   {
     "tag_name": "Ukrainian text",
@@ -66989,11 +75783,15 @@ return [
   },
   {
     "tag_name": "Albanian text",
-    "related_tags": []
+    "related_tags": [
+      "albanian+条文"
+    ]
   },
   {
     "tag_name": "Armenian text",
-    "related_tags": []
+    "related_tags": [
+      "armenian+条文"
+    ]
   },
   {
     "tag_name": "Esperanto text",
@@ -67003,7 +75801,9 @@ return [
   },
   {
     "tag_name": "Farsi text",
-    "related_tags": []
+    "related_tags": [
+      "ペルシア語+条文"
+    ]
   },
   {
     "tag_name": "Greek text",
@@ -67013,23 +75813,33 @@ return [
   },
   {
     "tag_name": "Hindi text",
-    "related_tags": []
+    "related_tags": [
+      "ヒンディー+条文"
+    ]
   },
   {
     "tag_name": "Kurdish text",
-    "related_tags": []
+    "related_tags": [
+      "クルド+条文"
+    ]
   },
   {
     "tag_name": "Persian text",
-    "related_tags": []
+    "related_tags": [
+      "persian+条文"
+    ]
   },
   {
     "tag_name": "Sindhi text",
-    "related_tags": []
+    "related_tags": [
+      "sindhi+条文"
+    ]
   },
   {
     "tag_name": "Estonian text",
-    "related_tags": []
+    "related_tags": [
+      "estonian+条文"
+    ]
   },
   {
     "tag_name": "Finnish text",
@@ -67045,39 +75855,57 @@ return [
   },
   {
     "tag_name": "Azerbaijani text",
-    "related_tags": []
+    "related_tags": [
+      "azerbaijani+条文"
+    ]
   },
   {
     "tag_name": "Kazakh text",
-    "related_tags": []
+    "related_tags": [
+      "kazakh+条文"
+    ]
   },
   {
     "tag_name": "Kyrgyz text",
-    "related_tags": []
+    "related_tags": [
+      "kyrgyz+条文"
+    ]
   },
   {
     "tag_name": "Tatar text",
-    "related_tags": []
+    "related_tags": [
+      "tatar+条文"
+    ]
   },
   {
     "tag_name": "Turkish text",
-    "related_tags": []
+    "related_tags": [
+      "ターキッシュ+条文"
+    ]
   },
   {
     "tag_name": "Uzbek text",
-    "related_tags": []
+    "related_tags": [
+      "uzbek+条文"
+    ]
   },
   {
     "tag_name": "Amharic text",
-    "related_tags": []
+    "related_tags": [
+      "amharic+条文"
+    ]
   },
   {
     "tag_name": "Arabic text",
-    "related_tags": []
+    "related_tags": [
+      "arabic+条文"
+    ]
   },
   {
     "tag_name": "Aramaic text",
-    "related_tags": []
+    "related_tags": [
+      "アラム語+条文"
+    ]
   },
   {
     "tag_name": "Aurebesh",
@@ -67085,11 +75913,15 @@ return [
   },
   {
     "tag_name": "Basque text",
-    "related_tags": []
+    "related_tags": [
+      "バスク+条文"
+    ]
   },
   {
     "tag_name": "Bengali text",
-    "related_tags": []
+    "related_tags": [
+      "bengali+条文"
+    ]
   },
   {
     "tag_name": "Braille",
@@ -67099,7 +75931,9 @@ return [
   },
   {
     "tag_name": "Chichewa text",
-    "related_tags": []
+    "related_tags": [
+      "chichewa+条文"
+    ]
   },
   {
     "tag_name": "R'lyehian",
@@ -67107,7 +75941,9 @@ return [
   },
   {
     "tag_name": "Cuneiform",
-    "related_tags": []
+    "related_tags": [
+      "楔状"
+    ]
   },
   {
     "tag_name": "Cyrillic",
@@ -67123,11 +75959,15 @@ return [
   },
   {
     "tag_name": "Georgian text",
-    "related_tags": []
+    "related_tags": [
+      "georgian+条文"
+    ]
   },
   {
     "tag_name": "Hawaiian text",
-    "related_tags": []
+    "related_tags": [
+      "ハワイアン+条文"
+    ]
   },
   {
     "tag_name": "Hebrew text",
@@ -67137,7 +75977,9 @@ return [
   },
   {
     "tag_name": "Hieroglyphics",
-    "related_tags": []
+    "related_tags": [
+      "象形"
+    ]
   },
   {
     "tag_name": "Hymmnos",
@@ -67145,15 +75987,21 @@ return [
   },
   {
     "tag_name": "Igbo text",
-    "related_tags": []
+    "related_tags": [
+      "igbo+条文"
+    ]
   },
   {
     "tag_name": "Inkling",
-    "related_tags": []
+    "related_tags": [
+      "仄めかし"
+    ]
   },
   {
     "tag_name": "Kinyarwanda text",
-    "related_tags": []
+    "related_tags": [
+      "ルワンダ語+条文"
+    ]
   },
   {
     "tag_name": "Madoka runes",
@@ -67163,15 +76011,21 @@ return [
   },
   {
     "tag_name": "Malagasy text",
-    "related_tags": []
+    "related_tags": [
+      "malagasy+条文"
+    ]
   },
   {
     "tag_name": "Malayalam text",
-    "related_tags": []
+    "related_tags": [
+      "malayalam+条文"
+    ]
   },
   {
     "tag_name": "Maori text",
-    "related_tags": []
+    "related_tags": [
+      "マオリ族+条文"
+    ]
   },
   {
     "tag_name": "Matoran",
@@ -67185,7 +76039,9 @@ return [
   },
   {
     "tag_name": "Mongolian text",
-    "related_tags": []
+    "related_tags": [
+      "mongolian+条文"
+    ]
   },
   {
     "tag_name": "Namekian",
@@ -67195,7 +76051,9 @@ return [
   },
   {
     "tag_name": "Nepali text",
-    "related_tags": []
+    "related_tags": [
+      "nepali+条文"
+    ]
   },
   {
     "tag_name": "Siddham",
@@ -67205,23 +76063,33 @@ return [
   },
   {
     "tag_name": "Somali text",
-    "related_tags": []
+    "related_tags": [
+      "somali+条文"
+    ]
   },
   {
     "tag_name": "Swahili text",
-    "related_tags": []
+    "related_tags": [
+      "swahili+条文"
+    ]
   },
   {
     "tag_name": "Tamil text",
-    "related_tags": []
+    "related_tags": [
+      "tamil+条文"
+    ]
   },
   {
     "tag_name": "Telugu text",
-    "related_tags": []
+    "related_tags": [
+      "telugu+条文"
+    ]
   },
   {
     "tag_name": "Tengwar text",
-    "related_tags": []
+    "related_tags": [
+      "tengwar+条文"
+    ]
   },
   {
     "tag_name": "Unownglyphics",
@@ -67231,11 +76099,15 @@ return [
   },
   {
     "tag_name": "Xhosa text",
-    "related_tags": []
+    "related_tags": [
+      "xhosa+条文"
+    ]
   },
   {
     "tag_name": "Yoruba text",
-    "related_tags": []
+    "related_tags": [
+      "yoruba+条文"
+    ]
   },
   {
     "tag_name": "Zentlardy",
@@ -67243,11 +76115,15 @@ return [
   },
   {
     "tag_name": "Zalgo text",
-    "related_tags": []
+    "related_tags": [
+      "zalgo+条文"
+    ]
   },
   {
     "tag_name": "Zulu text",
-    "related_tags": []
+    "related_tags": [
+      "zulu+条文"
+    ]
   },
   {
     "tag_name": "Mojibake text",
@@ -67257,23 +76133,33 @@ return [
   },
   {
     "tag_name": "Alternate language",
-    "related_tags": []
+    "related_tags": [
+      "一つ置き+言語"
+    ]
   },
   {
     "tag_name": "Check translation",
-    "related_tags": []
+    "related_tags": [
+      "愛想+講読"
+    ]
   },
   {
     "tag_name": "Partially translated",
-    "related_tags": []
+    "related_tags": [
+      "生+トランスレート"
+    ]
   },
   {
     "tag_name": "Poorly translated",
-    "related_tags": []
+    "related_tags": [
+      "poorly+トランスレート"
+    ]
   },
   {
     "tag_name": "Translated",
-    "related_tags": []
+    "related_tags": [
+      "トランスレート"
+    ]
   },
   {
     "tag_name": "Ciphertext",
@@ -67281,39 +76167,57 @@ return [
   },
   {
     "tag_name": "Faux text",
-    "related_tags": []
+    "related_tags": [
+      "なんちゃって+条文"
+    ]
   },
   {
     "tag_name": "Faux Cyrillic",
-    "related_tags": []
+    "related_tags": [
+      "なんちゃって+キリル"
+    ]
   },
   {
     "tag_name": "Faux Egyptian",
-    "related_tags": []
+    "related_tags": [
+      "なんちゃって+egyptian"
+    ]
   },
   {
     "tag_name": "Faux Greek",
-    "related_tags": []
+    "related_tags": [
+      "なんちゃって+希"
+    ]
   },
   {
     "tag_name": "Faux Japanese",
-    "related_tags": []
+    "related_tags": [
+      "なんちゃって+日本的"
+    ]
   },
   {
     "tag_name": "Mixed-language text",
-    "related_tags": []
+    "related_tags": [
+      "交じり+言語+条文"
+    ]
   },
   {
     "tag_name": "Bilingual",
-    "related_tags": []
+    "related_tags": [
+      "二か国語"
+    ]
   },
   {
     "tag_name": "Multilingual",
-    "related_tags": []
+    "related_tags": [
+      "多言語"
+    ]
   },
   {
     "tag_name": "Fake text",
-    "related_tags": []
+    "related_tags": [
+      "贋+条文"
+    ]
   },
   {
     "tag_name": "two-piece",
@@ -67329,27 +76233,39 @@ return [
   },
   {
     "tag_name": "trunks",
-    "related_tags": []
+    "related_tags": [
+      "海パン"
+    ]
   },
   {
     "tag_name": "bikini skirt",
-    "related_tags": []
+    "related_tags": [
+      "bikini+スカート"
+    ]
   },
   {
     "tag_name": "checkered bikini",
-    "related_tags": []
+    "related_tags": [
+      "チェック+bikini"
+    ]
   },
   {
     "tag_name": "o-ring bikini",
-    "related_tags": []
+    "related_tags": [
+      "o+一味+bikini"
+    ]
   },
   {
     "tag_name": "o-ring top",
-    "related_tags": []
+    "related_tags": [
+      "o+一味+曲独楽"
+    ]
   },
   {
     "tag_name": "o-ring bottom",
-    "related_tags": []
+    "related_tags": [
+      "o+一味+下"
+    ]
   },
   {
     "tag_name": "shell bikini",
@@ -67359,7 +76275,9 @@ return [
   },
   {
     "tag_name": "old-fashioned swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "翁+好尚+水泳着"
+    ]
   },
   {
     "tag_name": "one-piece swimsuit",
@@ -67369,19 +76287,27 @@ return [
   },
   {
     "tag_name": "casual one-piece swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "何気ない+一+一かけら+水泳着"
+    ]
   },
   {
     "tag_name": "dress swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "衣+水泳着"
+    ]
   },
   {
     "tag_name": "bow swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "敬礼+水泳着"
+    ]
   },
   {
     "tag_name": "frilled swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "縁飾り+水泳着"
+    ]
   },
   {
     "tag_name": "frilled bikini",
@@ -67401,7 +76327,9 @@ return [
   },
   {
     "tag_name": "polka dot swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "ポルカ+点+水泳着"
+    ]
   },
   {
     "tag_name": "polka dot bikini",
@@ -67411,7 +76339,9 @@ return [
   },
   {
     "tag_name": "striped one-piece swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "縞々+一+一かけら+水泳着"
+    ]
   },
   {
     "tag_name": "striped bikini",
@@ -67421,63 +76351,93 @@ return [
   },
   {
     "tag_name": "aqua one-piece swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "水色+一+一かけら+水泳着"
+    ]
   },
   {
     "tag_name": "black one-piece swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "暗然+一+一かけら+水泳着"
+    ]
   },
   {
     "tag_name": "blue one-piece swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "重い+一+一かけら+水泳着"
+    ]
   },
   {
     "tag_name": "brown one-piece swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "赤銅色+一+一かけら+水泳着"
+    ]
   },
   {
     "tag_name": "green one-piece swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "産+一+一かけら+水泳着"
+    ]
   },
   {
     "tag_name": "grey one-piece swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "灰色+一+一かけら+水泳着"
+    ]
   },
   {
     "tag_name": "orange one-piece swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "炎色+一+一かけら+水泳着"
+    ]
   },
   {
     "tag_name": "pink one-piece swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "退紅+一+一かけら+水泳着"
+    ]
   },
   {
     "tag_name": "red one-piece swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "赭い+一+一かけら+水泳着"
+    ]
   },
   {
     "tag_name": "purple one-piece swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "此の糸+一+一かけら+水泳着"
+    ]
   },
   {
     "tag_name": "white one-piece swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "白+一+一かけら+水泳着"
+    ]
   },
   {
     "tag_name": "yellow one-piece swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "黄+一+一かけら+水泳着"
+    ]
   },
   {
     "tag_name": "gold one-piece swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "黄金+一+一かけら+水泳着"
+    ]
   },
   {
     "tag_name": "silver one-piece swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "白銀+一+一かけら+水泳着"
+    ]
   },
   {
     "tag_name": "swim trunks",
-    "related_tags": []
+    "related_tags": [
+      "swim+海パン"
+    ]
   },
   {
     "tag_name": "adjusting swimsuit",
@@ -67487,7 +76447,9 @@ return [
   },
   {
     "tag_name": "bikini top lift",
-    "related_tags": []
+    "related_tags": [
+      "bikini+曲独楽+エレベータ"
+    ]
   },
   {
     "tag_name": "bikini top only",
@@ -67497,11 +76459,15 @@ return [
   },
   {
     "tag_name": "hand under swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "一臂+下+水泳着"
+    ]
   },
   {
     "tag_name": "impossible swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "見果てぬ+水泳着"
+    ]
   },
   {
     "tag_name": "swim cap",
@@ -67511,7 +76477,9 @@ return [
   },
   {
     "tag_name": "swimsuit costume",
-    "related_tags": []
+    "related_tags": [
+      "水泳着+衣裳"
+    ]
   },
   {
     "tag_name": "swimsuit under clothes",
@@ -67521,11 +76489,15 @@ return [
   },
   {
     "tag_name": "swimsuit cover-up",
-    "related_tags": []
+    "related_tags": [
+      "水泳着+堰板+up"
+    ]
   },
   {
     "tag_name": "torn swimsuit",
-    "related_tags": []
+    "related_tags": [
+      "torn+水泳着"
+    ]
   },
   {
     "tag_name": "Kamov Ka-27",
@@ -67957,7 +76929,9 @@ return [
   },
   {
     "tag_name": "Gynoid Talk",
-    "related_tags": []
+    "related_tags": [
+      "ガイノイド+御喋り"
+    ]
   },
   {
     "tag_name": "TalkEx",
@@ -67979,7 +76953,9 @@ return [
   },
   {
     "tag_name": "Seiren Voice",
-    "related_tags": []
+    "related_tags": [
+      "seiren+一声"
+    ]
   },
   {
     "tag_name": "anal beads",
@@ -67989,7 +76965,9 @@ return [
   },
   {
     "tag_name": "artificial ass",
-    "related_tags": []
+    "related_tags": [
+      "作為的+太もも"
+    ]
   },
   {
     "tag_name": "tenga",
@@ -68015,7 +76993,9 @@ return [
   },
   {
     "tag_name": "cock ring",
-    "related_tags": []
+    "related_tags": [
+      "稲むら+一味"
+    ]
   },
   {
     "tag_name": "dildo",
@@ -68031,19 +77011,27 @@ return [
   },
   {
     "tag_name": "huge dildo",
-    "related_tags": []
+    "related_tags": [
+      "偉+淫具"
+    ]
   },
   {
     "tag_name": "dragon dildo",
-    "related_tags": []
+    "related_tags": [
+      "dragon+淫具"
+    ]
   },
   {
     "tag_name": "horse dildo",
-    "related_tags": []
+    "related_tags": [
+      "駒+淫具"
+    ]
   },
   {
     "tag_name": "spiked dildo",
-    "related_tags": []
+    "related_tags": [
+      "花穂+淫具"
+    ]
   },
   {
     "tag_name": "strap-on",
@@ -68053,27 +77041,39 @@ return [
   },
   {
     "tag_name": "suction cup dildo",
-    "related_tags": []
+    "related_tags": [
+      "吸い込み+ホール+淫具"
+    ]
   },
   {
     "tag_name": "dildo riding",
-    "related_tags": []
+    "related_tags": [
+      "淫具+御召"
+    ]
   },
   {
     "tag_name": "dildo gag",
-    "related_tags": []
+    "related_tags": [
+      "淫具+一発芸"
+    ]
   },
   {
     "tag_name": "mask challenge (meme)",
-    "related_tags": []
+    "related_tags": [
+      "仮面+課題+(meme)"
+    ]
   },
   {
     "tag_name": "dildo harness",
-    "related_tags": []
+    "related_tags": [
+      "淫具+上敷"
+    ]
   },
   {
     "tag_name": "dildo under panties",
-    "related_tags": []
+    "related_tags": [
+      "淫具+下+ショーツ"
+    ]
   },
   {
     "tag_name": "prostate massager",
@@ -68089,7 +77089,9 @@ return [
   },
   {
     "tag_name": "clitoris pump",
-    "related_tags": []
+    "related_tags": [
+      "陰核+喞筒"
+    ]
   },
   {
     "tag_name": "sex machine",
@@ -68099,7 +77101,9 @@ return [
   },
   {
     "tag_name": "sex toy",
-    "related_tags": []
+    "related_tags": [
+      "性玩具"
+    ]
   },
   {
     "tag_name": "catheter",
@@ -68109,11 +77113,15 @@ return [
   },
   {
     "tag_name": "urethral beads",
-    "related_tags": []
+    "related_tags": [
+      "urethral+ビーズ"
+    ]
   },
   {
     "tag_name": "too many sex toys",
-    "related_tags": []
+    "related_tags": [
+      "復+壱百萬+営み+玩具"
+    ]
   },
   {
     "tag_name": "vibrator",
@@ -68123,11 +77131,15 @@ return [
   },
   {
     "tag_name": "rabbit vibrator",
-    "related_tags": []
+    "related_tags": [
+      "占め子+振動子"
+    ]
   },
   {
     "tag_name": "butterfly vibrator",
-    "related_tags": []
+    "related_tags": [
+      "胡蝶+振動子"
+    ]
   },
   {
     "tag_name": "egg vibrator",
@@ -68159,19 +77171,27 @@ return [
   },
   {
     "tag_name": "vibrator under clothes",
-    "related_tags": []
+    "related_tags": [
+      "振動子+下+衣服"
+    ]
   },
   {
     "tag_name": "vibrator in leg garter",
-    "related_tags": []
+    "related_tags": [
+      "振動子+in+脚+ガーター"
+    ]
   },
   {
     "tag_name": "vibrator in thighhighs",
-    "related_tags": []
+    "related_tags": [
+      "振動子+in+thighhighs"
+    ]
   },
   {
     "tag_name": "vibrator in thigh strap",
-    "related_tags": []
+    "related_tags": [
+      "振動子+in+股+緒"
+    ]
   },
   {
     "tag_name": "vibrator under panties",
@@ -68181,19 +77201,27 @@ return [
   },
   {
     "tag_name": "vibrator under pantyhose",
-    "related_tags": []
+    "related_tags": [
+      "振動子+下+pantyhose"
+    ]
   },
   {
     "tag_name": "vibrator on nipple",
-    "related_tags": []
+    "related_tags": [
+      "振動子+on+乳首"
+    ]
   },
   {
     "tag_name": "vibrator in anus",
-    "related_tags": []
+    "related_tags": [
+      "振動子+in+菊座"
+    ]
   },
   {
     "tag_name": "vibrator on penis",
-    "related_tags": []
+    "related_tags": [
+      "振動子+on+一物"
+    ]
   },
   {
     "tag_name": "chain",
@@ -68221,11 +77249,15 @@ return [
   },
   {
     "tag_name": "nipple clamps",
-    "related_tags": []
+    "related_tags": [
+      "乳首+締め金"
+    ]
   },
   {
     "tag_name": "tongue clamp",
-    "related_tags": []
+    "related_tags": [
+      "舌+締め金"
+    ]
   },
   {
     "tag_name": "cuffs",
@@ -68247,7 +77279,9 @@ return [
   },
   {
     "tag_name": "hobble",
-    "related_tags": []
+    "related_tags": [
+      "足かせ"
+    ]
   },
   {
     "tag_name": "gag",
@@ -68281,11 +77315,15 @@ return [
   },
   {
     "tag_name": "plug gag",
-    "related_tags": []
+    "related_tags": [
+      "差し込み+一発芸"
+    ]
   },
   {
     "tag_name": "ring gag",
-    "related_tags": []
+    "related_tags": [
+      "一味+一発芸"
+    ]
   },
   {
     "tag_name": "tape gag",
@@ -68295,15 +77333,21 @@ return [
   },
   {
     "tag_name": "leash",
-    "related_tags": []
+    "related_tags": [
+      "革ひも"
+    ]
   },
   {
     "tag_name": "leash on penis",
-    "related_tags": []
+    "related_tags": [
+      "革ひも+on+一物"
+    ]
   },
   {
     "tag_name": "nipple leash",
-    "related_tags": []
+    "related_tags": [
+      "乳首+革ひも"
+    ]
   },
   {
     "tag_name": "nose hook",
@@ -68319,7 +77363,9 @@ return [
   },
   {
     "tag_name": "stocks",
-    "related_tags": []
+    "related_tags": [
+      "現品"
+    ]
   },
   {
     "tag_name": "crotch rope",
@@ -68347,7 +77393,9 @@ return [
   },
   {
     "tag_name": "judas cradle",
-    "related_tags": []
+    "related_tags": [
+      "judas+発祥の地"
+    ]
   },
   {
     "tag_name": "aphrodisiac",
@@ -68363,11 +77411,15 @@ return [
   },
   {
     "tag_name": "lotion bottle",
-    "related_tags": []
+    "related_tags": [
+      "付け薬+瓶"
+    ]
   },
   {
     "tag_name": "lube",
-    "related_tags": []
+    "related_tags": [
+      "潤滑油"
+    ]
   },
   {
     "tag_name": "ships",
@@ -68571,7 +77623,9 @@ return [
   },
   {
     "tag_name": "Kamikaze",
-    "related_tags": []
+    "related_tags": [
+      "神風"
+    ]
   },
   {
     "tag_name": "Kasumi",
@@ -69265,23 +78319,33 @@ return [
   },
   {
     "tag_name": "USS Constitution",
-    "related_tags": []
+    "related_tags": [
+      "u+会則"
+    ]
   },
   {
     "tag_name": "USS Monitor",
-    "related_tags": []
+    "related_tags": [
+      "u+監視局"
+    ]
   },
   {
     "tag_name": "USS Powhatan",
-    "related_tags": []
+    "related_tags": [
+      "u+powhatan"
+    ]
   },
   {
     "tag_name": "RMS Queen Elizabeth",
-    "related_tags": []
+    "related_tags": [
+      "回復管理機能+王后+elizabeth"
+    ]
   },
   {
     "tag_name": "RMS Queen Mary",
-    "related_tags": []
+    "related_tags": [
+      "回復管理機能+王后+mary"
+    ]
   },
   {
     "tag_name": "RMS Titanic",
@@ -69319,11 +78383,15 @@ return [
   },
   {
     "tag_name": "Life vest",
-    "related_tags": []
+    "related_tags": [
+      "救命胴衣"
+    ]
   },
   {
     "tag_name": "Watercraft",
-    "related_tags": []
+    "related_tags": [
+      "舟"
+    ]
   },
   {
     "tag_name": "Warship",
@@ -69411,7 +78479,9 @@ return [
   },
   {
     "tag_name": "China lake",
-    "related_tags": []
+    "related_tags": [
+      "蟲国+湖"
+    ]
   },
   {
     "tag_name": "Denel paw-20",
@@ -69435,7 +78505,9 @@ return [
   },
   {
     "tag_name": "Underbarrel grenade launcher",
-    "related_tags": []
+    "related_tags": [
+      "underbarrel+手りゅう弾+発射筒"
+    ]
   },
   {
     "tag_name": "Gp-25",
@@ -69457,7 +78529,9 @@ return [
   },
   {
     "tag_name": "Anti-tank mine",
-    "related_tags": []
+    "related_tags": [
+      "anti+舟+機雷"
+    ]
   },
   {
     "tag_name": "Lunge mine",
@@ -69473,7 +78547,9 @@ return [
   },
   {
     "tag_name": "Naval mine",
-    "related_tags": []
+    "related_tags": [
+      "naval+機雷"
+    ]
   },
   {
     "tag_name": "Nuclear weapon",
@@ -69483,7 +78559,9 @@ return [
   },
   {
     "tag_name": "Fat Man (Fallout)",
-    "related_tags": []
+    "related_tags": [
+      "膏+牡+(fallout)"
+    ]
   },
   {
     "tag_name": "Hydra 70",
@@ -69579,11 +78657,15 @@ return [
   },
   {
     "tag_name": "TOW ATGM",
-    "related_tags": []
+    "related_tags": [
+      "麻屑+atgm"
+    ]
   },
   {
     "tag_name": "Multishot rocket launcher",
-    "related_tags": []
+    "related_tags": [
+      "multishot+火箭+発射筒"
+    ]
   },
   {
     "tag_name": "M202 FLASH",
@@ -69599,7 +78681,9 @@ return [
   },
   {
     "tag_name": "Antique firearm",
-    "related_tags": []
+    "related_tags": [
+      "旧い+銃火器"
+    ]
   },
   {
     "tag_name": "Arquebus",
@@ -69674,7 +78758,7 @@ return [
   {
     "tag_name": "Dp-27",
     "related_tags": [
-      "DP-28"
+      "DP28軽機関銃"
     ]
   },
   {
@@ -69855,7 +78939,9 @@ return [
   },
   {
     "tag_name": "FK BRNO field pistol",
-    "related_tags": []
+    "related_tags": [
+      "fk+brno+競技場+拳銃"
+    ]
   },
   {
     "tag_name": "Desert eagle",
@@ -69865,7 +78951,9 @@ return [
   },
   {
     "tag_name": "FN Five-seveN",
-    "related_tags": []
+    "related_tags": [
+      "fn+五+七"
+    ]
   },
   {
     "tag_name": "Fn model 1903",
@@ -69963,7 +79051,9 @@ return [
   },
   {
     "tag_name": "Serdyukov sps",
-    "related_tags": []
+    "related_tags": [
+      "serdyukov+SP"
+    ]
   },
   {
     "tag_name": "Sig sauer",
@@ -69992,12 +79082,14 @@ return [
   {
     "tag_name": "Tokarev tt-33",
     "related_tags": [
-      "TT-33"
+      "ТТ"
     ]
   },
   {
     "tag_name": "Triple Action Thunder",
-    "related_tags": []
+    "related_tags": [
+      "三重+為業+神"
+    ]
   },
   {
     "tag_name": "Walther p38",
@@ -70039,11 +79131,15 @@ return [
   },
   {
     "tag_name": "Pepperbox revolver",
-    "related_tags": []
+    "related_tags": [
+      "pepperbox+回転式拳銃"
+    ]
   },
   {
     "tag_name": "Single-action revolver",
-    "related_tags": []
+    "related_tags": [
+      "単+為業+回転式拳銃"
+    ]
   },
   {
     "tag_name": "Colt Single Action Army",
@@ -70053,7 +79149,9 @@ return [
   },
   {
     "tag_name": "Remington new model",
-    "related_tags": []
+    "related_tags": [
+      "remington+見ず知らず+下敷"
+    ]
   },
   {
     "tag_name": "Smith & Wesson Model 500",
@@ -70146,7 +79244,7 @@ return [
   {
     "tag_name": "Aks-74u",
     "related_tags": [
-      "AKS-74U"
+      "АКС-74У"
     ]
   },
   {
@@ -70171,7 +79269,9 @@ return [
   },
   {
     "tag_name": "APS rifle",
-    "related_tags": []
+    "related_tags": [
+      "aps+銃"
+    ]
   },
   {
     "tag_name": "As val",
@@ -70199,12 +79299,14 @@ return [
   },
   {
     "tag_name": "Fad assault rifle",
-    "related_tags": []
+    "related_tags": [
+      "時好+殴り込み+銃"
+    ]
   },
   {
     "tag_name": "Famas",
     "related_tags": [
-      "FA-MAS"
+      "ファマス"
     ]
   },
   {
@@ -70228,7 +79330,7 @@ return [
   {
     "tag_name": "Fn scar",
     "related_tags": [
-      "SCAR-H"
+      "SCAR"
     ]
   },
   {
@@ -70302,7 +79404,7 @@ return [
   {
     "tag_name": "Qbz-95",
     "related_tags": [
-      "QBZ-95"
+      "95式自動歩槍"
     ]
   },
   {
@@ -70478,7 +79580,7 @@ return [
   {
     "tag_name": "Gewehr 43",
     "related_tags": [
-      "G43/K43"
+      "ワルサーGew43半自動小銃"
     ]
   },
   {
@@ -70536,7 +79638,7 @@ return [
   {
     "tag_name": "Psl romak",
     "related_tags": [
-      "PSL-54C"
+      "PSL"
     ]
   },
   {
@@ -70567,7 +79669,9 @@ return [
   },
   {
     "tag_name": "Lever action",
-    "related_tags": []
+    "related_tags": [
+      "梃+為業"
+    ]
   },
   {
     "tag_name": "Mare's leg",
@@ -70615,12 +79719,14 @@ return [
   },
   {
     "tag_name": "Sawed-off shotgun",
-    "related_tags": []
+    "related_tags": [
+      "鋸+off+散弾銃"
+    ]
   },
   {
     "tag_name": "Spas-12",
     "related_tags": [
-      "SPAS-12"
+      "スパス12"
     ]
   },
   {
@@ -70651,7 +79757,9 @@ return [
   },
   {
     "tag_name": "Calico smg",
-    "related_tags": []
+    "related_tags": [
+      "金巾+smg"
+    ]
   },
   {
     "tag_name": "CBJ-MS",
@@ -70659,7 +79767,9 @@ return [
   },
   {
     "tag_name": "Colt SMG",
-    "related_tags": []
+    "related_tags": [
+      "仔馬+smg"
+    ]
   },
   {
     "tag_name": "Jatimatic",
@@ -70782,7 +79892,7 @@ return [
   {
     "tag_name": "Pp-19 bizon",
     "related_tags": [
-      "PP-19"
+      "ПП-19"
     ]
   },
   {
@@ -70794,7 +79904,7 @@ return [
   {
     "tag_name": "Ppsh-41",
     "related_tags": [
-      "PPSh-41"
+      "ППШ"
     ]
   },
   {
@@ -70805,7 +79915,9 @@ return [
   },
   {
     "tag_name": "Sterling smg",
-    "related_tags": []
+    "related_tags": [
+      "スターリング+smg"
+    ]
   },
   {
     "tag_name": "Steyr tmp",
@@ -70843,7 +79955,9 @@ return [
   },
   {
     "tag_name": "Directed-energy weapons",
-    "related_tags": []
+    "related_tags": [
+      "有向+威勢+剣戟"
+    ]
   },
   {
     "tag_name": "Laser",
@@ -70853,7 +79967,9 @@ return [
   },
   {
     "tag_name": "Laser rifle",
-    "related_tags": []
+    "related_tags": [
+      "レーザ+銃"
+    ]
   },
   {
     "tag_name": "Mikuru beam",
@@ -70869,7 +79985,9 @@ return [
   },
   {
     "tag_name": "Plasma rifle",
-    "related_tags": []
+    "related_tags": [
+      "血しょう+銃"
+    ]
   },
   {
     "tag_name": "Ray gun",
@@ -70891,7 +80009,9 @@ return [
   },
   {
     "tag_name": "Ball and chain",
-    "related_tags": []
+    "related_tags": [
+      "球+以って+鎖"
+    ]
   },
   {
     "tag_name": "Baton",
@@ -70901,7 +80021,9 @@ return [
   },
   {
     "tag_name": "Expandable baton",
-    "related_tags": []
+    "related_tags": [
+      "伸縮自在+警棒"
+    ]
   },
   {
     "tag_name": "Kanabou",
@@ -70911,7 +80033,9 @@ return [
   },
   {
     "tag_name": "Double-blade",
-    "related_tags": []
+    "related_tags": [
+      "陰武者+一刀"
+    ]
   },
   {
     "tag_name": "Flail",
@@ -70921,7 +80045,9 @@ return [
   },
   {
     "tag_name": "Spiked Ball and Chain",
-    "related_tags": []
+    "related_tags": [
+      "花穂+球+以って+鎖"
+    ]
   },
   {
     "tag_name": "Gunblade",
@@ -70997,7 +80123,9 @@ return [
   },
   {
     "tag_name": "Polearm",
-    "related_tags": []
+    "related_tags": [
+      "金鍔"
+    ]
   },
   {
     "tag_name": "Glaive",
@@ -71079,7 +80207,9 @@ return [
   },
   {
     "tag_name": "Long sword",
-    "related_tags": []
+    "related_tags": [
+      "太刀"
+    ]
   },
   {
     "tag_name": "Kriegsmesser",
@@ -71087,7 +80217,9 @@ return [
   },
   {
     "tag_name": "Blade",
-    "related_tags": []
+    "related_tags": [
+      "一刀"
+    ]
   },
   {
     "tag_name": "Concealed weapon",
@@ -71101,7 +80233,9 @@ return [
   },
   {
     "tag_name": "Dao",
-    "related_tags": []
+    "related_tags": [
+      "ダオ"
+    ]
   },
   {
     "tag_name": "Katana",
@@ -71207,7 +80341,9 @@ return [
   },
   {
     "tag_name": "Crystal sword",
-    "related_tags": []
+    "related_tags": [
+      "玉瑛+一刀"
+    ]
   },
   {
     "tag_name": "Energy sword",
@@ -71233,7 +80369,9 @@ return [
   },
   {
     "tag_name": "Windfire wheel",
-    "related_tags": []
+    "related_tags": [
+      "windfire+回し車"
+    ]
   },
   {
     "tag_name": "Three section staff",
@@ -71249,7 +80387,9 @@ return [
   },
   {
     "tag_name": "Wooden sword",
-    "related_tags": []
+    "related_tags": [
+      "木剣"
+    ]
   },
   {
     "tag_name": "Bokken",
@@ -71271,7 +80411,9 @@ return [
   },
   {
     "tag_name": "Arrow",
-    "related_tags": []
+    "related_tags": [
+      "射"
+    ]
   },
   {
     "tag_name": "Yumi (bow)",
@@ -71335,7 +80477,9 @@ return [
   },
   {
     "tag_name": "Spiked knuckles",
-    "related_tags": []
+    "related_tags": [
+      "花穂+拳骨"
+    ]
   },
   {
     "tag_name": "Chainsaw",
@@ -71369,7 +80513,9 @@ return [
   },
   {
     "tag_name": "Improvised weapon",
-    "related_tags": []
+    "related_tags": [
+      "俄+干戈"
+    ]
   },
   {
     "tag_name": "Lead pipe",
@@ -71397,7 +80543,9 @@ return [
   },
   {
     "tag_name": "Aegis Sword (xenoblade)",
-    "related_tags": []
+    "related_tags": [
+      "aegis+一刀+(xenoblade)"
+    ]
   },
   {
     "tag_name": "Aestus estus",
@@ -71409,7 +80557,9 @@ return [
   },
   {
     "tag_name": "Alternator",
-    "related_tags": []
+    "related_tags": [
+      "交流電源"
+    ]
   },
   {
     "tag_name": "Ame-no-nuhoko",
@@ -71417,7 +80567,9 @@ return [
   },
   {
     "tag_name": "Arc Star",
-    "related_tags": []
+    "related_tags": [
+      "円弧+巨擘"
+    ]
   },
   {
     "tag_name": "Argetlahm",
@@ -71467,11 +80619,15 @@ return [
   },
   {
     "tag_name": "Berry sword",
-    "related_tags": []
+    "related_tags": [
+      "果実+一刀"
+    ]
   },
   {
     "tag_name": "Biwon Blade",
-    "related_tags": []
+    "related_tags": [
+      "biwon+一刀"
+    ]
   },
   {
     "tag_name": "Blazefire Saber",
@@ -71481,7 +80637,9 @@ return [
   },
   {
     "tag_name": "Blood sword",
-    "related_tags": []
+    "related_tags": [
+      "血+一刀"
+    ]
   },
   {
     "tag_name": "Bolter",
@@ -71495,7 +80653,9 @@ return [
   },
   {
     "tag_name": "Butterfly Knife",
-    "related_tags": []
+    "related_tags": [
+      "バタフライ・ナイフ"
+    ]
   },
   {
     "tag_name": "C.A.R. SMG",
@@ -71517,19 +80677,27 @@ return [
   },
   {
     "tag_name": "Charge Rifle",
-    "related_tags": []
+    "related_tags": [
+      "委任+銃"
+    ]
   },
   {
     "tag_name": "Clima-tact",
-    "related_tags": []
+    "related_tags": [
+      "clima+遠慮"
+    ]
   },
   {
     "tag_name": "Cold Steel",
-    "related_tags": []
+    "related_tags": [
+      "寒+鋼"
+    ]
   },
   {
     "tag_name": "Crescent rose",
-    "related_tags": []
+    "related_tags": [
+      "彎月+薔薇"
+    ]
   },
   {
     "tag_name": "Crocea mors (rwby)",
@@ -71537,27 +80705,39 @@ return [
   },
   {
     "tag_name": "Cure fleuret",
-    "related_tags": []
+    "related_tags": [
+      "治+fleuret"
+    ]
   },
   {
     "tag_name": "Dead Man's Curve",
-    "related_tags": []
+    "related_tags": [
+      "死に+man's+曲がり目"
+    ]
   },
   {
     "tag_name": "Death Hammer",
-    "related_tags": []
+    "related_tags": [
+      "死生+金づち"
+    ]
   },
   {
     "tag_name": "Deep aqua mirror",
-    "related_tags": []
+    "related_tags": [
+      "奥がふかい+水色+亀鑑"
+    ]
   },
   {
     "tag_name": "Devil bringer",
-    "related_tags": []
+    "related_tags": [
+      "悪鬼+bringer"
+    ]
   },
   {
     "tag_name": "Dividing driver",
-    "related_tags": []
+    "related_tags": [
+      "dividing+運ちゃん"
+    ]
   },
   {
     "tag_name": "Dominator (gun)",
@@ -71581,11 +80761,15 @@ return [
   },
   {
     "tag_name": "Ebony & ivory",
-    "related_tags": []
+    "related_tags": [
+      "烏文木+&+牙"
+    ]
   },
   {
     "tag_name": "Ember celica (rwby)",
-    "related_tags": []
+    "related_tags": [
+      "種火+celica+(rwby)"
+    ]
   },
   {
     "tag_name": "Ensis exorcizans",
@@ -71609,7 +80793,9 @@ return [
   },
   {
     "tag_name": "Excalibur galatine",
-    "related_tags": []
+    "related_tags": [
+      "エクスカリバー+galatine"
+    ]
   },
   {
     "tag_name": "Excalibolg",
@@ -71617,7 +80803,9 @@ return [
   },
   {
     "tag_name": "Fantastic belltier",
-    "related_tags": []
+    "related_tags": [
+      "悪い+belltier"
+    ]
   },
   {
     "tag_name": "First ken",
@@ -71633,15 +80821,21 @@ return [
   },
   {
     "tag_name": "Flower tact",
-    "related_tags": []
+    "related_tags": [
+      "花+遠慮"
+    ]
   },
   {
     "tag_name": "Force Edge",
-    "related_tags": []
+    "related_tags": [
+      "圧+縁"
+    ]
   },
   {
     "tag_name": "Fuel Rod Cannon",
-    "related_tags": []
+    "related_tags": [
+      "薪+竿+加農砲"
+    ]
   },
   {
     "tag_name": "G7 Scout",
@@ -71667,7 +80861,9 @@ return [
   },
   {
     "tag_name": "Gambol shroud",
-    "related_tags": []
+    "related_tags": [
+      "gambol+掩い"
+    ]
   },
   {
     "tag_name": "Garnet rod",
@@ -71677,7 +80873,9 @@ return [
   },
   {
     "tag_name": "Goldion hammer",
-    "related_tags": []
+    "related_tags": [
+      "goldion+金づち"
+    ]
   },
   {
     "tag_name": "Graf eisen",
@@ -71685,15 +80883,21 @@ return [
   },
   {
     "tag_name": "Gravity Hammer",
-    "related_tags": []
+    "related_tags": [
+      "威厳+金づち"
+    ]
   },
   {
     "tag_name": "Great knife",
-    "related_tags": []
+    "related_tags": [
+      "偉い+出刃"
+    ]
   },
   {
     "tag_name": "HAVOC Energy Rifle",
-    "related_tags": []
+    "related_tags": [
+      "惨害+威勢+銃"
+    ]
   },
   {
     "tag_name": "Hemlok",
@@ -71715,7 +80919,9 @@ return [
   },
   {
     "tag_name": "L-STAR",
-    "related_tags": []
+    "related_tags": [
+      "l+巨擘"
+    ]
   },
   {
     "tag_name": "Laevatein",
@@ -71735,7 +80941,9 @@ return [
   },
   {
     "tag_name": "Love guitar rod",
-    "related_tags": []
+    "related_tags": [
+      "愛+ギター+竿"
+    ]
   },
   {
     "tag_name": "Luck and Pluck",
@@ -71829,11 +81037,15 @@ return [
   },
   {
     "tag_name": "Milo and akouo",
-    "related_tags": []
+    "related_tags": [
+      "ミロ+以って+akouo"
+    ]
   },
   {
     "tag_name": "Miracle belltier",
-    "related_tags": []
+    "related_tags": [
+      "奇跡+belltier"
+    ]
   },
   {
     "tag_name": "Mjolnir",
@@ -71863,7 +81075,9 @@ return [
   },
   {
     "tag_name": "Nail (Hollow Knight)",
-    "related_tags": []
+    "related_tags": [
+      "釘+(hollow+knight)"
+    ]
   },
   {
     "tag_name": "Needler",
@@ -71891,7 +81105,9 @@ return [
   },
   {
     "tag_name": "Passion harp",
-    "related_tags": []
+    "related_tags": [
+      "愛慾+竪琴"
+    ]
   },
   {
     "tag_name": "Peacekeeper (shotgun)",
@@ -71901,19 +81117,27 @@ return [
   },
   {
     "tag_name": "Peach rod",
-    "related_tags": []
+    "related_tags": [
+      "ピーチ+竿"
+    ]
   },
   {
     "tag_name": "Pine flute",
-    "related_tags": []
+    "related_tags": [
+      "翁草+笛"
+    ]
   },
   {
     "tag_name": "Plasma Grenade (Halo)",
-    "related_tags": []
+    "related_tags": [
+      "血しょう+手りゅう弾+(halo)"
+    ]
   },
   {
     "tag_name": "Prowler SMG",
-    "related_tags": []
+    "related_tags": [
+      "空き巣+smg"
+    ]
   },
   {
     "tag_name": "R-101C Carbine",
@@ -71939,23 +81163,33 @@ return [
   },
   {
     "tag_name": "Raising heart",
-    "related_tags": []
+    "related_tags": [
+      "育て+意気"
+    ]
   },
   {
     "tag_name": "Rampage LMG",
-    "related_tags": []
+    "related_tags": [
+      "暴走+lmg"
+    ]
   },
   {
     "tag_name": "Raven's Bite",
-    "related_tags": []
+    "related_tags": [
+      "raven's+一飲み"
+    ]
   },
   {
     "tag_name": "Rebellion",
-    "related_tags": []
+    "related_tags": [
+      "騒動"
+    ]
   },
   {
     "tag_name": "Red Queen",
-    "related_tags": []
+    "related_tags": [
+      "赭い+王后"
+    ]
   },
   {
     "tag_name": "Rulebreaker",
@@ -71973,7 +81207,9 @@ return [
   },
   {
     "tag_name": "Sentinel ESR",
-    "related_tags": []
+    "related_tags": [
+      "衛兵+赤血球沈降速度"
+    ]
   },
   {
     "tag_name": "Seven-branched sword",
@@ -71989,7 +81225,9 @@ return [
   },
   {
     "tag_name": "Shiny tambourine",
-    "related_tags": []
+    "related_tags": [
+      "艶やか+タンバリン"
+    ]
   },
   {
     "tag_name": "Sica shishikushiro",
@@ -71997,7 +81235,9 @@ return [
   },
   {
     "tag_name": "Silence glaive",
-    "related_tags": []
+    "related_tags": [
+      "音なし+glaive"
+    ]
   },
   {
     "tag_name": "Soulcalibur",
@@ -72005,7 +81245,9 @@ return [
   },
   {
     "tag_name": "Soul Edge",
-    "related_tags": []
+    "related_tags": [
+      "気骨+縁"
+    ]
   },
   {
     "tag_name": "Sparda",
@@ -72029,7 +81271,9 @@ return [
   },
   {
     "tag_name": "Sword of hisou",
-    "related_tags": []
+    "related_tags": [
+      "一刀+of+hisou"
+    ]
   },
   {
     "tag_name": "Sword of kusanagi",
@@ -72039,15 +81283,21 @@ return [
   },
   {
     "tag_name": "Sword of resonance",
-    "related_tags": []
+    "related_tags": [
+      "一刀+of+共振"
+    ]
   },
   {
     "tag_name": "Triple Take",
-    "related_tags": []
+    "related_tags": [
+      "三重+取れ高"
+    ]
   },
   {
     "tag_name": "True apocrypha",
-    "related_tags": []
+    "related_tags": [
+      "実の+アポクリファ"
+    ]
   },
   {
     "tag_name": "Type-1 Energy Sword",
@@ -72067,11 +81317,15 @@ return [
   },
   {
     "tag_name": "Volt SMG",
-    "related_tags": []
+    "related_tags": [
+      "ボルト+smg"
+    ]
   },
   {
     "tag_name": "War Club",
-    "related_tags": []
+    "related_tags": [
+      "干戈+会"
+    ]
   },
   {
     "tag_name": "Wraith's Kunai",
@@ -72113,7 +81367,9 @@ return [
   },
   {
     "tag_name": "Bullet hole",
-    "related_tags": []
+    "related_tags": [
+      "銃弾跡"
+    ]
   },
   {
     "tag_name": "Cannonball",
@@ -72129,7 +81385,9 @@ return [
   },
   {
     "tag_name": "Clip",
-    "related_tags": []
+    "related_tags": [
+      "刈"
+    ]
   },
   {
     "tag_name": "Magazine (weapon)",
@@ -72139,7 +81397,9 @@ return [
   },
   {
     "tag_name": "Box magazine",
-    "related_tags": []
+    "related_tags": [
+      "囲み+火薬庫"
+    ]
   },
   {
     "tag_name": "Drum magazine",
@@ -72149,15 +81409,21 @@ return [
   },
   {
     "tag_name": "Dual drum magazine",
-    "related_tags": []
+    "related_tags": [
+      "二元的+太鼓+火薬庫"
+    ]
   },
   {
     "tag_name": "Extended magazine",
-    "related_tags": []
+    "related_tags": [
+      "extended+火薬庫"
+    ]
   },
   {
     "tag_name": "Magazine ejection",
-    "related_tags": []
+    "related_tags": [
+      "火薬庫+射出"
+    ]
   },
   {
     "tag_name": "Shell casing",
@@ -72173,11 +81439,15 @@ return [
   },
   {
     "tag_name": "Smoking gun",
-    "related_tags": []
+    "related_tags": [
+      "動かぬ証拠"
+    ]
   },
   {
     "tag_name": "Cqc",
-    "related_tags": []
+    "related_tags": [
+      "近接格闘"
+    ]
   },
   {
     "tag_name": "Eotech",
@@ -72185,15 +81455,21 @@ return [
   },
   {
     "tag_name": "Flared muzzle",
-    "related_tags": []
+    "related_tags": [
+      "フレア+口かせ"
+    ]
   },
   {
     "tag_name": "Glowing weapon",
-    "related_tags": []
+    "related_tags": [
+      "赫奕+干戈"
+    ]
   },
   {
     "tag_name": "Holding weapon",
-    "related_tags": []
+    "related_tags": [
+      "握把+干戈"
+    ]
   },
   {
     "tag_name": "Holster",
@@ -72209,15 +81485,21 @@ return [
   },
   {
     "tag_name": "Laser sight",
-    "related_tags": []
+    "related_tags": [
+      "レーザ+一寸見"
+    ]
   },
   {
     "tag_name": "Locked slide",
-    "related_tags": []
+    "related_tags": [
+      "掛け金+滑り台"
+    ]
   },
   {
     "tag_name": "Mexican standoff",
-    "related_tags": []
+    "related_tags": [
+      "メキシカン+睨み合い"
+    ]
   },
   {
     "tag_name": "Muzzle flash",
@@ -72227,7 +81509,9 @@ return [
   },
   {
     "tag_name": "Ported barrel",
-    "related_tags": []
+    "related_tags": [
+      "海港+樽"
+    ]
   },
   {
     "tag_name": "Quiver",
@@ -72237,11 +81521,15 @@ return [
   },
   {
     "tag_name": "Cocking gun",
-    "related_tags": []
+    "related_tags": [
+      "稲むら+銃"
+    ]
   },
   {
     "tag_name": "Ready to draw",
-    "related_tags": []
+    "related_tags": [
+      "佳い+to+看板"
+    ]
   },
   {
     "tag_name": "Roboteching",
@@ -72249,7 +81537,9 @@ return [
   },
   {
     "tag_name": "Scope",
-    "related_tags": []
+    "related_tags": [
+      "規模"
+    ]
   },
   {
     "tag_name": "Sheath",
@@ -72265,7 +81555,9 @@ return [
   },
   {
     "tag_name": "Holding sheath",
-    "related_tags": []
+    "related_tags": [
+      "握把+鞘"
+    ]
   },
   {
     "tag_name": "Shooting range",
@@ -72275,7 +81567,9 @@ return [
   },
   {
     "tag_name": "Trigger discipline",
-    "related_tags": []
+    "related_tags": [
+      "火種+科罰"
+    ]
   },
   {
     "tag_name": "neta",
@@ -72295,7 +81589,9 @@ return [
   },
   {
     "tag_name": "kai-awase",
-    "related_tags": []
+    "related_tags": [
+      "甲斐犬+awase"
+    ]
   },
   {
     "tag_name": "settlers of catan",
@@ -72305,11 +81601,15 @@ return [
   },
   {
     "tag_name": "board",
-    "related_tags": []
+    "related_tags": [
+      "委員会"
+    ]
   },
   {
     "tag_name": "chessboard",
-    "related_tags": []
+    "related_tags": [
+      "チェス盤"
+    ]
   },
   {
     "tag_name": "cards",
@@ -72319,11 +81619,15 @@ return [
   },
   {
     "tag_name": "chess piece",
-    "related_tags": []
+    "related_tags": [
+      "西洋将棋+一かけら"
+    ]
   },
   {
     "tag_name": "living piece",
-    "related_tags": []
+    "related_tags": [
+      "衣食+一かけら"
+    ]
   },
   {
     "tag_name": "Hikaru no Go",

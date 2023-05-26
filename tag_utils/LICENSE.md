@@ -6,3 +6,6 @@ dictionary data
 を用いています。
 辞書データのライセンスはこれに準じます。
 
+また、元データから改変を行っております。
+元データ：
+https://github.com/MichinariNukazawa/lina_dicto_english/tree/master/dictionary/english

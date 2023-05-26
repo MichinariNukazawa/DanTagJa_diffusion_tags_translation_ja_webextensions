@@ -89,6 +89,31 @@ def query_try_ja_from_related_tags(related_tags):
         return rts0[0]
     return related_tags[0]
 
+
+def convertKey(key):
+    arr = [key]
+    if(3 > len(key)):
+        return arr
+
+    if key.endswith('es'):
+        arr.append(key.rstrip('es'))
+    else:
+        arr.append(key + 'es')
+    if key.endswith('s'):
+        arr.append(key.rstrip('s'))
+    else:
+        arr.append(key + 's')
+    if key.endswith('ed'):
+        arr.append(key.rstrip('ed'))
+        arr.append(key.rstrip('d'))
+    else:
+        arr.append(key + 'ed')
+    if key.endswith('ing'):
+        arr.append(key.rstrip('ing'))
+    
+    return arr
+
+
 def query_edict_simple(key):
     if 'the' == key: # 結果が「そん」で「ソニック+そん+ヘッジホッグ」みたいなことになるので...
         return None
@@ -101,24 +126,9 @@ def query_edict_simple(key):
     if 'ribbon' == key:
         return 'リボン'
     
-    if key in edict:
-        return edict[key]
-    elif 2 < len(key) and key.endswith('es'):
-        key2 = key.rstrip('es')
-        if key2 in edict:
-            return edict[key2]
-    elif 1 < len(key) and key.endswith('s'):
-        key2 = key.rstrip('s')
-        if key2 in edict:
-            return edict[key2]
-    elif 2 < len(key) and key.endswith('ed'):
-        key2 = key.rstrip('ed')
-        if key2 in edict:
-            return edict[key2]
-    elif 2 < len(key) and key.endswith('ing'):
-        key2 = key.rstrip('ing')
-        if key2 in edict:
-            return edict[key2]
+    for k in convertKey(key):
+        if k in edict:
+            return edict[k]
     return None
 
 

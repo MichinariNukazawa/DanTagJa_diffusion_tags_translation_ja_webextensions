@@ -22,23 +22,41 @@ const insertJaNodeDanbooruTag = (dictionary, node) => {
 
 	if(/[\n\r]/.test(content)) return false;
 
-	const matchesed = dictionary.queryComplexDanbooruTags(content);
+	let matchesed = dictionary.queryComplexDanbooruTags(content);
+
 	if( ! matchesed || 0 === matchesed.length ){
-		return false;
+		if( ! node.classList.contains('search-tag') ){
+			return false;
+		}else{
+			matchesed = [];
+		}
 	}
 	//console.log('match ret', content, matchesed.length);
 
 	let ja;
-	if(1 == matchesed.length){
+	let kind = ''
+	if(0 == matchesed.length){
+		kind = `?` // "<?*>"「知らないタグ」の表現(danbooruのサイト上の画像左のタグ表示にて)
+	}else if(1 == matchesed.length){
 		const rt = dictionary.queryTryJaFromRelatedTags(matchesed[0].related_tags);
-		ja = (rt) ? `<${rt}>`:'<#>'; // タグはあるが翻訳がない
-	}else{
+		if(rt){
+			ja = `<${rt}>`
+		}else{
+			kind = '#' //ja = '<#>'; // "<#*>"「タグはあるが翻訳がない」の表現
+		}
+	}
+	// 翻訳が無ければ分割で探す
+	if(! ja){
+		if(['?','#'].includes(kind)){
+			matchesed = dictionary.queryComplexSplitDanbooruTags(content);
+			if(!matchesed){ matchesed = []; }
+		}
 		const jas = matchesed.map( (matched) => {
 			if(typeof matched === 'string') return matched; // マッチしなかった場合、文字列が入っている
 			const rt = dictionary.queryTryJaFromRelatedTags(matched.related_tags);
 			return (rt) ? `${rt}`:`${matched.tag_name}`; 
 		});
-		ja = `<${jas.join('+')}>`
+		ja = `<${kind}:${jas.join('+')}>`
 	}
 	let elem = document.createElement("span");
 	elem.classList.add('dantagja__translated');
