@@ -16,7 +16,15 @@ wiki上で孤立したタグページもあるかもしれない。
 >      "カールじいさんの空飛ぶ家"
 >    ],
 > https://danbooru.donmai.us/wiki_pages/up
-なぜこうなっているのか本当に不明。
+
+まず
+```
+Ambiguous tag. For a list of tags containing up, see here.
+This tag is deprecated and can't be added to new posts.
+```
+
+ついでになぜDogsタグかといえば、DogsTagのページに「犬的なキャラ（の登場する作品一覧）」という一覧があるから。
+
 
 > multiple girls<全裸群像>
 > https://danbooru.donmai.us/wiki_pages/multiple_girls?z=1

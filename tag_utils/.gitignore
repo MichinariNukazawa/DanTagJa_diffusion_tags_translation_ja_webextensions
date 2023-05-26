@@ -1,5 +1,6 @@
 
 *.json
 
+pagecache*/
 taggroups/
 taginfos/
