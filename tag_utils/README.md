@@ -1,5 +1,8 @@
 
 
+
+----
+
 タググループの一覧ページをrootに再帰的にタグページを収集したが、実際にはタグページ下にぶら下がっているタグもあった。
 (色＋モノ等. ex."black pantyhose" https://danbooru.donmai.us/wiki_pages/black_pantyhose )
 wiki上で孤立したタグページもあるかもしれない。
