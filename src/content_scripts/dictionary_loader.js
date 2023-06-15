@@ -3068,12 +3068,6 @@ return [
     ]
   },
   {
-    "tag_name": "penis biting",
-    "related_tags": [
-      "一物+辛らつ"
-    ]
-  },
-  {
     "tag_name": "tail biting",
     "related_tags": [
       "尻っぽ+辛らつ"
@@ -3728,12 +3722,6 @@ return [
     ]
   },
   {
-    "tag_name": "licking cum",
-    "related_tags": [
-      "舐め舐め+愛液"
-    ]
-  },
-  {
     "tag_name": "licking ear",
     "related_tags": [
       "耳舐め"
@@ -3839,12 +3827,6 @@ return [
     "tag_name": "bust measuring",
     "related_tags": [
       "胸+計測"
-    ]
-  },
-  {
-    "tag_name": "penis measuring",
-    "related_tags": [
-      "下腹部定規"
     ]
   },
   {
@@ -7272,18 +7254,6 @@ return [
     ]
   },
   {
-    "tag_name": "looking at penis",
-    "related_tags": [
-      "見+at+一物"
-    ]
-  },
-  {
-    "tag_name": "looking at pussy",
-    "related_tags": [
-      "見+at+おまんこ"
-    ]
-  },
-  {
     "tag_name": "looking at crotch",
     "related_tags": [
       "見+at+股"
@@ -10020,12 +9990,6 @@ return [
     ]
   },
   {
-    "tag_name": "sextuplets",
-    "related_tags": [
-      "六つ子"
-    ]
-  },
-  {
     "tag_name": "septuplets",
     "related_tags": []
   },
@@ -11398,12 +11362,6 @@ return [
     ]
   },
   {
-    "tag_name": "Sexy",
-    "related_tags": [
-      "官能的"
-    ]
-  },
-  {
     "tag_name": "Squeezable",
     "related_tags": []
   },
@@ -12437,12 +12395,6 @@ return [
     "tag_name": "salon",
     "related_tags": [
       "奥座敷"
-    ]
-  },
-  {
-    "tag_name": "sex shop",
-    "related_tags": [
-      "アダルト・ショップ"
     ]
   },
   {
@@ -13863,12 +13815,6 @@ return [
     "tag_name": "Butt plug tail",
     "related_tags": [
       "太もも+差し込み+尻っぽ"
-    ]
-  },
-  {
-    "tag_name": "Penis tail",
-    "related_tags": [
-      "一物+尻っぽ"
     ]
   },
   {
@@ -19110,12 +19056,6 @@ return [
     ]
   },
   {
-    "tag_name": "Tim Lincecum",
-    "related_tags": [
-      "次+lincecum"
-    ]
-  },
-  {
     "tag_name": "Basketball",
     "related_tags": [
       "バスケットボール"
@@ -23892,18 +23832,6 @@ return [
     ]
   },
   {
-    "tag_name": "Pussy",
-    "related_tags": [
-      "おまんこ"
-    ]
-  },
-  {
-    "tag_name": "No pussy",
-    "related_tags": [
-      "no+おまんこ"
-    ]
-  },
-  {
     "tag_name": "Cameltoe",
     "related_tags": [
       "いいスジしてる"
@@ -23919,12 +23847,6 @@ return [
     "tag_name": "Clitoris tweak",
     "related_tags": [
       "陰核+tweak"
-    ]
-  },
-  {
-    "tag_name": "Spread pussy",
-    "related_tags": [
-      "くぱぁ"
     ]
   },
   {
@@ -23946,42 +23868,6 @@ return [
     ]
   },
   {
-    "tag_name": "Pussy peek",
-    "related_tags": [
-      "大陰唇"
-    ]
-  },
-  {
-    "tag_name": "Cum in pussy",
-    "related_tags": [
-      "中出し"
-    ]
-  },
-  {
-    "tag_name": "Cum on pussy",
-    "related_tags": [
-      "愛液+on+おまんこ"
-    ]
-  },
-  {
-    "tag_name": "Pussy juice",
-    "related_tags": [
-      "愛液"
-    ]
-  },
-  {
-    "tag_name": "Pussy juice puddle",
-    "related_tags": [
-      "おまんこ+液+水たまり"
-    ]
-  },
-  {
-    "tag_name": "Pussy juice trail",
-    "related_tags": [
-      "おまんこ+液+散歩道"
-    ]
-  },
-  {
     "tag_name": "Clitoris pull",
     "related_tags": [
       "陰核+引き"
@@ -23991,12 +23877,6 @@ return [
     "tag_name": "Clitoris torture",
     "related_tags": [
       "陰核+拷訊"
-    ]
-  },
-  {
-    "tag_name": "Sex",
-    "related_tags": [
-      "セックス"
     ]
   },
   {
@@ -24024,18 +23904,6 @@ return [
     ]
   },
   {
-    "tag_name": "Gun in pussy",
-    "related_tags": [
-      "銃+in+おまんこ"
-    ]
-  },
-  {
-    "tag_name": "Phone in pussy",
-    "related_tags": [
-      "単音+in+おまんこ"
-    ]
-  },
-  {
     "tag_name": "Clitoris piercing",
     "related_tags": [
       "クリピアス"
@@ -24045,12 +23913,6 @@ return [
     "tag_name": "Clitoris ring",
     "related_tags": [
       "陰核+一味"
-    ]
-  },
-  {
-    "tag_name": "Bandaid on pussy",
-    "related_tags": [
-      "BAN装甲"
     ]
   },
   {
@@ -27518,18 +27380,6 @@ return [
     ]
   },
   {
-    "tag_name": "panties on penis",
-    "related_tags": [
-      "パンツコキ"
-    ]
-  },
-  {
-    "tag_name": "penis in panties",
-    "related_tags": [
-      "一物+in+ショーツ"
-    ]
-  },
-  {
     "tag_name": "panties in mouth",
     "related_tags": [
       "ショーツ+in+口"
@@ -27575,18 +27425,6 @@ return [
     "tag_name": "blood on panties",
     "related_tags": [
       "血+on+ショーツ"
-    ]
-  },
-  {
-    "tag_name": "cumdrip onto panties",
-    "related_tags": [
-      "cumdrip+onto+ショーツ"
-    ]
-  },
-  {
-    "tag_name": "cum in panties",
-    "related_tags": [
-      "パンツ内射精"
     ]
   },
   {
@@ -30497,12 +30335,6 @@ return [
     "tag_name": "muscle awe",
     "related_tags": [
       "筋+畏敬"
-    ]
-  },
-  {
-    "tag_name": "penis awe",
-    "related_tags": [
-      "見せ槍"
     ]
   },
   {
@@ -37812,12 +37644,6 @@ return [
     ]
   },
   {
-    "tag_name": "hair sex",
-    "related_tags": [
-      "一髪+営み"
-    ]
-  },
-  {
     "tag_name": "kissing hair",
     "related_tags": [
       "口角力+一髪"
@@ -38338,67 +38164,7 @@ return [
     ]
   },
   {
-    "tag_name": "penis",
-    "related_tags": [
-      "ペニス"
-    ]
-  },
-  {
-    "tag_name": "animal penis",
-    "related_tags": [
-      "ケモチン"
-    ]
-  },
-  {
-    "tag_name": "dog penis",
-    "related_tags": [
-      "わん公+一物"
-    ]
-  },
-  {
-    "tag_name": "dolphin penis",
-    "related_tags": [
-      "係柱+一物"
-    ]
-  },
-  {
-    "tag_name": "horse penis",
-    "related_tags": [
-      "馬チンポ"
-    ]
-  },
-  {
-    "tag_name": "knotted penis",
-    "related_tags": [
-      "亀頭球"
-    ]
-  },
-  {
-    "tag_name": "pig penis",
-    "related_tags": [
-      "鋳塊+一物"
-    ]
-  },
-  {
-    "tag_name": "snake penis",
-    "related_tags": [
-      "ヘミペニス"
-    ]
-  },
-  {
-    "tag_name": "spiked penis",
-    "related_tags": [
-      "花穂+一物"
-    ]
-  },
-  {
     "tag_name": "bulge",
-    "related_tags": [
-      "形くっきりペニス"
-    ]
-  },
-  {
-    "tag_name": "covered penis",
     "related_tags": [
       "形くっきりペニス"
     ]
@@ -38407,12 +38173,6 @@ return [
     "tag_name": "erection under clothes",
     "related_tags": [
       "もっこり"
-    ]
-  },
-  {
-    "tag_name": "disembodied penis",
-    "related_tags": [
-      "disembodied+一物"
     ]
   },
   {
@@ -38446,39 +38206,9 @@ return [
     ]
   },
   {
-    "tag_name": "gigantic penis",
-    "related_tags": [
-      "超根"
-    ]
-  },
-  {
-    "tag_name": "huge penis",
-    "related_tags": [
-      "爆根"
-    ]
-  },
-  {
-    "tag_name": "large penis",
-    "related_tags": [
-      "巨根"
-    ]
-  },
-  {
     "tag_name": "multiple penises",
     "related_tags": [
       "チンコ包囲網"
-    ]
-  },
-  {
-    "tag_name": "small penis",
-    "related_tags": [
-      "粗ちん"
-    ]
-  },
-  {
-    "tag_name": "veiny penis",
-    "related_tags": [
-      "veiny+一物"
     ]
   },
   {
@@ -38492,10 +38222,6 @@ return [
     "related_tags": [
       "前立腺"
     ]
-  },
-  {
-    "tag_name": "pseudopenis",
-    "related_tags": []
   },
   {
     "tag_name": "stomach",
@@ -44794,12 +44520,6 @@ return [
     ]
   },
   {
-    "tag_name": "Penis sheath",
-    "related_tags": [
-      "一物+鞘"
-    ]
-  },
-  {
     "tag_name": "Blindfold",
     "related_tags": [
       "目隠し"
@@ -46006,12 +45726,6 @@ return [
     ]
   },
   {
-    "tag_name": "armpit sex",
-    "related_tags": [
-      "腋コキ"
-    ]
-  },
-  {
     "tag_name": "grinding",
     "related_tags": [
       "股コキ"
@@ -46031,12 +45745,6 @@ return [
     "tag_name": "cooperative grinding",
     "related_tags": [
       "共同組合+研ぎ"
-    ]
-  },
-  {
-    "tag_name": "kneepit sex",
-    "related_tags": [
-      "膝裏コキ"
     ]
   },
   {
@@ -46109,12 +45817,6 @@ return [
     "tag_name": "straddling paizuri",
     "related_tags": [
       "馬乗りパイズリ"
-    ]
-  },
-  {
-    "tag_name": "thigh sex",
-    "related_tags": [
-      "素股"
     ]
   },
   {
@@ -46244,30 +45946,6 @@ return [
     ]
   },
   {
-    "tag_name": "building sex",
-    "related_tags": [
-      "建物ファック"
-    ]
-  },
-  {
-    "tag_name": "pillow sex",
-    "related_tags": [
-      "枕+営み"
-    ]
-  },
-  {
-    "tag_name": "teddy bear sex",
-    "related_tags": [
-      "teddy+熊羆+営み"
-    ]
-  },
-  {
-    "tag_name": "table sex",
-    "related_tags": [
-      "角オナ"
-    ]
-  },
-  {
     "tag_name": "female masturbation",
     "related_tags": [
       "手マンオナニー"
@@ -46362,12 +46040,6 @@ return [
     ]
   },
   {
-    "tag_name": "cum swap",
-    "related_tags": [
-      "愛液+取り替え"
-    ]
-  },
-  {
     "tag_name": "deepthroat",
     "related_tags": [
       "イラマチオ"
@@ -46419,12 +46091,6 @@ return [
     "tag_name": "testicle sucking",
     "related_tags": [
       "玉吸い"
-    ]
-  },
-  {
-    "tag_name": "group sex",
-    "related_tags": [
-      "4P"
     ]
   },
   {
@@ -46660,12 +46326,6 @@ return [
     ]
   },
   {
-    "tag_name": "after sex",
-    "related_tags": [
-      "事後"
-    ]
-  },
-  {
     "tag_name": "after anal",
     "related_tags": [
       "以後+アナル"
@@ -46744,12 +46404,6 @@ return [
     ]
   },
   {
-    "tag_name": "clothed after sex",
-    "related_tags": [
-      "巾+以後+営み"
-    ]
-  },
-  {
     "tag_name": "anal",
     "related_tags": [
       "アナル"
@@ -46780,21 +46434,9 @@ return [
     ]
   },
   {
-    "tag_name": "clothed sex",
-    "related_tags": [
-      "着衣セックス"
-    ]
-  },
-  {
     "tag_name": "guided penetration",
     "related_tags": [
       "グラフィカル・ユーザ・インタフェース+観入"
-    ]
-  },
-  {
-    "tag_name": "happy sex",
-    "related_tags": [
-      "愛のあるセックス"
     ]
   },
   {
@@ -46804,51 +46446,9 @@ return [
     ]
   },
   {
-    "tag_name": "implied sex",
-    "related_tags": [
-      "これ絶対入ってるよね"
-    ]
-  },
-  {
-    "tag_name": "navel sex",
-    "related_tags": [
-      "臍+営み"
-    ]
-  },
-  {
-    "tag_name": "sex from behind",
-    "related_tags": [
-      "営み+からして+後"
-    ]
-  },
-  {
     "tag_name": "skull fucking",
     "related_tags": [
       "脳姦"
-    ]
-  },
-  {
-    "tag_name": "ear sex",
-    "related_tags": [
-      "耳姦"
-    ]
-  },
-  {
-    "tag_name": "penis in eye",
-    "related_tags": [
-      "眼孔姦"
-    ]
-  },
-  {
-    "tag_name": "tentacle sex",
-    "related_tags": [
-      "触手+営み"
-    ]
-  },
-  {
-    "tag_name": "underwater sex",
-    "related_tags": [
-      "水中+営み"
     ]
   },
   {
@@ -46889,12 +46489,6 @@ return [
   },
   {
     "tag_name": "bulges touching",
-    "related_tags": [
-      "兜合わせ"
-    ]
-  },
-  {
-    "tag_name": "penises touching",
     "related_tags": [
       "兜合わせ"
     ]
@@ -47218,177 +46812,9 @@ return [
     ]
   },
   {
-    "tag_name": "cum",
-    "related_tags": [
-      "精液"
-    ]
-  },
-  {
     "tag_name": "bukkake",
     "related_tags": [
       "ぶっかけ"
-    ]
-  },
-  {
-    "tag_name": "cumdump",
-    "related_tags": [
-      "肉便器"
-    ]
-  },
-  {
-    "tag_name": "cum bath",
-    "related_tags": [
-      "精液風呂"
-    ]
-  },
-  {
-    "tag_name": "cumdrip",
-    "related_tags": [
-      "溢れ精液"
-    ]
-  },
-  {
-    "tag_name": "cum pool",
-    "related_tags": [
-      "愛液+球撞き"
-    ]
-  },
-  {
-    "tag_name": "cum inflation",
-    "related_tags": [
-      "精液ボテ"
-    ]
-  },
-  {
-    "tag_name": "cum in ass",
-    "related_tags": [
-      "アナル中出し"
-    ]
-  },
-  {
-    "tag_name": "cum in clothes",
-    "related_tags": [
-      "愛液+in+衣服"
-    ]
-  },
-  {
-    "tag_name": "cum in cup",
-    "related_tags": [
-      "ザーメンジョッキ"
-    ]
-  },
-  {
-    "tag_name": "cum in mouth",
-    "related_tags": [
-      "口内射精"
-    ]
-  },
-  {
-    "tag_name": "cum in throat",
-    "related_tags": [
-      "愛液+in+咽"
-    ]
-  },
-  {
-    "tag_name": "cum on tongue",
-    "related_tags": [
-      "舌射"
-    ]
-  },
-  {
-    "tag_name": "cum in urethra",
-    "related_tags": [
-      "愛液+in+尿道"
-    ]
-  },
-  {
-    "tag_name": "cum on body",
-    "related_tags": [
-      "愛液+on+遺骸"
-    ]
-  },
-  {
-    "tag_name": "cum on armpits",
-    "related_tags": [
-      "愛液+on+脇"
-    ]
-  },
-  {
-    "tag_name": "cum on ass",
-    "related_tags": [
-      "愛液+on+太もも"
-    ]
-  },
-  {
-    "tag_name": "cum on back",
-    "related_tags": [
-      "愛液+on+蔭"
-    ]
-  },
-  {
-    "tag_name": "cum on breasts",
-    "related_tags": [
-      "愛液+on+胸"
-    ]
-  },
-  {
-    "tag_name": "cum on chest",
-    "related_tags": [
-      "愛液+on+胸"
-    ]
-  },
-  {
-    "tag_name": "cum on feet",
-    "related_tags": [
-      "足射"
-    ]
-  },
-  {
-    "tag_name": "cum on fingers",
-    "related_tags": [
-      "愛液+on+手先"
-    ]
-  },
-  {
-    "tag_name": "cum on hair",
-    "related_tags": [
-      "髪射"
-    ]
-  },
-  {
-    "tag_name": "cum on pectorals",
-    "related_tags": [
-      "愛液+on+pectorals"
-    ]
-  },
-  {
-    "tag_name": "cum on stomach",
-    "related_tags": [
-      "愛液+on+胃"
-    ]
-  },
-  {
-    "tag_name": "cum in navel",
-    "related_tags": [
-      "愛液+in+臍"
-    ]
-  },
-  {
-    "tag_name": "cum on clothes",
-    "related_tags": [
-      "愛液+on+衣服"
-    ]
-  },
-  {
-    "tag_name": "cum on eyewear",
-    "related_tags": [
-      "眼鏡はかけるもの"
-    ]
-  },
-  {
-    "tag_name": "cum on food",
-    "related_tags": [
-      "愛液+on+喰いもの"
     ]
   },
   {
@@ -47459,12 +46885,6 @@ return [
     "tag_name": "public vibrator",
     "related_tags": [
       "顕+振動子"
-    ]
-  },
-  {
-    "tag_name": "stealth sex",
-    "related_tags": [
-      "隠姦"
     ]
   },
   {
@@ -47753,12 +47173,6 @@ return [
     "tag_name": "condom",
     "related_tags": [
       "コンドーム"
-    ]
-  },
-  {
-    "tag_name": "used condom on penis",
-    "related_tags": [
-      "ゴム射"
     ]
   },
   {
@@ -54277,18 +53691,6 @@ return [
     "tag_name": "cooperative naizuri",
     "related_tags": [
       "共同組合+naizuri"
-    ]
-  },
-  {
-    "tag_name": "penis to breast",
-    "related_tags": [
-      "乳首ズリ"
-    ]
-  },
-  {
-    "tag_name": "penis under breasts",
-    "related_tags": [
-      "一物+下+胸"
     ]
   },
   {
@@ -65182,12 +64584,6 @@ return [
     ]
   },
   {
-    "tag_name": "Pussy piercing",
-    "related_tags": [
-      "おまんこ+貫通"
-    ]
-  },
-  {
     "tag_name": "Labia piercing",
     "related_tags": [
       "陰唇+貫通"
@@ -65197,18 +64593,6 @@ return [
     "tag_name": "Fourchette piercing",
     "related_tags": [
       "蹄叉+貫通"
-    ]
-  },
-  {
-    "tag_name": "Pussy jewelry",
-    "related_tags": [
-      "おまんこ+宝飾"
-    ]
-  },
-  {
-    "tag_name": "Penis piercing",
-    "related_tags": [
-      "一物+貫通"
     ]
   },
   {
@@ -75074,12 +74458,6 @@ return [
     ]
   },
   {
-    "tag_name": "sexually suggestive",
-    "related_tags": [
-      "謎のエロス"
-    ]
-  },
-  {
     "tag_name": "Artist name",
     "related_tags": [
       "画家+宛て名"
@@ -77094,18 +76472,6 @@ return [
     ]
   },
   {
-    "tag_name": "sex machine",
-    "related_tags": [
-      "機械姦"
-    ]
-  },
-  {
-    "tag_name": "sex toy",
-    "related_tags": [
-      "性玩具"
-    ]
-  },
-  {
     "tag_name": "catheter",
     "related_tags": [
       "カテーテル"
@@ -77215,12 +76581,6 @@ return [
     "tag_name": "vibrator in anus",
     "related_tags": [
       "振動子+in+菊座"
-    ]
-  },
-  {
-    "tag_name": "vibrator on penis",
-    "related_tags": [
-      "振動子+on+一物"
     ]
   },
   {
@@ -77335,12 +76695,6 @@ return [
     "tag_name": "leash",
     "related_tags": [
       "革ひも"
-    ]
-  },
-  {
-    "tag_name": "leash on penis",
-    "related_tags": [
-      "革ひも+on+一物"
     ]
   },
   {

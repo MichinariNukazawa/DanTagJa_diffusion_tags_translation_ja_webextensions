@@ -6,18 +6,6 @@ import re
 args = sys.argv
 
 
-# 「廃止されたタグ」は収集しない
-def is_enable_page_by_tag_descriptions(tag_descriptions):
-    for txt in tag_descriptions:
-        if 'Ambiguous tag.' in txt:
-            return False
-        if 'This tag is deprecated' in txt:
-            return False
-    return True
-#if not is_enable_page_by_tag_descriptions(tag_info['tag_descriptions']):
-#    print(f"<deprecated tag `{true_tag_name}`>", flush=True)
-
-
 def dictionary_normalizing_key(tag):
     return re.sub(r'[_-]', ' ', tag.lower())
 
@@ -175,12 +163,21 @@ def process_tag_infos(tags_dir):
             for tag in tags:
                 #print(tag)
 
-                #
-                if tag["tag_name"].lower().startswith('tag group'):
-                    continue
+                def is_blacklist_tag_name(tagname):
+                    tagname = tagname.lower()
+                    if tagname.startswith('tag group'):
+                        return True
+                    # ex. "List of style parodies",
+                    if tagname.startswith('list of '):
+                        return True
+                    # for chrome web store
+                    blacklist_of_sexy = ['sex', 'cum', 'pussy', 'penis']
+                    for k in blacklist_of_sexy:
+                        if tagname.startswith(k) or tagname.endswith(k):
+                            return True
+                    return tagname in blacklist_of_sexy
 
-                # ex. "List of style parodies",
-                if tag["tag_name"].lower().startswith('list of '):
+                if is_blacklist_tag_name(tag["tag_name"]):
                     continue
 
                 if 0 == len(tag['tag_descriptions']):
