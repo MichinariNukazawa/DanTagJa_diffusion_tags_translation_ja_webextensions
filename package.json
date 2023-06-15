@@ -13,6 +13,8 @@
     "release-firefox": "node scripts/archive.js dist.firefox/ dantagja_webextensions_firefox.zip",
     "archive-src": "git archive HEAD --output=dantagja_webextensions_src.zip",
     "release": "node scripts/build.js && npm run release-chrome && npm run release-firefox && npm run archive-src",
+    "start:firefox": "TMPDIR=tmp/ web-ext run --source-dir dist.firefox/ --arg=\"--new-tab=about:debugging#/runtime/this-firefox\" --arg=\"--new-tab=https://danbooru.donmai.us/posts/4930919\"",
+    "start:chromium": "chromium --temp-profile --load-extension=dist.chrome/ https://danbooru.donmai.us/posts/4930919",
     "test": "echo 'not implement.'"
   },
   "jest": {
@@ -35,5 +37,8 @@
     "chokidar": "^3.5.3",
     "esmify": "^2.1.1",
     "fs-extra": "^11.1.1"
+  },
+  "dependencies": {
+    "web-ext": "^7.6.2"
   }
 }
